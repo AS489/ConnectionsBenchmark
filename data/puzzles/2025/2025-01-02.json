@@ -1,0 +1,47 @@
+{
+  "id": 571,
+  "date": "2025-01-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PERCEIVE",
+      "level": 0,
+      "members": [
+        "CATCH",
+        "CLOCK",
+        "NOTICE",
+        "REGISTER"
+      ]
+    },
+    {
+      "name": "CADENCE",
+      "level": 1,
+      "members": [
+        "BEAT",
+        "METER",
+        "RHYTHM",
+        "TIME"
+      ]
+    },
+    {
+      "name": "ONE IN A GROUP OF TWELVE",
+      "level": 2,
+      "members": [
+        "DONUT",
+        "INCH",
+        "JUROR",
+        "MONTH"
+      ]
+    },
+    {
+      "name": "DOG ___",
+      "level": 3,
+      "members": [
+        "DAYS",
+        "PADDLE",
+        "TAG",
+        "TIRED"
+      ]
+    }
+  ]
+}

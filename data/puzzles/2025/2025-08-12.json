@@ -1,0 +1,47 @@
+{
+  "id": 793,
+  "date": "2025-08-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GROUPS OF TEN",
+      "level": 0,
+      "members": [
+        "BOWLING PINS",
+        "COMMANDMENTS",
+        "DECADE",
+        "FINGERS"
+      ]
+    },
+    {
+      "name": "PLACES WITH LANES",
+      "level": 1,
+      "members": [
+        "BOWLING ALLEY",
+        "HIGHWAY",
+        "SUPERMARKET",
+        "SWIMMING POOL"
+      ]
+    },
+    {
+      "name": "LANDMARKS IN DOWNTOWN NYC",
+      "level": 2,
+      "members": [
+        "BOWLING GREEN",
+        "BROOKLYN BRIDGE",
+        "CITY HALL",
+        "WALL STREET"
+      ]
+    },
+    {
+      "name": "THINGS WITH HOLES",
+      "level": 3,
+      "members": [
+        "BOWLING BALL",
+        "COLANDER",
+        "GOLF COURSE",
+        "SPONGE"
+      ]
+    }
+  ]
+}

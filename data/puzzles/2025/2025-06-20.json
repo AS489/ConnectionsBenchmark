@@ -1,0 +1,47 @@
+{
+  "id": 740,
+  "date": "2025-06-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ITEMS IN A SEWING KIT",
+      "level": 0,
+      "members": [
+        "BUTTON",
+        "NEEDLE",
+        "SCISSORS",
+        "THREAD"
+      ]
+    },
+    {
+      "name": "CAPTURE ON VIDEO",
+      "level": 1,
+      "members": [
+        "FILM",
+        "RECORD",
+        "SHOOT",
+        "TAPE"
+      ]
+    },
+    {
+      "name": "PRO WRESTLING ICONS, WITH “THE”",
+      "level": 2,
+      "members": [
+        "HITMAN",
+        "ROCK",
+        "SNAKE",
+        "UNDERTAKER"
+      ]
+    },
+    {
+      "name": "WAX ___",
+      "level": 3,
+      "members": [
+        "MUSEUM",
+        "PAPER",
+        "POETIC",
+        "SEAL"
+      ]
+    }
+  ]
+}

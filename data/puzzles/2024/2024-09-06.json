@@ -1,0 +1,47 @@
+{
+  "id": 453,
+  "date": "2024-09-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "QUANTITY",
+      "level": 0,
+      "members": [
+        "AMOUNT",
+        "COUNT",
+        "NUMBER",
+        "TOTAL"
+      ]
+    },
+    {
+      "name": "INCIDENT",
+      "level": 1,
+      "members": [
+        "AFFAIR",
+        "EPISODE",
+        "EVENT",
+        "MATTER"
+      ]
+    },
+    {
+      "name": "THINGS RECEIVED IN THE MAIL",
+      "level": 2,
+      "members": [
+        "BILL",
+        "CARD",
+        "CATALOG",
+        "LETTER"
+      ]
+    },
+    {
+      "name": "WHAT “SPRING” MIGHT REFER TO",
+      "level": 3,
+      "members": [
+        "BOUNCE",
+        "COIL",
+        "GEYSER",
+        "SEASON"
+      ]
+    }
+  ]
+}

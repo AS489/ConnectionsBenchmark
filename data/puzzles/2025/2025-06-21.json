@@ -1,0 +1,47 @@
+{
+  "id": 741,
+  "date": "2025-06-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STOCKY",
+      "level": 0,
+      "members": [
+        "SOLID",
+        "SQUAT",
+        "STOUT",
+        "THICK"
+      ]
+    },
+    {
+      "name": "COMPANY",
+      "level": 1,
+      "members": [
+        "CONCERN",
+        "FIRM",
+        "HOUSE",
+        "OUTFIT"
+      ]
+    },
+    {
+      "name": "APPLE PRODUCTS",
+      "level": 2,
+      "members": [
+        "BRANDY",
+        "BUTTER",
+        "CIDER",
+        "SAUCE"
+      ]
+    },
+    {
+      "name": "STARTS OF EUROPEAN COUNTRIES",
+      "level": 3,
+      "members": [
+        "GERM",
+        "LUXE",
+        "MALT",
+        "PORT"
+      ]
+    }
+  ]
+}

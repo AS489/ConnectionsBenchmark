@@ -1,0 +1,47 @@
+{
+  "id": 493,
+  "date": "2024-10-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AT SOME FUTURE POINT",
+      "level": 0,
+      "members": [
+        "EVENTUALLY",
+        "LATER",
+        "NEXT",
+        "SOON"
+      ]
+    },
+    {
+      "name": "PARTS OF A TOURNAMENT SETUP",
+      "level": 1,
+      "members": [
+        "BRACKET",
+        "BYE",
+        "ROUND",
+        "SEED"
+      ]
+    },
+    {
+      "name": "BIT OF BREAKFAST CEREAL",
+      "level": 2,
+      "members": [
+        "CHEERIO",
+        "FLAKE",
+        "PEBBLE",
+        "PUFF"
+      ]
+    },
+    {
+      "name": "WHAT THE OUTSTRETCHED INDEX AND MIDDLE FINGERS CAN REPRESENT",
+      "level": 3,
+      "members": [
+        "PEACE",
+        "SCISSORS",
+        "TWO",
+        "VICTORY"
+      ]
+    }
+  ]
+}

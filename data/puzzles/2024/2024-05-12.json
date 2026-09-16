@@ -1,0 +1,47 @@
+{
+  "id": 336,
+  "date": "2024-05-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLAYFULLY POKE FUN AT",
+      "level": 0,
+      "members": [
+        "KID",
+        "NEEDLE",
+        "RIB",
+        "TEASE"
+      ]
+    },
+    {
+      "name": "CUTS OF BEEF",
+      "level": 1,
+      "members": [
+        "CHUCK",
+        "FLANK",
+        "LOIN",
+        "ROUND"
+      ]
+    },
+    {
+      "name": "ACRONYMS",
+      "level": 2,
+      "members": [
+        "MIA",
+        "OMG",
+        "PIN",
+        "RAM"
+      ]
+    },
+    {
+      "name": "COCKTAILS MINUS PLACE NAMES",
+      "level": 3,
+      "members": [
+        "LIBRE",
+        "MAMA",
+        "MULE",
+        "SLING"
+      ]
+    }
+  ]
+}

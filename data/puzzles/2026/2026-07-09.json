@@ -1,0 +1,47 @@
+{
+  "id": 1119,
+  "date": "2026-07-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NON-ALCOHOLIC DESIGNATORS",
+      "level": null,
+      "members": [
+        "NA",
+        "SPIRIT-FREE",
+        "VIRGIN",
+        "ZERO-PROOF"
+      ]
+    },
+    {
+      "name": "MUSIC PUBLICATIONS",
+      "level": null,
+      "members": [
+        "BILLBOARD",
+        "PITCHFORK",
+        "ROLLING STONE",
+        "SPIN"
+      ]
+    },
+    {
+      "name": "KINDS OF RUGS",
+      "level": null,
+      "members": [
+        "PERSIAN",
+        "PRAYER",
+        "SHAG",
+        "THROW"
+      ]
+    },
+    {
+      "name": "PONTIAC MODELS",
+      "level": null,
+      "members": [
+        "FIREBIRD",
+        "G6",
+        "GRAND PRIX",
+        "TRANS AM"
+      ]
+    }
+  ]
+}

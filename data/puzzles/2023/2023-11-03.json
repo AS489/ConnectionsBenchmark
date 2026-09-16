@@ -1,0 +1,47 @@
+{
+  "id": 145,
+  "date": "2023-11-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NEVERTHELESS",
+      "level": 0,
+      "members": [
+        "HOWEVER",
+        "STILL",
+        "THOUGH",
+        "YET"
+      ]
+    },
+    {
+      "name": "REPEATED WORDS IN EXPRESSIONS",
+      "level": 1,
+      "members": [
+        "HEAR",
+        "KNOCK",
+        "THERE",
+        "TUT"
+      ]
+    },
+    {
+      "name": "WORDS ABBREVIATED WITH LETTERS",
+      "level": 2,
+      "members": [
+        "ARE",
+        "SEE",
+        "WHY",
+        "YOU"
+      ]
+    },
+    {
+      "name": "ROYAL ___",
+      "level": 3,
+      "members": [
+        "FAMILY",
+        "FLUSH",
+        "JELLY",
+        "WE"
+      ]
+    }
+  ]
+}

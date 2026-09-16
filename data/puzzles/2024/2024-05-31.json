@@ -1,0 +1,47 @@
+{
+  "id": 355,
+  "date": "2024-05-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CORPUS",
+      "level": 0,
+      "members": [
+        "BODY",
+        "CANON",
+        "OEUVRE",
+        "WORKS"
+      ]
+    },
+    {
+      "name": "MOUNT ___",
+      "level": 1,
+      "members": [
+        "FUJI",
+        "HOOD",
+        "OLYMPUS",
+        "WHITNEY"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF AN LP",
+      "level": 2,
+      "members": [
+        "INSERT",
+        "JACKET",
+        "RECORD",
+        "SLEEVE"
+      ]
+    },
+    {
+      "name": "THINGS PEOPLE SHAKE",
+      "level": 3,
+      "members": [
+        "HANDS",
+        "MARACA",
+        "POLAROID",
+        "SNOWGLOBE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 908,
+  "date": "2025-12-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NORM",
+      "level": null,
+      "members": [
+        "AVERAGE",
+        "MEAN",
+        "PAR",
+        "STANDARD"
+      ]
+    },
+    {
+      "name": "MOLLIFY",
+      "level": null,
+      "members": [
+        "COOL",
+        "MODERATE",
+        "SETTLE",
+        "TEMPER"
+      ]
+    },
+    {
+      "name": "MEMBER OF A TITULAR GROUP IN AN ANIMATION FRANCHISE",
+      "level": null,
+      "members": [
+        "CAR",
+        "INCREDIBLE",
+        "MINION",
+        "MONSTER"
+      ]
+    },
+    {
+      "name": "STARTING WITH HERPETOFAUNA",
+      "level": null,
+      "members": [
+        "ADDERALL",
+        "MONITORSHIP",
+        "NEWTON",
+        "TOADY"
+      ]
+    }
+  ]
+}

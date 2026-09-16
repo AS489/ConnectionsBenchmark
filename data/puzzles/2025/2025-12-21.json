@@ -1,0 +1,47 @@
+{
+  "id": 923,
+  "date": "2025-12-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FEATURES OF A TEAPOT",
+      "level": null,
+      "members": [
+        "HANDLE",
+        "LID",
+        "SPOUT",
+        "STRAINER"
+      ]
+    },
+    {
+      "name": "LIBRARY SECTIONS",
+      "level": null,
+      "members": [
+        "CIRCULATION",
+        "PERIODICALS",
+        "REFERENCE",
+        "STACKS"
+      ]
+    },
+    {
+      "name": "ARISE",
+      "level": null,
+      "members": [
+        "EMERGE",
+        "FLOW",
+        "ISSUE",
+        "RESULT"
+      ]
+    },
+    {
+      "name": "___DROP",
+      "level": null,
+      "members": [
+        "AIR",
+        "EAVES",
+        "GUM",
+        "RAIN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 325,
+  "date": "2024-05-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FEATURES ON A PAIR OF JEANS",
+      "level": 0,
+      "members": [
+        "BUTTON",
+        "FLY",
+        "POCKET",
+        "RIVET"
+      ]
+    },
+    {
+      "name": "OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE",
+      "level": 1,
+      "members": [
+        "LINE",
+        "PLANE",
+        "POINT",
+        "SOLID"
+      ]
+    },
+    {
+      "name": "WEB BROWSER MENUS",
+      "level": 2,
+      "members": [
+        "FILE",
+        "HISTORY",
+        "VIEW",
+        "WINDOW"
+      ]
+    },
+    {
+      "name": "MEMBER OF A ’60S BAND",
+      "level": 3,
+      "members": [
+        "ANIMAL",
+        "DOOR",
+        "KINK",
+        "SUPREME"
+      ]
+    }
+  ]
+}

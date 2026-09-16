@@ -1,0 +1,47 @@
+{
+  "id": 121,
+  "date": "2023-10-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ORIGIN",
+      "level": 0,
+      "members": [
+        "GENESIS",
+        "GERM",
+        "SEED",
+        "SOURCE"
+      ]
+    },
+    {
+      "name": "BIBLE BOOKS",
+      "level": 1,
+      "members": [
+        "ACTS",
+        "JOB",
+        "KINGS",
+        "MARK"
+      ]
+    },
+    {
+      "name": "N.H.L. TEAMS",
+      "level": 2,
+      "members": [
+        "FLAMES",
+        "KRAKEN",
+        "STARS",
+        "WILD"
+      ]
+    },
+    {
+      "name": "POWER ___",
+      "level": 3,
+      "members": [
+        "NAP",
+        "PLANT",
+        "RANGER",
+        "TRIP"
+      ]
+    }
+  ]
+}

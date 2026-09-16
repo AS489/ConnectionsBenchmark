@@ -1,0 +1,47 @@
+{
+  "id": 1052,
+  "date": "2026-05-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CLAIRVOYANT",
+      "level": null,
+      "members": [
+        "EXTRASENSORY",
+        "MENTAL",
+        "PSYCHIC",
+        "TELEPATHIC"
+      ]
+    },
+    {
+      "name": "STAGED PERFORMANCES",
+      "level": null,
+      "members": [
+        "BALLET",
+        "MUSICAL",
+        "OPERA",
+        "PLAY"
+      ]
+    },
+    {
+      "name": "U.S. CABINET DEPARTMENTS",
+      "level": null,
+      "members": [
+        "EDUCATION",
+        "INTERIOR",
+        "STATE",
+        "TREASURY"
+      ]
+    },
+    {
+      "name": "STARTING WITH NEWSPAPER NAMES",
+      "level": null,
+      "members": [
+        "GLOBETROTTER",
+        "HERALDRY",
+        "POST-IT",
+        "TIMES TABLES"
+      ]
+    }
+  ]
+}

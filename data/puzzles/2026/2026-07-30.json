@@ -1,0 +1,47 @@
+{
+  "id": 1140,
+  "date": "2026-07-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VIRTUOUS",
+      "level": null,
+      "members": [
+        "FAIR",
+        "GOOD",
+        "JUST",
+        "RIGHT"
+      ]
+    },
+    {
+      "name": "ACTIVITIES WITH MULTIPLE BALLS",
+      "level": null,
+      "members": [
+        "BEER PONG",
+        "BINGO",
+        "JUGGLING",
+        "POOL"
+      ]
+    },
+    {
+      "name": "CRUISE LINES",
+      "level": null,
+      "members": [
+        "CARNIVAL",
+        "CELEBRITY",
+        "PRINCESS",
+        "VIKING"
+      ]
+    },
+    {
+      "name": "ON THE ___, TO MEAN \"PRECISE\"",
+      "level": null,
+      "members": [
+        "DOT",
+        "MARK",
+        "MONEY",
+        "NOSE"
+      ]
+    }
+  ]
+}

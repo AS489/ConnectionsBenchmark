@@ -1,0 +1,47 @@
+{
+  "id": 1158,
+  "date": "2026-08-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VIDEO CALL PLATFORMS",
+      "level": null,
+      "members": [
+        "HUDDLE",
+        "MEET",
+        "TEAMS",
+        "ZOOM"
+      ]
+    },
+    {
+      "name": "SPREADSHEET FEATURES",
+      "level": null,
+      "members": [
+        "FORMULA",
+        "FUNCTION",
+        "MACRO",
+        "SCRIPT"
+      ]
+    },
+    {
+      "name": "FIRST NAMES OF COUNTRY MUSIC LEGENDS",
+      "level": null,
+      "members": [
+        "DOLLY",
+        "JOHNNY",
+        "PATSY",
+        "WILLIE"
+      ]
+    },
+    {
+      "name": "STARTING WITH PETS",
+      "level": null,
+      "members": [
+        "BIRDIE",
+        "CATTLE",
+        "DOGIE",
+        "FISHEYE"
+      ]
+    }
+  ]
+}

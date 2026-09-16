@@ -1,0 +1,47 @@
+{
+  "id": 845,
+  "date": "2025-10-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BOUNDARY",
+      "level": null,
+      "members": [
+        "BORDER",
+        "EDGE",
+        "EXTREMITY",
+        "LIMIT"
+      ]
+    },
+    {
+      "name": "THEY MOVE IN A SPIRAL",
+      "level": null,
+      "members": [
+        "EDDY",
+        "FOOTBALL",
+        "TASMANIAN DEVIL",
+        "TORNADO"
+      ]
+    },
+    {
+      "name": "SONGS FROM MUSICALS",
+      "level": null,
+      "members": [
+        "CABARET",
+        "EDELWEISS",
+        "MAMMA MIA",
+        "MEMORY"
+      ]
+    },
+    {
+      "name": "WHAT \"ED\" MIGHT INDICATE",
+      "level": null,
+      "members": [
+        "EDITOR",
+        "EDUCATION",
+        "EDWARD",
+        "PAST TENSE"
+      ]
+    }
+  ]
+}

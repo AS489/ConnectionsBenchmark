@@ -1,0 +1,47 @@
+{
+  "id": 561,
+  "date": "2024-12-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HOMOPHONES",
+      "level": 0,
+      "members": [
+        "EWE",
+        "U",
+        "YEW",
+        "YOU"
+      ]
+    },
+    {
+      "name": "NECKLINES",
+      "level": 1,
+      "members": [
+        "BOAT",
+        "CREW",
+        "SCOOP",
+        "V"
+      ]
+    },
+    {
+      "name": "WAYS TO EXPRESS 1,000",
+      "level": 2,
+      "members": [
+        "GRAND",
+        "K",
+        "M",
+        "THOU"
+      ]
+    },
+    {
+      "name": "SUPER ___",
+      "level": 3,
+      "members": [
+        "8",
+        "BOWL",
+        "GLUE",
+        "TUESDAY"
+      ]
+    }
+  ]
+}

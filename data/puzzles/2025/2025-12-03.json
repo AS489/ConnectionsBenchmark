@@ -1,0 +1,47 @@
+{
+  "id": 905,
+  "date": "2025-12-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF JEWELRY",
+      "level": null,
+      "members": [
+        "BANGLE",
+        "CHAIN",
+        "CHARM",
+        "RING"
+      ]
+    },
+    {
+      "name": "SOCIAL GATHERING",
+      "level": null,
+      "members": [
+        "EVENT",
+        "FUNCTION",
+        "PARTY",
+        "RECEPTION"
+      ]
+    },
+    {
+      "name": "PETITION (FOR)",
+      "level": null,
+      "members": [
+        "APPEAL",
+        "CAMPAIGN",
+        "LOBBY",
+        "PRESS"
+      ]
+    },
+    {
+      "name": "\"___ MAN\" SONGS FROM THE '70S",
+      "level": null,
+      "members": [
+        "IRON",
+        "MACHO",
+        "PIANO",
+        "ROCKET"
+      ]
+    }
+  ]
+}

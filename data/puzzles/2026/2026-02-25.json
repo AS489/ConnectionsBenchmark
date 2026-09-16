@@ -1,0 +1,47 @@
+{
+  "id": 988,
+  "date": "2026-02-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CARE FOR",
+      "level": null,
+      "members": [
+        "BABY",
+        "FOSTER",
+        "MOTHER",
+        "NURSE"
+      ]
+    },
+    {
+      "name": "ELEMENTARY",
+      "level": null,
+      "members": [
+        "BASIC",
+        "KEY",
+        "PRIMARY",
+        "PRINCIPAL"
+      ]
+    },
+    {
+      "name": "JAMESES",
+      "level": null,
+      "members": [
+        "BROWN",
+        "COOK",
+        "DEAN",
+        "HARDEN"
+      ]
+    },
+    {
+      "name": "ENDING IN FAMILY WORDS",
+      "level": null,
+      "members": [
+        "ALKALINE",
+        "DECLAN",
+        "DIATRIBE",
+        "NAPKIN"
+      ]
+    }
+  ]
+}

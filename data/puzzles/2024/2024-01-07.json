@@ -1,0 +1,47 @@
+{
+  "id": 210,
+  "date": "2024-01-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TECH COMPANIES",
+      "level": 0,
+      "members": [
+        "ALPHABET",
+        "AMAZON",
+        "APPLE",
+        "META"
+      ]
+    },
+    {
+      "name": "KINDS OF EXAMS",
+      "level": 1,
+      "members": [
+        "BAR",
+        "FINAL",
+        "ORAL",
+        "PHYSICAL"
+      ]
+    },
+    {
+      "name": "SOMETHING EXEMPLARY",
+      "level": 2,
+      "members": [
+        "BEAUTY",
+        "GEM",
+        "MARVEL",
+        "PEACH"
+      ]
+    },
+    {
+      "name": "___ TOOTH",
+      "level": 3,
+      "members": [
+        "BABY",
+        "EYE",
+        "SWEET",
+        "WISDOM"
+      ]
+    }
+  ]
+}

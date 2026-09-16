@@ -1,0 +1,1 @@
+{"reasoning": "instruct", "guess": "COACH, DIRECT, GUIDE, TRAIN"}

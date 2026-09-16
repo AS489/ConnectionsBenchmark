@@ -1,0 +1,47 @@
+{
+  "id": 162,
+  "date": "2023-11-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RELIGIOUS FIGURES",
+      "level": 0,
+      "members": [
+        "CARDINAL",
+        "LAMA",
+        "MONK",
+        "PASTOR"
+      ]
+    },
+    {
+      "name": "PRIMATES",
+      "level": 1,
+      "members": [
+        "BABOON",
+        "BONOBO",
+        "GIBBON",
+        "GORILLA"
+      ]
+    },
+    {
+      "name": "CHUTNEY VARIETIES",
+      "level": 2,
+      "members": [
+        "MANGO",
+        "MINT",
+        "TAMARIND",
+        "TOMATO"
+      ]
+    },
+    {
+      "name": "IMITATE",
+      "level": 3,
+      "members": [
+        "APE",
+        "MIME",
+        "MIRROR",
+        "PARROT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1077,
+  "date": "2026-05-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GET LOW",
+      "level": null,
+      "members": [
+        "DUCK",
+        "HUNCH",
+        "SQUAT",
+        "STOOP"
+      ]
+    },
+    {
+      "name": "FOURTH ESTATE",
+      "level": null,
+      "members": [
+        "MEDIA",
+        "NEWS",
+        "PAPERS",
+        "PRESS"
+      ]
+    },
+    {
+      "name": "PARTS OF A COURTROOM",
+      "level": null,
+      "members": [
+        "BAR",
+        "BENCH",
+        "PODIUM",
+        "STAND"
+      ]
+    },
+    {
+      "name": "SKI ___",
+      "level": null,
+      "members": [
+        "JUMP",
+        "LIFT",
+        "LODGE",
+        "SLOPE"
+      ]
+    }
+  ]
+}

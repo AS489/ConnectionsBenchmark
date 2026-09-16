@@ -1,0 +1,47 @@
+{
+  "id": 708,
+  "date": "2025-05-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FUNDRAISING EVENT",
+      "level": 0,
+      "members": [
+        "BALL",
+        "BENEFIT",
+        "GALA",
+        "FUNCTION"
+      ]
+    },
+    {
+      "name": "SPACES ON A MONOPOLY BOARD",
+      "level": 1,
+      "members": [
+        "AVENUE",
+        "CHANCE",
+        "RAILROAD",
+        "UTILITY"
+      ]
+    },
+    {
+      "name": "FEATURES OF A TOOTHED WHALE",
+      "level": 2,
+      "members": [
+        "BLUBBER",
+        "FLIPPER",
+        "FLUKE",
+        "MELON"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF PARTS OF THE FOOT",
+      "level": 3,
+      "members": [
+        "BAWL",
+        "HEAL",
+        "SOUL",
+        "TOW"
+      ]
+    }
+  ]
+}

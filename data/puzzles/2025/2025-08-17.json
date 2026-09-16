@@ -1,0 +1,47 @@
+{
+  "id": 798,
+  "date": "2025-08-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONVENIENTLY LOCATED",
+      "level": 0,
+      "members": [
+        "ACCESSIBLE",
+        "CLOSE",
+        "HANDY",
+        "NEARBY"
+      ]
+    },
+    {
+      "name": "NEEDS FOR SENDING A LETTER",
+      "level": 1,
+      "members": [
+        "ADDRESS",
+        "ENVELOPE",
+        "NAME",
+        "STAMP"
+      ]
+    },
+    {
+      "name": "WORDS ON A DOOR",
+      "level": 2,
+      "members": [
+        "EXIT",
+        "OPEN",
+        "PUSH",
+        "WELCOME"
+      ]
+    },
+    {
+      "name": "FIRST AMENDMENT FREEDOMS",
+      "level": 3,
+      "members": [
+        "ASSEMBLY",
+        "PETITION",
+        "PRESS",
+        "SPEECH"
+      ]
+    }
+  ]
+}

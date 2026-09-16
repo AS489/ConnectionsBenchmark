@@ -1,0 +1,47 @@
+{
+  "id": 1043,
+  "date": "2026-04-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BORDER",
+      "level": null,
+      "members": [
+        "FLANK",
+        "NEIGHBOR",
+        "SKIRT",
+        "TOUCH"
+      ]
+    },
+    {
+      "name": "KINDS OF FICTION",
+      "level": null,
+      "members": [
+        "HISTORICAL",
+        "LITERARY",
+        "PULP",
+        "SCIENCE"
+      ]
+    },
+    {
+      "name": "WORDS IN A PLANETARY MNEMONIC",
+      "level": null,
+      "members": [
+        "EDUCATED",
+        "MOTHER",
+        "MY",
+        "VERY"
+      ]
+    },
+    {
+      "name": "STARTING WITH FOUR-LETTER '80S BANDS",
+      "level": null,
+      "members": [
+        "ASIAGO",
+        "DEVOTE",
+        "TOTORO",
+        "WHAMMY"
+      ]
+    }
+  ]
+}

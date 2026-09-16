@@ -1,0 +1,47 @@
+{
+  "id": 886,
+  "date": "2025-11-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EVALUATE",
+      "level": null,
+      "members": [
+        "GRADE",
+        "JUDGE",
+        "RATE",
+        "REVIEW"
+      ]
+    },
+    {
+      "name": "RADIO TUNING OPTIONS",
+      "level": null,
+      "members": [
+        "BAND",
+        "CHANNEL",
+        "FREQUENCY",
+        "STATION"
+      ]
+    },
+    {
+      "name": "ACTION FILM SUBGENRES",
+      "level": null,
+      "members": [
+        "BUDDY",
+        "DISASTER",
+        "MARTIAL ARTS",
+        "SUPERHERO"
+      ]
+    },
+    {
+      "name": "CLASSIC '90S ACTION FILMS",
+      "level": null,
+      "members": [
+        "ARMAGEDDON",
+        "HARD BOILED",
+        "HEAT",
+        "SPEED"
+      ]
+    }
+  ]
+}

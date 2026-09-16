@@ -1,0 +1,47 @@
+{
+  "id": 286,
+  "date": "2024-03-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KUDOS",
+      "level": 0,
+      "members": [
+        "CREDIT",
+        "GLORY",
+        "PRAISE",
+        "PROPS"
+      ]
+    },
+    {
+      "name": "BECOME AWARE OF",
+      "level": 1,
+      "members": [
+        "DISCOVER",
+        "FIND",
+        "LEARN",
+        "REALIZE"
+      ]
+    },
+    {
+      "name": "PURSUE",
+      "level": 2,
+      "members": [
+        "CHASE",
+        "TAIL",
+        "TRACK",
+        "SHADOW"
+      ]
+    },
+    {
+      "name": "SEEN IN A PASSPORT",
+      "level": 3,
+      "members": [
+        "NAME",
+        "PHOTO",
+        "STAMP",
+        "VISA"
+      ]
+    }
+  ]
+}

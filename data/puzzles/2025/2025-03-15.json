@@ -1,0 +1,47 @@
+{
+  "id": 643,
+  "date": "2025-03-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SHARP PROTRUSION",
+      "level": 0,
+      "members": [
+        "BARB",
+        "BRISTLE",
+        "NEEDLE",
+        "SPINE"
+      ]
+    },
+    {
+      "name": "FEATURES OF STRINGED INSTRUMENTS",
+      "level": 1,
+      "members": [
+        "BRIDGE",
+        "NECK",
+        "PEG",
+        "STRING"
+      ]
+    },
+    {
+      "name": "LITIGATION VERBS",
+      "level": 2,
+      "members": [
+        "CHARGE",
+        "MOVE",
+        "SERVE",
+        "SUE"
+      ]
+    },
+    {
+      "name": "IN “STAR LIGHT, STAR BRIGHT”",
+      "level": 3,
+      "members": [
+        "MAY",
+        "MIGHT",
+        "TONIGHT",
+        "WISH"
+      ]
+    }
+  ]
+}

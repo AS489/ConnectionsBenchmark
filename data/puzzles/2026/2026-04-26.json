@@ -1,0 +1,47 @@
+{
+  "id": 1046,
+  "date": "2026-04-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STIPULATION",
+      "level": null,
+      "members": [
+        "CATCH",
+        "CAVEAT",
+        "FINE PRINT",
+        "STRINGS"
+      ]
+    },
+    {
+      "name": "VOCAL CHARACTERISTICS",
+      "level": null,
+      "members": [
+        "PITCH",
+        "RANGE",
+        "REGISTER",
+        "TONE"
+      ]
+    },
+    {
+      "name": "CHARACTERS IN \"DICK AND JANE\"",
+      "level": null,
+      "members": [
+        "DICK",
+        "JANE",
+        "MOTHER",
+        "SPOT"
+      ]
+    },
+    {
+      "name": "THINGS WITH FACES",
+      "level": null,
+      "members": [
+        "BUILDING",
+        "CLIFF",
+        "CLOCK",
+        "POLYHEDRON"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 612,
+  "date": "2025-02-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DOCUMENTS OF OWNERSHIP",
+      "level": 0,
+      "members": [
+        "CERTIFICATE",
+        "DEED",
+        "RECEIPT",
+        "TITLE"
+      ]
+    },
+    {
+      "name": "BITS IN A VARIETY SHOW",
+      "level": 1,
+      "members": [
+        "DANCE",
+        "MONOLOGUE",
+        "SKETCH",
+        "SONG"
+      ]
+    },
+    {
+      "name": "PROPS FOR CHARACTERS ON “THE SIMPSONS”",
+      "level": 2,
+      "members": [
+        "DONUT",
+        "PACIFIER",
+        "SAXOPHONE",
+        "SKATEBOARD"
+      ]
+    },
+    {
+      "name": "STARTING WITH “SHAKE, RATTLE AND ROLL”",
+      "level": 3,
+      "members": [
+        "ANDROID",
+        "RATTLESNAKE",
+        "ROLLERBLADE",
+        "SHAKESPEARE"
+      ]
+    }
+  ]
+}

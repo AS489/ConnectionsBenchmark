@@ -1,0 +1,47 @@
+{
+  "id": 797,
+  "date": "2025-08-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INTREPIDITY",
+      "level": 0,
+      "members": [
+        "FORTITUDE",
+        "GRIT",
+        "PLUCK",
+        "RESOLVE"
+      ]
+    },
+    {
+      "name": "RENOVATIONS",
+      "level": 1,
+      "members": [
+        "CONSTRUCTION",
+        "REPAIRS",
+        "UPGRADES",
+        "WORK"
+      ]
+    },
+    {
+      "name": "TROUNCE",
+      "level": 2,
+      "members": [
+        "CREAM",
+        "CRUSH",
+        "ROUT",
+        "SHELLAC"
+      ]
+    },
+    {
+      "name": "KINDS OF SOFT/LIGHTWEIGHT PAPER",
+      "level": 3,
+      "members": [
+        "CREPE",
+        "ROLLING",
+        "TISSUE",
+        "TOILET"
+      ]
+    }
+  ]
+}

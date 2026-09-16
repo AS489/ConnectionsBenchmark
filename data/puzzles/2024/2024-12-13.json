@@ -1,0 +1,47 @@
+{
+  "id": 551,
+  "date": "2024-12-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FANTASY CREATURES",
+      "level": 0,
+      "members": [
+        "DRAGON",
+        "GIANT",
+        "PIXIE",
+        "TROLL"
+      ]
+    },
+    {
+      "name": "EMAIL FOLDERS",
+      "level": 1,
+      "members": [
+        "DRAFTS",
+        "SENT",
+        "SPAM",
+        "TRASH"
+      ]
+    },
+    {
+      "name": "CITRUS SODAS",
+      "level": 2,
+      "members": [
+        "CRUSH",
+        "SPRITE",
+        "SQUIRT",
+        "STARRY"
+      ]
+    },
+    {
+      "name": "ANIMAL HOMOPHONES",
+      "level": 3,
+      "members": [
+        "BORE",
+        "LINKS",
+        "PHISH",
+        "TOWED"
+      ]
+    }
+  ]
+}

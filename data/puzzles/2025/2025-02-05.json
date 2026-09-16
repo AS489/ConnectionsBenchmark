@@ -1,0 +1,47 @@
+{
+  "id": 605,
+  "date": "2025-02-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A COMPENSATION PACKAGE",
+      "level": 0,
+      "members": [
+        "BONUS",
+        "INSURANCE",
+        "SALARY",
+        "VACATION"
+      ]
+    },
+    {
+      "name": "INDICATION",
+      "level": 1,
+      "members": [
+        "FLAG",
+        "GIVEAWAY",
+        "SIGN",
+        "TELL"
+      ]
+    },
+    {
+      "name": "THINGS TO DO WITH A DECK OF CARDS",
+      "level": 2,
+      "members": [
+        "CUT",
+        "DEAL",
+        "FAN",
+        "SHUFFLE"
+      ]
+    },
+    {
+      "name": "WHAT “BILL” MIGHT REFER TO",
+      "level": 3,
+      "members": [
+        "BANKNOTE",
+        "BEAK",
+        "INVOICE",
+        "WILLIAM"
+      ]
+    }
+  ]
+}

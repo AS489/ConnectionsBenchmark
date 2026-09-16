@@ -1,0 +1,47 @@
+{
+  "id": 1074,
+  "date": "2026-05-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMMON PROMO ITEMS",
+      "level": null,
+      "members": [
+        "CAP",
+        "PIN",
+        "SHIRT",
+        "STICKER"
+      ]
+    },
+    {
+      "name": "TINY BIT",
+      "level": null,
+      "members": [
+        "JOT",
+        "SCRAP",
+        "SHRED",
+        "WHIT"
+      ]
+    },
+    {
+      "name": "TEXTING ABBREVIATIONS",
+      "level": null,
+      "members": [
+        "ATM",
+        "CYA",
+        "LOL",
+        "TIA"
+      ]
+    },
+    {
+      "name": "EYE___",
+      "level": null,
+      "members": [
+        "BALL",
+        "BROW",
+        "LASH",
+        "LID"
+      ]
+    }
+  ]
+}

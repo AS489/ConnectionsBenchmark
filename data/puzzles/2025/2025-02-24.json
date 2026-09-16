@@ -1,0 +1,47 @@
+{
+  "id": 624,
+  "date": "2025-02-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EAT VORACIOUSLY",
+      "level": 0,
+      "members": [
+        "GOBBLE",
+        "GULP",
+        "SCARF",
+        "WOLF"
+      ]
+    },
+    {
+      "name": "BEND UNDER PRESSURE",
+      "level": 1,
+      "members": [
+        "BOW",
+        "BUCKLE",
+        "CAVE",
+        "GIVE"
+      ]
+    },
+    {
+      "name": "CLASSIC NAUTICAL TATTOOS",
+      "level": 2,
+      "members": [
+        "ANCHOR",
+        "COMPASS",
+        "MERMAID",
+        "SWALLOW"
+      ]
+    },
+    {
+      "name": "BODY PARTS PLUS LETTER",
+      "level": 3,
+      "members": [
+        "BUTTE",
+        "CHINA",
+        "HEARTH",
+        "SHINE"
+      ]
+    }
+  ]
+}

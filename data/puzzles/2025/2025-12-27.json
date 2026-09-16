@@ -1,0 +1,47 @@
+{
+  "id": 929,
+  "date": "2025-12-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AIRLINE CLASSES",
+      "level": null,
+      "members": [
+        "BUSINESS",
+        "ECONOMY",
+        "FIRST",
+        "PREMIUM"
+      ]
+    },
+    {
+      "name": "ATTRIBUTE",
+      "level": null,
+      "members": [
+        "CITE",
+        "CREDIT",
+        "NAME",
+        "REFERENCE"
+      ]
+    },
+    {
+      "name": "VOCATION",
+      "level": null,
+      "members": [
+        "CALLING",
+        "CRAFT",
+        "LINE",
+        "TRADE"
+      ]
+    },
+    {
+      "name": "ENDING WITH ALCOHOLIC BEVERAGES",
+      "level": null,
+      "members": [
+        "DECIDER",
+        "NAMESAKE",
+        "REPORT",
+        "VILLAGER"
+      ]
+    }
+  ]
+}

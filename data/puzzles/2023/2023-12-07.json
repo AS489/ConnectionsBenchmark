@@ -1,0 +1,47 @@
+{
+  "id": 179,
+  "date": "2023-12-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STATE ABBREVIATIONS",
+      "level": 0,
+      "members": [
+        "HI",
+        "LA",
+        "MA",
+        "OK"
+      ]
+    },
+    {
+      "name": "CABLE CHANNELS",
+      "level": 1,
+      "members": [
+        "BET",
+        "E",
+        "HALLMARK",
+        "USA"
+      ]
+    },
+    {
+      "name": "IN THE NATO ALPHABET",
+      "level": 2,
+      "members": [
+        "ALFA",
+        "BRAVO",
+        "ROMEO",
+        "TANGO"
+      ]
+    },
+    {
+      "name": "___-___",
+      "level": 3,
+      "members": [
+        "BOO",
+        "POM",
+        "TOM",
+        "YO"
+      ]
+    }
+  ]
+}

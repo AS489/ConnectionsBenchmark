@@ -1,0 +1,47 @@
+{
+  "id": 676,
+  "date": "2025-04-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CENTRAL SECTION OF THE BODY",
+      "level": 0,
+      "members": [
+        "CORE",
+        "MIDRIFF",
+        "TORSO",
+        "TRUNK"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF A PIZZA",
+      "level": 1,
+      "members": [
+        "CHEESE",
+        "CRUST",
+        "SAUCE",
+        "TOPPINGS"
+      ]
+    },
+    {
+      "name": "UNITS OF BEER",
+      "level": 2,
+      "members": [
+        "CASE",
+        "FORTY",
+        "GROWLER",
+        "SIX-PACK"
+      ]
+    },
+    {
+      "name": "BASEBALL GREATS",
+      "level": 3,
+      "members": [
+        "BONDS",
+        "MANTLE",
+        "TROUT",
+        "YOUNG"
+      ]
+    }
+  ]
+}

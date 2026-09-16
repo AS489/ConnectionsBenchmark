@@ -1,0 +1,47 @@
+{
+  "id": 273,
+  "date": "2024-03-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS A DOG CAN FETCH",
+      "level": 0,
+      "members": [
+        "BALL",
+        "BONE",
+        "FRISBEE",
+        "STICK"
+      ]
+    },
+    {
+      "name": "CONCEAL",
+      "level": 1,
+      "members": [
+        "BLOCK",
+        "COVER",
+        "HIDE",
+        "OBSCURE"
+      ]
+    },
+    {
+      "name": "MAC KEYBOARD KEYS",
+      "level": 2,
+      "members": [
+        "COMMAND",
+        "CONTROL",
+        "OPTION",
+        "SHIFT"
+      ]
+    },
+    {
+      "name": "EXPERIENCE A MEMORY LAPSE",
+      "level": 3,
+      "members": [
+        "BLANK",
+        "FLAKE",
+        "FORGET",
+        "SPACE"
+      ]
+    }
+  ]
+}

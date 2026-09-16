@@ -1,0 +1,47 @@
+{
+  "id": 35,
+  "date": "2023-07-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "U.S. COINS",
+      "level": 0,
+      "members": [
+        "DIME",
+        "NICKEL",
+        "PENNY",
+        "QUARTER"
+      ]
+    },
+    {
+      "name": "METAL ELEMENTS",
+      "level": 1,
+      "members": [
+        "IRON",
+        "LEAD",
+        "TIN",
+        "ZINC"
+      ]
+    },
+    {
+      "name": "LUCKY CHARMS MARSHMALLOWS",
+      "level": 2,
+      "members": [
+        "CLOVER",
+        "HORSESHOE",
+        "MOON",
+        "RAINBOW"
+      ]
+    },
+    {
+      "name": "___ AND ___",
+      "level": 3,
+      "members": [
+        "AGAIN",
+        "HALF",
+        "NECK",
+        "SO"
+      ]
+    }
+  ]
+}

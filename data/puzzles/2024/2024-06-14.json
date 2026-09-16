@@ -1,0 +1,47 @@
+{
+  "id": 369,
+  "date": "2024-06-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WRITING ASSIGNMENTS",
+      "level": 0,
+      "members": [
+        "ARTICLE",
+        "ESSAY",
+        "PAPER",
+        "REPORT"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE PINK",
+      "level": 1,
+      "members": [
+        "BUBBLE GUM",
+        "CARNATION",
+        "ERASER",
+        "FLAMINGO"
+      ]
+    },
+    {
+      "name": "NATO PHONETIC ALPHABET",
+      "level": 2,
+      "members": [
+        "FOXTROT",
+        "HOTEL",
+        "VICTOR",
+        "YANKEE"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH #2",
+      "level": 3,
+      "members": [
+        "DEPUTY",
+        "DEREK JETER",
+        "PENCIL",
+        "SILVER MEDAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 952,
+  "date": "2026-01-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INEXPERIENCED",
+      "level": null,
+      "members": [
+        "BUDDING",
+        "FRESH",
+        "NAIVE",
+        "NEW"
+      ]
+    },
+    {
+      "name": "🤑",
+      "level": null,
+      "members": [
+        "BUNDLE",
+        "FORTUNE",
+        "MINT",
+        "WAD"
+      ]
+    },
+    {
+      "name": "MEASURED BY SI UNITS",
+      "level": null,
+      "members": [
+        "CURRENT",
+        "LENGTH",
+        "MASS",
+        "TIME"
+      ]
+    },
+    {
+      "name": "WORDS AFTER \"QUICK\"",
+      "level": null,
+      "members": [
+        "FIX",
+        "SAND",
+        "SILVER",
+        "STUDY"
+      ]
+    }
+  ]
+}

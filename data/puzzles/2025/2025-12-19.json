@@ -1,0 +1,47 @@
+{
+  "id": 921,
+  "date": "2025-12-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FINDINGS",
+      "level": null,
+      "members": [
+        "DATA",
+        "DETAILS",
+        "INFORMATION",
+        "INTELLIGENCE"
+      ]
+    },
+    {
+      "name": "DINNER OPTIONS",
+      "level": null,
+      "members": [
+        "COOK",
+        "DELIVERY",
+        "GO OUT",
+        "LEFTOVERS"
+      ]
+    },
+    {
+      "name": "U.S. CABINET DEPARTMENTS",
+      "level": null,
+      "members": [
+        "COMMERCE",
+        "EDUCATION",
+        "ENERGY",
+        "LABOR"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF PLACES TO PARK A SHIP",
+      "level": null,
+      "members": [
+        "BIRTH",
+        "DOC",
+        "PEER",
+        "WORF"
+      ]
+    }
+  ]
+}

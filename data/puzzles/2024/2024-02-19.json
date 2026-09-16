@@ -1,0 +1,47 @@
+{
+  "id": 253,
+  "date": "2024-02-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "USED IN BUILDING A FIRE",
+      "level": 0,
+      "members": [
+        "KINDLING",
+        "LOG",
+        "MATCH",
+        "TINDER"
+      ]
+    },
+    {
+      "name": "MESS UP",
+      "level": 1,
+      "members": [
+        "BLOW",
+        "BUMBLE",
+        "FLUFF",
+        "SPOIL"
+      ]
+    },
+    {
+      "name": "WORKSHOP TOOLS",
+      "level": 2,
+      "members": [
+        "DRILL",
+        "GRINDER",
+        "ROUTER",
+        "SAW"
+      ]
+    },
+    {
+      "name": "PARTS OF A DOOR",
+      "level": 3,
+      "members": [
+        "FRAME",
+        "HANDLE",
+        "HINGE",
+        "LOCK"
+      ]
+    }
+  ]
+}

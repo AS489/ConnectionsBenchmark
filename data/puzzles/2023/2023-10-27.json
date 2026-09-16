@@ -1,0 +1,47 @@
+{
+  "id": 138,
+  "date": "2023-10-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SHAMELESS BOLDNESS",
+      "level": 0,
+      "members": [
+        "BRASS",
+        "CHEEK",
+        "GALL",
+        "NERVE"
+      ]
+    },
+    {
+      "name": "METAL ELEMENTS",
+      "level": 1,
+      "members": [
+        "COPPER",
+        "GOLD",
+        "NICKEL",
+        "SILVER"
+      ]
+    },
+    {
+      "name": "W.N.B.A. TEAMS",
+      "level": 2,
+      "members": [
+        "MERCURY",
+        "SKY",
+        "SPARKS",
+        "LIBERTY"
+      ]
+    },
+    {
+      "name": "THINGS WITH TRUNKS",
+      "level": 3,
+      "members": [
+        "CARS",
+        "ELEPHANTS",
+        "SWIMMERS",
+        "TREES"
+      ]
+    }
+  ]
+}

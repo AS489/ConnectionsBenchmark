@@ -1,0 +1,47 @@
+{
+  "id": 521,
+  "date": "2024-11-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS THAT ARE YELLOW",
+      "level": 0,
+      "members": [
+        "CANARY",
+        "LEMON",
+        "MINION",
+        "MUSTARD"
+      ]
+    },
+    {
+      "name": "BUILDING ADD-ONS",
+      "level": 1,
+      "members": [
+        "ADDITION",
+        "ANNEX",
+        "EXTENSION",
+        "WING"
+      ]
+    },
+    {
+      "name": "CONCERNS FOR A DENTIST",
+      "level": 2,
+      "members": [
+        "CALCULUS",
+        "CAVITY",
+        "PLAQUE",
+        "TARTAR"
+      ]
+    },
+    {
+      "name": "WORDS THAT SEEM LONGER WRITTEN THAN SPOKEN",
+      "level": 3,
+      "members": [
+        "COLONEL",
+        "PHARAOH",
+        "WEDNESDAY",
+        "WORCESTERSHIRE"
+      ]
+    }
+  ]
+}

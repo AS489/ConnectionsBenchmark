@@ -1,0 +1,47 @@
+{
+  "id": 58,
+  "date": "2023-08-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ARACHNIDS",
+      "level": 0,
+      "members": [
+        "MITE",
+        "SCORPION",
+        "SPIDER",
+        "TICK"
+      ]
+    },
+    {
+      "name": "FISH",
+      "level": 1,
+      "members": [
+        "CHAR",
+        "EEL",
+        "PERCH",
+        "SHARK"
+      ]
+    },
+    {
+      "name": "SUPERHEROES",
+      "level": 2,
+      "members": [
+        "BLACK WIDOW",
+        "BLADE",
+        "FLASH",
+        "STORM"
+      ]
+    },
+    {
+      "name": "MTV SHOWS",
+      "level": 3,
+      "members": [
+        "CATFISH",
+        "CRIBS",
+        "JACKASS",
+        "STATE"
+      ]
+    }
+  ]
+}

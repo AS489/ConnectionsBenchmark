@@ -1,0 +1,47 @@
+{
+  "id": 755,
+  "date": "2025-07-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CON GAME",
+      "level": 0,
+      "members": [
+        "HUSTLE",
+        "RACKET",
+        "SCHEME",
+        "STING"
+      ]
+    },
+    {
+      "name": "COMBINE, AS BAKING INGREDIENTS",
+      "level": 1,
+      "members": [
+        "BEAT",
+        "BLEND",
+        "FOLD",
+        "STIR"
+      ]
+    },
+    {
+      "name": "YEARN",
+      "level": 2,
+      "members": [
+        "BURN",
+        "ITCH",
+        "LONG",
+        "PINE"
+      ]
+    },
+    {
+      "name": "KINDS OF LISTS",
+      "level": 3,
+      "members": [
+        "BUCKET",
+        "LAUNDRY",
+        "SHORT",
+        "TO-DO"
+      ]
+    }
+  ]
+}

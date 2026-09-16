@@ -1,0 +1,47 @@
+{
+  "id": 1025,
+  "date": "2026-04-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ATOMIC STRUCTURE TERMS",
+      "level": null,
+      "members": [
+        "ELECTRON",
+        "NUCLEUS",
+        "ORBIT",
+        "SHELL"
+      ]
+    },
+    {
+      "name": "PARTS OF A SHERLOCK HOLMES COSTUME",
+      "level": null,
+      "members": [
+        "DEERSTALKER",
+        "MAGNIFYING GLASS",
+        "PIPE",
+        "VIOLIN"
+      ]
+    },
+    {
+      "name": "THINGS TO FLIP",
+      "level": null,
+      "members": [
+        "COIN",
+        "LIGHT SWITCH",
+        "PANCAKE",
+        "THE BIRD"
+      ]
+    },
+    {
+      "name": "STARTING WITH SYNONYMS FOR \"SLUSH\"",
+      "level": null,
+      "members": [
+        "GOOGOL",
+        "MUSHROOM",
+        "PASTEURIZE",
+        "PULPIT"
+      ]
+    }
+  ]
+}

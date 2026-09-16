@@ -1,0 +1,47 @@
+{
+  "id": 618,
+  "date": "2025-02-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CRATER",
+      "level": 0,
+      "members": [
+        "CAVITY",
+        "HOLE",
+        "HOLLOW",
+        "PIT"
+      ]
+    },
+    {
+      "name": "ACCESSIBLE",
+      "level": 1,
+      "members": [
+        "AVAILABLE",
+        "HANDY",
+        "NEARBY",
+        "READY"
+      ]
+    },
+    {
+      "name": "SUBSTANTIAL, AS A MEAL",
+      "level": 2,
+      "members": [
+        "FILLING",
+        "HEARTY",
+        "SOLID",
+        "SQUARE"
+      ]
+    },
+    {
+      "name": "BRITISHISMS",
+      "level": 3,
+      "members": [
+        "BUTTY",
+        "CHIPPY",
+        "FOOTY",
+        "TELLY"
+      ]
+    }
+  ]
+}

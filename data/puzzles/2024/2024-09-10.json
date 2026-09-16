@@ -1,0 +1,47 @@
+{
+  "id": 457,
+  "date": "2024-09-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VARIETIES",
+      "level": 0,
+      "members": [
+        "KINDS",
+        "SORTS",
+        "STRIPES",
+        "TYPES"
+      ]
+    },
+    {
+      "name": "TRANSFER",
+      "level": 1,
+      "members": [
+        "DELIVER",
+        "HAND",
+        "GIVE",
+        "PASS"
+      ]
+    },
+    {
+      "name": "RATINGS SYSTEMS",
+      "level": 2,
+      "members": [
+        "A-F",
+        "PERCENTAGE",
+        "STARS",
+        "THUMBS"
+      ]
+    },
+    {
+      "name": "THINGS WITH KINGS",
+      "level": 3,
+      "members": [
+        "CHECKERS",
+        "DECK OF CARDS",
+        "MONARCHY",
+        "NHL"
+      ]
+    }
+  ]
+}

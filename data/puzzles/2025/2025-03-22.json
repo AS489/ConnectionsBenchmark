@@ -1,0 +1,47 @@
+{
+  "id": 650,
+  "date": "2025-03-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MUSICAL INSTRUMENTS",
+      "level": 0,
+      "members": [
+        "TAMBOURINE",
+        "THEREMIN",
+        "TIMPANI",
+        "TROMBONE"
+      ]
+    },
+    {
+      "name": "KNICKKNACK",
+      "level": 1,
+      "members": [
+        "TCHOTCHKE",
+        "THINGAMAJIG",
+        "TRIFLE",
+        "TRINKET"
+      ]
+    },
+    {
+      "name": "WORDS WITH THE PREFIX MEANING “THREE”",
+      "level": 2,
+      "members": [
+        "TRIANGLE",
+        "TRIDENT",
+        "TRILLION",
+        "TRILOBITE"
+      ]
+    },
+    {
+      "name": "WORDS ABBREVIATED WITH “T” + LETTER",
+      "level": 3,
+      "members": [
+        "TELEVISION",
+        "TOUCHDOWN",
+        "TRADEMARK",
+        "TUBERCULOSIS"
+      ]
+    }
+  ]
+}

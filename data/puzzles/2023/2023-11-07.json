@@ -1,0 +1,47 @@
+{
+  "id": 149,
+  "date": "2023-11-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DIGITAL NOTIFICATION SOUNDS",
+      "level": 0,
+      "members": [
+        "CHIME",
+        "DING",
+        "PING",
+        "RING"
+      ]
+    },
+    {
+      "name": "TATTLE",
+      "level": 1,
+      "members": [
+        "RAT",
+        "SING",
+        "SNITCH",
+        "SQUEAL"
+      ]
+    },
+    {
+      "name": "GROUP WITHIN A GROUP",
+      "level": 2,
+      "members": [
+        "CAMP",
+        "DIVISION",
+        "FACTION",
+        "WING"
+      ]
+    },
+    {
+      "name": "MICROSOFT PRODUCTS",
+      "level": 3,
+      "members": [
+        "BING",
+        "EDGE",
+        "SURFACE",
+        "WORD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 864,
+  "date": "2025-10-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UTILITIES",
+      "level": null,
+      "members": [
+        "ELECTRIC",
+        "GAS",
+        "TELEPHONE",
+        "WATER"
+      ]
+    },
+    {
+      "name": "ADAPT TO FIT ONE'S NEEDS",
+      "level": null,
+      "members": [
+        "FASHION",
+        "MOLD",
+        "SHAPE",
+        "TAILOR"
+      ]
+    },
+    {
+      "name": "KINDS OF ANTS",
+      "level": null,
+      "members": [
+        "ARMY",
+        "CARPENTER",
+        "FIRE",
+        "PHARAOH"
+      ]
+    },
+    {
+      "name": "COPY___",
+      "level": null,
+      "members": [
+        "CAT",
+        "PASTA",
+        "RIGHT",
+        "WRITER"
+      ]
+    }
+  ]
+}

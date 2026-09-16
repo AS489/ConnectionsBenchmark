@@ -1,0 +1,47 @@
+{
+  "id": 771,
+  "date": "2025-07-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ADDITIONAL PERK",
+      "level": 0,
+      "members": [
+        "BONUS",
+        "EXTRA",
+        "GRAVY",
+        "ICING"
+      ]
+    },
+    {
+      "name": "PHASE TRANSITIONS FOR LIQUIDS",
+      "level": 1,
+      "members": [
+        "CONDENSATION",
+        "FREEZING",
+        "MELTING",
+        "VAPORIZATION"
+      ]
+    },
+    {
+      "name": "CONCEPTS FROM “SEINFELD”",
+      "level": 2,
+      "members": [
+        "FESTIVUS",
+        "REGIFTING",
+        "SHRINKAGE",
+        "YADA YADA"
+      ]
+    },
+    {
+      "name": "WHAT ' CAN INDICATE",
+      "level": 3,
+      "members": [
+        "CONTRACTION",
+        "FOOT",
+        "POSSESSIVE",
+        "QUOTE"
+      ]
+    }
+  ]
+}

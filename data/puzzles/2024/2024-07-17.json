@@ -1,0 +1,47 @@
+{
+  "id": 402,
+  "date": "2024-07-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BUILDINGS AROUND TOWN",
+      "level": 0,
+      "members": [
+        "BANK",
+        "LAUNDROMAT",
+        "POST OFFICE",
+        "SUPERMARKET"
+      ]
+    },
+    {
+      "name": "HINDER",
+      "level": 1,
+      "members": [
+        "CHECK",
+        "CURB",
+        "HAMPER",
+        "INHIBIT"
+      ]
+    },
+    {
+      "name": "ANIMAL GROUP NAMES",
+      "level": 2,
+      "members": [
+        "PACK",
+        "PRIDE",
+        "SCHOOL",
+        "SWARM"
+      ]
+    },
+    {
+      "name": "STARTS OF U.S. PRESIDENTS",
+      "level": 3,
+      "members": [
+        "BIDE",
+        "CART",
+        "NIX",
+        "WASHING"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 314,
+  "date": "2024-04-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BALDERDASH",
+      "level": 0,
+      "members": [
+        "BUNK",
+        "CROCK",
+        "HOGWASH",
+        "HORSEFEATHERS"
+      ]
+    },
+    {
+      "name": "TRACK AND FIELD EQUIPMENT",
+      "level": 1,
+      "members": [
+        "BATON",
+        "HAMMER",
+        "HURDLE",
+        "POLE"
+      ]
+    },
+    {
+      "name": "PARTS OF A DEVIL COSTUME",
+      "level": 2,
+      "members": [
+        "GOATEE",
+        "HORNS",
+        "PITCHFORK",
+        "TAIL"
+      ]
+    },
+    {
+      "name": "TYPES OF KNOTS",
+      "level": 3,
+      "members": [
+        "BEND",
+        "BOWLINE",
+        "HITCH",
+        "SHEEPSHANK"
+      ]
+    }
+  ]
+}

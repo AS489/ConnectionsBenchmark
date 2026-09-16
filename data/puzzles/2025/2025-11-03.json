@@ -1,0 +1,47 @@
+{
+  "id": 875,
+  "date": "2025-11-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS THAT ARE RED",
+      "level": null,
+      "members": [
+        "CLOWN NOSE",
+        "FIRE ENGINE",
+        "MARASCHINO CHERRY",
+        "STOP SIGN"
+      ]
+    },
+    {
+      "name": "THINGS FILLED WITH AIR",
+      "level": null,
+      "members": [
+        "BALLOON ANIMAL",
+        "BOUNCY CASTLE",
+        "WATER WINGS",
+        "WHOOPEE CUSHION"
+      ]
+    },
+    {
+      "name": "THINGS WITH A LOT OF PIECES",
+      "level": null,
+      "members": [
+        "JIGSAW PUZZLE",
+        "LEGO SET",
+        "LITE-BRITE",
+        "PICK-UP STICKS"
+      ]
+    },
+    {
+      "name": "ENDING WITH ANIMALS",
+      "level": null,
+      "members": [
+        "DARK HORSE",
+        "FUNKY CHICKEN",
+        "JUMBO SHRIMP",
+        "SEA MONKEY"
+      ]
+    }
+  ]
+}

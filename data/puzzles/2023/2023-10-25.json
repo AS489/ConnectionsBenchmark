@@ -1,0 +1,47 @@
+{
+  "id": 136,
+  "date": "2023-10-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GRAMMAR TENSE TERMS",
+      "level": 0,
+      "members": [
+        "FUTURE",
+        "PAST",
+        "PERFECT",
+        "PRESENT"
+      ]
+    },
+    {
+      "name": "“GRACIOUS ME!”",
+      "level": 1,
+      "members": [
+        "GOODNESS",
+        "HEAVENS",
+        "LORD",
+        "MERCY"
+      ]
+    },
+    {
+      "name": "12 DAYS OF CHRISTMAS",
+      "level": 2,
+      "members": [
+        "DRUMMER",
+        "LADY",
+        "RING",
+        "SWAN"
+      ]
+    },
+    {
+      "name": "___ SYRUP",
+      "level": 3,
+      "members": [
+        "CORN",
+        "COUGH",
+        "MAPLE",
+        "SIMPLE"
+      ]
+    }
+  ]
+}

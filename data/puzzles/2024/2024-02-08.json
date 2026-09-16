@@ -1,0 +1,47 @@
+{
+  "id": 242,
+  "date": "2024-02-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ARCHERY EQUIPMENT",
+      "level": 0,
+      "members": [
+        "ARROW",
+        "BOW",
+        "QUIVER",
+        "TARGET"
+      ]
+    },
+    {
+      "name": "CARD GAMES",
+      "level": 1,
+      "members": [
+        "BRIDGE",
+        "GIN",
+        "SPIT",
+        "WAR"
+      ]
+    },
+    {
+      "name": "WALLOP",
+      "level": 2,
+      "members": [
+        "BELT",
+        "CLOCK",
+        "DECK",
+        "SLUG"
+      ]
+    },
+    {
+      "name": "CLASSIC TATTOOS",
+      "level": 3,
+      "members": [
+        "ANCHOR",
+        "DRAGON",
+        "HEART",
+        "ROSE"
+      ]
+    }
+  ]
+}

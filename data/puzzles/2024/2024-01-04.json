@@ -1,0 +1,47 @@
+{
+  "id": 207,
+  "date": "2024-01-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GIFT-GIVING ACCESSORIES",
+      "level": 0,
+      "members": [
+        "BOW",
+        "BOX",
+        "CARD",
+        "WRAPPING"
+      ]
+    },
+    {
+      "name": "DATING APP ACTIONS",
+      "level": 1,
+      "members": [
+        "BLOCK",
+        "MATCH",
+        "MESSAGE",
+        "SWIPE"
+      ]
+    },
+    {
+      "name": "COOL, IN SLANG",
+      "level": 2,
+      "members": [
+        "FIRE",
+        "LIT",
+        "SICK",
+        "TIGHT"
+      ]
+    },
+    {
+      "name": "LUCKY ___",
+      "level": 3,
+      "members": [
+        "BREAK",
+        "CHARM",
+        "DUCK",
+        "STRIKE"
+      ]
+    }
+  ]
+}

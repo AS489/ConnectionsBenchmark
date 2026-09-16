@@ -1,0 +1,47 @@
+{
+  "id": 399,
+  "date": "2024-07-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SLENDER PROJECTIONS",
+      "level": 0,
+      "members": [
+        "POINT",
+        "PRONG",
+        "TINE",
+        "TIP"
+      ]
+    },
+    {
+      "name": "CONDITIONS FOR COLLECTIBLES",
+      "level": 1,
+      "members": [
+        "FAIR",
+        "FINE",
+        "GOOD",
+        "MINT"
+      ]
+    },
+    {
+      "name": "PROFESSION",
+      "level": 2,
+      "members": [
+        "BUSINESS",
+        "FIELD",
+        "LINE",
+        "TRADE"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “NUT”",
+      "level": 3,
+      "members": [
+        "BRAZIL",
+        "BUTTER",
+        "DOUGH",
+        "PINE"
+      ]
+    }
+  ]
+}

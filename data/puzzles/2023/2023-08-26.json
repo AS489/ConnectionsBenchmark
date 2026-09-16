@@ -1,0 +1,47 @@
+{
+  "id": 76,
+  "date": "2023-08-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BOARD GAMES",
+      "level": 0,
+      "members": [
+        "RISK",
+        "SORRY",
+        "TABOO",
+        "TROUBLE"
+      ]
+    },
+    {
+      "name": "NEWSPAPER SECTIONS",
+      "level": 1,
+      "members": [
+        "BUSINESS",
+        "NATIONAL",
+        "OPINION",
+        "STYLE"
+      ]
+    },
+    {
+      "name": "FIGURES IN GREEK MYTH",
+      "level": 2,
+      "members": [
+        "ATLAS",
+        "HERMES",
+        "NIKE",
+        "PARIS"
+      ]
+    },
+    {
+      "name": "FIRST WORDS IN RAPPERS’ NAMES",
+      "level": 3,
+      "members": [
+        "FOXY",
+        "GUCCI",
+        "KILLER",
+        "NOTORIOUS"
+      ]
+    }
+  ]
+}

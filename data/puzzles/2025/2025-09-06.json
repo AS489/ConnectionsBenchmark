@@ -1,0 +1,47 @@
+{
+  "id": 818,
+  "date": "2025-09-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RUPTURED",
+      "level": 0,
+      "members": [
+        "BLEW",
+        "BROKE",
+        "BURST",
+        "SPLIT"
+      ]
+    },
+    {
+      "name": "APPARITION",
+      "level": 1,
+      "members": [
+        "SHADE",
+        "SPECTER",
+        "SPIRIT",
+        "WIGHT"
+      ]
+    },
+    {
+      "name": "PREDICT",
+      "level": 2,
+      "members": [
+        "CALL",
+        "DIVINE",
+        "FORECAST",
+        "READ"
+      ]
+    },
+    {
+      "name": "\"BEST ___ PERFORMANCE\" GRAMMY AWARD",
+      "level": 3,
+      "members": [
+        "AMERICANA",
+        "CHORAL",
+        "JAZZ",
+        "RAP"
+      ]
+    }
+  ]
+}

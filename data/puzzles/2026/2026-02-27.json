@@ -1,0 +1,47 @@
+{
+  "id": 990,
+  "date": "2026-02-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BACKSTABBER",
+      "level": null,
+      "members": [
+        "JUDAS",
+        "SNAKE",
+        "TRAITOR",
+        "TURNCOAT"
+      ]
+    },
+    {
+      "name": "AURA",
+      "level": null,
+      "members": [
+        "AIR",
+        "IMPRESSION",
+        "MANNER",
+        "QUALITY"
+      ]
+    },
+    {
+      "name": "KINDS OF CHAIN REACTION \"EFFECTS\"",
+      "level": null,
+      "members": [
+        "BUTTERFLY",
+        "DOMINO",
+        "RIPPLE",
+        "SNOWBALL"
+      ]
+    },
+    {
+      "name": "___ PRESS",
+      "level": null,
+      "members": [
+        "BENCH",
+        "DRILL",
+        "FRENCH",
+        "PRINTING"
+      ]
+    }
+  ]
+}

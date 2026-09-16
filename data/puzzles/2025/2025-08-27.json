@@ -1,0 +1,47 @@
+{
+  "id": 808,
+  "date": "2025-08-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RESTAURANT WATER OPTIONS",
+      "level": 0,
+      "members": [
+        "BOTTLED",
+        "SPARKLING",
+        "STILL",
+        "TAP"
+      ]
+    },
+    {
+      "name": "ATM OPTIONS",
+      "level": 1,
+      "members": [
+        "CHECKING",
+        "DEPOSIT",
+        "SAVINGS",
+        "WITHDRAWAL"
+      ]
+    },
+    {
+      "name": "BINARY QUESTION OPTIONS",
+      "level": 2,
+      "members": [
+        "FALSE",
+        "NO",
+        "TRUE",
+        "YES"
+      ]
+    },
+    {
+      "name": "ROULETTE OPTIONS",
+      "level": 3,
+      "members": [
+        "BLACK",
+        "EVEN",
+        "ODD",
+        "RED"
+      ]
+    }
+  ]
+}

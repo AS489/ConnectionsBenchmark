@@ -1,0 +1,47 @@
+{
+  "id": 541,
+  "date": "2024-12-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SOPRANOS",
+      "level": 0,
+      "members": [
+        "CARMELA",
+        "JUNIOR",
+        "MEADOW",
+        "TONY"
+      ]
+    },
+    {
+      "name": "FAMILIAL NICKNAMES",
+      "level": 1,
+      "members": [
+        "CUZ",
+        "GRAMMY",
+        "MUMMY",
+        "POP"
+      ]
+    },
+    {
+      "name": "“SESAME STREET” CHARACTERS",
+      "level": 2,
+      "members": [
+        "COOKIE",
+        "COUNT",
+        "OSCAR",
+        "SNUFFY"
+      ]
+    },
+    {
+      "name": "NAMES THAT SOUND LIKE TWO LETTERS",
+      "level": 3,
+      "members": [
+        "CECE",
+        "EDIE",
+        "EMMY",
+        "KATIE"
+      ]
+    }
+  ]
+}

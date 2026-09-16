@@ -1,0 +1,47 @@
+{
+  "id": 63,
+  "date": "2023-08-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FASTENING VERBS",
+      "level": 0,
+      "members": [
+        "BUCKLE",
+        "BUTTON",
+        "SNAP",
+        "ZIP"
+      ]
+    },
+    {
+      "name": "SLANG FOR ZERO",
+      "level": 1,
+      "members": [
+        "JACK",
+        "NADA",
+        "NOTHING",
+        "SQUAT"
+      ]
+    },
+    {
+      "name": "GYM EXERCISES",
+      "level": 2,
+      "members": [
+        "CURL",
+        "LUNGE",
+        "PLANK",
+        "PRESS"
+      ]
+    },
+    {
+      "name": "“CAPTAINS”",
+      "level": 3,
+      "members": [
+        "CRUNCH",
+        "KANGAROO",
+        "OBVIOUS",
+        "PLANET"
+      ]
+    }
+  ]
+}

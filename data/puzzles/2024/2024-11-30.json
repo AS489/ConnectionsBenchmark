@@ -1,0 +1,47 @@
+{
+  "id": 538,
+  "date": "2024-11-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DANCE STYLES",
+      "level": 0,
+      "members": [
+        "JAZZ",
+        "MODERN",
+        "SWING",
+        "TAP"
+      ]
+    },
+    {
+      "name": "STEAL",
+      "level": 1,
+      "members": [
+        "LIFT",
+        "PALM",
+        "POCKET",
+        "SWIPE"
+      ]
+    },
+    {
+      "name": "PERFORM WELL ON",
+      "level": 2,
+      "members": [
+        "ACE",
+        "CRUSH",
+        "NAIL",
+        "ROCK"
+      ]
+    },
+    {
+      "name": "___BALL PITCHES",
+      "level": 3,
+      "members": [
+        "CURVE",
+        "FAST",
+        "KNUCKLE",
+        "SCREW"
+      ]
+    }
+  ]
+}

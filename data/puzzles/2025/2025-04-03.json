@@ -1,0 +1,47 @@
+{
+  "id": 662,
+  "date": "2025-04-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PRINTED NOTIFICATION",
+      "level": 0,
+      "members": [
+        "ANNOUNCEMENT",
+        "BULLETIN",
+        "NOTICE",
+        "POSTER"
+      ]
+    },
+    {
+      "name": "SEEN AT A GROCERY CHECKOUT COUNTER",
+      "level": 1,
+      "members": [
+        "CONVEYOR BELT",
+        "REGISTER",
+        "SCALE",
+        "SCANNER"
+      ]
+    },
+    {
+      "name": "THINGS WITH TABS",
+      "level": 2,
+      "members": [
+        "BROWSER",
+        "FOLDER",
+        "KEYBOARD",
+        "SODA CAN"
+      ]
+    },
+    {
+      "name": "PALM ___",
+      "level": 3,
+      "members": [
+        "BEACH",
+        "READER",
+        "SUNDAY",
+        "TREE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 463,
+  "date": "2024-09-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOREMOST",
+      "level": 0,
+      "members": [
+        "CHIEF",
+        "PREMIER",
+        "PRINCIPAL",
+        "SUPREME"
+      ]
+    },
+    {
+      "name": "SPIKY THINGS",
+      "level": 1,
+      "members": [
+        "CACTUS",
+        "HEDGEHOG",
+        "MACE",
+        "PINEAPPLE"
+      ]
+    },
+    {
+      "name": "OVERLY SENTIMENTAL WORK",
+      "level": 2,
+      "members": [
+        "CHEESE",
+        "CORN",
+        "MUSH",
+        "PAP"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE CAPPED",
+      "level": 3,
+      "members": [
+        "BOTTLE",
+        "GRADUATE",
+        "MUSHROOM",
+        "SALARY"
+      ]
+    }
+  ]
+}

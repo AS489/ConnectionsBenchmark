@@ -1,0 +1,47 @@
+{
+  "id": 487,
+  "date": "2024-10-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BODY PARTS",
+      "level": 0,
+      "members": [
+        "ARM",
+        "EYE",
+        "HIP",
+        "LEG"
+      ]
+    },
+    {
+      "name": "COOL, IN ’80S SLANG",
+      "level": 1,
+      "members": [
+        "BAD",
+        "FLY",
+        "ILL",
+        "RAD"
+      ]
+    },
+    {
+      "name": "MOVIES",
+      "level": 2,
+      "members": [
+        "BIG",
+        "ELF",
+        "HER",
+        "SAW"
+      ]
+    },
+    {
+      "name": "WORDS IN “DO-RE-MI”",
+      "level": 3,
+      "members": [
+        "DOE",
+        "FAR",
+        "SEW",
+        "TEA"
+      ]
+    }
+  ]
+}

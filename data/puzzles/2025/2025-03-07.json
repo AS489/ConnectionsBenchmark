@@ -1,0 +1,47 @@
+{
+  "id": 635,
+  "date": "2025-03-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EMBLEM",
+      "level": 0,
+      "members": [
+        "LABEL",
+        "MARK",
+        "SEAL",
+        "STAMP"
+      ]
+    },
+    {
+      "name": "SUBJECTS OF ACCLAIMED MUSICAL BIOPICS",
+      "level": 1,
+      "members": [
+        "BROWN",
+        "CASH",
+        "DYLAN",
+        "MERCURY"
+      ]
+    },
+    {
+      "name": "U.S. CITIES",
+      "level": 2,
+      "members": [
+        "BUFFALO",
+        "HELENA",
+        "IRVING",
+        "PHOENIX"
+      ]
+    },
+    {
+      "name": "FRUITS WITH THEIR SECOND LETTERS CHANGED",
+      "level": 3,
+      "members": [
+        "AMPLE",
+        "DOTE",
+        "LUMON",
+        "POACH"
+      ]
+    }
+  ]
+}

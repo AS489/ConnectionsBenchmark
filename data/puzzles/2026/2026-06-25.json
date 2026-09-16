@@ -1,0 +1,47 @@
+{
+  "id": 1105,
+  "date": "2026-06-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMPUTER PERIPHERALS",
+      "level": null,
+      "members": [
+        "MICROPHONE",
+        "MONITOR",
+        "PRINTER",
+        "TRACKPAD"
+      ]
+    },
+    {
+      "name": "TIGHTLY PACKED",
+      "level": null,
+      "members": [
+        "COMPACT",
+        "COMPRESSED",
+        "DENSE",
+        "SQUASHED"
+      ]
+    },
+    {
+      "name": "HAZARDOUS ELEMENTAL METALS",
+      "level": null,
+      "members": [
+        "FRANCIUM",
+        "LEAD",
+        "MERCURY",
+        "POLONIUM"
+      ]
+    },
+    {
+      "name": "STARTING WITH BIRD HOMOPHONES",
+      "level": null,
+      "members": [
+        "CRANIUM",
+        "CROQUETTE",
+        "DUCTILE",
+        "HOCKEY"
+      ]
+    }
+  ]
+}

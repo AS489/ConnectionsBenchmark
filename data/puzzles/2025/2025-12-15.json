@@ -1,0 +1,47 @@
+{
+  "id": 917,
+  "date": "2025-12-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TOURNAMENT ROUNDS",
+      "level": null,
+      "members": [
+        "FINAL",
+        "QUALIFIER",
+        "QUARTER",
+        "SEMI"
+      ]
+    },
+    {
+      "name": "ENORMOUS",
+      "level": null,
+      "members": [
+        "BUMPER",
+        "GIANT",
+        "MONSTER",
+        "TITANIC"
+      ]
+    },
+    {
+      "name": "DISREPUTABLE ESTABLISHMENT",
+      "level": null,
+      "members": [
+        "DIVE",
+        "DUMP",
+        "HOLE",
+        "JOINT"
+      ]
+    },
+    {
+      "name": "WHAT \"C\" MIGHT MEAN",
+      "level": null,
+      "members": [
+        "CELSIUS",
+        "COLD",
+        "ONE HUNDRED",
+        "SEE"
+      ]
+    }
+  ]
+}

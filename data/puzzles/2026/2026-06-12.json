@@ -1,0 +1,47 @@
+{
+  "id": 1092,
+  "date": "2026-06-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STARTING WITH INCANTATIONS",
+      "level": null,
+      "members": [
+        "CHARM BRACELET",
+        "CURSE WORD",
+        "HEX KEY",
+        "SPELL CHECKER"
+      ]
+    },
+    {
+      "name": "STARTING WITH ANIMAL GROUP NAMES",
+      "level": null,
+      "members": [
+        "MURDER MYSTERY",
+        "PACK RAT",
+        "PRIDE ROCK",
+        "SCHOOL DAYS"
+      ]
+    },
+    {
+      "name": "STARTING WITH SYNONYMS FOR \"REPEAT\"",
+      "level": null,
+      "members": [
+        "COPY EDITOR",
+        "ECHO PARK",
+        "MIRROR SELFIE",
+        "QUOTE UNQUOTE"
+      ]
+    },
+    {
+      "name": "STARTING WITH PARTS OF A RIVER",
+      "level": null,
+      "members": [
+        "BANK TELLER",
+        "BED HEAD",
+        "DELTA AIRLINES",
+        "MOUTH GUARD"
+      ]
+    }
+  ]
+}

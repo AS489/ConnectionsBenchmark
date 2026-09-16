@@ -1,0 +1,47 @@
+{
+  "id": 873,
+  "date": "2025-11-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TAKE TO COURT",
+      "level": null,
+      "members": [
+        "CHARGE",
+        "FILE",
+        "INDICT",
+        "SUE"
+      ]
+    },
+    {
+      "name": "BLACK",
+      "level": null,
+      "members": [
+        "INKY",
+        "JET",
+        "PITCH",
+        "RAVEN"
+      ]
+    },
+    {
+      "name": "SECOND IN A FAMOUS REAL-LIFE DUO",
+      "level": null,
+      "members": [
+        "CHER",
+        "CLYDE",
+        "HARDY",
+        "TELLER"
+      ]
+    },
+    {
+      "name": "RODENTS WHO ARE FIRST IN A CARTOON DUO",
+      "level": null,
+      "members": [
+        "CHIP",
+        "ITCHY",
+        "PINKY",
+        "ROCKY"
+      ]
+    }
+  ]
+}

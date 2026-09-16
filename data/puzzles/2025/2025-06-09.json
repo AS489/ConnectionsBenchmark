@@ -1,0 +1,47 @@
+{
+  "id": 729,
+  "date": "2025-06-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KEYBOARD SHORTCUT COMMANDS",
+      "level": 0,
+      "members": [
+        "PASTE",
+        "PRINT",
+        "QUIT",
+        "SAVE"
+      ]
+    },
+    {
+      "name": "SECURE IN ADVANCE",
+      "level": 1,
+      "members": [
+        "BOOK",
+        "ORDER",
+        "REQUEST",
+        "RESERVE"
+      ]
+    },
+    {
+      "name": "CRIME ORGANIZATION",
+      "level": 2,
+      "members": [
+        "CREW",
+        "FAMILY",
+        "RING",
+        "SYNDICATE"
+      ]
+    },
+    {
+      "name": "SPELLING BEE RANKS MINUS A LETTER",
+      "level": 3,
+      "members": [
+        "GENUS",
+        "GOO",
+        "MAZING",
+        "SLID"
+      ]
+    }
+  ]
+}

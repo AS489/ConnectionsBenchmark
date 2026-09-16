@@ -1,0 +1,47 @@
+{
+  "id": 655,
+  "date": "2025-03-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AFFECT",
+      "level": 0,
+      "members": [
+        "MOVE",
+        "REACH",
+        "SWAY",
+        "TOUCH"
+      ]
+    },
+    {
+      "name": "YOU GOT IT!",
+      "level": 1,
+      "members": [
+        "BINGO",
+        "CORRECT",
+        "DING",
+        "RIGHT"
+      ]
+    },
+    {
+      "name": "SLANG FOR MONEY",
+      "level": 2,
+      "members": [
+        "CHANGE",
+        "GREEN",
+        "PAPER",
+        "SCRATCH"
+      ]
+    },
+    {
+      "name": "OBJECTS WITH THE PREFIX “MICRO-”",
+      "level": 3,
+      "members": [
+        "CHIP",
+        "PHONE",
+        "SCOPE",
+        "WAVE"
+      ]
+    }
+  ]
+}

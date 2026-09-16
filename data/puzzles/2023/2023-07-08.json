@@ -1,0 +1,47 @@
+{
+  "id": 27,
+  "date": "2023-07-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HATS",
+      "level": 0,
+      "members": [
+        "BERET",
+        "BOWLER",
+        "FEDORA",
+        "FEZ"
+      ]
+    },
+    {
+      "name": "ORGANS",
+      "level": 1,
+      "members": [
+        "HEART",
+        "KIDNEY",
+        "LIVER",
+        "LUNG"
+      ]
+    },
+    {
+      "name": "PARTS OF A BOOK",
+      "level": 2,
+      "members": [
+        "COVER",
+        "JACKET",
+        "PAGE",
+        "SPINE"
+      ]
+    },
+    {
+      "name": "JACK ___",
+      "level": 3,
+      "members": [
+        "ASS",
+        "KNIFE",
+        "POT",
+        "RABBIT"
+      ]
+    }
+  ]
+}

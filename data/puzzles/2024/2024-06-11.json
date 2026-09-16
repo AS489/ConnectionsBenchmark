@@ -1,0 +1,47 @@
+{
+  "id": 366,
+  "date": "2024-06-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HOMOPHONES",
+      "level": 0,
+      "members": [
+        "BI",
+        "BUY",
+        "BY",
+        "BYE"
+      ]
+    },
+    {
+      "name": "MUSCLES, INFORMALLY",
+      "level": 1,
+      "members": [
+        "AB",
+        "PEC",
+        "QUAD",
+        "TRI"
+      ]
+    },
+    {
+      "name": "MUSIC GENRES",
+      "level": 2,
+      "members": [
+        "DUB",
+        "EMO",
+        "POP",
+        "TRAP"
+      ]
+    },
+    {
+      "name": "SETTINGS ON AN APPLIANCE KNOB",
+      "level": 3,
+      "members": [
+        "HI",
+        "LO",
+        "MED",
+        "OFF"
+      ]
+    }
+  ]
+}

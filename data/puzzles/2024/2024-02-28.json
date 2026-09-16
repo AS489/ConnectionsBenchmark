@@ -1,0 +1,47 @@
+{
+  "id": 262,
+  "date": "2024-02-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHEESES, FAMILIARLY",
+      "level": 0,
+      "members": [
+        "AMERICAN",
+        "BLUE",
+        "JACK",
+        "SWISS"
+      ]
+    },
+    {
+      "name": "TRACK AND FIELD EQUIPMENT",
+      "level": 1,
+      "members": [
+        "HAMMER",
+        "HURDLE",
+        "JAVELIN",
+        "POLE"
+      ]
+    },
+    {
+      "name": "KINDS OF HEELS",
+      "level": 2,
+      "members": [
+        "CUBAN",
+        "KITTEN",
+        "STILETTO",
+        "WEDGE"
+      ]
+    },
+    {
+      "name": "DOUBLE ___",
+      "level": 3,
+      "members": [
+        "DATE",
+        "DUTCH",
+        "JEOPARDY",
+        "SPACE"
+      ]
+    }
+  ]
+}

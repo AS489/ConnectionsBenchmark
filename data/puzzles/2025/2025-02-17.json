@@ -1,0 +1,47 @@
+{
+  "id": 617,
+  "date": "2025-02-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TIME OFF",
+      "level": 0,
+      "members": [
+        "BREAK",
+        "LEAVE",
+        "REST",
+        "VACATION"
+      ]
+    },
+    {
+      "name": "FOLLOW A MEANDERING COURSE",
+      "level": 1,
+      "members": [
+        "CURVE",
+        "SNAKE",
+        "WEAVE",
+        "WIND"
+      ]
+    },
+    {
+      "name": "BOWLING RESULTS",
+      "level": 2,
+      "members": [
+        "DOUBLE",
+        "SPARE",
+        "STRIKE",
+        "TURKEY"
+      ]
+    },
+    {
+      "name": "___FISH",
+      "level": 3,
+      "members": [
+        "BLOW",
+        "CAT",
+        "GOLD",
+        "SWORD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 125,
+  "date": "2023-10-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BUTT",
+      "level": 0,
+      "members": [
+        "BOTTOM",
+        "BUNS",
+        "SEAT",
+        "TAIL"
+      ]
+    },
+    {
+      "name": "ROTARY PHONE PARTS",
+      "level": 1,
+      "members": [
+        "CORD",
+        "CRADLE",
+        "DIAL",
+        "HANDSET"
+      ]
+    },
+    {
+      "name": "SLANG FOR HOME",
+      "level": 2,
+      "members": [
+        "CRIB",
+        "DIGS",
+        "JOINT",
+        "PAD"
+      ]
+    },
+    {
+      "name": "PLUNDER",
+      "level": 3,
+      "members": [
+        "BOOTY",
+        "LOOT",
+        "SPOILS",
+        "SWAG"
+      ]
+    }
+  ]
+}

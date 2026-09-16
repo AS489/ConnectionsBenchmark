@@ -1,0 +1,47 @@
+{
+  "id": 165,
+  "date": "2023-11-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOODS WITH CRUSTS",
+      "level": 0,
+      "members": [
+        "PASTY",
+        "PIE",
+        "TART",
+        "TURNOVER"
+      ]
+    },
+    {
+      "name": "ENDING IN A SILENT “T”",
+      "level": 1,
+      "members": [
+        "BOUQUET",
+        "PARFAIT",
+        "RAGOUT",
+        "RAPPORT"
+      ]
+    },
+    {
+      "name": "COUNTRIES WITH RED AND WHITE FLAGS",
+      "level": 2,
+      "members": [
+        "JAPAN",
+        "POLAND",
+        "TUNISIA",
+        "TURKEY"
+      ]
+    },
+    {
+      "name": "N.B.A. GREATS",
+      "level": 3,
+      "members": [
+        "BIRD",
+        "CURRY",
+        "JAMES",
+        "JORDAN"
+      ]
+    }
+  ]
+}

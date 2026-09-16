@@ -1,0 +1,47 @@
+{
+  "id": 664,
+  "date": "2025-04-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EMPLOY",
+      "level": 0,
+      "members": [
+        "CONTRACT",
+        "ENGAGE",
+        "RETAIN",
+        "SIGN"
+      ]
+    },
+    {
+      "name": "PARTS OF A WEBSITE",
+      "level": 1,
+      "members": [
+        "BANNER",
+        "HEADER",
+        "MENU",
+        "SIDEBAR"
+      ]
+    },
+    {
+      "name": "MAGAZINES",
+      "level": 2,
+      "members": [
+        "BILLBOARD",
+        "PEOPLE",
+        "STAR",
+        "TIME"
+      ]
+    },
+    {
+      "name": "ENDING WITH MEDIEVAL WEAPONS",
+      "level": 3,
+      "members": [
+        "CROSSWORD",
+        "GRIMACE",
+        "RAINBOW",
+        "SEMBLANCE"
+      ]
+    }
+  ]
+}

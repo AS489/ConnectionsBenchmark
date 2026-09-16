@@ -1,0 +1,47 @@
+{
+  "id": 261,
+  "date": "2024-02-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "'80S FASHION TRENDS",
+      "level": 0,
+      "members": [
+        "HEADBAND",
+        "MULLET",
+        "NEON",
+        "SPANDEX"
+      ]
+    },
+    {
+      "name": "GYMNASTICS POSITIONS",
+      "level": 1,
+      "members": [
+        "PIKE",
+        "SPLIT",
+        "STRADDLE",
+        "TUCK"
+      ]
+    },
+    {
+      "name": "KINDS OF CRACKERS",
+      "level": 2,
+      "members": [
+        "ANIMAL",
+        "GOLDFISH",
+        "OYSTER",
+        "RITZ"
+      ]
+    },
+    {
+      "name": "___ LADDER",
+      "level": 3,
+      "members": [
+        "CORPORATE",
+        "ROPE",
+        "SALMON",
+        "WORD"
+      ]
+    }
+  ]
+}

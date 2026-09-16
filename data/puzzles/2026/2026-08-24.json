@@ -1,0 +1,47 @@
+{
+  "id": 1165,
+  "date": "2026-08-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FISH",
+      "level": null,
+      "members": [
+        "MULLET",
+        "PIKE",
+        "SOLE",
+        "TANG"
+      ]
+    },
+    {
+      "name": "PRINCIPAL",
+      "level": null,
+      "members": [
+        "ARCH",
+        "CHIEF",
+        "MAIN",
+        "PRIME"
+      ]
+    },
+    {
+      "name": "PRO-WRESTLING LINGO",
+      "level": null,
+      "members": [
+        "FACE",
+        "HEEL",
+        "JOBBER",
+        "KAYFABE"
+      ]
+    },
+    {
+      "name": "LETTER HOMOPHONE PLUS TENNIS TERM",
+      "level": null,
+      "members": [
+        "BESET",
+        "DESERVE",
+        "EX-LOVE",
+        "EYELET"
+      ]
+    }
+  ]
+}

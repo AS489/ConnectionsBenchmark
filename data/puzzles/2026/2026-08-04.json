@@ -1,0 +1,47 @@
+{
+  "id": 1145,
+  "date": "2026-08-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LONG CYLINDRICAL THINGS",
+      "level": null,
+      "members": [
+        "CIGARETTE",
+        "FOAM ROLLER",
+        "POOL NOODLE",
+        "PRETZEL ROD"
+      ]
+    },
+    {
+      "name": "ICONIC NYC SIGHTS",
+      "level": null,
+      "members": [
+        "BODEGA",
+        "PIGEON",
+        "SUBWAY STATION",
+        "TAXI CAB"
+      ]
+    },
+    {
+      "name": "THINGS WITH PEDALS",
+      "level": null,
+      "members": [
+        "PIANO",
+        "SEWING MACHINE",
+        "SWAN BOAT",
+        "UNICYCLE"
+      ]
+    },
+    {
+      "name": "V-SHAPED THINGS",
+      "level": null,
+      "members": [
+        "ANGLE BRACKET",
+        "CHEVRON",
+        "GOOSE FORMATION",
+        "PEACE SIGN"
+      ]
+    }
+  ]
+}

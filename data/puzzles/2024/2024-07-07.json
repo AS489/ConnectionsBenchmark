@@ -1,0 +1,47 @@
+{
+  "id": 392,
+  "date": "2024-07-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHANGE STATES OF MATTER",
+      "level": 0,
+      "members": [
+        "CONDENSE",
+        "FREEZE",
+        "MELT",
+        "VAPORIZE"
+      ]
+    },
+    {
+      "name": "REPLACEMENT",
+      "level": 1,
+      "members": [
+        "ALTERNATE",
+        "BACKUP",
+        "COVER",
+        "SUB"
+      ]
+    },
+    {
+      "name": "SLANGY NAMES FOR PROFESSIONS",
+      "level": 2,
+      "members": [
+        "COPPER",
+        "HACK",
+        "SHRINK",
+        "SUIT"
+      ]
+    },
+    {
+      "name": "MARIAH CAREY NUMBER ONE HITS",
+      "level": 3,
+      "members": [
+        "FANTASY",
+        "HERO",
+        "HONEY",
+        "SOMEDAY"
+      ]
+    }
+  ]
+}

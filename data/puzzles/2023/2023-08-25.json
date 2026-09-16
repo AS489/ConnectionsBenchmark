@@ -1,0 +1,47 @@
+{
+  "id": 75,
+  "date": "2023-08-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SOCIAL GATHERING",
+      "level": 0,
+      "members": [
+        "BASH",
+        "BLOWOUT",
+        "PARTY",
+        "SHINDIG"
+      ]
+    },
+    {
+      "name": "FOUND IN A KITCHEN",
+      "level": 1,
+      "members": [
+        "COUNTER",
+        "MIXER",
+        "RANGE",
+        "SINK"
+      ]
+    },
+    {
+      "name": "“PINOCCHIO” FIGURES",
+      "level": 2,
+      "members": [
+        "CRICKET",
+        "PUPPET",
+        "WHALE",
+        "WOODCARVER"
+      ]
+    },
+    {
+      "name": "EASTER ___",
+      "level": 3,
+      "members": [
+        "BUNNY",
+        "EGG",
+        "ISLAND",
+        "SUNDAY"
+      ]
+    }
+  ]
+}

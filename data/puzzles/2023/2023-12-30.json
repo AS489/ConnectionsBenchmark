@@ -1,0 +1,47 @@
+{
+  "id": 202,
+  "date": "2023-12-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BLACK-AND-WHITE ANIMALS",
+      "level": 0,
+      "members": [
+        "ORCA",
+        "PANDA",
+        "SKUNK",
+        "ZEBRA"
+      ]
+    },
+    {
+      "name": "SEQUENCE",
+      "level": 1,
+      "members": [
+        "CHAIN",
+        "SERIES",
+        "STRING",
+        "TRAIN"
+      ]
+    },
+    {
+      "name": "HETERONYMS",
+      "level": 2,
+      "members": [
+        "BASS",
+        "DOVE",
+        "DESERT",
+        "WIND"
+      ]
+    },
+    {
+      "name": "___ TRAP",
+      "level": 3,
+      "members": [
+        "BEAR",
+        "SAND",
+        "SPEED",
+        "TOURIST"
+      ]
+    }
+  ]
+}

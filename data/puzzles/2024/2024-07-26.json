@@ -1,0 +1,47 @@
+{
+  "id": 411,
+  "date": "2024-07-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BASIC DIRECTIONS",
+      "level": 0,
+      "members": [
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "UP"
+      ]
+    },
+    {
+      "name": "ADVOCATE FOR",
+      "level": 1,
+      "members": [
+        "BACK",
+        "CHAMPION",
+        "ENDORSE",
+        "SUPPORT"
+      ]
+    },
+    {
+      "name": "DRAWBACK",
+      "level": 2,
+      "members": [
+        "CON",
+        "DING",
+        "MINUS",
+        "STRIKE"
+      ]
+    },
+    {
+      "name": "INSTRUMENT HOMOPHONES",
+      "level": 3,
+      "members": [
+        "BASE",
+        "LIAR",
+        "LOOT",
+        "SYMBOL"
+      ]
+    }
+  ]
+}

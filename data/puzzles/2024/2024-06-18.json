@@ -1,0 +1,47 @@
+{
+  "id": 373,
+  "date": "2024-06-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "REMOTE CONTROL BUTTONS",
+      "level": 0,
+      "members": [
+        "CHANNEL",
+        "MENU",
+        "POWER",
+        "VOLUME"
+      ]
+    },
+    {
+      "name": "HIDE FROM VIEW",
+      "level": 1,
+      "members": [
+        "BLOCK",
+        "COVER",
+        "SCREEN",
+        "SHIELD"
+      ]
+    },
+    {
+      "name": "DRINK GARNISHES",
+      "level": 2,
+      "members": [
+        "CHERRY",
+        "OLIVE",
+        "SWORD",
+        "UMBRELLA"
+      ]
+    },
+    {
+      "name": "FIRST WORD IN BOND MOVIE TITLES",
+      "level": 3,
+      "members": [
+        "CASINO",
+        "DIAMONDS",
+        "QUANTUM",
+        "TOMORROW"
+      ]
+    }
+  ]
+}

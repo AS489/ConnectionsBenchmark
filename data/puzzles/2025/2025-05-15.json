@@ -1,0 +1,47 @@
+{
+  "id": 704,
+  "date": "2025-05-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RATIONALE",
+      "level": 0,
+      "members": [
+        "BASIS",
+        "FOUNDATION",
+        "GROUNDS",
+        "REASON"
+      ]
+    },
+    {
+      "name": "TYPES OF SNOW",
+      "level": 1,
+      "members": [
+        "CRUST",
+        "ICE",
+        "POWDER",
+        "SLUSH"
+      ]
+    },
+    {
+      "name": "LAST WORDS OF FAMOUS OPERA TITLES",
+      "level": 2,
+      "members": [
+        "BESS",
+        "BUTTERFLY",
+        "FLUTE",
+        "SEVILLE"
+      ]
+    },
+    {
+      "name": "REAL ___",
+      "level": 3,
+      "members": [
+        "DEAL",
+        "ESTATE",
+        "MADRID",
+        "WORLD"
+      ]
+    }
+  ]
+}

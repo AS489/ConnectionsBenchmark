@@ -1,0 +1,47 @@
+{
+  "id": 928,
+  "date": "2025-12-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CALIFORNIA-BASED CHARACTER TROPES",
+      "level": null,
+      "members": [
+        "MOVIE EXEC",
+        "SURFER",
+        "TECH BRO",
+        "VALLEY GIRL"
+      ]
+    },
+    {
+      "name": "COMEDY SUBGENRES",
+      "level": null,
+      "members": [
+        "BUDDY",
+        "CRINGE",
+        "SCREWBALL",
+        "STONER"
+      ]
+    },
+    {
+      "name": "'70S ROCK BANDS",
+      "level": null,
+      "members": [
+        "AMERICA",
+        "CHICAGO",
+        "FOREIGNER",
+        "JOURNEY"
+      ]
+    },
+    {
+      "name": "BLACK ___",
+      "level": null,
+      "members": [
+        "FOREST",
+        "FRIDAY",
+        "PANTHER",
+        "WIDOW"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 504,
+  "date": "2024-10-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SASSY",
+      "level": 0,
+      "members": [
+        "CUTE",
+        "FRESH",
+        "SMART",
+        "WISE"
+      ]
+    },
+    {
+      "name": "AMBIENCE",
+      "level": 1,
+      "members": [
+        "AIR",
+        "MOOD",
+        "FEELING",
+        "QUALITY"
+      ]
+    },
+    {
+      "name": "UNITS",
+      "level": 2,
+      "members": [
+        "BAR",
+        "BEL",
+        "LUX",
+        "MOLE"
+      ]
+    },
+    {
+      "name": "THE LITTLE ___",
+      "level": 3,
+      "members": [
+        "MERMAID",
+        "PRINCE",
+        "RASCALS",
+        "TRAMP"
+      ]
+    }
+  ]
+}

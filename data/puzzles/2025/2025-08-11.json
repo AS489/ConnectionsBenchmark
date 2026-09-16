@@ -1,0 +1,47 @@
+{
+  "id": 792,
+  "date": "2025-08-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ORDINARY",
+      "level": 0,
+      "members": [
+        "NORMAL",
+        "PLAIN",
+        "STANDARD",
+        "VANILLA"
+      ]
+    },
+    {
+      "name": "ABANDON",
+      "level": 1,
+      "members": [
+        "DESERT",
+        "DUMP",
+        "MAROON",
+        "STRAND"
+      ]
+    },
+    {
+      "name": "SPECS ON CONSUMER PACKAGING",
+      "level": 2,
+      "members": [
+        "COUNT",
+        "MEASURE",
+        "WEIGHT",
+        "VOLUME"
+      ]
+    },
+    {
+      "name": "DARK ___",
+      "level": 3,
+      "members": [
+        "AGES",
+        "CHOCOLATE",
+        "HORSE",
+        "MATTER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 911,
+  "date": "2025-12-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BEAR IN MIND",
+      "level": null,
+      "members": [
+        "CONSIDER",
+        "COUNT",
+        "FACTOR",
+        "INCLUDE"
+      ]
+    },
+    {
+      "name": "STRIPED ANIMALS",
+      "level": null,
+      "members": [
+        "CLOWNFISH",
+        "HONEYBEE",
+        "TIGER",
+        "ZEBRA"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH RAINBOWS",
+      "level": null,
+      "members": [
+        "DOROTHY GALE",
+        "LEPRECHAUN",
+        "PRIDE",
+        "UNICORN"
+      ]
+    },
+    {
+      "name": "BEGINNING WITH NUMBER HOMOPHONES",
+      "level": null,
+      "members": [
+        "FIEVEL",
+        "FOREHEAD",
+        "TOUCAN",
+        "WONDER"
+      ]
+    }
+  ]
+}

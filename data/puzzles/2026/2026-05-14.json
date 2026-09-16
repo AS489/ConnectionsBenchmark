@@ -1,0 +1,47 @@
+{
+  "id": 1063,
+  "date": "2026-05-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PREMONITION",
+      "level": null,
+      "members": [
+        "GUT FEELING",
+        "HUNCH",
+        "INTUITION",
+        "SIXTH SENSE"
+      ]
+    },
+    {
+      "name": "CELLPHONE MODES",
+      "level": null,
+      "members": [
+        "DO NOT DISTURB",
+        "RING",
+        "SILENT",
+        "VIBRATE"
+      ]
+    },
+    {
+      "name": "BAD THINGS TO DO IN MODERN DATING",
+      "level": null,
+      "members": [
+        "BREADCRUMB",
+        "CATFISH",
+        "GHOST",
+        "LOVE BOMB"
+      ]
+    },
+    {
+      "name": "PHRASES WHOSE SECOND WORDS INCLUDE THEIR FIRST WORD",
+      "level": null,
+      "members": [
+        "AIR CAIRO",
+        "ALL HALLOWS",
+        "ARM WARMER",
+        "THE OTHERS"
+      ]
+    }
+  ]
+}

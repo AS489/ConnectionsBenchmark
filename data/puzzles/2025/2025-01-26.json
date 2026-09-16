@@ -1,0 +1,47 @@
+{
+  "id": 595,
+  "date": "2025-01-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WAYS TO GET FOOD",
+      "level": 0,
+      "members": [
+        "FARM",
+        "FISH",
+        "GATHER",
+        "HUNT"
+      ]
+    },
+    {
+      "name": "KEEP APART",
+      "level": 1,
+      "members": [
+        "CLOISTER",
+        "SECLUDE",
+        "SEPARATE",
+        "SILO"
+      ]
+    },
+    {
+      "name": "PARTS OF A BIG RIG",
+      "level": 2,
+      "members": [
+        "AXLES",
+        "HITCH",
+        "TRACTOR",
+        "TRAILER"
+      ]
+    },
+    {
+      "name": "DANCE EVENTS PLUS A LETTER",
+      "level": 3,
+      "members": [
+        "BALLY",
+        "DISCOG",
+        "PROMO",
+        "RAVEN"
+      ]
+    }
+  ]
+}

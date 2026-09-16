@@ -1,0 +1,47 @@
+{
+  "id": 343,
+  "date": "2024-05-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AFFLUENT",
+      "level": 0,
+      "members": [
+        "FLUSH",
+        "LOADED",
+        "RICH",
+        "WEALTHY"
+      ]
+    },
+    {
+      "name": "CUT INTO PIECES",
+      "level": 1,
+      "members": [
+        "CHOP",
+        "CUBE",
+        "DICE",
+        "MINCE"
+      ]
+    },
+    {
+      "name": "OLD-FASHIONED",
+      "level": 2,
+      "members": [
+        "SQUARE",
+        "STRAIGHT",
+        "STUFFY",
+        "TRADITIONAL"
+      ]
+    },
+    {
+      "name": "FRUIT HOMOPHONES",
+      "level": 3,
+      "members": [
+        "BURY",
+        "CURRENT",
+        "LEACHY",
+        "PAIR"
+      ]
+    }
+  ]
+}

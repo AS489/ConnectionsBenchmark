@@ -1,0 +1,47 @@
+{
+  "id": 155,
+  "date": "2023-11-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNIT OF LANGUAGE",
+      "level": 0,
+      "members": [
+        "LETTER",
+        "PARAGRAPH",
+        "SENTENCE",
+        "WORD"
+      ]
+    },
+    {
+      "name": "TRADEMARK",
+      "level": 1,
+      "members": [
+        "FEATURE",
+        "HALLMARK",
+        "STAMP",
+        "TRAIT"
+      ]
+    },
+    {
+      "name": "FUNNY PERSON",
+      "level": 2,
+      "members": [
+        "CARD",
+        "CLOWN",
+        "CUTUP",
+        "JOKER"
+      ]
+    },
+    {
+      "name": "THINGS WITH LEAVES",
+      "level": 3,
+      "members": [
+        "BOOK",
+        "TABLE",
+        "TEA",
+        "TREE"
+      ]
+    }
+  ]
+}

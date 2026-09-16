@@ -1,0 +1,47 @@
+{
+  "id": 34,
+  "date": "2023-07-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLEASANT SMELLS",
+      "level": 0,
+      "members": [
+        "AROMA",
+        "BOUQUET",
+        "FRAGRANCE",
+        "SCENT"
+      ]
+    },
+    {
+      "name": "MUSIC GENRES",
+      "level": 1,
+      "members": [
+        "BLUES",
+        "COUNTRY",
+        "FUNK",
+        "SOUL"
+      ]
+    },
+    {
+      "name": "ROCK PAPER SCISSORS",
+      "level": 2,
+      "members": [
+        "PAPER",
+        "ROCK",
+        "SCISSORS",
+        "SHOOT"
+      ]
+    },
+    {
+      "name": "MALE ANIMALS",
+      "level": 3,
+      "members": [
+        "BOAR",
+        "BUCK",
+        "BULL",
+        "JACK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 238,
+  "date": "2024-02-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DRINKS WITH CAFFEINE",
+      "level": 0,
+      "members": [
+        "COCOA",
+        "COFFEE",
+        "MATE",
+        "TEA"
+      ]
+    },
+    {
+      "name": "UNEXCITING",
+      "level": 1,
+      "members": [
+        "BORING",
+        "DULL",
+        "MUNDANE",
+        "VANILLA"
+      ]
+    },
+    {
+      "name": "COMEDIAN’S PERFORMANCE",
+      "level": 2,
+      "members": [
+        "ACT",
+        "BIT",
+        "ROUTINE",
+        "SET"
+      ]
+    },
+    {
+      "name": "MARTINI SPECIFICATIONS",
+      "level": 3,
+      "members": [
+        "DIRTY",
+        "DRY",
+        "TWIST",
+        "UP"
+      ]
+    }
+  ]
+}

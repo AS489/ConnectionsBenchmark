@@ -1,0 +1,47 @@
+{
+  "id": 510,
+  "date": "2024-11-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SEEN IN A KITCHEN",
+      "level": 0,
+      "members": [
+        "COUNTER",
+        "FRIDGE",
+        "RANGE",
+        "SINK"
+      ]
+    },
+    {
+      "name": "GROUP OF ADVISORS",
+      "level": 1,
+      "members": [
+        "BOARD",
+        "CABINET",
+        "COUNCIL",
+        "PANEL"
+      ]
+    },
+    {
+      "name": "CORE EXERCISES",
+      "level": 2,
+      "members": [
+        "BOAT",
+        "CRUNCH",
+        "MOUNTAIN CLIMBER",
+        "PLANK"
+      ]
+    },
+    {
+      "name": "KINDS OF EARRINGS",
+      "level": 3,
+      "members": [
+        "CHANDELIER",
+        "DROP",
+        "HOOP",
+        "STUD"
+      ]
+    }
+  ]
+}

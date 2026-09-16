@@ -1,0 +1,47 @@
+{
+  "id": 789,
+  "date": "2025-08-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MAKE EQUAL, AS A SCORE",
+      "level": 0,
+      "members": [
+        "DRAW",
+        "EVEN",
+        "SQUARE",
+        "TIE"
+      ]
+    },
+    {
+      "name": "BESTOW",
+      "level": 1,
+      "members": [
+        "CONFER",
+        "GRANT",
+        "PRESENT",
+        "VEST"
+      ]
+    },
+    {
+      "name": "THINGS YOU MIGHT DO DURING A BORING CLASS/MEETING",
+      "level": 2,
+      "members": [
+        "DOODLE",
+        "DOZE",
+        "PASS NOTES",
+        "SPACE"
+      ]
+    },
+    {
+      "name": "WORDS AFTER THE LETTERS “MS”",
+      "level": 3,
+      "members": [
+        "DEGREE",
+        "MARVEL",
+        "PAC-MAN",
+        "PAINT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 850,
+  "date": "2025-10-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FINEST",
+      "level": null,
+      "members": [
+        "BEST",
+        "CREAM",
+        "ELITE",
+        "SELECT"
+      ]
+    },
+    {
+      "name": "ROCK MUSIC SUBGENRES",
+      "level": null,
+      "members": [
+        "ALTERNATIVE",
+        "ARENA",
+        "CLASSIC",
+        "GARAGE"
+      ]
+    },
+    {
+      "name": "PAINT FINISHES",
+      "level": null,
+      "members": [
+        "EGGSHELL",
+        "GLOSS",
+        "MATTE",
+        "PEARL"
+      ]
+    },
+    {
+      "name": "KINDS OF BEDS",
+      "level": null,
+      "members": [
+        "FLOWER",
+        "NAIL",
+        "OYSTER",
+        "RIVER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 513,
+  "date": "2024-11-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS THAT ARE FUZZY",
+      "level": 0,
+      "members": [
+        "CATERPILLAR",
+        "FLEECE",
+        "PEACH",
+        "PIPE CLEANER"
+      ]
+    },
+    {
+      "name": "THINGS WITH SHELLS",
+      "level": 1,
+      "members": [
+        "CLAM",
+        "EGG",
+        "NUT",
+        "TURTLE"
+      ]
+    },
+    {
+      "name": "FIGURES IN “SHREK”",
+      "level": 2,
+      "members": [
+        "DONKEY",
+        "DRAGON",
+        "OGRE",
+        "PRINCESS"
+      ]
+    },
+    {
+      "name": "MAGIC ___",
+      "level": 3,
+      "members": [
+        "CARPET",
+        "KINGDOM",
+        "MARKER",
+        "MUSHROOM"
+      ]
+    }
+  ]
+}

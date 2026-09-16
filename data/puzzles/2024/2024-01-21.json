@@ -1,0 +1,47 @@
+{
+  "id": 224,
+  "date": "2024-01-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RIP OFF",
+      "level": 0,
+      "members": [
+        "FLEECE",
+        "HOSE",
+        "ROB",
+        "STIFF"
+      ]
+    },
+    {
+      "name": "THINGS MADE OF WAX",
+      "level": 1,
+      "members": [
+        "CANDLE",
+        "CRAYON",
+        "HONEYCOMB",
+        "SEAL"
+      ]
+    },
+    {
+      "name": "PARTS OF AN AIRPLANE",
+      "level": 2,
+      "members": [
+        "CABIN",
+        "ENGINE",
+        "NOSE",
+        "WING"
+      ]
+    },
+    {
+      "name": "UNITS OF VEGETABLES",
+      "level": 3,
+      "members": [
+        "BULB",
+        "EAR",
+        "HEAD",
+        "STALK"
+      ]
+    }
+  ]
+}

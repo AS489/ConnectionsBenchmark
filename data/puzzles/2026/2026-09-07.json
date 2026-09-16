@@ -1,0 +1,47 @@
+{
+  "id": 1179,
+  "date": "2026-09-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "QUITE THE SAGA",
+      "level": null,
+      "members": [
+        "FABRICATION",
+        "FISH STORY",
+        "TALL TALE",
+        "YARN"
+      ]
+    },
+    {
+      "name": "PARTS OF A BRA",
+      "level": null,
+      "members": [
+        "CUP",
+        "HOOK",
+        "STRAP",
+        "UNDERWIRE"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH PINE TREES",
+      "level": null,
+      "members": [
+        "CAR AIR FRESHENER",
+        "CHRISTMAS",
+        "NEEDLES",
+        "TURPENTINE"
+      ]
+    },
+    {
+      "name": "STARTING WITH DISNEY CHARACTERS",
+      "level": null,
+      "members": [
+        "PLUTONIUM",
+        "SCAR TISSUE",
+        "STITCH MARKER",
+        "TRAMPOLINE"
+      ]
+    }
+  ]
+}

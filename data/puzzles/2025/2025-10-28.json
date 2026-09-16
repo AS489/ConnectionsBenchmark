@@ -1,0 +1,47 @@
+{
+  "id": 870,
+  "date": "2025-10-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BANALITY",
+      "level": null,
+      "members": [
+        "CHESTNUT",
+        "CLICHÉ",
+        "PLATITUDE",
+        "TROPE"
+      ]
+    },
+    {
+      "name": "IN THE KNOW",
+      "level": null,
+      "members": [
+        "AWARE",
+        "HIP",
+        "SAVVY",
+        "WISE"
+      ]
+    },
+    {
+      "name": "REMOTE CONTROL BUTTONS",
+      "level": null,
+      "members": [
+        "BACK",
+        "HOME",
+        "MENU",
+        "SELECT"
+      ]
+    },
+    {
+      "name": "ONE-NAMED SINGER PLUS STARTING LETTER",
+      "level": null,
+      "members": [
+        "GUSHER",
+        "KENYA",
+        "OCHER",
+        "PELVIS"
+      ]
+    }
+  ]
+}

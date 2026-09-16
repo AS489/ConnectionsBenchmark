@@ -1,0 +1,47 @@
+{
+  "id": 469,
+  "date": "2024-09-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COLOR TYPES",
+      "level": 0,
+      "members": [
+        "GRAYSCALE",
+        "NEON",
+        "NEUTRAL",
+        "PASTEL"
+      ]
+    },
+    {
+      "name": "FILE MENU OPTIONS",
+      "level": 1,
+      "members": [
+        "NEW",
+        "OPEN",
+        "PRINT",
+        "SAVE"
+      ]
+    },
+    {
+      "name": "CHANCE TO WIN A PRIZE",
+      "level": 2,
+      "members": [
+        "DRAWING",
+        "LOTTERY",
+        "POOL",
+        "RAFFLE"
+      ]
+    },
+    {
+      "name": "WHAT “BRONZE” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "ALLOY",
+        "SCULPTURE",
+        "SUNTAN",
+        "THIRD"
+      ]
+    }
+  ]
+}

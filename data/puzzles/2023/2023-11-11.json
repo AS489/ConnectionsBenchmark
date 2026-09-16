@@ -1,0 +1,47 @@
+{
+  "id": 153,
+  "date": "2023-11-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPARSE/LACKING",
+      "level": 0,
+      "members": [
+        "LIGHT",
+        "SHORT",
+        "SPARE",
+        "THIN"
+      ]
+    },
+    {
+      "name": "FUN TIME",
+      "level": 1,
+      "members": [
+        "BALL",
+        "BLAST",
+        "KICK",
+        "RIOT"
+      ]
+    },
+    {
+      "name": "FILMMAKING EQUIPMENT",
+      "level": 2,
+      "members": [
+        "BOOM",
+        "DOLLY",
+        "LENS",
+        "TRIPOD"
+      ]
+    },
+    {
+      "name": "“GET A ___!”",
+      "level": 3,
+      "members": [
+        "CLUE",
+        "GRIP",
+        "LIFE",
+        "ROOM"
+      ]
+    }
+  ]
+}

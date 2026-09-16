@@ -1,0 +1,47 @@
+{
+  "id": 615,
+  "date": "2025-02-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DIVULGE",
+      "level": 0,
+      "members": [
+        "BLAB",
+        "DISH",
+        "SPILL",
+        "TELL"
+      ]
+    },
+    {
+      "name": "WORDS ON A MAC KEYBOARD",
+      "level": 1,
+      "members": [
+        "COMMAND",
+        "CONTROL",
+        "OPTION",
+        "RETURN"
+      ]
+    },
+    {
+      "name": "WORDS SHORTENED IN ROCK GENRES",
+      "level": 2,
+      "members": [
+        "ALTERNATIVE",
+        "EMOTIONAL",
+        "POPULAR",
+        "PROGRESSIVE"
+      ]
+    },
+    {
+      "name": "___CAKE",
+      "level": 3,
+      "members": [
+        "CHEESE",
+        "CUP",
+        "PAN",
+        "SHORT"
+      ]
+    }
+  ]
+}

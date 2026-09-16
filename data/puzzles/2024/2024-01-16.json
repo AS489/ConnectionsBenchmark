@@ -1,0 +1,47 @@
+{
+  "id": 219,
+  "date": "2024-01-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DECEIVE",
+      "level": 0,
+      "members": [
+        "CON",
+        "DUPE",
+        "FOOL",
+        "TRICK"
+      ]
+    },
+    {
+      "name": "INSIDE INFO",
+      "level": 1,
+      "members": [
+        "DOPE",
+        "SCOOP",
+        "SKINNY",
+        "WORD"
+      ]
+    },
+    {
+      "name": "TILT TO ONE SIDE",
+      "level": 2,
+      "members": [
+        "CANT",
+        "LEAN",
+        "LIST",
+        "SLOPE"
+      ]
+    },
+    {
+      "name": "WORDS SPELLED WITH AN UPSIDE-DOWN CALCULATOR",
+      "level": 3,
+      "members": [
+        "BOOB",
+        "EGGSHELL",
+        "GIGGLE",
+        "HELLO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 311,
+  "date": "2024-04-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UPRIGHT SUPPORT",
+      "level": 0,
+      "members": [
+        "COLUMN",
+        "PILLAR",
+        "POLE",
+        "POST"
+      ]
+    },
+    {
+      "name": "HEED, AS RULES",
+      "level": 1,
+      "members": [
+        "FOLLOW",
+        "MIND",
+        "OBSERVE",
+        "REGARD"
+      ]
+    },
+    {
+      "name": "ALLOTMENT",
+      "level": 2,
+      "members": [
+        "INTEREST",
+        "PERCENTAGE",
+        "SHARE",
+        "STAKE"
+      ]
+    },
+    {
+      "name": "GATHERED BY SPIES",
+      "level": 3,
+      "members": [
+        "DIRT",
+        "INFORMATION",
+        "INTELLIGENCE",
+        "SECRETS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 14,
+  "date": "2023-06-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BEDS",
+      "level": 0,
+      "members": [
+        "BUNK",
+        "CANOPY",
+        "MURPHY",
+        "TRUNDLE"
+      ]
+    },
+    {
+      "name": "FAMOUS BROTHERS",
+      "level": 1,
+      "members": [
+        "JONAS",
+        "MARX",
+        "WARNER",
+        "WRIGHT"
+      ]
+    },
+    {
+      "name": "HONDAS",
+      "level": 2,
+      "members": [
+        "ACCORD",
+        "CIVIC",
+        "PASSPORT",
+        "PILOT"
+      ]
+    },
+    {
+      "name": "VIDEO GAME CHARACTERS",
+      "level": 3,
+      "members": [
+        "CRASH",
+        "LINK",
+        "MARIO",
+        "SONIC"
+      ]
+    }
+  ]
+}

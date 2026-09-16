@@ -1,0 +1,47 @@
+{
+  "id": 211,
+  "date": "2024-01-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS THAT ARE ORANGE",
+      "level": 0,
+      "members": [
+        "BASKETBALL",
+        "CARROT",
+        "GOLDFISH",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "name": "LONG, SKINNY OBJECTS",
+      "level": 1,
+      "members": [
+        "POLE",
+        "ROD",
+        "STAFF",
+        "STICK"
+      ]
+    },
+    {
+      "name": "SEEN ON A GOLF COURSE",
+      "level": 2,
+      "members": [
+        "CART",
+        "CLUB",
+        "HOLE",
+        "TEE"
+      ]
+    },
+    {
+      "name": "SHAPES OF CAPITAL GREEK LETTERS",
+      "level": 3,
+      "members": [
+        "CIRCLE",
+        "HORSESHOE",
+        "PITCHFORK",
+        "TRIANGLE"
+      ]
+    }
+  ]
+}

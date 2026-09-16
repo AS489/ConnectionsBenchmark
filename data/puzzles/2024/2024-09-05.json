@@ -1,0 +1,47 @@
+{
+  "id": 452,
+  "date": "2024-09-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HAIR SALON OFFERINGS",
+      "level": 0,
+      "members": [
+        "BLOWOUT",
+        "COLOR",
+        "CUT",
+        "TRIM"
+      ]
+    },
+    {
+      "name": "CRITICIZE",
+      "level": 1,
+      "members": [
+        "BASH",
+        "BLAST",
+        "PAN",
+        "SLAM"
+      ]
+    },
+    {
+      "name": "OBTAIN",
+      "level": 2,
+      "members": [
+        "BAG",
+        "LAND",
+        "SCORE",
+        "SNAG"
+      ]
+    },
+    {
+      "name": "MEASURED IN FOOTBALL STATS",
+      "level": 3,
+      "members": [
+        "ATTEMPT",
+        "RECEPTION",
+        "SACK",
+        "YARD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1087,
+  "date": "2026-06-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TRANSLUCENT, AS FABRIC",
+      "level": null,
+      "members": [
+        "GAUZY",
+        "GOSSAMER",
+        "SHEER",
+        "THIN"
+      ]
+    },
+    {
+      "name": "SPEAK",
+      "level": null,
+      "members": [
+        "EXPRESS",
+        "STATE",
+        "UTTER",
+        "VOICE"
+      ]
+    },
+    {
+      "name": "DEMOLISH",
+      "level": null,
+      "members": [
+        "GUT",
+        "LEVEL",
+        "TOTAL",
+        "TRASH"
+      ]
+    },
+    {
+      "name": "MUSIC GENRE SUFFIXES",
+      "level": null,
+      "members": [
+        "CORE",
+        "POP",
+        "STEP",
+        "WAVE"
+      ]
+    }
+  ]
+}

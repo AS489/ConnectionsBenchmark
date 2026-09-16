@@ -1,0 +1,47 @@
+{
+  "id": 376,
+  "date": "2024-06-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AMUSEMENT PARK RIDES",
+      "level": 0,
+      "members": [
+        "FERRIS WHEEL",
+        "MERRY-GO-ROUND",
+        "ROLLER COASTER",
+        "TILT-A-WHIRL"
+      ]
+    },
+    {
+      "name": "APPROVAL",
+      "level": 1,
+      "members": [
+        "CLEARANCE",
+        "GO-AHEAD",
+        "GREEN LIGHT",
+        "THUMBS-UP"
+      ]
+    },
+    {
+      "name": "TYPES OF COME-FROM-BEHIND STORIES",
+      "level": 2,
+      "members": [
+        "CINDERELLA",
+        "DAVID-AND-GOLIATH",
+        "RAGS-TO-RICHES",
+        "UNDERDOG"
+      ]
+    },
+    {
+      "name": "BEGINNING WITH SYNONYMS FOR REAR END",
+      "level": 3,
+      "members": [
+        "BUMPER-TO-BUMPER",
+        "BUTTERMILK",
+        "RUMPELSTILTSKIN",
+        "TAILGATE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 719,
+  "date": "2025-05-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RODS",
+      "level": 0,
+      "members": [
+        "BAT",
+        "CLUB",
+        "STAFF",
+        "STICK"
+      ]
+    },
+    {
+      "name": "THEY'RE ON A ROLL!",
+      "level": 1,
+      "members": [
+        "FOIL",
+        "TAPE",
+        "RIBBON",
+        "TOILET PAPER"
+      ]
+    },
+    {
+      "name": "COMMON SWAG ITEMS",
+      "level": 2,
+      "members": [
+        "HAT",
+        "TEE",
+        "TOTE",
+        "WATER BOTTLE"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “SHACK”",
+      "level": 3,
+      "members": [
+        "CADDY",
+        "LOVE",
+        "RADIO",
+        "SHAKE"
+      ]
+    }
+  ]
+}

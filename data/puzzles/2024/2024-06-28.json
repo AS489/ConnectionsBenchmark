@@ -1,0 +1,47 @@
+{
+  "id": 383,
+  "date": "2024-06-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TYPES OF BAGS",
+      "level": 0,
+      "members": [
+        "CLUTCH",
+        "MESSENGER",
+        "SATCHEL",
+        "TOTE"
+      ]
+    },
+    {
+      "name": "WIGGLE ROOM",
+      "level": 1,
+      "members": [
+        "FREEDOM",
+        "LATITUDE",
+        "LICENSE",
+        "SLACK"
+      ]
+    },
+    {
+      "name": "INDICATION TO PROCEED",
+      "level": 2,
+      "members": [
+        "CUE",
+        "PROMPT",
+        "SIGNAL",
+        "WORD"
+      ]
+    },
+    {
+      "name": "UNDERWEAR IN THE SINGULAR",
+      "level": 3,
+      "members": [
+        "BOXER",
+        "BRIEF",
+        "DRAWER",
+        "SHORT"
+      ]
+    }
+  ]
+}

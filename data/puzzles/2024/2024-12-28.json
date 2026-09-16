@@ -1,0 +1,47 @@
+{
+  "id": 566,
+  "date": "2024-12-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "“NOTHING TO IT!”",
+      "level": 0,
+      "members": [
+        "EASY",
+        "NO SWEAT",
+        "PIECE OF CAKE",
+        "SURE THING"
+      ]
+    },
+    {
+      "name": "OBJECTS FROM GREEK MYTH",
+      "level": 1,
+      "members": [
+        "AEGIS",
+        "APPLE OF DISCORD",
+        "GOLDEN FLEECE",
+        "PANDORA’S BOX"
+      ]
+    },
+    {
+      "name": "PROVERBIAL THINGS TO KICK",
+      "level": 2,
+      "members": [
+        "CAN",
+        "HABIT",
+        "HORNETS’ NEST",
+        "TIRES"
+      ]
+    },
+    {
+      "name": "STARTING WITH POSSESSIVE PRONOUNS",
+      "level": 3,
+      "members": [
+        "HERSHEY",
+        "HISTAMINE",
+        "ITSY",
+        "MINEFIELD"
+      ]
+    }
+  ]
+}

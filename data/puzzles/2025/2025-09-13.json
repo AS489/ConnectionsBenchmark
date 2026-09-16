@@ -1,0 +1,47 @@
+{
+  "id": 825,
+  "date": "2025-09-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "IMPORTANT",
+      "level": 0,
+      "members": [
+        "CRITICAL",
+        "KEY",
+        "MAJOR",
+        "PRINCIPAL"
+      ]
+    },
+    {
+      "name": "INTIMATE AND UNDISCLOSED",
+      "level": 1,
+      "members": [
+        "INNER",
+        "PERSONAL",
+        "PRIVATE",
+        "SECRET"
+      ]
+    },
+    {
+      "name": "GLOBAL CURRENCIES",
+      "level": 2,
+      "members": [
+        "DOLLAR",
+        "POUND",
+        "STERLING",
+        "WON"
+      ]
+    },
+    {
+      "name": "BUFFALO ___",
+      "level": 3,
+      "members": [
+        "BILL",
+        "NICKEL",
+        "SOLDIER",
+        "WING"
+      ]
+    }
+  ]
+}

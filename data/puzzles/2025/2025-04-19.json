@@ -1,0 +1,47 @@
+{
+  "id": 678,
+  "date": "2025-04-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPOKEN PRESENTATION",
+      "level": 0,
+      "members": [
+        "ADDRESS",
+        "LECTURE",
+        "SPEECH",
+        "TALK"
+      ]
+    },
+    {
+      "name": "ADJECTIVES FOR A DESERT",
+      "level": 1,
+      "members": [
+        "DRY",
+        "HOT",
+        "SANDY",
+        "VAST"
+      ]
+    },
+    {
+      "name": "DOG BREEDS, INFORMALLY",
+      "level": 2,
+      "members": [
+        "BULLY",
+        "CHOW",
+        "GOLDEN",
+        "LAB"
+      ]
+    },
+    {
+      "name": "REPRESENTED BY THREE-DIGIT NUMBERS",
+      "level": 3,
+      "members": [
+        "CANNABIS",
+        "DEVIL",
+        "INTRO CLASS",
+        "JAMES BOND"
+      ]
+    }
+  ]
+}

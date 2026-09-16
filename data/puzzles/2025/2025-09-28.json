@@ -1,0 +1,47 @@
+{
+  "id": 840,
+  "date": "2025-09-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BACKING",
+      "level": null,
+      "members": [
+        "AEGIS",
+        "GUARD",
+        "PROTECTION",
+        "SHIELD"
+      ]
+    },
+    {
+      "name": "MALICIOUS SOFTWARE",
+      "level": null,
+      "members": [
+        "BACKDOOR",
+        "TROJAN HORSE",
+        "VIRUS",
+        "WORM"
+      ]
+    },
+    {
+      "name": "GUM BRANDS",
+      "level": null,
+      "members": [
+        "EXTRA",
+        "ICE BREAKERS",
+        "ORBIT",
+        "TRIDENT"
+      ]
+    },
+    {
+      "name": "N.F.L. TEAM LOGOS",
+      "level": null,
+      "members": [
+        "BUFFALO",
+        "FLEUR-DE-LIS",
+        "HORSESHOE",
+        "LIGHTNING BOLT"
+      ]
+    }
+  ]
+}

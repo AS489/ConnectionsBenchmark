@@ -1,0 +1,47 @@
+{
+  "id": 1128,
+  "date": "2026-07-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMMIT A BASKETBALL VIOLATION",
+      "level": null,
+      "members": [
+        "CARRY",
+        "DOUBLE DRIBBLE",
+        "GOALTEND",
+        "TRAVEL"
+      ]
+    },
+    {
+      "name": "BELIEF",
+      "level": null,
+      "members": [
+        "ATTITUDE",
+        "MIND",
+        "OPINION",
+        "VIEW"
+      ]
+    },
+    {
+      "name": "THINGS TRACKED IN VIDEO GAMES",
+      "level": null,
+      "members": [
+        "HEALTH",
+        "LIVES",
+        "SCORE",
+        "TIME"
+      ]
+    },
+    {
+      "name": "WORDS AFTER \"POP\"",
+      "level": null,
+      "members": [
+        "CULTURE",
+        "FLY",
+        "QUIZ",
+        "TART"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 47,
+  "date": "2023-07-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BIOMES",
+      "level": 0,
+      "members": [
+        "DESERT",
+        "FOREST",
+        "GRASSLAND",
+        "TUNDRA"
+      ]
+    },
+    {
+      "name": "LIZARDS",
+      "level": 1,
+      "members": [
+        "CHAMELEON",
+        "GECKO",
+        "IGUANA",
+        "MONITOR"
+      ]
+    },
+    {
+      "name": "YOGA POSES",
+      "level": 2,
+      "members": [
+        "COBRA",
+        "LOTUS",
+        "TREE",
+        "WARRIOR"
+      ]
+    },
+    {
+      "name": "DANCES WHEN DOUBLED",
+      "level": 3,
+      "members": [
+        "CAN",
+        "CHA",
+        "GO",
+        "NAE"
+      ]
+    }
+  ]
+}

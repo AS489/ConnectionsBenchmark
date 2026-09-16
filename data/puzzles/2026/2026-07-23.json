@@ -1,0 +1,47 @@
+{
+  "id": 1133,
+  "date": "2026-07-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPHERICAL THINGS",
+      "level": null,
+      "members": [
+        "BASEBALL",
+        "GLOBE",
+        "MARBLE",
+        "ORANGE"
+      ]
+    },
+    {
+      "name": "IN AN ANXIOUS STATE",
+      "level": null,
+      "members": [
+        "EXCITED",
+        "FEBRILE",
+        "FRENETIC",
+        "INTENSE"
+      ]
+    },
+    {
+      "name": "PARTS OF AN AIRPORT",
+      "level": null,
+      "members": [
+        "APRON",
+        "HANGAR",
+        "RUNWAY",
+        "TERMINAL"
+      ]
+    },
+    {
+      "name": "ENDING IN GEOMETRY TERMS",
+      "level": null,
+      "members": [
+        "APPOINT",
+        "DEPLANE",
+        "FELINE",
+        "JANGLE"
+      ]
+    }
+  ]
+}

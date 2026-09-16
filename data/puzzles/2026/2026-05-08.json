@@ -1,0 +1,47 @@
+{
+  "id": 1057,
+  "date": "2026-05-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CANOODLING",
+      "level": null,
+      "members": [
+        "FIRST BASE",
+        "MAKING OUT",
+        "NECKING",
+        "TONSIL HOCKEY"
+      ]
+    },
+    {
+      "name": "FIVE-SIDED THINGS",
+      "level": null,
+      "members": [
+        "HOME PLATE",
+        "JEANS BACK POCKET",
+        "SCHOOL CROSSING SIGN",
+        "THE PENTAGON"
+      ]
+    },
+    {
+      "name": "UNEXPECTED PLACES TO BE \"OUT OF\"",
+      "level": null,
+      "members": [
+        "LEFT FIELD",
+        "NOWHERE",
+        "THE BLUE",
+        "THIN AIR"
+      ]
+    },
+    {
+      "name": "ENDING IN CANDY BRANDS MINUS \"S\"",
+      "level": null,
+      "members": [
+        "BURGER KING WHOPPER",
+        "FILM NERD",
+        "MEMENTO",
+        "PITCHER'S MOUND"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 805,
+  "date": "2025-08-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WINE VESSELS",
+      "level": 0,
+      "members": [
+        "BOTTLE",
+        "CARAFE",
+        "DECANTER",
+        "GLASS"
+      ]
+    },
+    {
+      "name": "RIPPED",
+      "level": 1,
+      "members": [
+        "CLEFT",
+        "RENT",
+        "SPLIT",
+        "TORN"
+      ]
+    },
+    {
+      "name": "KINDS OF SNAKES",
+      "level": 2,
+      "members": [
+        "CORAL",
+        "GARTER",
+        "KING",
+        "RATTLE"
+      ]
+    },
+    {
+      "name": "___ CALL",
+      "level": 3,
+      "members": [
+        "BOOTY",
+        "CLOSE",
+        "COLD",
+        "CURTAIN"
+      ]
+    }
+  ]
+}

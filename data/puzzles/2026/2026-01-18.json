@@ -1,0 +1,47 @@
+{
+  "id": 951,
+  "date": "2026-01-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FEATURES OF A DUCK",
+      "level": null,
+      "members": [
+        "BILL",
+        "FEATHERS",
+        "WEBBING",
+        "WINGS"
+      ]
+    },
+    {
+      "name": "DESTROY",
+      "level": null,
+      "members": [
+        "BREAK",
+        "DAMAGE",
+        "TOTAL",
+        "WRECK"
+      ]
+    },
+    {
+      "name": "FOUND ON A BOOK JACKET",
+      "level": null,
+      "members": [
+        "AUTHOR",
+        "QUOTE",
+        "SYNOPSIS",
+        "TITLE"
+      ]
+    },
+    {
+      "name": "CLASSIC HOLLYWOOD ACTORS",
+      "level": null,
+      "members": [
+        "COOPER",
+        "GRANT",
+        "PECK",
+        "PRICE"
+      ]
+    }
+  ]
+}

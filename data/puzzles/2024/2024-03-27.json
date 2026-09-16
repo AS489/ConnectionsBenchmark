@@ -1,0 +1,47 @@
+{
+  "id": 290,
+  "date": "2024-03-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UPDATE FOR ACCURACY",
+      "level": 0,
+      "members": [
+        "AMEND",
+        "CORRECT",
+        "FIX",
+        "REVISE"
+      ]
+    },
+    {
+      "name": "QUARREL",
+      "level": 1,
+      "members": [
+        "FIGHT",
+        "ROW",
+        "SCRAP",
+        "TIFF"
+      ]
+    },
+    {
+      "name": "GAMES OF CHANCE",
+      "level": 2,
+      "members": [
+        "BINGO",
+        "LOTTERY",
+        "ROULETTE",
+        "WAR"
+      ]
+    },
+    {
+      "name": "___ CHIP",
+      "level": 3,
+      "members": [
+        "BLUE",
+        "COMPUTER",
+        "POKER",
+        "POTATO"
+      ]
+    }
+  ]
+}

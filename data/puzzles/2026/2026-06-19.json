@@ -1,0 +1,47 @@
+{
+  "id": 1099,
+  "date": "2026-06-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UMAMI-RICH FOODS",
+      "level": null,
+      "members": [
+        "MISO PASTE",
+        "PARMESAN",
+        "SOY SAUCE",
+        "VEGEMITE"
+      ]
+    },
+    {
+      "name": "THINGS A BEGINNER MIGHT LEARN ON THE PIANO",
+      "level": null,
+      "members": [
+        "CHOPSTICKS",
+        "FÜR ELISE",
+        "HEART AND SOUL",
+        "THE ENTERTAINER"
+      ]
+    },
+    {
+      "name": "STARTING WITH MAGAZINES",
+      "level": null,
+      "members": [
+        "FORTUNE COOKIE",
+        "PEOPLE PERSON",
+        "SPINDERELLA",
+        "TIME MACHINE"
+      ]
+    },
+    {
+      "name": "ENDING IN SYNONYMS FOR \"AGGREGATE\"",
+      "level": null,
+      "members": [
+        "COINCIDENTALLY",
+        "DIM SUM",
+        "TEETOTAL",
+        "VISCOUNT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1164,
+  "date": "2026-08-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "POTENTIALLY EXPLOSIVE THINGS",
+      "level": null,
+      "members": [
+        "POWDER KEG",
+        "TIME BOMB",
+        "TINDERBOX",
+        "VOLCANO"
+      ]
+    },
+    {
+      "name": "DOUBLE VOWELS",
+      "level": null,
+      "members": [
+        "ANTIFREEZE",
+        "BAZAAR",
+        "SKIING",
+        "VACUUM"
+      ]
+    },
+    {
+      "name": "MADE WITH POTATOES",
+      "level": null,
+      "members": [
+        "HOME FRIES",
+        "POTATO BATTERY",
+        "VISCHYSSOISE",
+        "VODKA"
+      ]
+    },
+    {
+      "name": "HOUSEHOLD STAIN REMOVERS",
+      "level": null,
+      "members": [
+        "BAKING SODA",
+        "CLUB SODA",
+        "HYDROGEN PEROXIDE",
+        "VINEGAR"
+      ]
+    }
+  ]
+}

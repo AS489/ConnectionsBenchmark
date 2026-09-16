@@ -1,0 +1,1 @@
+{"reasoning": "ends", "guess": ["CABOOSE", "DECMBER", "DESSERT", "EPILOGUE"]}

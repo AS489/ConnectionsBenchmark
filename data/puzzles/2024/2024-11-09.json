@@ -1,0 +1,47 @@
+{
+  "id": 517,
+  "date": "2024-11-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONTORTED",
+      "level": 0,
+      "members": [
+        "BENT",
+        "GNARLY",
+        "TWISTED",
+        "WARPED"
+      ]
+    },
+    {
+      "name": "SMALLEST AMOUNT",
+      "level": 1,
+      "members": [
+        "LICK",
+        "OUNCE",
+        "SHRED",
+        "TRACE"
+      ]
+    },
+    {
+      "name": "ALGEBRA TERMS",
+      "level": 2,
+      "members": [
+        "EXPONENT",
+        "POWER",
+        "RADICAL",
+        "ROOT"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “ROOM” TO MEAN LAVATORY",
+      "level": 3,
+      "members": [
+        "BATH",
+        "POWDER",
+        "REST",
+        "THRONE"
+      ]
+    }
+  ]
+}

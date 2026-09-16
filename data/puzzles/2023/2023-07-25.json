@@ -1,0 +1,47 @@
+{
+  "id": 44,
+  "date": "2023-07-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STATES OF MATTER",
+      "level": 0,
+      "members": [
+        "GAS",
+        "LIQUID",
+        "PLASMA",
+        "SOLID"
+      ]
+    },
+    {
+      "name": "EDIT MENU COMMANDS",
+      "level": 1,
+      "members": [
+        "COPY",
+        "CUT",
+        "PASTE",
+        "UNDO"
+      ]
+    },
+    {
+      "name": "DEFEAT BADLY",
+      "level": 2,
+      "members": [
+        "CRUSH",
+        "ROUT",
+        "SHELLAC",
+        "TRASH"
+      ]
+    },
+    {
+      "name": "ANAGRAMS",
+      "level": 3,
+      "members": [
+        "LEAST",
+        "SLATE",
+        "STALE",
+        "TESLA"
+      ]
+    }
+  ]
+}

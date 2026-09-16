@@ -1,0 +1,47 @@
+{
+  "id": 330,
+  "date": "2024-05-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONNECT",
+      "level": 0,
+      "members": [
+        "COUPLE",
+        "JOIN",
+        "LINK",
+        "TIE"
+      ]
+    },
+    {
+      "name": "NUISANCE",
+      "level": 1,
+      "members": [
+        "BOTHER",
+        "HANDFUL",
+        "PAIN",
+        "PEST"
+      ]
+    },
+    {
+      "name": "QUANTITY WORDS",
+      "level": 2,
+      "members": [
+        "FEW",
+        "MANY",
+        "SEVERAL",
+        "SOME"
+      ]
+    },
+    {
+      "name": "TAROT CARDS, WITH “THE”",
+      "level": 3,
+      "members": [
+        "FOOL",
+        "LOVERS",
+        "MAGICIAN",
+        "TOWER"
+      ]
+    }
+  ]
+}

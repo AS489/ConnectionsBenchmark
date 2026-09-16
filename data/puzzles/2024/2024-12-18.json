@@ -1,0 +1,47 @@
+{
+  "id": 556,
+  "date": "2024-12-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DEAL WITH",
+      "level": 0,
+      "members": [
+        "FIELD",
+        "HANDLE",
+        "MANAGE",
+        "TACKLE"
+      ]
+    },
+    {
+      "name": "STYLES OF BEER",
+      "level": 1,
+      "members": [
+        "BITTER",
+        "BOCK",
+        "SOUR",
+        "STOUT"
+      ]
+    },
+    {
+      "name": "INVESTMENT VERBS",
+      "level": 2,
+      "members": [
+        "HEDGE",
+        "HOLD",
+        "SHORT",
+        "TRADE"
+      ]
+    },
+    {
+      "name": "___ DOME",
+      "level": 3,
+      "members": [
+        "CAPITOL",
+        "CHROME",
+        "ONION",
+        "TEAPOT"
+      ]
+    }
+  ]
+}

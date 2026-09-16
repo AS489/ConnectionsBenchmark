@@ -1,0 +1,3 @@
+First I considered: {"reasoning": "instruct?", "guess": ["COACH", "DIRECT", "GUIDE", "TRAIN"]}
+But actually I will go with this instead:
+{"reasoning": "spies", "guess": ["ASSET", "MOLE", "PLANT", "SLEEPER"]}

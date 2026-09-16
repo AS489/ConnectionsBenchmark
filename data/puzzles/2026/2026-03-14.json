@@ -1,0 +1,47 @@
+{
+  "id": 1004,
+  "date": "2026-03-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HYPNOTIC STATE",
+      "level": null,
+      "members": [
+        "DREAM",
+        "HAZE",
+        "SPELL",
+        "TRANCE"
+      ]
+    },
+    {
+      "name": "STARTING WITH PREFIXES MEANING \"TWO\"",
+      "level": null,
+      "members": [
+        "BINARY",
+        "DIOXIDE",
+        "DUOLINGO",
+        "TWILIGHT"
+      ]
+    },
+    {
+      "name": "FICTIONAL INSPECTORS",
+      "level": null,
+      "members": [
+        "CLOUSEAU",
+        "GADGET",
+        "JAVERT",
+        "MORSE"
+      ]
+    },
+    {
+      "name": "ENDING IN FEMALE ANIMALS",
+      "level": null,
+      "members": [
+        "HOOTENANNY",
+        "LICHEN",
+        "MOSCOW",
+        "NIGHTMARE"
+      ]
+    }
+  ]
+}

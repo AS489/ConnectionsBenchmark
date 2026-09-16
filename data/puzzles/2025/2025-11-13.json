@@ -1,0 +1,47 @@
+{
+  "id": 885,
+  "date": "2025-11-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ATTIRE",
+      "level": null,
+      "members": [
+        "DUDS",
+        "FIT",
+        "GETUP",
+        "THREADS"
+      ]
+    },
+    {
+      "name": "FOAMY THINGS",
+      "level": null,
+      "members": [
+        "BEER",
+        "FIRE EXTINGUISHER",
+        "SEA",
+        "SHAVING CREAM"
+      ]
+    },
+    {
+      "name": "THINGS THAT USE FILTERS",
+      "level": null,
+      "members": [
+        "AIR PURIFIER",
+        "CIGARETTE",
+        "COFFEE MAKER",
+        "INSTAGRAM"
+      ]
+    },
+    {
+      "name": "___ OFFICE",
+      "level": null,
+      "members": [
+        "BOX",
+        "MICROSOFT",
+        "OVAL",
+        "POST"
+      ]
+    }
+  ]
+}

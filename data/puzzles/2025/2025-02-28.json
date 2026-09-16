@@ -1,0 +1,47 @@
+{
+  "id": 628,
+  "date": "2025-02-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BE INDECISIVE",
+      "level": 0,
+      "members": [
+        "HESITATE",
+        "WAFFLE",
+        "WAVER",
+        "YO-YO"
+      ]
+    },
+    {
+      "name": "LOVELY PERSON",
+      "level": 1,
+      "members": [
+        "ANGEL",
+        "DEAR",
+        "DOLL",
+        "PEACH"
+      ]
+    },
+    {
+      "name": "LUCIDITY",
+      "level": 2,
+      "members": [
+        "MARBLES",
+        "MIND",
+        "SENSE",
+        "WITS"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF METAPHORS FOR THINGS THAT CAN’T BE UNDONE",
+      "level": 3,
+      "members": [
+        "BELL",
+        "EGG",
+        "GENIE",
+        "TOOTHPASTE"
+      ]
+    }
+  ]
+}

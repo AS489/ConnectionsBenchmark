@@ -1,0 +1,1 @@
+{"reasoning": "verbs meaning to instruct", "guess": ["COACH", "DIRECT", "GUIDE", "TRAIN"]}

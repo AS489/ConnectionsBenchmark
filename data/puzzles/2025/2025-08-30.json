@@ -1,0 +1,47 @@
+{
+  "id": 811,
+  "date": "2025-08-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MUSIC GENRES",
+      "level": 0,
+      "members": [
+        "EMO",
+        "FUNK",
+        "METAL",
+        "POP"
+      ]
+    },
+    {
+      "name": "NOT BE GOOD",
+      "level": 1,
+      "members": [
+        "BITE",
+        "BLOW",
+        "STINK",
+        "SUCK"
+      ]
+    },
+    {
+      "name": "DO EXCEPTIONALLY WELL",
+      "level": 2,
+      "members": [
+        "EAT",
+        "ROCK",
+        "RULE",
+        "SLAY"
+      ]
+    },
+    {
+      "name": "CONTEMPORARY COMPOSERS",
+      "level": 3,
+      "members": [
+        "CAGE",
+        "ENO",
+        "GLASS",
+        "REICH"
+      ]
+    }
+  ]
+}

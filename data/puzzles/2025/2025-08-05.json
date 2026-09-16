@@ -1,0 +1,47 @@
+{
+  "id": 786,
+  "date": "2025-08-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SUBTERRANEAN TRANSIT",
+      "level": 0,
+      "members": [
+        "METRO",
+        "SUBWAY",
+        "TUBE",
+        "UNDERGROUND"
+      ]
+    },
+    {
+      "name": "MAKE INTO SMALLER PIECES WHILE COOKING",
+      "level": 1,
+      "members": [
+        "CUBE",
+        "GRATE",
+        "MINCE",
+        "SLICE"
+      ]
+    },
+    {
+      "name": "USED TO DECORATE A SNOWMAN",
+      "level": 2,
+      "members": [
+        "CARROT",
+        "COAL",
+        "PIPE",
+        "SCARF"
+      ]
+    },
+    {
+      "name": "___ CODE",
+      "level": 3,
+      "members": [
+        "DRESS",
+        "HEALTH",
+        "SECRET",
+        "ZIP"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 788,
+  "date": "2025-08-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MOUSE ACTIONS",
+      "level": 0,
+      "members": [
+        "CLICK",
+        "DRAG",
+        "HOVER",
+        "SCROLL"
+      ]
+    },
+    {
+      "name": "PERFORATE",
+      "level": 1,
+      "members": [
+        "BORE",
+        "PIERCE",
+        "POKE",
+        "PUNCH"
+      ]
+    },
+    {
+      "name": "ONES WITH POINTY EARS",
+      "level": 2,
+      "members": [
+        "BATMAN",
+        "DEVIL",
+        "ELF",
+        "VULCAN"
+      ]
+    },
+    {
+      "name": "WIMBLEDON WINNERS",
+      "level": 3,
+      "members": [
+        "BORG",
+        "GRAF",
+        "KING",
+        "SINNER"
+      ]
+    }
+  ]
+}

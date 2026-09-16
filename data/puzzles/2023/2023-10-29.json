@@ -1,0 +1,47 @@
+{
+  "id": 140,
+  "date": "2023-10-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MISHMASH",
+      "level": 0,
+      "members": [
+        "HASH",
+        "JUMBLE",
+        "MEDLEY",
+        "STEW"
+      ]
+    },
+    {
+      "name": "GO UP AGAINST",
+      "level": 1,
+      "members": [
+        "CHALLENGE",
+        "CONFRONT",
+        "FACE",
+        "OPPOSE"
+      ]
+    },
+    {
+      "name": "GROUP OF OFFSPRING",
+      "level": 2,
+      "members": [
+        "BROOD",
+        "CLUTCH",
+        "HATCH",
+        "LITTER"
+      ]
+    },
+    {
+      "name": "GUITAR PARTS",
+      "level": 3,
+      "members": [
+        "BODY",
+        "BRIDGE",
+        "FRET",
+        "NECK"
+      ]
+    }
+  ]
+}

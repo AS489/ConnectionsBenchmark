@@ -1,0 +1,47 @@
+{
+  "id": 524,
+  "date": "2024-11-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS THAT PREVENT LEAKS",
+      "level": 0,
+      "members": [
+        "CAP",
+        "COVER",
+        "PLUG",
+        "SEAL"
+      ]
+    },
+    {
+      "name": "KINDS OF HATS",
+      "level": 1,
+      "members": [
+        "BERET",
+        "DERBY",
+        "PILLBOX",
+        "SNAPBACK"
+      ]
+    },
+    {
+      "name": "COLLEGE FOOTBALL TEAM MEMBERS",
+      "level": 2,
+      "members": [
+        "GATOR",
+        "SOONER",
+        "VOLUNTEER",
+        "WOLVERINE"
+      ]
+    },
+    {
+      "name": "GO ___",
+      "level": 3,
+      "members": [
+        "BANANAS",
+        "COMMANDO",
+        "FIGURE",
+        "ROGUE"
+      ]
+    }
+  ]
+}

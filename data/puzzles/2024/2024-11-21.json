@@ -1,0 +1,47 @@
+{
+  "id": 529,
+  "date": "2024-11-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF SHIRTS",
+      "level": 0,
+      "members": [
+        "FLANNEL",
+        "OXFORD",
+        "POLO",
+        "TEE"
+      ]
+    },
+    {
+      "name": "SPHERES IN MILK TEA",
+      "level": 1,
+      "members": [
+        "BOBA",
+        "BUBBLE",
+        "PEARL",
+        "TAPIOCA"
+      ]
+    },
+    {
+      "name": "MARINE INVERTEBRATES, FAMILIARLY",
+      "level": 2,
+      "members": [
+        "CORAL",
+        "JELLY",
+        "SPONGE",
+        "STAR"
+      ]
+    },
+    {
+      "name": "STARTS OF PASTA NAMES",
+      "level": 3,
+      "members": [
+        "FETT",
+        "PENN",
+        "TORTE",
+        "ZIT"
+      ]
+    }
+  ]
+}

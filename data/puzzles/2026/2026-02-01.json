@@ -1,0 +1,47 @@
+{
+  "id": 965,
+  "date": "2026-02-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PUBLICIZE",
+      "level": null,
+      "members": [
+        "BOOST",
+        "HYPE",
+        "PITCH",
+        "PLUG"
+      ]
+    },
+    {
+      "name": "KINDS OF SHOES",
+      "level": null,
+      "members": [
+        "CLOG",
+        "FLAT",
+        "MULE",
+        "WEDGE"
+      ]
+    },
+    {
+      "name": "ANTHEM",
+      "level": null,
+      "members": [
+        "BANGER",
+        "BOP",
+        "HEATER",
+        "JAM"
+      ]
+    },
+    {
+      "name": "MUSICAL INSTRUMENTS PLUS STARTING LETTER",
+      "level": null,
+      "members": [
+        "GLUTE",
+        "MORGAN",
+        "SHARP",
+        "THORN"
+      ]
+    }
+  ]
+}

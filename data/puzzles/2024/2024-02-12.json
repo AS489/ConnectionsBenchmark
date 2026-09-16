@@ -1,0 +1,47 @@
+{
+  "id": 246,
+  "date": "2024-02-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BAD THINGS FOR A VIDEO CALL TO DO",
+      "level": 0,
+      "members": [
+        "DROP",
+        "ECHO",
+        "FREEZE",
+        "LAG"
+      ]
+    },
+    {
+      "name": "COSTUMES WITH STRIPED SHIRTS",
+      "level": 1,
+      "members": [
+        "MIME",
+        "PRISONER",
+        "REFEREE",
+        "SAILOR"
+      ]
+    },
+    {
+      "name": "SEEN IN “ALADDIN”",
+      "level": 2,
+      "members": [
+        "GENIE",
+        "MONKEY",
+        "PARROT",
+        "PRINCESS"
+      ]
+    },
+    {
+      "name": "MOVIES MINUS NUMBERS",
+      "level": 3,
+      "members": [
+        "APOLLO",
+        "CANDLES",
+        "FANTASTIC",
+        "SAMURAI"
+      ]
+    }
+  ]
+}

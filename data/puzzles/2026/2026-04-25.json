@@ -1,0 +1,47 @@
+{
+  "id": 1045,
+  "date": "2026-04-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BODY COVERINGS",
+      "level": null,
+      "members": [
+        "ENAMEL",
+        "HAIR",
+        "NAIL",
+        "SKIN"
+      ]
+    },
+    {
+      "name": "MASSES, IN IDIOMS",
+      "level": null,
+      "members": [
+        "CROWD",
+        "HAYSTACK",
+        "MILLION",
+        "OCEAN"
+      ]
+    },
+    {
+      "name": "OLD TIMEY SLANG FOR LAW ENFORCEMENT",
+      "level": null,
+      "members": [
+        "COPPER",
+        "DICK",
+        "FLATFOOT",
+        "GUMSHOE"
+      ]
+    },
+    {
+      "name": "STARTING WITH SYNONYMS FOR \"THROW\"",
+      "level": null,
+      "members": [
+        "CAST IRON",
+        "CHUCK E. CHEESE",
+        "HURLY-BURLY",
+        "PITCHFORK"
+      ]
+    }
+  ]
+}

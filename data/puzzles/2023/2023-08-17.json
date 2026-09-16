@@ -1,0 +1,47 @@
+{
+  "id": 67,
+  "date": "2023-08-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DESSERTS",
+      "level": 0,
+      "members": [
+        "CAKE",
+        "COBBLER",
+        "PIE",
+        "TART"
+      ]
+    },
+    {
+      "name": "OCCUPATIONAL SURNAMES",
+      "level": 1,
+      "members": [
+        "FISHER",
+        "MASON",
+        "MILLER",
+        "SMITH"
+      ]
+    },
+    {
+      "name": "ALTER DECEPTIVELY",
+      "level": 2,
+      "members": [
+        "DISTORT",
+        "DOCTOR",
+        "FUDGE",
+        "TWIST"
+      ]
+    },
+    {
+      "name": "SQUARE ___",
+      "level": 3,
+      "members": [
+        "DANCE",
+        "MEAL",
+        "ONE",
+        "ROOT"
+      ]
+    }
+  ]
+}

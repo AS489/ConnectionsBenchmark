@@ -1,0 +1,47 @@
+{
+  "id": 265,
+  "date": "2024-03-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INTELLIGENCE OPERATIVE",
+      "level": 0,
+      "members": [
+        "AGENT",
+        "ASSET",
+        "MOLE",
+        "SLEEPER"
+      ]
+    },
+    {
+      "name": "UNITS IN POETRY",
+      "level": 1,
+      "members": [
+        "FOOT",
+        "LINE",
+        "METER",
+        "VERSE"
+      ]
+    },
+    {
+      "name": "EXPRESS INDIRECTLY",
+      "level": 2,
+      "members": [
+        "COUCH",
+        "IMPLY",
+        "INTIMATE",
+        "SUGGEST"
+      ]
+    },
+    {
+      "name": "WHAT “K” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "KELVIN",
+        "OKAY",
+        "POTASSIUM",
+        "THOUSAND"
+      ]
+    }
+  ]
+}

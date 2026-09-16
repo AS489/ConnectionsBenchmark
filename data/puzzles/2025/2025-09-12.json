@@ -1,0 +1,47 @@
+{
+  "id": 824,
+  "date": "2025-09-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ENTREATY",
+      "level": 0,
+      "members": [
+        "APPEAL",
+        "BID",
+        "CALL",
+        "PETITION"
+      ]
+    },
+    {
+      "name": "CONTACT INFO",
+      "level": 1,
+      "members": [
+        "ADDRESS",
+        "EMAIL",
+        "NAME",
+        "NUMBER"
+      ]
+    },
+    {
+      "name": "KINDS OF CAMERA LENSES",
+      "level": 2,
+      "members": [
+        "FISHEYE",
+        "MACRO",
+        "TELEPHOTO",
+        "ZOOM"
+      ]
+    },
+    {
+      "name": "BODIES OF WATER PLUS STARTING LETTER",
+      "level": 3,
+      "members": [
+        "DRIVER",
+        "EBAY",
+        "FINLET",
+        "FLAKE"
+      ]
+    }
+  ]
+}

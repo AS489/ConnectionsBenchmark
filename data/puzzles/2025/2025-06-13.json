@@ -1,0 +1,47 @@
+{
+  "id": 733,
+  "date": "2025-06-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PERSPECTIVE",
+      "level": 0,
+      "members": [
+        "ANGLE",
+        "BENT",
+        "LENS",
+        "POINT OF VIEW"
+      ]
+    },
+    {
+      "name": "SEEN AT AN ICE CREAM SHOP",
+      "level": 1,
+      "members": [
+        "CONE",
+        "CUP",
+        "LITTLE SPOON",
+        "SCOOP"
+      ]
+    },
+    {
+      "name": "HIT SONGS OF 1998",
+      "level": 2,
+      "members": [
+        "CLOSING TIME",
+        "IRIS",
+        "ONE WEEK",
+        "TOO CLOSE"
+      ]
+    },
+    {
+      "name": "HOT ___",
+      "level": 3,
+      "members": [
+        "DOG",
+        "POTATO",
+        "ROD",
+        "WATER BOTTLE"
+      ]
+    }
+  ]
+}

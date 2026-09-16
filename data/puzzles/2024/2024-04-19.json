@@ -1,0 +1,47 @@
+{
+  "id": 313,
+  "date": "2024-04-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ATTACH WITH ADHESIVE",
+      "level": 0,
+      "members": [
+        "ADHERE",
+        "GLUE",
+        "PASTE",
+        "STICK"
+      ]
+    },
+    {
+      "name": "PUBLISHED LINES",
+      "level": 1,
+      "members": [
+        "COPY",
+        "TEXT",
+        "WORDS",
+        "WRITING"
+      ]
+    },
+    {
+      "name": "DIAMOND QUALITIES",
+      "level": 2,
+      "members": [
+        "CARAT",
+        "CLARITY",
+        "COLOR",
+        "CUT"
+      ]
+    },
+    {
+      "name": "A-___",
+      "level": 3,
+      "members": [
+        "LIST",
+        "OK",
+        "PLUS",
+        "ROD"
+      ]
+    }
+  ]
+}

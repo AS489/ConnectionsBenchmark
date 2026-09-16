@@ -1,0 +1,47 @@
+{
+  "id": 341,
+  "date": "2024-05-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CORRUPT",
+      "level": 0,
+      "members": [
+        "BASE",
+        "DIRTY",
+        "LOW",
+        "VILE"
+      ]
+    },
+    {
+      "name": "REACH OUT TO",
+      "level": 1,
+      "members": [
+        "CONTACT",
+        "MESSAGE",
+        "PING",
+        "TEXT"
+      ]
+    },
+    {
+      "name": "CLASSIC STILL LIFE COMPONENTS",
+      "level": 2,
+      "members": [
+        "FRUIT",
+        "PITCHER",
+        "SKULL",
+        "TABLECLOTH"
+      ]
+    },
+    {
+      "name": "BEER ___",
+      "level": 3,
+      "members": [
+        "BATTER",
+        "CAN",
+        "GARDEN",
+        "PONG"
+      ]
+    }
+  ]
+}

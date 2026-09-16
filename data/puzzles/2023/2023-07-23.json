@@ -1,0 +1,47 @@
+{
+  "id": 42,
+  "date": "2023-07-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SCUBA GEAR",
+      "level": 0,
+      "members": [
+        "FINS",
+        "MASK",
+        "SNORKEL",
+        "TANK"
+      ]
+    },
+    {
+      "name": "PUNCTUATION MARKS",
+      "level": 1,
+      "members": [
+        "COLON",
+        "COMMA",
+        "HYPHEN",
+        "PERIOD"
+      ]
+    },
+    {
+      "name": "RUN QUICKLY",
+      "level": 2,
+      "members": [
+        "BOLT",
+        "DASH",
+        "RACE",
+        "SPRINT"
+      ]
+    },
+    {
+      "name": "___ CAT",
+      "level": 3,
+      "members": [
+        "DOJA",
+        "FAT",
+        "HOUSE",
+        "JUNGLE"
+      ]
+    }
+  ]
+}

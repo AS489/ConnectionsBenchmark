@@ -1,0 +1,47 @@
+{
+  "id": 51,
+  "date": "2023-08-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LONG SANDWICHES",
+      "level": 0,
+      "members": [
+        "HERO",
+        "HOAGIE",
+        "GRINDER",
+        "SUB"
+      ]
+    },
+    {
+      "name": "DATING APPS",
+      "level": 1,
+      "members": [
+        "BUMBLE",
+        "HINGE",
+        "MATCH",
+        "TINDER"
+      ]
+    },
+    {
+      "name": "VAMPIRE MOVIES",
+      "level": 2,
+      "members": [
+        "BLADE",
+        "LOST BOYS",
+        "NEAR DARK",
+        "TWILIGHT"
+      ]
+    },
+    {
+      "name": "ADAMS",
+      "level": 3,
+      "members": [
+        "ANT",
+        "DRIVER",
+        "SCOTT",
+        "WEST"
+      ]
+    }
+  ]
+}

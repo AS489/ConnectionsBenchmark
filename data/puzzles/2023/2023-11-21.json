@@ -1,0 +1,47 @@
+{
+  "id": 163,
+  "date": "2023-11-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TYPES OF TEETH",
+      "level": 0,
+      "members": [
+        "CANINE",
+        "FANG",
+        "MOLAR",
+        "TUSK"
+      ]
+    },
+    {
+      "name": "FASHIONABLE",
+      "level": 1,
+      "members": [
+        "CHIC",
+        "HIP",
+        "HOT",
+        "IN"
+      ]
+    },
+    {
+      "name": "DANCE MOVES",
+      "level": 2,
+      "members": [
+        "FLOSS",
+        "ROBOT",
+        "VOGUE",
+        "WORM"
+      ]
+    },
+    {
+      "name": "THINGS THAT SUCK",
+      "level": 3,
+      "members": [
+        "LEECH",
+        "STRAW",
+        "VACUUM",
+        "VAMPIRE"
+      ]
+    }
+  ]
+}

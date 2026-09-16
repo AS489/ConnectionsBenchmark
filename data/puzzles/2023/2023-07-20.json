@@ -1,0 +1,47 @@
+{
+  "id": 39,
+  "date": "2023-07-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TIMEKEEPING DEVICES",
+      "level": 0,
+      "members": [
+        "CLOCK",
+        "HOURGLASS",
+        "SUNDIAL",
+        "WATCH"
+      ]
+    },
+    {
+      "name": "HAIRSTYLES",
+      "level": 1,
+      "members": [
+        "BOB",
+        "CROP",
+        "PIXIE",
+        "SHAG"
+      ]
+    },
+    {
+      "name": "UNITS OF MEASURE",
+      "level": 2,
+      "members": [
+        "HERTZ",
+        "MOLE",
+        "NEWTON",
+        "SECOND"
+      ]
+    },
+    {
+      "name": "DR. ___",
+      "level": 3,
+      "members": [
+        "EVIL",
+        "J",
+        "NO",
+        "PEPPER"
+      ]
+    }
+  ]
+}

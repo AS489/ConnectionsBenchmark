@@ -1,0 +1,47 @@
+{
+  "id": 415,
+  "date": "2024-07-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PEACHY KEEN",
+      "level": 0,
+      "members": [
+        "NEAT",
+        "NIFTY",
+        "SUPER",
+        "SWELL"
+      ]
+    },
+    {
+      "name": "PROVIDE MORE DETAILS",
+      "level": 1,
+      "members": [
+        "ELABORATE",
+        "EXPAND",
+        "EXPLAIN",
+        "SPECIFY"
+      ]
+    },
+    {
+      "name": "ABILITY TO DO SOMETHING WELL",
+      "level": 2,
+      "members": [
+        "FACILITY",
+        "FLAIR",
+        "GIFT",
+        "KNACK"
+      ]
+    },
+    {
+      "name": "GROUP OF BUILDINGS",
+      "level": 3,
+      "members": [
+        "BLOCK",
+        "COMPLEX",
+        "COMPOUND",
+        "DEVELOPMENT"
+      ]
+    }
+  ]
+}

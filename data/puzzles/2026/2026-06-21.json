@@ -1,0 +1,47 @@
+{
+  "id": 1101,
+  "date": "2026-06-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PRECIPITATION",
+      "level": null,
+      "members": [
+        "DRIZZLE",
+        "RAIN",
+        "SHOWERS",
+        "SPRINKLES"
+      ]
+    },
+    {
+      "name": "BOWLS OVER",
+      "level": null,
+      "members": [
+        "FLOORS",
+        "ROCKS",
+        "STUNS",
+        "SURPRISES"
+      ]
+    },
+    {
+      "name": "NBC SITCOMS",
+      "level": null,
+      "members": [
+        "COMMUNITY",
+        "FRIENDS",
+        "SCRUBS",
+        "WINGS"
+      ]
+    },
+    {
+      "name": "STARTING WITH KINDS OF INSULTS",
+      "level": null,
+      "members": [
+        "BARBADOS",
+        "DIGGITY",
+        "DISSECT",
+        "SLAPDASH"
+      ]
+    }
+  ]
+}

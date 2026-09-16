@@ -1,0 +1,47 @@
+{
+  "id": 36,
+  "date": "2023-07-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MARSUPIALS",
+      "level": 0,
+      "members": [
+        "KANGAROO",
+        "KOALA",
+        "WALLABY",
+        "WOMBAT"
+      ]
+    },
+    {
+      "name": "CHOCOLATE BARS",
+      "level": 1,
+      "members": [
+        "CHUNKY",
+        "CRUNCH",
+        "MARS",
+        "MOUNDS"
+      ]
+    },
+    {
+      "name": "SLANG FOR MONEY",
+      "level": 2,
+      "members": [
+        "CHEDDAR",
+        "DOUGH",
+        "PAPER",
+        "STACKS"
+      ]
+    },
+    {
+      "name": "NAKED ___",
+      "level": 3,
+      "members": [
+        "EYE",
+        "GUN",
+        "MOLE RAT",
+        "TRUTH"
+      ]
+    }
+  ]
+}

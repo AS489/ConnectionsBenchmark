@@ -1,0 +1,47 @@
+{
+  "id": 1154,
+  "date": "2026-08-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PERSEVERE",
+      "level": null,
+      "members": [
+        "CARRY ON",
+        "CONTINUE",
+        "MAKE IT",
+        "PERSIST"
+      ]
+    },
+    {
+      "name": "MOVE SLOWLY (UP TO)",
+      "level": null,
+      "members": [
+        "CREEP",
+        "EASE",
+        "EDGE",
+        "INCH"
+      ]
+    },
+    {
+      "name": "AIRLINE STATUS PERKS",
+      "level": null,
+      "members": [
+        "CHECKED BAGS",
+        "LOUNGE",
+        "MILES",
+        "UPGRADE"
+      ]
+    },
+    {
+      "name": "\"COLD\" THINGS, IN IDIOMS",
+      "level": null,
+      "members": [
+        "COMFORT",
+        "FEET",
+        "SHOULDER",
+        "TURKEY"
+      ]
+    }
+  ]
+}

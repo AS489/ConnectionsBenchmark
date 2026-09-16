@@ -1,0 +1,47 @@
+{
+  "id": 320,
+  "date": "2024-04-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "REFINED SENSIBILITY",
+      "level": 0,
+      "members": [
+        "ELEGANCE",
+        "GRACE",
+        "STYLE",
+        "TASTE"
+      ]
+    },
+    {
+      "name": "CATCH SOME RAYS",
+      "level": 1,
+      "members": [
+        "BAKE",
+        "BASK",
+        "SUN",
+        "TAN"
+      ]
+    },
+    {
+      "name": "EMOTIONALLY SWAY",
+      "level": 2,
+      "members": [
+        "AFFECT",
+        "IMPACT",
+        "MOVE",
+        "TOUCH"
+      ]
+    },
+    {
+      "name": "NUMBERS WITH FIRST LETTERS REPLACED BY “S”",
+      "level": 3,
+      "members": [
+        "SEN",
+        "SIGHT",
+        "SINE",
+        "SOUR"
+      ]
+    }
+  ]
+}

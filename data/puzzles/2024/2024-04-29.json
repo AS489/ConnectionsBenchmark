@@ -1,0 +1,47 @@
+{
+  "id": 323,
+  "date": "2024-04-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXERCISES",
+      "level": 0,
+      "members": [
+        "BRIDGE",
+        "CRUNCH",
+        "DIP",
+        "SQUAT"
+      ]
+    },
+    {
+      "name": "FEATURED IN WESTERNS",
+      "level": 1,
+      "members": [
+        "BOUNTY",
+        "COWBOY",
+        "DUEL",
+        "SALOON"
+      ]
+    },
+    {
+      "name": "LEADERS WHO RECEIVED THE NOBEL PEACE PRIZE",
+      "level": 2,
+      "members": [
+        "CARTER",
+        "GORE",
+        "KING",
+        "TUTU"
+      ]
+    },
+    {
+      "name": "___ BEE",
+      "level": 3,
+      "members": [
+        "BUSY",
+        "HONEY",
+        "QUEEN",
+        "SPELLING"
+      ]
+    }
+  ]
+}

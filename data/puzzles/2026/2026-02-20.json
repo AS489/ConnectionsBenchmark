@@ -1,0 +1,47 @@
+{
+  "id": 983,
+  "date": "2026-02-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "QUICK FIX",
+      "level": null,
+      "members": [
+        "EASY ANSWER",
+        "MAGIC WAND",
+        "PANACEA",
+        "SILVER BULLET"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH THE MOON",
+      "level": null,
+      "members": [
+        "ECLIPSE",
+        "GREEN CHEESE",
+        "TIDE",
+        "WEREWOLF"
+      ]
+    },
+    {
+      "name": "ORIGINAL MONOPOLY TOKENS",
+      "level": null,
+      "members": [
+        "BOOT",
+        "IRON",
+        "THIMBLE",
+        "TOP HAT"
+      ]
+    },
+    {
+      "name": "WHAT \"JACK\" MIGHT REFER TO",
+      "level": null,
+      "members": [
+        "CHEESE",
+        "DONKEY",
+        "PLAYING CARD",
+        "SOCKET"
+      ]
+    }
+  ]
+}

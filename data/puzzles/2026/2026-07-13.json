@@ -1,0 +1,47 @@
+{
+  "id": 1123,
+  "date": "2026-07-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INTERROGATE",
+      "level": null,
+      "members": [
+        "EXAMINE",
+        "GRILL",
+        "PUMP",
+        "QUESTION"
+      ]
+    },
+    {
+      "name": "THINGS WITH HANDLES",
+      "level": null,
+      "members": [
+        "BUCKET",
+        "DRAWER",
+        "MUG",
+        "UMBRELLA"
+      ]
+    },
+    {
+      "name": "FICTIONAL CATS",
+      "level": null,
+      "members": [
+        "FIGARO",
+        "PUSS",
+        "SALEM",
+        "TOM"
+      ]
+    },
+    {
+      "name": "STARTING WITH SMOOCHES",
+      "level": null,
+      "members": [
+        "BUSSIN",
+        "KISSER",
+        "PECKISH",
+        "SMACKDOWN"
+      ]
+    }
+  ]
+}

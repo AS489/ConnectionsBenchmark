@@ -1,0 +1,47 @@
+{
+  "id": 947,
+  "date": "2026-01-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FIXED",
+      "level": null,
+      "members": [
+        "FAST",
+        "FIRM",
+        "SECURE",
+        "TIGHT"
+      ]
+    },
+    {
+      "name": "RECEIVER OF GOODS OR SERVICES",
+      "level": null,
+      "members": [
+        "ACCOUNT",
+        "CLIENT",
+        "CONSUMER",
+        "USER"
+      ]
+    },
+    {
+      "name": "STARTING WITH WEATHER CONDITIONS",
+      "level": null,
+      "members": [
+        "FROSTY",
+        "MISTLETOE",
+        "RAINMAKER",
+        "SNOWMAN"
+      ]
+    },
+    {
+      "name": "SILENT ___",
+      "level": null,
+      "members": [
+        "AUCTION",
+        "MOVIE",
+        "PARTNER",
+        "TREATMENT"
+      ]
+    }
+  ]
+}

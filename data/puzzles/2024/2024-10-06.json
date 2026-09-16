@@ -1,0 +1,47 @@
+{
+  "id": 483,
+  "date": "2024-10-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TURN TAIL",
+      "level": 0,
+      "members": [
+        "FLEE",
+        "LEAVE",
+        "RETREAT",
+        "WITHDRAW"
+      ]
+    },
+    {
+      "name": "THINGS CATS DO",
+      "level": 1,
+      "members": [
+        "KNEAD",
+        "PURR",
+        "SCRATCH",
+        "SHED"
+      ]
+    },
+    {
+      "name": "PAGES ON A WEBSITE",
+      "level": 2,
+      "members": [
+        "ABOUT",
+        "CONTACT",
+        "HOME",
+        "LOGIN"
+      ]
+    },
+    {
+      "name": "___ CHEESE",
+      "level": 3,
+      "members": [
+        "COTTAGE",
+        "CREAM",
+        "GOAT",
+        "STRING"
+      ]
+    }
+  ]
+}

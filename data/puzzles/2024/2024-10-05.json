@@ -1,0 +1,47 @@
+{
+  "id": 482,
+  "date": "2024-10-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STEAK CUTS",
+      "level": 0,
+      "members": [
+        "FILET",
+        "HANGER",
+        "SKIRT",
+        "T-BONE"
+      ]
+    },
+    {
+      "name": "KINDS OF UNDERWEAR",
+      "level": 1,
+      "members": [
+        "BIKINI",
+        "G-STRING",
+        "HIPSTER",
+        "THONG"
+      ]
+    },
+    {
+      "name": "INVOLVED IN A DENTIST VISIT",
+      "level": 2,
+      "members": [
+        "DRILL",
+        "SINK",
+        "TOOTHBRUSH",
+        "X-RAY"
+      ]
+    },
+    {
+      "name": "BRANDS THAT HAVE BECOME GENERIC TERMS",
+      "level": 3,
+      "members": [
+        "CHAPSTICK",
+        "JACUZZI",
+        "Q-TIP",
+        "XEROX"
+      ]
+    }
+  ]
+}

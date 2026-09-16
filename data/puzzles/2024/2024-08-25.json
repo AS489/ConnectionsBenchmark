@@ -1,0 +1,47 @@
+{
+  "id": 441,
+  "date": "2024-08-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HOPPING MAD",
+      "level": 0,
+      "members": [
+        "BOILING",
+        "FUMING",
+        "LIVID",
+        "STEAMING"
+      ]
+    },
+    {
+      "name": "STATUS",
+      "level": 1,
+      "members": [
+        "POSITION",
+        "RANKING",
+        "STANDING",
+        "STATION"
+      ]
+    },
+    {
+      "name": "WORDS THAT MAKE UP THE ACRONYM “HVAC”",
+      "level": 2,
+      "members": [
+        "AIR",
+        "CONDITIONING",
+        "HEATING",
+        "VENTILATION"
+      ]
+    },
+    {
+      "name": "ACTIVITIES THAT INVOLVE FOLDING",
+      "level": 3,
+      "members": [
+        "BAKING",
+        "LAUNDRY",
+        "ORIGAMI",
+        "POKER"
+      ]
+    }
+  ]
+}

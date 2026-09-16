@@ -1,0 +1,47 @@
+{
+  "id": 327,
+  "date": "2024-05-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NIGHTSPOTS",
+      "level": 0,
+      "members": [
+        "BAR",
+        "CLUB",
+        "DISCO",
+        "LOUNGE"
+      ]
+    },
+    {
+      "name": "CAST OFF",
+      "level": 1,
+      "members": [
+        "DITCH",
+        "DROP",
+        "LOSE",
+        "SHED"
+      ]
+    },
+    {
+      "name": "UNITS OF LENGTH",
+      "level": 2,
+      "members": [
+        "FATHOM",
+        "FOOT",
+        "LEAGUE",
+        "YARD"
+      ]
+    },
+    {
+      "name": "___ SALE",
+      "level": 3,
+      "members": [
+        "BAKE",
+        "CLEARANCE",
+        "GARAGE",
+        "SAMPLE"
+      ]
+    }
+  ]
+}

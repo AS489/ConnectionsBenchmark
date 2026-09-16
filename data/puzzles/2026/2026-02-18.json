@@ -1,0 +1,47 @@
+{
+  "id": 981,
+  "date": "2026-02-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RETRO HAIR DIRECTIVES",
+      "level": null,
+      "members": [
+        "CRIMP",
+        "CURL",
+        "FEATHER",
+        "TEASE"
+      ]
+    },
+    {
+      "name": "RETRO SLANG FOR COOL",
+      "level": null,
+      "members": [
+        "BAD",
+        "FLY",
+        "RAD",
+        "WICKED"
+      ]
+    },
+    {
+      "name": "CHICKEN DESCRIPTORS",
+      "level": null,
+      "members": [
+        "BANTAM",
+        "CRESTED",
+        "FREE-RANGE",
+        "LEGHORN"
+      ]
+    },
+    {
+      "name": "___ CREAM",
+      "level": null,
+      "members": [
+        "HEAVY",
+        "SHAVING",
+        "SOUR",
+        "TOPICAL"
+      ]
+    }
+  ]
+}

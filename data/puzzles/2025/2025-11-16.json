@@ -1,0 +1,47 @@
+{
+  "id": 888,
+  "date": "2025-11-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TECHNIQUE",
+      "level": null,
+      "members": [
+        "APPROACH",
+        "METHOD",
+        "PHILOSOPHY",
+        "SCHOOL"
+      ]
+    },
+    {
+      "name": "RUN-OF-THE-MILL",
+      "level": null,
+      "members": [
+        "BANAL",
+        "EVERYDAY",
+        "HUMDRUM",
+        "PEDESTRIAN"
+      ]
+    },
+    {
+      "name": "STRIPY THINGS",
+      "level": null,
+      "members": [
+        "BARCODE",
+        "IBM LOGO",
+        "RUGBY SHIRT",
+        "ZEBRA"
+      ]
+    },
+    {
+      "name": "WORDS ON MONOPOLY SQUARES",
+      "level": null,
+      "members": [
+        "AVENUE",
+        "PARKING",
+        "RAILROAD",
+        "TAX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 288,
+  "date": "2024-03-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HOW FAST SOMETHING IS GOING",
+      "level": 0,
+      "members": [
+        "CLIP",
+        "PACE",
+        "RATE",
+        "SPEED"
+      ]
+    },
+    {
+      "name": "\"STEP ON IT!\"",
+      "level": 1,
+      "members": [
+        "FASTER",
+        "GO",
+        "HURRY",
+        "MOVE"
+      ]
+    },
+    {
+      "name": "N.B.A. TEAM PLAYER",
+      "level": 2,
+      "members": [
+        "CLIPPER",
+        "PACER",
+        "ROCKET",
+        "SPUR"
+      ]
+    },
+    {
+      "name": "TELE___",
+      "level": 3,
+      "members": [
+        "COMMUTE",
+        "MEDICINE",
+        "PROMPTER",
+        "VISION"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 943,
+  "date": "2026-01-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HOLLOW CYLINDERS",
+      "level": null,
+      "members": [
+        "HOSE",
+        "PIPE",
+        "STRAW",
+        "TUBE"
+      ]
+    },
+    {
+      "name": "SOFTWARE PLATFORMS",
+      "level": null,
+      "members": [
+        "APP",
+        "DESKTOP",
+        "MOBILE",
+        "WEB"
+      ]
+    },
+    {
+      "name": "TAKE OFF",
+      "level": null,
+      "members": [
+        "BOOK",
+        "DIP",
+        "JET",
+        "SPLIT"
+      ]
+    },
+    {
+      "name": "UNITS OF MEASURE",
+      "level": null,
+      "members": [
+        "BAR",
+        "GRAM",
+        "MOLE",
+        "VOLT"
+      ]
+    }
+  ]
+}

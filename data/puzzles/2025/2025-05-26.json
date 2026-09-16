@@ -1,0 +1,47 @@
+{
+  "id": 715,
+  "date": "2025-05-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ITEMS IN A LINEN CLOSET",
+      "level": 0,
+      "members": [
+        "PILLOWCASE",
+        "SHEET",
+        "TOWEL",
+        "WASHCLOTH"
+      ]
+    },
+    {
+      "name": "DIAMETRIC",
+      "level": 1,
+      "members": [
+        "COUNTER",
+        "OPPOSITE",
+        "POLAR",
+        "REVERSE"
+      ]
+    },
+    {
+      "name": "LINGERIE",
+      "level": 2,
+      "members": [
+        "GARTER",
+        "HOSE",
+        "SLIP",
+        "TEDDY"
+      ]
+    },
+    {
+      "name": "CARD GAMES WITH FIRST LETTER CHANGED",
+      "level": 3,
+      "members": [
+        "DIN",
+        "FRIDGE",
+        "GUMMY",
+        "JOKER"
+      ]
+    }
+  ]
+}

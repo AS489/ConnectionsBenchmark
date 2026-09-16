@@ -1,0 +1,47 @@
+{
+  "id": 835,
+  "date": "2025-09-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHEERFUL",
+      "level": null,
+      "members": [
+        "BOUNCY",
+        "BRIGHT",
+        "MERRY",
+        "SUNNY"
+      ]
+    },
+    {
+      "name": "\"RUBBER BABY BUGGY BUMPER\"",
+      "level": null,
+      "members": [
+        "BABY",
+        "BUGGY",
+        "BUMPER",
+        "RUBBER"
+      ]
+    },
+    {
+      "name": "KINDS OF LUGGAGE",
+      "level": null,
+      "members": [
+        "CARRY-ON",
+        "DUFFEL",
+        "HARD-SHELL",
+        "ROLLER"
+      ]
+    },
+    {
+      "name": "TITLE CHARACTERS IN '80S MOVIES",
+      "level": null,
+      "members": [
+        "FERRIS",
+        "HEATHER",
+        "INDIANA",
+        "PEE-WEE"
+      ]
+    }
+  ]
+}

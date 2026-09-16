@@ -1,0 +1,47 @@
+{
+  "id": 608,
+  "date": "2025-02-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INFO ON A BASEBALL CARD",
+      "level": 0,
+      "members": [
+        "BIO",
+        "PLAYER",
+        "STAT",
+        "TEAM"
+      ]
+    },
+    {
+      "name": "SCRUNCH, AS FABRIC",
+      "level": 1,
+      "members": [
+        "BUNCH",
+        "GATHER",
+        "RUFFLE",
+        "PUCKER"
+      ]
+    },
+    {
+      "name": "TIME ADVERBS",
+      "level": 2,
+      "members": [
+        "LATER",
+        "NOW",
+        "SOON",
+        "THEN"
+      ]
+    },
+    {
+      "name": "___ FOOD",
+      "level": 3,
+      "members": [
+        "FAST",
+        "FINGER",
+        "JUNK",
+        "SOUL"
+      ]
+    }
+  ]
+}

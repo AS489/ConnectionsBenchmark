@@ -1,0 +1,47 @@
+{
+  "id": 884,
+  "date": "2025-11-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPORTS",
+      "level": null,
+      "members": [
+        "GOLF",
+        "JUDO",
+        "POLO",
+        "SUMO"
+      ]
+    },
+    {
+      "name": "DOOFUS",
+      "level": null,
+      "members": [
+        "BOZO",
+        "DODO",
+        "DOPE",
+        "YO-YO"
+      ]
+    },
+    {
+      "name": "ACRONYMS",
+      "level": null,
+      "members": [
+        "BOGO",
+        "FOMO",
+        "GOAT",
+        "YOLO"
+      ]
+    },
+    {
+      "name": "SPANISH WORDS",
+      "level": null,
+      "members": [
+        "COMO",
+        "LOCO",
+        "POCO",
+        "ROJO"
+      ]
+    }
+  ]
+}

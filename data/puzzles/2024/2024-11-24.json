@@ -1,0 +1,47 @@
+{
+  "id": 532,
+  "date": "2024-11-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CAREEN",
+      "level": 0,
+      "members": [
+        "HEAVE",
+        "LURCH",
+        "PITCH",
+        "REEL"
+      ]
+    },
+    {
+      "name": "WHAT A NOUN MIGHT BE",
+      "level": 1,
+      "members": [
+        "IDEA",
+        "PERSON",
+        "PLACE",
+        "THING"
+      ]
+    },
+    {
+      "name": "ELECTRONIC DANCE MUSIC GENRES",
+      "level": 2,
+      "members": [
+        "AMBIENT",
+        "HOUSE",
+        "JUNGLE",
+        "TRANCE"
+      ]
+    },
+    {
+      "name": "WORDS AFTER “ASH”",
+      "level": 3,
+      "members": [
+        "BLOND",
+        "TRAY",
+        "TREE",
+        "WEDNESDAY"
+      ]
+    }
+  ]
+}

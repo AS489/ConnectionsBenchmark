@@ -1,0 +1,47 @@
+{
+  "id": 78,
+  "date": "2023-08-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STATES OF ELATION",
+      "level": 0,
+      "members": [
+        "BLISS",
+        "CLOUD NINE",
+        "HEAVEN",
+        "PARADISE"
+      ]
+    },
+    {
+      "name": "SCAM",
+      "level": 1,
+      "members": [
+        "CON",
+        "FAST ONE",
+        "HUSTLE",
+        "RACKET"
+      ]
+    },
+    {
+      "name": "GREETING GESTURES",
+      "level": 2,
+      "members": [
+        "HIGH FIVE",
+        "HUG",
+        "SHAKE",
+        "WAVE"
+      ]
+    },
+    {
+      "name": "___ LIST",
+      "level": 3,
+      "members": [
+        "BUCKET",
+        "GUEST",
+        "TOP TEN",
+        "WISH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 653,
+  "date": "2025-03-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BLACK-AND-WHITE THINGS",
+      "level": 0,
+      "members": [
+        "CROSSWORD",
+        "OREO",
+        "PANDA",
+        "TUXEDO"
+      ]
+    },
+    {
+      "name": "ANAGRAMS",
+      "level": 1,
+      "members": [
+        "ABEL",
+        "ABLE",
+        "BALE",
+        "BELA"
+      ]
+    },
+    {
+      "name": "U.S. PRESIDENTIAL NICKNAMES",
+      "level": 2,
+      "members": [
+        "ABE",
+        "CAL",
+        "DICK",
+        "TEDDY"
+      ]
+    },
+    {
+      "name": "CLEAR AS ___",
+      "level": 3,
+      "members": [
+        "A BELL",
+        "CRYSTAL",
+        "DAY",
+        "MUD"
+      ]
+    }
+  ]
+}

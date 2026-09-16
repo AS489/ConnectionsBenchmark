@@ -1,0 +1,47 @@
+{
+  "id": 997,
+  "date": "2026-03-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FREELOADER",
+      "level": null,
+      "members": [
+        "LEECH",
+        "MOOCH",
+        "PARASITE",
+        "SPONGE"
+      ]
+    },
+    {
+      "name": "CONCEALING COVER",
+      "level": null,
+      "members": [
+        "BLANKET",
+        "CLOAK",
+        "CURTAIN",
+        "LAYER"
+      ]
+    },
+    {
+      "name": "WAYS ONE MIGHT REFER TO #",
+      "level": null,
+      "members": [
+        "HASH",
+        "NUMBER",
+        "POUND",
+        "SHARP"
+      ]
+    },
+    {
+      "name": "WORDS FOR LUCIDITY, IN THE SINGULAR",
+      "level": null,
+      "members": [
+        "FACULTY",
+        "MARBLE",
+        "SENSE",
+        "WIT"
+      ]
+    }
+  ]
+}

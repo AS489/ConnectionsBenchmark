@@ -1,0 +1,47 @@
+{
+  "id": 1187,
+  "date": "2026-09-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INSTRUCT",
+      "level": null,
+      "members": [
+        "COACH",
+        "DIRECT",
+        "GUIDE",
+        "TRAIN"
+      ]
+    },
+    {
+      "name": "PARTS OF A WHISTLING KETTLE",
+      "level": null,
+      "members": [
+        "HANDLE",
+        "LID",
+        "SPOUT",
+        "WHISTLE"
+      ]
+    },
+    {
+      "name": "UNDERCOVER OPERATIVE",
+      "level": null,
+      "members": [
+        "ASSET",
+        "MOLE",
+        "PLANT",
+        "SLEEPER"
+      ]
+    },
+    {
+      "name": "THINGS THAT APPEAR AT THE END",
+      "level": null,
+      "members": [
+        "CABOOSE",
+        "DECEMBER",
+        "DESSERT",
+        "EPILOGUE"
+      ]
+    }
+  ]
+}

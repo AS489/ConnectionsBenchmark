@@ -1,0 +1,47 @@
+{
+  "id": 158,
+  "date": "2023-11-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BALDERDASH",
+      "level": 0,
+      "members": [
+        "BULL",
+        "HOGWASH",
+        "NONSENSE",
+        "ROT"
+      ]
+    },
+    {
+      "name": "HELM",
+      "level": 1,
+      "members": [
+        "DIRECT",
+        "GUIDE",
+        "LEAD",
+        "STEER"
+      ]
+    },
+    {
+      "name": "SINGLE/PLURAL ANIMALS",
+      "level": 2,
+      "members": [
+        "BUFFALO",
+        "DEER",
+        "FISH",
+        "MOOSE"
+      ]
+    },
+    {
+      "name": "GREAT ___",
+      "level": 3,
+      "members": [
+        "DANE",
+        "LAKE",
+        "SEAL",
+        "WHITE"
+      ]
+    }
+  ]
+}

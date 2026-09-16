@@ -1,0 +1,47 @@
+{
+  "id": 363,
+  "date": "2024-06-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GRAB ONE’S ATTENTION",
+      "level": 0,
+      "members": [
+        "ABSORB",
+        "ENGROSS",
+        "HOLD",
+        "RIVET"
+      ]
+    },
+    {
+      "name": "DOCUMENT WITH VIDEO",
+      "level": 1,
+      "members": [
+        "FILM",
+        "RECORD",
+        "SHOOT",
+        "TAPE"
+      ]
+    },
+    {
+      "name": "ANAGRAMS",
+      "level": 2,
+      "members": [
+        "PASTEL",
+        "PETALS",
+        "PLEATS",
+        "STAPLE"
+      ]
+    },
+    {
+      "name": "PRETTY ___",
+      "level": 3,
+      "members": [
+        "GOOD",
+        "PENNY",
+        "PLEASE",
+        "WOMAN"
+      ]
+    }
+  ]
+}

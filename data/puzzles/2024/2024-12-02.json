@@ -1,0 +1,47 @@
+{
+  "id": 540,
+  "date": "2024-12-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ANNOUNCE",
+      "level": 0,
+      "members": [
+        "BROADCAST",
+        "DECLARE",
+        "HERALD",
+        "TRUMPET"
+      ]
+    },
+    {
+      "name": "THINGS INVOLVING MALLETS",
+      "level": 1,
+      "members": [
+        "CARPENTRY",
+        "CROQUET",
+        "WHAC-A-MOLE",
+        "XYLOPHONE"
+      ]
+    },
+    {
+      "name": "ICON EMBROIDERED ON A POLO SHIRT",
+      "level": 2,
+      "members": [
+        "CROCODILE",
+        "LAUREL",
+        "POLO PLAYER",
+        "SWOOSH"
+      ]
+    },
+    {
+      "name": "___ CLIP",
+      "level": 3,
+      "members": [
+        "ALLIGATOR",
+        "HAIR",
+        "PAPER",
+        "VIDEO"
+      ]
+    }
+  ]
+}

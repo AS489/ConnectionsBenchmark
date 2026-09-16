@@ -1,0 +1,47 @@
+{
+  "id": 1185,
+  "date": "2026-09-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LACKING IN FIRMNESS",
+      "level": null,
+      "members": [
+        "DROOPY",
+        "FLACCID",
+        "SAGGING",
+        "SLACK"
+      ]
+    },
+    {
+      "name": "U.S. PRESIDENTS",
+      "level": null,
+      "members": [
+        "CLEVELAND",
+        "GARFIELD",
+        "GRANT",
+        "MADISON"
+      ]
+    },
+    {
+      "name": "WORDS THAT SOUND LIKE TWO LETTERS",
+      "level": null,
+      "members": [
+        "EMPTY",
+        "EXCESS",
+        "KEWPIE",
+        "ODIE"
+      ]
+    },
+    {
+      "name": "ENDING IN ELEVATED LANDFORMS",
+      "level": null,
+      "members": [
+        "DOUBLESPEAK",
+        "HEATHCLIFF",
+        "PARAMOUNT",
+        "PORRIDGE"
+      ]
+    }
+  ]
+}

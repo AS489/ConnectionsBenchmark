@@ -1,0 +1,47 @@
+{
+  "id": 606,
+  "date": "2025-02-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DELICATE",
+      "level": 0,
+      "members": [
+        "FAINT",
+        "LIGHT",
+        "MILD",
+        "SOFT"
+      ]
+    },
+    {
+      "name": "MAGNANIMOUS",
+      "level": 1,
+      "members": [
+        "GRAND",
+        "GREAT",
+        "LOFTY",
+        "NOBLE"
+      ]
+    },
+    {
+      "name": "THINGS WITH NECKS",
+      "level": 2,
+      "members": [
+        "BOTTLE",
+        "GIRAFFE",
+        "GUITAR",
+        "LAMP"
+      ]
+    },
+    {
+      "name": "FIRST NAMES IN JAZZ",
+      "level": 3,
+      "members": [
+        "CAB",
+        "COUNT",
+        "DIZZY",
+        "DUKE"
+      ]
+    }
+  ]
+}

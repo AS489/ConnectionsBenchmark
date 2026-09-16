@@ -1,0 +1,47 @@
+{
+  "id": 970,
+  "date": "2026-02-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ITEMS AT A COFFEE STATION",
+      "level": null,
+      "members": [
+        "CUP",
+        "LID",
+        "STIRRER",
+        "STRAW"
+      ]
+    },
+    {
+      "name": "THINGS WITH STRIPES",
+      "level": null,
+      "members": [
+        "CANDY CANE",
+        "CROSSWALK",
+        "REFEREE",
+        "TIGER"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE \"FLY\" IN INSECT NAMES",
+      "level": null,
+      "members": [
+        "BUTTER",
+        "DRAGON",
+        "FIRE",
+        "HORSE"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF GREETINGS",
+      "level": null,
+      "members": [
+        "CHOW",
+        "HAY",
+        "HIGH",
+        "YEOH"
+      ]
+    }
+  ]
+}

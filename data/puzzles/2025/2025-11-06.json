@@ -1,0 +1,47 @@
+{
+  "id": 878,
+  "date": "2025-11-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COST",
+      "level": null,
+      "members": [
+        "AMOUNT",
+        "FIGURE",
+        "PRICE",
+        "VALUE"
+      ]
+    },
+    {
+      "name": "WAYS TO UNLOCK A DEVICE",
+      "level": null,
+      "members": [
+        "FACE",
+        "FINGERPRINT",
+        "PASSWORD",
+        "PIN"
+      ]
+    },
+    {
+      "name": "PARTS OF A SHIP",
+      "level": null,
+      "members": [
+        "AFT",
+        "DECK",
+        "FORE",
+        "MAST"
+      ]
+    },
+    {
+      "name": "FEATURES OF A CARTOON CUPID",
+      "level": null,
+      "members": [
+        "ARROW",
+        "BOW",
+        "DIAPER",
+        "WINGS"
+      ]
+    }
+  ]
+}

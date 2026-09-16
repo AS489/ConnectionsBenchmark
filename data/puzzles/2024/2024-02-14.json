@@ -1,0 +1,47 @@
+{
+  "id": 248,
+  "date": "2024-02-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TOUCH LIGHTLY",
+      "level": 0,
+      "members": [
+        "BRUSH",
+        "GRAZE",
+        "KISS",
+        "SKIM"
+      ]
+    },
+    {
+      "name": "KINDS OF NUMBERS",
+      "level": 1,
+      "members": [
+        "ODD",
+        "PERFECT",
+        "PRIME",
+        "WHOLE"
+      ]
+    },
+    {
+      "name": "SAUCES IN CHINESE CUISINE",
+      "level": 2,
+      "members": [
+        "OYSTER",
+        "PLUM",
+        "SOY",
+        "XO"
+      ]
+    },
+    {
+      "name": "BEAR ___",
+      "level": 3,
+      "members": [
+        "CLAW",
+        "FRUIT",
+        "HUG",
+        "WITNESS"
+      ]
+    }
+  ]
+}

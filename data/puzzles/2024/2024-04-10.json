@@ -1,0 +1,47 @@
+{
+  "id": 304,
+  "date": "2024-04-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PERSON IN CHARGE",
+      "level": 0,
+      "members": [
+        "CHAIR",
+        "CHIEF",
+        "DIRECTOR",
+        "HEAD"
+      ]
+    },
+    {
+      "name": "GRASSY AREA",
+      "level": 1,
+      "members": [
+        "FIELD",
+        "GREEN",
+        "GROUNDS",
+        "LAWN"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “NUT”",
+      "level": 2,
+      "members": [
+        "CHEST",
+        "COCO",
+        "HAZEL",
+        "PEA"
+      ]
+    },
+    {
+      "name": "SECOND WORDS IN TARANTINO MOVIES",
+      "level": 3,
+      "members": [
+        "BROWN",
+        "DOGS",
+        "FICTION",
+        "UNCHAINED"
+      ]
+    }
+  ]
+}

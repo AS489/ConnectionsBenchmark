@@ -1,0 +1,47 @@
+{
+  "id": 297,
+  "date": "2024-04-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BENCHMARK",
+      "level": 0,
+      "members": [
+        "BENCHMARK",
+        "GAUGE",
+        "STANDARD",
+        "YARDSTICK"
+      ]
+    },
+    {
+      "name": "POKER ACTIONS",
+      "level": 1,
+      "members": [
+        "BET",
+        "CALL",
+        "CHECK",
+        "FOLD"
+      ]
+    },
+    {
+      "name": "SKIN TYPES",
+      "level": 2,
+      "members": [
+        "COMBINATION",
+        "DRY",
+        "NORMAL",
+        "OILY"
+      ]
+    },
+    {
+      "name": "STARTS OF U.S. STATES",
+      "level": 3,
+      "members": [
+        "KENT",
+        "MARY",
+        "MASS",
+        "WASH"
+      ]
+    }
+  ]
+}

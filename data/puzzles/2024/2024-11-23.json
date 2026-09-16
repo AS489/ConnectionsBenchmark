@@ -1,0 +1,47 @@
+{
+  "id": 531,
+  "date": "2024-11-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TELLING OF EVENTS",
+      "level": 0,
+      "members": [
+        "ACCOUNT",
+        "CHRONICLE",
+        "DESCRIPTION",
+        "STORY"
+      ]
+    },
+    {
+      "name": "SECRETED BY TREES",
+      "level": 1,
+      "members": [
+        "GUM",
+        "LATEX",
+        "RESIN",
+        "SAP"
+      ]
+    },
+    {
+      "name": "THINGS ON STICKS",
+      "level": 2,
+      "members": [
+        "BALL-IN-CUP",
+        "CORN DOG",
+        "COTTON SWAB",
+        "LOLLIPOP"
+      ]
+    },
+    {
+      "name": "BLACK OR RED",
+      "level": 3,
+      "members": [
+        "BALANCE SHEET",
+        "CHECKERS",
+        "LICORICE",
+        "ROULETTE"
+      ]
+    }
+  ]
+}

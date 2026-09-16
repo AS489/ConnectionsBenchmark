@@ -1,0 +1,47 @@
+{
+  "id": 425,
+  "date": "2024-08-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NOT PRESENT",
+      "level": 0,
+      "members": [
+        "ABSENT",
+        "ELSEWHERE",
+        "GONE",
+        "MIA"
+      ]
+    },
+    {
+      "name": "SUPPORTER",
+      "level": 1,
+      "members": [
+        "ADVOCATE",
+        "CHAMPION",
+        "CHEERLEADER",
+        "EXPONENT"
+      ]
+    },
+    {
+      "name": "ROCK GENRES",
+      "level": 2,
+      "members": [
+        "GLAM",
+        "GOTH",
+        "METAL",
+        "PUNK"
+      ]
+    },
+    {
+      "name": "SHOCK ___",
+      "level": 3,
+      "members": [
+        "HORROR",
+        "JOCK",
+        "VALUE",
+        "WAVE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1111,
+  "date": "2026-07-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS NAMED AFTER PLACES",
+      "level": null,
+      "members": [
+        "CHAMPAGNE",
+        "CHINA",
+        "COLOGNE",
+        "LIMERICK"
+      ]
+    },
+    {
+      "name": "BEST PICTURE WINNERS/NOMINEES",
+      "level": null,
+      "members": [
+        "CASABLANCA",
+        "CHICAGO",
+        "FARGO",
+        "MUNICH"
+      ]
+    },
+    {
+      "name": "PLACES IN COCKTAIL NAMES",
+      "level": null,
+      "members": [
+        "CUBA",
+        "LONG ISLAND",
+        "MOSCOW",
+        "SINGAPORE"
+      ]
+    },
+    {
+      "name": "STARTING WITH COUNTRIES",
+      "level": null,
+      "members": [
+        "DOMINICAN REPUBLIC",
+        "GUINEA-BISSAU",
+        "INDIANAPOLIS",
+        "NIGERIA"
+      ]
+    }
+  ]
+}

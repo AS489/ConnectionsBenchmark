@@ -1,0 +1,47 @@
+{
+  "id": 299,
+  "date": "2024-04-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PIECES OF FURNITURE",
+      "level": 0,
+      "members": [
+        "BED",
+        "CHAIR",
+        "COUCH",
+        "TABLE"
+      ]
+    },
+    {
+      "name": "CARRY, AS A FEELING",
+      "level": 1,
+      "members": [
+        "BEAR",
+        "HARBOR",
+        "HOLD",
+        "MAINTAIN"
+      ]
+    },
+    {
+      "name": "WINE TASTING DESCRIPTORS",
+      "level": 2,
+      "members": [
+        "BALANCED",
+        "DRY",
+        "FULL",
+        "SWEET"
+      ]
+    },
+    {
+      "name": "STARTING WITH METALS",
+      "level": 3,
+      "members": [
+        "GOLDILOCKS",
+        "IRONIC",
+        "LEADERSHIP",
+        "TINDER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 985,
+  "date": "2026-02-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ONE WHO DOESN'T FIT IN",
+      "level": null,
+      "members": [
+        "BLACK SHEEP",
+        "MISFIT",
+        "OUTCAST",
+        "REJECT"
+      ]
+    },
+    {
+      "name": "DESCRIPTORS FOR GRAYING HAIR",
+      "level": null,
+      "members": [
+        "DISTINGUISHED",
+        "FLECKED",
+        "SALT-AND-PEPPER",
+        "SILVER"
+      ]
+    },
+    {
+      "name": "CLASSIC COMIC STRIPS",
+      "level": null,
+      "members": [
+        "BLONDIE",
+        "BLOOM COUNTY",
+        "PEANUTS",
+        "THE FAR SIDE"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH THEODORE ROOSEVELT",
+      "level": null,
+      "members": [
+        "BIG STICK",
+        "BULL MOOSE",
+        "ROUGH RIDERS",
+        "TEDDY BEAR"
+      ]
+    }
+  ]
+}

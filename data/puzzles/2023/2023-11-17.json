@@ -1,0 +1,47 @@
+{
+  "id": 159,
+  "date": "2023-11-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BODYWEIGHT EXERCISES",
+      "level": 0,
+      "members": [
+        "DIPS",
+        "LUNGES",
+        "PLANKS",
+        "SQUATS"
+      ]
+    },
+    {
+      "name": "EMAIL SIGN-OFFS",
+      "level": 1,
+      "members": [
+        "BEST",
+        "CHEERS",
+        "REGARDS",
+        "THANKS"
+      ]
+    },
+    {
+      "name": "M.L.B. TEAMS, FOR SHORT",
+      "level": 2,
+      "members": [
+        "CARDS",
+        "JAYS",
+        "NATS",
+        "YANKS"
+      ]
+    },
+    {
+      "name": "ELIZABETHS (AND ONE ELISABETH)",
+      "level": 3,
+      "members": [
+        "BANKS",
+        "MOSS",
+        "TAYLOR",
+        "WARREN"
+      ]
+    }
+  ]
+}

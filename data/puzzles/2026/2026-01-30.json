@@ -1,0 +1,47 @@
+{
+  "id": 963,
+  "date": "2026-01-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "REGION",
+      "level": null,
+      "members": [
+        "AREA",
+        "CLUSTER",
+        "PATCH",
+        "POCKET"
+      ]
+    },
+    {
+      "name": "GROOMING ITEMS",
+      "level": null,
+      "members": [
+        "COMB",
+        "COMPACT",
+        "NAIL FILE",
+        "TWEEZERS"
+      ]
+    },
+    {
+      "name": "THINGS WITH ADHESIVE SURFACES",
+      "level": null,
+      "members": [
+        "BAND-AID",
+        "LINT ROLLER",
+        "STICKER",
+        "TAPE"
+      ]
+    },
+    {
+      "name": "___ HAND",
+      "level": null,
+      "members": [
+        "HELPING",
+        "MINUTE",
+        "POKER",
+        "UPPER"
+      ]
+    }
+  ]
+}

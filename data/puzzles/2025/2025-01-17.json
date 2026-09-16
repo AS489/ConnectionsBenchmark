@@ -1,0 +1,47 @@
+{
+  "id": 586,
+  "date": "2025-01-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FRANKFURTER",
+      "level": 0,
+      "members": [
+        "BANGER",
+        "BRAT",
+        "LINK",
+        "SAUSAGE"
+      ]
+    },
+    {
+      "name": "STRIKE",
+      "level": 1,
+      "members": [
+        "BOP",
+        "HIT",
+        "KNOCK",
+        "TAP"
+      ]
+    },
+    {
+      "name": "WEB BROWSERS",
+      "level": 2,
+      "members": [
+        "CHROME",
+        "EDGE",
+        "OPERA",
+        "SAFARI"
+      ]
+    },
+    {
+      "name": "ENDING WITH BEER BRANDS",
+      "level": 3,
+      "members": [
+        "AUTOHARP",
+        "CONTRABASS",
+        "PEPPERONI",
+        "ROSEBUD"
+      ]
+    }
+  ]
+}

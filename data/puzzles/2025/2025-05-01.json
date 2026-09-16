@@ -1,0 +1,47 @@
+{
+  "id": 690,
+  "date": "2025-05-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WINNINGS",
+      "level": 0,
+      "members": [
+        "POT",
+        "PRIZE",
+        "PURSE",
+        "REWARD"
+      ]
+    },
+    {
+      "name": "STOP, AS A HABIT",
+      "level": 1,
+      "members": [
+        "BREAK",
+        "DROP",
+        "KICK",
+        "SHAKE"
+      ]
+    },
+    {
+      "name": "MOVIE CAMERA VERBS",
+      "level": 2,
+      "members": [
+        "DOLLY",
+        "PAN",
+        "TILT",
+        "ZOOM"
+      ]
+    },
+    {
+      "name": "WORDS THAT PRECEDE \"-SIZE\" TO MEAN SMALL",
+      "level": 3,
+      "members": [
+        "BITE",
+        "FUN",
+        "POCKET",
+        "TRAVEL"
+      ]
+    }
+  ]
+}

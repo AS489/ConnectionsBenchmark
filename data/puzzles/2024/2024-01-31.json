@@ -1,0 +1,47 @@
+{
+  "id": 234,
+  "date": "2024-01-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MERRIMENT",
+      "level": 0,
+      "members": [
+        "CHEER",
+        "GLEE",
+        "FESTIVITY",
+        "MIRTH"
+      ]
+    },
+    {
+      "name": "BOOKED FOR A WEDDING",
+      "level": 1,
+      "members": [
+        "BAND",
+        "CATERER",
+        "FLORIST",
+        "OFFICIANT"
+      ]
+    },
+    {
+      "name": "RHYMES",
+      "level": 2,
+      "members": [
+        "CHOIR",
+        "FIRE",
+        "LIAR",
+        "FRYER"
+      ]
+    },
+    {
+      "name": "___ PIT",
+      "level": 3,
+      "members": [
+        "BARBECUE",
+        "ORCHESTRA",
+        "SNAKE",
+        "TAR"
+      ]
+    }
+  ]
+}

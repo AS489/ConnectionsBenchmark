@@ -1,0 +1,47 @@
+{
+  "id": 317,
+  "date": "2024-04-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THROW OUT",
+      "level": 0,
+      "members": [
+        "BOOT",
+        "BOUNCE",
+        "EJECT",
+        "TOSS"
+      ]
+    },
+    {
+      "name": "TERRA FIRMA",
+      "level": 1,
+      "members": [
+        "EARTH",
+        "GROUND",
+        "LAND",
+        "SOIL"
+      ]
+    },
+    {
+      "name": "SEAS",
+      "level": 2,
+      "members": [
+        "BALTIC",
+        "BLACK",
+        "PHILIPPINE",
+        "RED"
+      ]
+    },
+    {
+      "name": "TOM HANKS MOVIES",
+      "level": 3,
+      "members": [
+        "BIG",
+        "PHILADELPHIA",
+        "SPLASH",
+        "SULLY"
+      ]
+    }
+  ]
+}

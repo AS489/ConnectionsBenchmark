@@ -1,0 +1,47 @@
+{
+  "id": 398,
+  "date": "2024-07-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ENORMOUS",
+      "level": 0,
+      "members": [
+        "GIANT",
+        "MAMMOTH",
+        "MONSTER",
+        "TITANIC"
+      ]
+    },
+    {
+      "name": "EMBODIMENT",
+      "level": 1,
+      "members": [
+        "AVATAR",
+        "CHARACTER",
+        "FIGURE",
+        "PERSONA"
+      ]
+    },
+    {
+      "name": "COME ACROSS AS",
+      "level": 2,
+      "members": [
+        "APPEAR",
+        "LOOK",
+        "SEEM",
+        "SOUND"
+      ]
+    },
+    {
+      "name": "SILENT “T”",
+      "level": 3,
+      "members": [
+        "CASTLE",
+        "HUSTLE",
+        "LISTEN",
+        "WITCH"
+      ]
+    }
+  ]
+}

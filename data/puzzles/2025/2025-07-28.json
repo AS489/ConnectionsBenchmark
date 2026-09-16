@@ -1,0 +1,47 @@
+{
+  "id": 778,
+  "date": "2025-07-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOREMOST",
+      "level": 0,
+      "members": [
+        "FIRST",
+        "INITIAL",
+        "ORIGINAL",
+        "PRIMARY"
+      ]
+    },
+    {
+      "name": "INDICATION",
+      "level": 1,
+      "members": [
+        "EVIDENCE",
+        "HINT",
+        "SIGN",
+        "TRACE"
+      ]
+    },
+    {
+      "name": "ITEM IN A COLLECTION",
+      "level": 2,
+      "members": [
+        "COIN",
+        "COMIC",
+        "RECORD",
+        "STAMP"
+      ]
+    },
+    {
+      "name": "___ MOVIE",
+      "level": 3,
+      "members": [
+        "BUDDY",
+        "CULT",
+        "DATE",
+        "SILENT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 922,
+  "date": "2025-12-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONTAINERS",
+      "level": null,
+      "members": [
+        "BUCKET",
+        "CAN",
+        "DRUM",
+        "TIN"
+      ]
+    },
+    {
+      "name": "LAUNDRY SERVICES",
+      "level": null,
+      "members": [
+        "DRY",
+        "FOLD",
+        "PRESS",
+        "WASH"
+      ]
+    },
+    {
+      "name": "BRITISH BANDS FORMED IN THE 1970S, WITH \"THE\"",
+      "level": null,
+      "members": [
+        "CLASH",
+        "CURE",
+        "DAMNED",
+        "FALL"
+      ]
+    },
+    {
+      "name": "ROCK ___",
+      "level": null,
+      "members": [
+        "BOTTOM",
+        "LOBSTER",
+        "MUSIC",
+        "SALT"
+      ]
+    }
+  ]
+}

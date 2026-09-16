@@ -1,0 +1,47 @@
+{
+  "id": 432,
+  "date": "2024-08-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MEH",
+      "level": 0,
+      "members": [
+        "AVERAGE",
+        "FAIR",
+        "OK",
+        "SO-SO"
+      ]
+    },
+    {
+      "name": "U.S. STATE ABBREVIATIONS",
+      "level": 1,
+      "members": [
+        "HI",
+        "MA",
+        "OR",
+        "PA"
+      ]
+    },
+    {
+      "name": "KINDS OF BOOTS",
+      "level": 2,
+      "members": [
+        "ANKLE",
+        "COWBOY",
+        "GO-GO",
+        "THIGH-HIGH"
+      ]
+    },
+    {
+      "name": "THINGS THAT GO UP AND DOWN",
+      "level": 3,
+      "members": [
+        "ELEVATOR",
+        "SUN",
+        "TIDE",
+        "YO-YO"
+      ]
+    }
+  ]
+}

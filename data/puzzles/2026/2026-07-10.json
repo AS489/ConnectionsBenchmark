@@ -1,0 +1,47 @@
+{
+  "id": 1120,
+  "date": "2026-07-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SMARTPHONE SETTINGS",
+      "level": null,
+      "members": [
+        "AIRPLANE MODE",
+        "DO NOT DISTURB",
+        "HOTSPOT",
+        "LOCATION SERVICES"
+      ]
+    },
+    {
+      "name": "DESSERT MENU DESCRIPTORS",
+      "level": null,
+      "members": [
+        "DECADENT",
+        "FRESH-BAKED",
+        "MOLTEN",
+        "À LA MODE"
+      ]
+    },
+    {
+      "name": "'80S SYNTH-POP BANDS",
+      "level": null,
+      "members": [
+        "DEPECHE MODE",
+        "ERASURE",
+        "NEW ORDER",
+        "PET SHOP BOYS"
+      ]
+    },
+    {
+      "name": "STARTING WITH BASEBALL CALLS",
+      "level": null,
+      "members": [
+        "BALL GOWN",
+        "OUTKAST",
+        "SAFE MODE",
+        "STRIKE A POSE"
+      ]
+    }
+  ]
+}

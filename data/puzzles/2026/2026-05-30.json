@@ -1,0 +1,47 @@
+{
+  "id": 1079,
+  "date": "2026-05-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "\"IN YOUR DREAMS\"",
+      "level": null,
+      "members": [
+        "IMPOSSIBLE",
+        "NEVER",
+        "NO WAY",
+        "SORRY"
+      ]
+    },
+    {
+      "name": "SENSIBLE",
+      "level": null,
+      "members": [
+        "CLEAR",
+        "LUCID",
+        "RIGHT",
+        "SOUND"
+      ]
+    },
+    {
+      "name": "TYPOGRAPHICAL SYMBOLS",
+      "level": null,
+      "members": [
+        "BRACE",
+        "CARET",
+        "PIPE",
+        "TILDE"
+      ]
+    },
+    {
+      "name": "SONG OF THE YEAR NOMINEES AT THE FIRST GRAMMY AWARDS",
+      "level": null,
+      "members": [
+        "FEVER",
+        "GIGI",
+        "VOLARE",
+        "WITCHCRAFT"
+      ]
+    }
+  ]
+}

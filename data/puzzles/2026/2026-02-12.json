@@ -1,0 +1,47 @@
+{
+  "id": 975,
+  "date": "2026-02-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONSTRUCT",
+      "level": null,
+      "members": [
+        "FORM",
+        "MAKE",
+        "MOLD",
+        "PRODUCE"
+      ]
+    },
+    {
+      "name": "FIXED IN PLACE",
+      "level": null,
+      "members": [
+        "FAST",
+        "FIRM",
+        "FROZEN",
+        "TIGHT"
+      ]
+    },
+    {
+      "name": "MLB PLAYER, FOR SHORT",
+      "level": null,
+      "members": [
+        "A",
+        "CARD",
+        "JAY",
+        "YANK"
+      ]
+    },
+    {
+      "name": "___ QUEEN",
+      "level": null,
+      "members": [
+        "DAIRY",
+        "DANCING",
+        "DRAG",
+        "MAY"
+      ]
+    }
+  ]
+}

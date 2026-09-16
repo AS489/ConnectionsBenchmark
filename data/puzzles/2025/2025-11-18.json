@@ -1,0 +1,47 @@
+{
+  "id": 890,
+  "date": "2025-11-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FUNNY PERSON",
+      "level": null,
+      "members": [
+        "CLOWN",
+        "JOKER",
+        "LAUGH",
+        "RIOT"
+      ]
+    },
+    {
+      "name": "KINDS OF TOMATOES",
+      "level": null,
+      "members": [
+        "CHERRY",
+        "GRAPE",
+        "PLUM",
+        "ROMA"
+      ]
+    },
+    {
+      "name": "BEST ACTRESS OSCAR WINNERS",
+      "level": null,
+      "members": [
+        "BERRY",
+        "MADISON",
+        "STONE",
+        "SWANK"
+      ]
+    },
+    {
+      "name": "ENDING IN SYNONYMS FOR \"LOCATION\"",
+      "level": null,
+      "members": [
+        "COMMONPLACE",
+        "NEEDLEPOINT",
+        "PARASITE",
+        "SUNSPOT"
+      ]
+    }
+  ]
+}

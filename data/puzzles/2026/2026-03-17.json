@@ -1,0 +1,47 @@
+{
+  "id": 1007,
+  "date": "2026-03-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "METAPHORS FOR TROUBLE",
+      "level": null,
+      "members": [
+        "BIND",
+        "HOT WATER",
+        "JAM",
+        "PICKLE"
+      ]
+    },
+    {
+      "name": "MUSIC THEORY CONCEPTS",
+      "level": null,
+      "members": [
+        "KEY",
+        "PITCH",
+        "SCALE",
+        "TONE"
+      ]
+    },
+    {
+      "name": "THINGS WITH STRINGS",
+      "level": null,
+      "members": [
+        "BALLOON",
+        "KITE",
+        "TEA BAG",
+        "YO-YO"
+      ]
+    },
+    {
+      "name": "METAPHORS FOR QUICKNESS",
+      "level": null,
+      "members": [
+        "ARROW",
+        "LIGHTNING",
+        "ROCKET",
+        "WIND"
+      ]
+    }
+  ]
+}

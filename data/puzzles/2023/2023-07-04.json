@@ -1,0 +1,47 @@
+{
+  "id": 23,
+  "date": "2023-07-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "60’s BAND MEMBERS",
+      "level": 0,
+      "members": [
+        "BEACH BOY",
+        "BEATLE",
+        "BYRD",
+        "MONKEE"
+      ]
+    },
+    {
+      "name": "DANCE FADS",
+      "level": 1,
+      "members": [
+        "DOUGIE",
+        "MACARENA",
+        "MASHED POTATO",
+        "TWIST"
+      ]
+    },
+    {
+      "name": "MAGAZINES",
+      "level": 2,
+      "members": [
+        "FORTUNE",
+        "ROLLING STONE",
+        "VOGUE",
+        "WIRED"
+      ]
+    },
+    {
+      "name": "THINGS WITH LINKS",
+      "level": 3,
+      "members": [
+        "CHAIN",
+        "GOLF COURSE",
+        "SAUSAGE",
+        "WEBSITE"
+      ]
+    }
+  ]
+}

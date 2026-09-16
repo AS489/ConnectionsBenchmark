@@ -1,0 +1,47 @@
+{
+  "id": 1095,
+  "date": "2026-06-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STAYING POWER",
+      "level": null,
+      "members": [
+        "LEGS",
+        "MOMENTUM",
+        "STAMINA",
+        "TRACTION"
+      ]
+    },
+    {
+      "name": "GET READY FOR A NIGHT OUT",
+      "level": null,
+      "members": [
+        "ACCESSORIZE",
+        "CHANGE",
+        "PRIMP",
+        "SHOWER"
+      ]
+    },
+    {
+      "name": "CHINESE ZODIAC ANIMALS",
+      "level": null,
+      "members": [
+        "DOG",
+        "DRAGON",
+        "HORSE",
+        "SNAKE"
+      ]
+    },
+    {
+      "name": "FLOWERS",
+      "level": null,
+      "members": [
+        "ANEMONE",
+        "LARKSPUR",
+        "MONKSHOOD",
+        "PHLOX"
+      ]
+    }
+  ]
+}

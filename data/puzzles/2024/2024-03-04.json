@@ -1,0 +1,47 @@
+{
+  "id": 267,
+  "date": "2024-03-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ROOMS IN THE GAME CLUE",
+      "level": 0,
+      "members": [
+        "HALL",
+        "LIBRARY",
+        "LOUNGE",
+        "STUDY"
+      ]
+    },
+    {
+      "name": "COLLEAGUE",
+      "level": 1,
+      "members": [
+        "ASSOCIATE",
+        "FELLOW",
+        "PARTNER",
+        "PEER"
+      ]
+    },
+    {
+      "name": "SEEN DURING EASTER",
+      "level": 2,
+      "members": [
+        "BUNNY",
+        "EGG",
+        "JELLY BEAN",
+        "PEEP"
+      ]
+    },
+    {
+      "name": "WHAT A MOLE CAN BE",
+      "level": 3,
+      "members": [
+        "ANIMAL",
+        "BIRTHMARK",
+        "SPY",
+        "UNIT"
+      ]
+    }
+  ]
+}

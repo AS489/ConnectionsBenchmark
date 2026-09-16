@@ -1,0 +1,47 @@
+{
+  "id": 193,
+  "date": "2023-12-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SEEN IN A LAUNDRY ROOM",
+      "level": 0,
+      "members": [
+        "DRYER",
+        "HAMPER",
+        "IRON",
+        "WASHER"
+      ]
+    },
+    {
+      "name": "SHEPHERD",
+      "level": 1,
+      "members": [
+        "DIRECT",
+        "GUIDE",
+        "LEAD",
+        "STEER"
+      ]
+    },
+    {
+      "name": "WHAT “I” MIGHT MEAN",
+      "level": 2,
+      "members": [
+        "IODINE",
+        "IOTA",
+        "MYSELF",
+        "ONE"
+      ]
+    },
+    {
+      "name": "___ VALLEY",
+      "level": 3,
+      "members": [
+        "DEATH",
+        "HIDDEN",
+        "SILICON",
+        "UNCANNY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 583,
+  "date": "2025-01-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OPERATING",
+      "level": 0,
+      "members": [
+        "ACTIVE",
+        "FUNCTIONAL",
+        "RUNNING",
+        "WORKING"
+      ]
+    },
+    {
+      "name": "TERM",
+      "level": 1,
+      "members": [
+        "MEETING",
+        "PERIOD",
+        "SESSION",
+        "SITTING"
+      ]
+    },
+    {
+      "name": "THINGS IN A CAMERA KIT",
+      "level": 2,
+      "members": [
+        "BODY",
+        "FLASH",
+        "LENS",
+        "STRAP"
+      ]
+    },
+    {
+      "name": "BIRD PLUS LETTER",
+      "level": 3,
+      "members": [
+        "CROWD",
+        "GULLY",
+        "PUFFING",
+        "SWANK"
+      ]
+    }
+  ]
+}

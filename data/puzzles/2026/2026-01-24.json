@@ -1,0 +1,47 @@
+{
+  "id": 957,
+  "date": "2026-01-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GEAR FOR A BOXER",
+      "level": null,
+      "members": [
+        "GLOVES",
+        "MOUTHGUARD",
+        "ROBE",
+        "SHORTS"
+      ]
+    },
+    {
+      "name": "CHAMPIONSHIP",
+      "level": null,
+      "members": [
+        "AWARD",
+        "CROWN",
+        "CUP",
+        "TITLE"
+      ]
+    },
+    {
+      "name": "KINDS OF NECKLINES",
+      "level": null,
+      "members": [
+        "BOAT",
+        "CREW",
+        "HALTER",
+        "SCOOP"
+      ]
+    },
+    {
+      "name": "SNOW ___",
+      "level": null,
+      "members": [
+        "CONE",
+        "GLOBE",
+        "LEOPARD",
+        "PEA"
+      ]
+    }
+  ]
+}

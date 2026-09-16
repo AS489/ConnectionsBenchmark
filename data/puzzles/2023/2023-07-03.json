@@ -1,0 +1,47 @@
+{
+  "id": 22,
+  "date": "2023-07-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DOG BREEDS",
+      "level": 0,
+      "members": [
+        "BOXER",
+        "DALMATIAN",
+        "HUSKY",
+        "POODLE"
+      ]
+    },
+    {
+      "name": "ANIMAL NOSES",
+      "level": 1,
+      "members": [
+        "BEAK",
+        "MUZZLE",
+        "SNOUT",
+        "TRUNK"
+      ]
+    },
+    {
+      "name": "TRAFFIC SIGNS",
+      "level": 2,
+      "members": [
+        "DETOUR",
+        "SLOW",
+        "STOP",
+        "YIELD"
+      ]
+    },
+    {
+      "name": "SOUND ___",
+      "level": 3,
+      "members": [
+        "ASLEEP",
+        "BARRIER",
+        "BITE",
+        "WAVE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 770,
+  "date": "2025-07-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MOVE TO THE MUSIC",
+      "level": 0,
+      "members": [
+        "BOP",
+        "BOUNCE",
+        "GROOVE",
+        "SWAY"
+      ]
+    },
+    {
+      "name": "INHALATION",
+      "level": 1,
+      "members": [
+        "DRAG",
+        "DRAW",
+        "PUFF",
+        "PULL"
+      ]
+    },
+    {
+      "name": "MARTINI SPECIFICATIONS",
+      "level": 2,
+      "members": [
+        "DRY",
+        "GIN",
+        "SHAKEN",
+        "TWIST"
+      ]
+    },
+    {
+      "name": "___WORD",
+      "level": 3,
+      "members": [
+        "BUZZ",
+        "CROSS",
+        "LOAN",
+        "PASS"
+      ]
+    }
+  ]
+}

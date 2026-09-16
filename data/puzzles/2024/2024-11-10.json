@@ -1,0 +1,47 @@
+{
+  "id": 518,
+  "date": "2024-11-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BARREL-SHAPED CONTAINER",
+      "level": 0,
+      "members": [
+        "CASK",
+        "CYLINDER",
+        "DRUM",
+        "TANK"
+      ]
+    },
+    {
+      "name": "GUIDE",
+      "level": 1,
+      "members": [
+        "PILOT",
+        "USHER",
+        "SHEPHERD",
+        "STEER"
+      ]
+    },
+    {
+      "name": "N.F.L. TEAM MEMBER",
+      "level": 2,
+      "members": [
+        "COWBOY",
+        "JET",
+        "RAM",
+        "RAVEN"
+      ]
+    },
+    {
+      "name": "THINGS THAT SWING",
+      "level": 3,
+      "members": [
+        "GOLFER",
+        "PENDULUM",
+        "SALOON DOORS",
+        "SWING"
+      ]
+    }
+  ]
+}

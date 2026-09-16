@@ -1,0 +1,47 @@
+{
+  "id": 785,
+  "date": "2025-08-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ARTHROPODS",
+      "level": 0,
+      "members": [
+        "APHID",
+        "BEETLE",
+        "MITE",
+        "TICK"
+      ]
+    },
+    {
+      "name": "TREES",
+      "level": 1,
+      "members": [
+        "BEECH",
+        "CEDAR",
+        "PINE",
+        "YEW"
+      ]
+    },
+    {
+      "name": "[LETTER] (IS) FOR ___",
+      "level": 2,
+      "members": [
+        "APPLE",
+        "COOKIE",
+        "EFFORT",
+        "VENDETTA"
+      ]
+    },
+    {
+      "name": "WORDS THAT SOUNDS LIKE TWO LETTERS",
+      "level": 3,
+      "members": [
+        "DECAY",
+        "EASY",
+        "GEO",
+        "ZITI"
+      ]
+    }
+  ]
+}

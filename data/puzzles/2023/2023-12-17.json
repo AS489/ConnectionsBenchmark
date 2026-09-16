@@ -1,0 +1,47 @@
+{
+  "id": 189,
+  "date": "2023-12-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RESERVE FOR LATER",
+      "level": 0,
+      "members": [
+        "BANK",
+        "SAVE",
+        "STASH",
+        "STORE"
+      ]
+    },
+    {
+      "name": "BOLDNESS, FIGURATIVELY",
+      "level": 1,
+      "members": [
+        "GALL",
+        "GUTS",
+        "NERVE",
+        "STONES"
+      ]
+    },
+    {
+      "name": "USED TO BUILD A SNOWMAN",
+      "level": 2,
+      "members": [
+        "CARROT",
+        "COAL",
+        "SNOW",
+        "STICKS"
+      ]
+    },
+    {
+      "name": "FUNNY ___",
+      "level": 3,
+      "members": [
+        "BONE",
+        "BUSINESS",
+        "GIRL",
+        "PAGES"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 161,
+  "date": "2023-11-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ONSET",
+      "level": 0,
+      "members": [
+        "BIRTH",
+        "CREATION",
+        "DAWN",
+        "START"
+      ]
+    },
+    {
+      "name": "VENERABLE",
+      "level": 1,
+      "members": [
+        "AUGUST",
+        "GRAND",
+        "NOBLE",
+        "REGAL"
+      ]
+    },
+    {
+      "name": "WALK",
+      "level": 2,
+      "members": [
+        "MARCH",
+        "STEP",
+        "STRIDE",
+        "TREAD"
+      ]
+    },
+    {
+      "name": "___ DAY HOLIDAYS",
+      "level": 3,
+      "members": [
+        "EARTH",
+        "GROUNDHOG",
+        "LABOR",
+        "MAY"
+      ]
+    }
+  ]
+}

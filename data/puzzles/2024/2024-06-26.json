@@ -1,0 +1,47 @@
+{
+  "id": 381,
+  "date": "2024-06-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ARMY RANKS",
+      "level": 0,
+      "members": [
+        "CAPTAIN",
+        "GENERAL",
+        "MAJOR",
+        "PRIVATE"
+      ]
+    },
+    {
+      "name": "PLACE TO PLUG SOMETHING IN",
+      "level": 1,
+      "members": [
+        "JACK",
+        "OUTLET",
+        "PORT",
+        "SOCKET"
+      ]
+    },
+    {
+      "name": "CONSUMER DESIRE, COLLECTIVELY",
+      "level": 2,
+      "members": [
+        "APPETITE",
+        "AUDIENCE",
+        "DEMAND",
+        "MARKET"
+      ]
+    },
+    {
+      "name": "___ AD",
+      "level": 3,
+      "members": [
+        "ATTACK",
+        "PERSONAL",
+        "POP-UP",
+        "WANT"
+      ]
+    }
+  ]
+}

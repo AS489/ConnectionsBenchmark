@@ -1,0 +1,47 @@
+{
+  "id": 743,
+  "date": "2025-06-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF JEANS",
+      "level": 0,
+      "members": [
+        "BOYFRIEND",
+        "FLARE",
+        "MOM",
+        "SKINNY"
+      ]
+    },
+    {
+      "name": "FICTION CATEGORIES",
+      "level": 1,
+      "members": [
+        "HISTORICAL",
+        "LITERARY",
+        "SPECULATIVE",
+        "YOUNG ADULT"
+      ]
+    },
+    {
+      "name": "WORDS IN HEMINGWAY TITLES",
+      "level": 2,
+      "members": [
+        "BELL",
+        "FAREWELL",
+        "OLD MAN",
+        "SUN"
+      ]
+    },
+    {
+      "name": "___ GLASS GLASSWARE",
+      "level": 3,
+      "members": [
+        "COCKTAIL",
+        "COLLINS",
+        "OLD FASHIONED",
+        "SHOT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1094,
+  "date": "2026-06-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CLASSIC SLAPSTICK PROPS",
+      "level": null,
+      "members": [
+        "BANANA PEEL",
+        "CREAM PIE",
+        "RUBBER CHICKEN",
+        "SELTZER BOTTLE"
+      ]
+    },
+    {
+      "name": "THINGS THAT SPIN",
+      "level": null,
+      "members": [
+        "GLOBE",
+        "GRINDSTONE",
+        "GYROSCOPE",
+        "ROULETTE WHEEL"
+      ]
+    },
+    {
+      "name": "FEATURED IN \"ALICE'S ADVENTURES IN WONDERLAND\"",
+      "level": null,
+      "members": [
+        "CATERPILLAR",
+        "POCKET WATCH",
+        "RABBIT HOLE",
+        "TEA PARTY"
+      ]
+    },
+    {
+      "name": "WHAT \"MA\" MIGHT REFER TO",
+      "level": null,
+      "members": [
+        "MASSACHUSETTS",
+        "MASTER OF ARTS",
+        "MILLIAMPERE",
+        "MOTHER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 691,
+  "date": "2025-05-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF CARVINGS",
+      "level": 0,
+      "members": [
+        "BUST",
+        "RELIEF",
+        "STATUE",
+        "TORSO"
+      ]
+    },
+    {
+      "name": "PILLAR",
+      "level": 1,
+      "members": [
+        "BRACE",
+        "POST",
+        "PROP",
+        "SUPPORT"
+      ]
+    },
+    {
+      "name": "BBQ OFFERING",
+      "level": 2,
+      "members": [
+        "DOG",
+        "LINK",
+        "RIB",
+        "WING"
+      ]
+    },
+    {
+      "name": "___NECK",
+      "level": 3,
+      "members": [
+        "BOTTLE",
+        "BREAK",
+        "GOOSE",
+        "TURTLE"
+      ]
+    }
+  ]
+}

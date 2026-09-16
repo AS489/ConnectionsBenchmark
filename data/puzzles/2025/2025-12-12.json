@@ -1,0 +1,47 @@
+{
+  "id": 914,
+  "date": "2025-12-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONTAIN",
+      "level": null,
+      "members": [
+        "HOLD",
+        "HOUSE",
+        "KEEP",
+        "STORE"
+      ]
+    },
+    {
+      "name": "MOVE IN THE WIND",
+      "level": null,
+      "members": [
+        "BLOW",
+        "FLAP",
+        "SWAY",
+        "WAVE"
+      ]
+    },
+    {
+      "name": "VEGETABLE UNITS",
+      "level": null,
+      "members": [
+        "BULB",
+        "EAR",
+        "HEAD",
+        "SPEAR"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE DIVIDED INTO TWELVE SEGMENTS",
+      "level": null,
+      "members": [
+        "CLOCK",
+        "FOOT",
+        "YEAR",
+        "ZODIAC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1122,
+  "date": "2026-07-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "REPRODUCTIVE PART OF FRUIT",
+      "level": null,
+      "members": [
+        "PIP",
+        "PIT",
+        "SEED",
+        "STONE"
+      ]
+    },
+    {
+      "name": "BIT OF FRUIT-FLAVORED CANDY",
+      "level": null,
+      "members": [
+        "DOT",
+        "NERD",
+        "RUNT",
+        "SPREE"
+      ]
+    },
+    {
+      "name": "VERBS IN A COLLEGE LIFE SLOGAN",
+      "level": null,
+      "members": [
+        "PARTY",
+        "REPEAT",
+        "SLEEP",
+        "STUDY"
+      ]
+    },
+    {
+      "name": "STARTS OF U.S. CAPITALS",
+      "level": null,
+      "members": [
+        "DEN",
+        "MAD",
+        "PHO",
+        "SAC"
+      ]
+    }
+  ]
+}

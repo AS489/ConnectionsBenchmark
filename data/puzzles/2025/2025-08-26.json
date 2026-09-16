@@ -1,0 +1,47 @@
+{
+  "id": 807,
+  "date": "2025-08-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DISTINGUISHING CHARACTERISTICS",
+      "level": 0,
+      "members": [
+        "MOLE",
+        "PIERCING",
+        "SCAR",
+        "TATTOO"
+      ]
+    },
+    {
+      "name": "A REAL JERK",
+      "level": 1,
+      "members": [
+        "CREEP",
+        "HEEL",
+        "RAT",
+        "SKUNK"
+      ]
+    },
+    {
+      "name": "PESTER",
+      "level": 2,
+      "members": [
+        "BADGER",
+        "BUG",
+        "HARRY",
+        "RIDE"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE \"STOOL\"",
+      "level": 3,
+      "members": [
+        "BAR",
+        "FOOT",
+        "STEP",
+        "TOAD"
+      ]
+    }
+  ]
+}

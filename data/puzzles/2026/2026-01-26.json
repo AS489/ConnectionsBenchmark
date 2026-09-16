@@ -1,0 +1,47 @@
+{
+  "id": 959,
+  "date": "2026-01-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXPLOIT",
+      "level": null,
+      "members": [
+        "DRAIN",
+        "FLEECE",
+        "MILK",
+        "SQUEEZE"
+      ]
+    },
+    {
+      "name": "DAUNT",
+      "level": null,
+      "members": [
+        "BUFFALO",
+        "COW",
+        "RATTLE",
+        "RUFFLE"
+      ]
+    },
+    {
+      "name": "ICONIC ACTRESSES",
+      "level": null,
+      "members": [
+        "CLOSE",
+        "FIELD",
+        "FOSTER",
+        "WEAVER"
+      ]
+    },
+    {
+      "name": "MAMMALS MINUS LAST LETTER",
+      "level": null,
+      "members": [
+        "BADGE",
+        "GOA",
+        "MOOS",
+        "RABBI"
+      ]
+    }
+  ]
+}

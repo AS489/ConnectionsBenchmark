@@ -1,0 +1,47 @@
+{
+  "id": 41,
+  "date": "2023-07-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BOTTLED WATER BRANDS",
+      "level": 0,
+      "members": [
+        "DASANI",
+        "EVIAN",
+        "FIJI",
+        "VOSS"
+      ]
+    },
+    {
+      "name": "SLANG FOR COFFEE",
+      "level": 1,
+      "members": [
+        "BREW",
+        "JAVA",
+        "JOE",
+        "MUD"
+      ]
+    },
+    {
+      "name": "ISLAND COUNTRIES",
+      "level": 2,
+      "members": [
+        "CUBA",
+        "JAPAN",
+        "MALTA",
+        "PALAU"
+      ]
+    },
+    {
+      "name": "CEREAL MASCOTS",
+      "level": 3,
+      "members": [
+        "LUCKY",
+        "POP",
+        "SAM",
+        "TONY"
+      ]
+    }
+  ]
+}

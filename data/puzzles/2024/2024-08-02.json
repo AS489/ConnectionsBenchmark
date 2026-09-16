@@ -1,0 +1,47 @@
+{
+  "id": 418,
+  "date": "2024-08-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STRETCH, AS ONE’S PATIENCE",
+      "level": 0,
+      "members": [
+        "STRAIN",
+        "TAX",
+        "TEST",
+        "TRY"
+      ]
+    },
+    {
+      "name": "THINGS A DJ DOES",
+      "level": 1,
+      "members": [
+        "MIX",
+        "SAMPLE",
+        "SCRATCH",
+        "SPIN"
+      ]
+    },
+    {
+      "name": "ADJECTIVES USED IN GRAMMAR",
+      "level": 2,
+      "members": [
+        "DIRECT",
+        "IRREGULAR",
+        "POSSESSIVE",
+        "PRESENT"
+      ]
+    },
+    {
+      "name": "WHAT “GREEN” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "ECOLOGICAL",
+        "JEALOUS",
+        "LUSH",
+        "NAUSEOUS"
+      ]
+    }
+  ]
+}

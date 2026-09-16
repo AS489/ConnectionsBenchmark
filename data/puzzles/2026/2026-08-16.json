@@ -1,0 +1,47 @@
+{
+  "id": 1157,
+  "date": "2026-08-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MUSICAL PERFORMANCE",
+      "level": null,
+      "members": [
+        "CONCERT",
+        "GIG",
+        "SET",
+        "SHOW"
+      ]
+    },
+    {
+      "name": "PARTICIPANT",
+      "level": null,
+      "members": [
+        "ACTOR",
+        "AGENT",
+        "PARTY",
+        "PLAYER"
+      ]
+    },
+    {
+      "name": "FAMILY RELATIONSHIP MODIFIERS",
+      "level": null,
+      "members": [
+        "GRAND",
+        "GREAT",
+        "HALF",
+        "STEP"
+      ]
+    },
+    {
+      "name": "DESCRIPTORS FOR OUR HUMAN ANCESTORS",
+      "level": null,
+      "members": [
+        "FROM NEANDER",
+        "HANDY",
+        "UPRIGHT",
+        "WISE"
+      ]
+    }
+  ]
+}

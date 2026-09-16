@@ -1,0 +1,47 @@
+{
+  "id": 1002,
+  "date": "2026-03-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLACES TO FIND SAND",
+      "level": null,
+      "members": [
+        "BUNKER",
+        "DESERT",
+        "HOURGLASS",
+        "SANDBOX"
+      ]
+    },
+    {
+      "name": "THINGS THAT MOVE BACK AND FORTH",
+      "level": null,
+      "members": [
+        "METRONOME",
+        "PENDULUM",
+        "SWING",
+        "WINDSHIELD WIPER"
+      ]
+    },
+    {
+      "name": "APPARATUS-BASED EXERCISE CLASSES",
+      "level": null,
+      "members": [
+        "BARRE",
+        "REFORMER",
+        "SPIN",
+        "STEP"
+      ]
+    },
+    {
+      "name": "FEATURING BIRDS",
+      "level": null,
+      "members": [
+        "CUCKOO CLOCK",
+        "FROOT LOOPS",
+        "MEXICAN FLAG",
+        "WEATHER VANE"
+      ]
+    }
+  ]
+}

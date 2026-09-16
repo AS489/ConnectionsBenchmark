@@ -1,0 +1,47 @@
+{
+  "id": 1117,
+  "date": "2026-07-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ROOMS IN CLUE",
+      "level": null,
+      "members": [
+        "CONSERVATORY",
+        "HALL",
+        "KITCHEN",
+        "STUDY"
+      ]
+    },
+    {
+      "name": "STUDENT-ATHLETE DESIGNATIONS",
+      "level": null,
+      "members": [
+        "ALL-AMERICAN",
+        "JOCK",
+        "LETTERMAN",
+        "TEAM CAPTAIN"
+      ]
+    },
+    {
+      "name": "___ TWIST",
+      "level": null,
+      "members": [
+        "FRENCH",
+        "LEMON",
+        "OLIVER",
+        "PLOT"
+      ]
+    },
+    {
+      "name": "ENDING IN \"SESAME STREET\" CHARACTERS",
+      "level": null,
+      "members": [
+        "BERNIE",
+        "COLBERT",
+        "DISCOUNT",
+        "SAN ANSELMO"
+      ]
+    }
+  ]
+}

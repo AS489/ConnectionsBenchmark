@@ -1,0 +1,47 @@
+{
+  "id": 575,
+  "date": "2025-01-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BREATHE HARD",
+      "level": 0,
+      "members": [
+        "GASP",
+        "HEAVE",
+        "PANT",
+        "PUFF"
+      ]
+    },
+    {
+      "name": "CATCHALL",
+      "level": 1,
+      "members": [
+        "BLANKET",
+        "BROAD",
+        "GENERAL",
+        "UMBRELLA"
+      ]
+    },
+    {
+      "name": "METAPHORS FOR EASY THINGS",
+      "level": 2,
+      "members": [
+        "ABC",
+        "BREEZE",
+        "PICNIC",
+        "PIE"
+      ]
+    },
+    {
+      "name": "SYNONYMS FOR REAR END MINUS LAST LETTER",
+      "level": 3,
+      "members": [
+        "ARS",
+        "BOOT",
+        "BUT",
+        "RUM"
+      ]
+    }
+  ]
+}

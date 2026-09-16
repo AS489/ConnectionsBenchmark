@@ -1,0 +1,47 @@
+{
+  "id": 897,
+  "date": "2025-11-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SMALL-TIME",
+      "level": null,
+      "members": [
+        "MICKEY MOUSE",
+        "RINKY-DINK",
+        "TRIVIAL",
+        "TWO-BIT"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE PINK",
+      "level": null,
+      "members": [
+        "BARBIE DREAMHOUSE",
+        "CALAMINE LOTION",
+        "CHERRY BLOSSOM",
+        "FLAMINGO"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN SCRATCH",
+      "level": null,
+      "members": [
+        "BUG BITE",
+        "LOTTERY TICKET",
+        "VINYL RECORD",
+        "YOUR HEAD"
+      ]
+    },
+    {
+      "name": "STARTING WITH OPTIMISTIC WORDS",
+      "level": null,
+      "members": [
+        "GLAD-HAND",
+        "HAPPY MEAL",
+        "MERRY-GO-ROUND",
+        "SUNNY-SIDE UP"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 776,
+  "date": "2025-07-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HERBS AND SPICES",
+      "level": 0,
+      "members": [
+        "ANISE",
+        "DILL",
+        "MACE",
+        "SAGE"
+      ]
+    },
+    {
+      "name": "SHADES OF GREEN",
+      "level": 1,
+      "members": [
+        "BOTTLE",
+        "HUNTER",
+        "KELLY",
+        "PEA"
+      ]
+    },
+    {
+      "name": "TRAVEL ON FOOT",
+      "level": 2,
+      "members": [
+        "MARCH",
+        "HIKE",
+        "TRAMP",
+        "TREK"
+      ]
+    },
+    {
+      "name": "STARTS OF EUROPEAN CAPITALS",
+      "level": 3,
+      "members": [
+        "COPE",
+        "LUXE",
+        "SARA",
+        "WARS"
+      ]
+    }
+  ]
+}

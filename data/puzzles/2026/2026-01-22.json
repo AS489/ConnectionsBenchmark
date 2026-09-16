@@ -1,0 +1,47 @@
+{
+  "id": 955,
+  "date": "2026-01-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WELL-DEFINED, AS AN IMAGE",
+      "level": null,
+      "members": [
+        "CLEAR",
+        "CRISP",
+        "DISTINCT",
+        "SHARP"
+      ]
+    },
+    {
+      "name": "FRUIT DESSERTS",
+      "level": null,
+      "members": [
+        "COBBLER",
+        "CRUMBLE",
+        "STRUDEL",
+        "TURNOVER"
+      ]
+    },
+    {
+      "name": "BUNGLE",
+      "level": null,
+      "members": [
+        "FLUFF",
+        "FUMBLE",
+        "MISS",
+        "TRIP"
+      ]
+    },
+    {
+      "name": "MAGAZINES PLUS A LETTER",
+      "level": null,
+      "members": [
+        "ELLEN",
+        "SPINY",
+        "TIMER",
+        "USE"
+      ]
+    }
+  ]
+}

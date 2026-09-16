@@ -1,0 +1,47 @@
+{
+  "id": 414,
+  "date": "2024-07-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STADIUMS",
+      "level": 0,
+      "members": [
+        "ARENA",
+        "BOWL",
+        "COLISEUM",
+        "DOME"
+      ]
+    },
+    {
+      "name": "STREET SUFFIXES",
+      "level": 1,
+      "members": [
+        "ALLEY",
+        "COURT",
+        "DRIVE",
+        "LANE"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH SCALES",
+      "level": 2,
+      "members": [
+        "FISH",
+        "JUSTICE",
+        "LIBRA",
+        "SOLFEGE"
+      ]
+    },
+    {
+      "name": "THINGS WITH SPOUTS",
+      "level": 3,
+      "members": [
+        "FOUNTAIN",
+        "GUTTER",
+        "TEAPOT",
+        "WHALE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 74,
+  "date": "2023-08-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXTINCT ANIMALS",
+      "level": 0,
+      "members": [
+        "DODO",
+        "MAMMOTH",
+        "MASTODON",
+        "TRILOBITE"
+      ]
+    },
+    {
+      "name": "FAILURES",
+      "level": 1,
+      "members": [
+        "BUSTS",
+        "FLOPS",
+        "MISSES",
+        "TURKEYS"
+      ]
+    },
+    {
+      "name": "SLANG FOR CLOTHES",
+      "level": 2,
+      "members": [
+        "DUDS",
+        "GETUP",
+        "OUTFIT",
+        "THREADS"
+      ]
+    },
+    {
+      "name": "KISS",
+      "level": 3,
+      "members": [
+        "PECK",
+        "SMACK",
+        "SMOOCH",
+        "X"
+      ]
+    }
+  ]
+}

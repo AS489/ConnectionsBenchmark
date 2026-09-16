@@ -1,0 +1,47 @@
+{
+  "id": 285,
+  "date": "2024-03-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "JUMPING ANIMALS",
+      "level": 0,
+      "members": [
+        "CRICKET",
+        "FROG",
+        "HARE",
+        "KANGAROO"
+      ]
+    },
+    {
+      "name": "APPLY PRESSURE TO",
+      "level": 1,
+      "members": [
+        "CRUSH",
+        "MASH",
+        "PRESS",
+        "SQUASH"
+      ]
+    },
+    {
+      "name": "OLYMPIC SPORTS",
+      "level": 2,
+      "members": [
+        "BREAKING",
+        "HOCKEY",
+        "SKELETON",
+        "TRAMPOLINE"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN SET",
+      "level": 3,
+      "members": [
+        "MOOD",
+        "RECORD",
+        "TABLE",
+        "VOLLEYBALL"
+      ]
+    }
+  ]
+}

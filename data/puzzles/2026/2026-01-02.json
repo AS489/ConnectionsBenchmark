@@ -1,0 +1,47 @@
+{
+  "id": 935,
+  "date": "2026-01-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WRITE",
+      "level": null,
+      "members": [
+        "JOT",
+        "LOG",
+        "NOTE",
+        "RECORD"
+      ]
+    },
+    {
+      "name": "SHTICK",
+      "level": null,
+      "members": [
+        "BIT",
+        "GAG",
+        "NUMBER",
+        "ROUTINE"
+      ]
+    },
+    {
+      "name": "BENCHMARK",
+      "level": null,
+      "members": [
+        "BAR",
+        "EXAMPLE",
+        "METRIC",
+        "STANDARD"
+      ]
+    },
+    {
+      "name": "VEGETABLES MINUS STARTING LETTER",
+      "level": null,
+      "members": [
+        "ALE",
+        "EEK",
+        "HIVE",
+        "QUASH"
+      ]
+    }
+  ]
+}

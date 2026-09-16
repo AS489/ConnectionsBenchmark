@@ -1,0 +1,47 @@
+{
+  "id": 904,
+  "date": "2025-12-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "APPROXIMATE",
+      "level": null,
+      "members": [
+        "BALLPARK",
+        "BROAD",
+        "GENERAL",
+        "ROUGH"
+      ]
+    },
+    {
+      "name": "MILD OATHS",
+      "level": null,
+      "members": [
+        "FRICK",
+        "FUDGE",
+        "SHOOT",
+        "SUGAR"
+      ]
+    },
+    {
+      "name": "MLB PLAYER",
+      "level": null,
+      "members": [
+        "ANGEL",
+        "MET",
+        "RAY",
+        "ROYAL"
+      ]
+    },
+    {
+      "name": "FAMILY MEMBER NICKNAME PLUS A LETTER",
+      "level": null,
+      "members": [
+        "BROW",
+        "DADA",
+        "MOMA",
+        "SISI"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 738,
+  "date": "2025-06-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "QUALITIES OF A RAINY DAY",
+      "level": 0,
+      "members": [
+        "COLD",
+        "GRAY",
+        "WET",
+        "WINDY"
+      ]
+    },
+    {
+      "name": "SQUARELY",
+      "level": 1,
+      "members": [
+        "DEAD",
+        "EXACTLY",
+        "RIGHT",
+        "SMACK"
+      ]
+    },
+    {
+      "name": "CONTENTS OF A POD",
+      "level": 2,
+      "members": [
+        "ASTRONAUT",
+        "COFFEE",
+        "PEA",
+        "WHALE"
+      ]
+    },
+    {
+      "name": "BODY PART PLUS A STARTING LETTER",
+      "level": 3,
+      "members": [
+        "BARM",
+        "LEAR",
+        "RANKLE",
+        "SHIP"
+      ]
+    }
+  ]
+}

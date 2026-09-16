@@ -1,0 +1,47 @@
+{
+  "id": 1064,
+  "date": "2026-05-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NAVIGATE THROUGH, AS A RIVER",
+      "level": null,
+      "members": [
+        "CROSS",
+        "FORD",
+        "TRAVERSE",
+        "WADE"
+      ]
+    },
+    {
+      "name": "MULTI-TIME NBA MVPS",
+      "level": null,
+      "members": [
+        "BIRD",
+        "CURRY",
+        "JAMES",
+        "JORDAN"
+      ]
+    },
+    {
+      "name": "NON-PALINDROMIC WORDS IN A FAMOUS PALINDROME",
+      "level": null,
+      "members": [
+        "ABLE",
+        "ELBA",
+        "SAW",
+        "WAS"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF KINDS OF DOGS, FAMILIARLY",
+      "level": null,
+      "members": [
+        "CIAO",
+        "PALM",
+        "PEEK",
+        "PITT"
+      ]
+    }
+  ]
+}

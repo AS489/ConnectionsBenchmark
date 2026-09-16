@@ -1,0 +1,47 @@
+{
+  "id": 1044,
+  "date": "2026-04-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PIZZA INGREDIENTS",
+      "level": null,
+      "members": [
+        "CHEESE",
+        "DOUGH",
+        "PEPPERONI",
+        "TOMATO SAUCE"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH OCTOPUSES",
+      "level": null,
+      "members": [
+        "ARMS",
+        "INK",
+        "INTELLIGENCE",
+        "SUCTION CUPS"
+      ]
+    },
+    {
+      "name": "THEY HAVE BLADES",
+      "level": null,
+      "members": [
+        "GRASS",
+        "HELICOPTER",
+        "ICE SKATES",
+        "LAWN MOWER"
+      ]
+    },
+    {
+      "name": "WHAT \"CAB\" MIGHT REFER TO",
+      "level": null,
+      "members": [
+        "CABIN",
+        "CALLOWAY",
+        "RED WINE",
+        "TAXI"
+      ]
+    }
+  ]
+}

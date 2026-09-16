@@ -1,0 +1,47 @@
+{
+  "id": 284,
+  "date": "2024-03-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHAT, INFORMALLY",
+      "level": 0,
+      "members": [
+        "GAB",
+        "JAW",
+        "YAK",
+        "YAP"
+      ]
+    },
+    {
+      "name": "FEMALE ANIMALS",
+      "level": 1,
+      "members": [
+        "COW",
+        "DOE",
+        "EWE",
+        "HEN"
+      ]
+    },
+    {
+      "name": "PALINDROMES",
+      "level": 2,
+      "members": [
+        "BIB",
+        "EYE",
+        "GAG",
+        "POP"
+      ]
+    },
+    {
+      "name": "STARTS OF PLANET NAMES",
+      "level": 3,
+      "members": [
+        "EAR",
+        "MAR",
+        "MER",
+        "SAT"
+      ]
+    }
+  ]
+}

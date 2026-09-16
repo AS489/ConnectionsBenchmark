@@ -1,0 +1,47 @@
+{
+  "id": 937,
+  "date": "2026-01-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PAPER PUBLICATION",
+      "level": null,
+      "members": [
+        "COPY",
+        "EDITION",
+        "ISSUE",
+        "PRINT"
+      ]
+    },
+    {
+      "name": "SPOOL",
+      "level": null,
+      "members": [
+        "COIL",
+        "CRANK",
+        "REEL",
+        "WIND"
+      ]
+    },
+    {
+      "name": "THINGS A DEFENSIVE FOOTBALL PLAYER DOES",
+      "level": null,
+      "members": [
+        "BLITZ",
+        "BLOCK",
+        "SACK",
+        "TACKLE"
+      ]
+    },
+    {
+      "name": "SYNONYMS FOR BUTT PLUS STARTING LETTER",
+      "level": null,
+      "members": [
+        "DREAR",
+        "ETAIL",
+        "GRUMP",
+        "SCAN"
+      ]
+    }
+  ]
+}

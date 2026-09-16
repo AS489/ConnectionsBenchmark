@@ -1,0 +1,47 @@
+{
+  "id": 934,
+  "date": "2026-01-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BIT OF MAGIC",
+      "level": null,
+      "members": [
+        "CHARM",
+        "CURSE",
+        "HEX",
+        "SPELL"
+      ]
+    },
+    {
+      "name": "REMOVE THE COVERING FROM",
+      "level": null,
+      "members": [
+        "PEEL",
+        "SHELL",
+        "SHUCK",
+        "SKIN"
+      ]
+    },
+    {
+      "name": "\"ENTHUSIAST\" EQUIVALENT",
+      "level": null,
+      "members": [
+        "BUFF",
+        "HEAD",
+        "HOUND",
+        "RAT"
+      ]
+    },
+    {
+      "name": "BUTTER___",
+      "level": null,
+      "members": [
+        "FINGERS",
+        "FLY",
+        "NUT",
+        "SCOTCH"
+      ]
+    }
+  ]
+}

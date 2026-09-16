@@ -1,0 +1,6 @@
+```json
+{
+  "reasoning": "parts of a kettle",
+  "guess": ["HANDLE", "LID", "SPOUT", "WHISTLE"]
+}
+```

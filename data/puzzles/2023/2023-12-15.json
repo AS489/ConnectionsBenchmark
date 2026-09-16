@@ -1,0 +1,47 @@
+{
+  "id": 187,
+  "date": "2023-12-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CURMUDGEON",
+      "level": 0,
+      "members": [
+        "CRAB",
+        "CRANK",
+        "GROUCH",
+        "GRUMP"
+      ]
+    },
+    {
+      "name": "GET LOW",
+      "level": 1,
+      "members": [
+        "CROUCH",
+        "DUCK",
+        "SQUAT",
+        "STOOP"
+      ]
+    },
+    {
+      "name": "NATIONAL SYMBOLS",
+      "level": 2,
+      "members": [
+        "ANTHEM",
+        "FLAG",
+        "MOTTO",
+        "SEAL"
+      ]
+    },
+    {
+      "name": "SWINDLER",
+      "level": 3,
+      "members": [
+        "CHEAT",
+        "CROOK",
+        "QUACK",
+        "SHARK"
+      ]
+    }
+  ]
+}

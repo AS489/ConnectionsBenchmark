@@ -1,0 +1,47 @@
+{
+  "id": 563,
+  "date": "2024-12-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CELESTIAL OBJECTS",
+      "level": 0,
+      "members": [
+        "COMET",
+        "MOON",
+        "PLANET",
+        "STAR"
+      ]
+    },
+    {
+      "name": "ARCHERS",
+      "level": 1,
+      "members": [
+        "CUPID",
+        "HAWKEYE",
+        "ROBIN HOOD",
+        "SAGITTARIUS"
+      ]
+    },
+    {
+      "name": "FEMALE ANIMALS",
+      "level": 2,
+      "members": [
+        "JENNY",
+        "NANNY",
+        "QUEEN",
+        "VIXEN"
+      ]
+    },
+    {
+      "name": "“S.N.L.” CAST MEMBERS",
+      "level": 3,
+      "members": [
+        "FEY",
+        "RUDOLPH",
+        "SHANNON",
+        "STRONG"
+      ]
+    }
+  ]
+}

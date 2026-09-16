@@ -1,0 +1,47 @@
+{
+  "id": 56,
+  "date": "2023-08-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CLASSIC ARCADE GAMES",
+      "level": 0,
+      "members": [
+        "ASTEROIDS",
+        "BREAKOUT",
+        "FROGGER",
+        "PONG"
+      ]
+    },
+    {
+      "name": "DANCES",
+      "level": 1,
+      "members": [
+        "HUSTLE",
+        "SALSA",
+        "SWING",
+        "TANGO"
+      ]
+    },
+    {
+      "name": "TOUCHSCREEN GESTURES",
+      "level": 2,
+      "members": [
+        "PINCH",
+        "SPREAD",
+        "SWIPE",
+        "TAP"
+      ]
+    },
+    {
+      "name": "RAPPERS MINUS NUMBERS",
+      "level": 3,
+      "members": [
+        "CENT",
+        "CHAINZ",
+        "PAC",
+        "SAVAGE"
+      ]
+    }
+  ]
+}

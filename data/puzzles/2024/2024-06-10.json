@@ -1,0 +1,47 @@
+{
+  "id": 365,
+  "date": "2024-06-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CORE",
+      "level": 0,
+      "members": [
+        "CRUX",
+        "ESSENCE",
+        "HEART",
+        "SUBSTANCE"
+      ]
+    },
+    {
+      "name": "COMPLICATED",
+      "level": 1,
+      "members": [
+        "BAROQUE",
+        "COMPLEX",
+        "ELABORATE",
+        "INVOLVED"
+      ]
+    },
+    {
+      "name": "SYMBOLS USED IN MAKING LISTS",
+      "level": 2,
+      "members": [
+        "ARROW",
+        "BULLET",
+        "CHECKBOX",
+        "HYPHEN"
+      ]
+    },
+    {
+      "name": "WHAT “CROSS” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "ANGRY",
+        "BETRAY",
+        "CRUCIFIX",
+        "HYBRID"
+      ]
+    }
+  ]
+}

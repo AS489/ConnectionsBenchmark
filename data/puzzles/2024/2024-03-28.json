@@ -1,0 +1,47 @@
+{
+  "id": 291,
+  "date": "2024-03-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXITED",
+      "level": 0,
+      "members": [
+        "DEPARTED",
+        "LEFT",
+        "SPLIT",
+        "WENT"
+      ]
+    },
+    {
+      "name": "ONE FLYING AN AIRPLANE",
+      "level": 1,
+      "members": [
+        "ACE",
+        "AVIATOR",
+        "FLIER",
+        "PILOT"
+      ]
+    },
+    {
+      "name": "KINDS OF WHALES",
+      "level": 2,
+      "members": [
+        "BLUE",
+        "FIN",
+        "GRAY",
+        "RIGHT"
+      ]
+    },
+    {
+      "name": "THINGS WITH SLOTS",
+      "level": 3,
+      "members": [
+        "ATM",
+        "CASINO",
+        "SCHEDULE",
+        "SPATULA"
+      ]
+    }
+  ]
+}

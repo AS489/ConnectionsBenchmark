@@ -1,0 +1,47 @@
+{
+  "id": 526,
+  "date": "2024-11-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "USED IN HAIR CARE",
+      "level": 0,
+      "members": [
+        "COMB",
+        "DRYER",
+        "HAIRSPRAY",
+        "ROLLERS"
+      ]
+    },
+    {
+      "name": "MONTHLY EXPENSES",
+      "level": 1,
+      "members": [
+        "GAS",
+        "INTERNET",
+        "PHONE",
+        "RENT"
+      ]
+    },
+    {
+      "name": "THINGS WITH SPOTS",
+      "level": 2,
+      "members": [
+        "DALMATIAN",
+        "DIE",
+        "DOMINO",
+        "LADYBUG"
+      ]
+    },
+    {
+      "name": "___ CRAB",
+      "level": 3,
+      "members": [
+        "FIDDLER",
+        "HERMIT",
+        "HORSESHOE",
+        "SPIDER"
+      ]
+    }
+  ]
+}

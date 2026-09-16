@@ -1,0 +1,47 @@
+{
+  "id": 1183,
+  "date": "2026-09-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PEOPLE HIRED FOR AN EVENT",
+      "level": null,
+      "members": [
+        "BAND",
+        "FLORIST",
+        "PHOTOGRAPHER",
+        "PLANNER"
+      ]
+    },
+    {
+      "name": "INTERNALIZE",
+      "level": null,
+      "members": [
+        "ABSORB",
+        "DIGEST",
+        "PROCESS",
+        "TAKE IN"
+      ]
+    },
+    {
+      "name": "WAYS TO PRACTICE SELF-CARE",
+      "level": null,
+      "members": [
+        "EXERCISE",
+        "JOURNAL",
+        "MEDITATE",
+        "UNPLUG"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE PUSHED METAPHORICALLY",
+      "level": null,
+      "members": [
+        "AGENDA",
+        "ENVELOPE",
+        "LIMITS",
+        "LUCK"
+      ]
+    }
+  ]
+}

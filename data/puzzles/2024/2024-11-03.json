@@ -1,0 +1,47 @@
+{
+  "id": 511,
+  "date": "2024-11-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HEARTWARMING",
+      "level": 0,
+      "members": [
+        "MOVING",
+        "SWEET",
+        "TENDER",
+        "TOUCHING"
+      ]
+    },
+    {
+      "name": "SNEAKING SUSPICION",
+      "level": 1,
+      "members": [
+        "FEELING",
+        "HUNCH",
+        "IMPRESSION",
+        "SENSE"
+      ]
+    },
+    {
+      "name": "LEGAL SESSION",
+      "level": 2,
+      "members": [
+        "HEARING",
+        "INQUIRY",
+        "PROCEEDING",
+        "TRIAL"
+      ]
+    },
+    {
+      "name": "EASY ___",
+      "level": 3,
+      "members": [
+        "CHAIR",
+        "LISTENING",
+        "MONEY",
+        "STREET"
+      ]
+    }
+  ]
+}

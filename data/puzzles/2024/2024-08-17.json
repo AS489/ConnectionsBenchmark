@@ -1,0 +1,47 @@
+{
+  "id": 433,
+  "date": "2024-08-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPOKEN COMMUNICATION",
+      "level": 0,
+      "members": [
+        "DIALECT",
+        "LANGUAGE",
+        "SPEECH",
+        "TONGUE"
+      ]
+    },
+    {
+      "name": "CANOODLE",
+      "level": 1,
+      "members": [
+        "FRENCH",
+        "KISS",
+        "MAKE OUT",
+        "NECK"
+      ]
+    },
+    {
+      "name": "FIRST AID KIT ITEMS",
+      "level": 2,
+      "members": [
+        "BANDAGE",
+        "DRESSING",
+        "SCISSORS",
+        "TAPE"
+      ]
+    },
+    {
+      "name": "HOUSE STYLES",
+      "level": 3,
+      "members": [
+        "COTTAGE",
+        "CRAFTSMAN",
+        "PRAIRIE",
+        "RANCH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 747,
+  "date": "2025-06-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "IN FASHION",
+      "level": 0,
+      "members": [
+        "CHIC",
+        "CURRENT",
+        "FRESH",
+        "HAPPENING"
+      ]
+    },
+    {
+      "name": "PARTS OF AN ANGEL COSTUME",
+      "level": 1,
+      "members": [
+        "HALO",
+        "HARP",
+        "ROBE",
+        "WINGS"
+      ]
+    },
+    {
+      "name": "“SESAME STREET” FIGURES",
+      "level": 2,
+      "members": [
+        "BIRD",
+        "COUNT",
+        "GROUCH",
+        "MONSTER"
+      ]
+    },
+    {
+      "name": "___ BROTHERS",
+      "level": 3,
+      "members": [
+        "BLOOD",
+        "BLUES",
+        "CHEMICAL",
+        "MARX"
+      ]
+    }
+  ]
+}

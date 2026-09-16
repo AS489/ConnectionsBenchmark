@@ -1,0 +1,47 @@
+{
+  "id": 603,
+  "date": "2025-02-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMMENT AFTER AN INSULT",
+      "level": 0,
+      "members": [
+        "BURN",
+        "OUCH",
+        "SNAP",
+        "ZING"
+      ]
+    },
+    {
+      "name": "TINY AMOUNT, WITH “A”",
+      "level": 1,
+      "members": [
+        "BIT",
+        "LITTLE",
+        "MITE",
+        "TAD"
+      ]
+    },
+    {
+      "name": "BIT OF CITRUS GARNISH",
+      "level": 2,
+      "members": [
+        "SLICE",
+        "TWIST",
+        "WEDGE",
+        "ZEST"
+      ]
+    },
+    {
+      "name": "BUNGLE, WITH “UP”",
+      "level": 3,
+      "members": [
+        "FOUL",
+        "LOUSE",
+        "MUCK",
+        "SCREW"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 688,
+  "date": "2025-04-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COOKING CONCOCTIONS",
+      "level": 0,
+      "members": [
+        "BATTER",
+        "DOUGH",
+        "MIXTURE",
+        "PASTE"
+      ]
+    },
+    {
+      "name": "SEEN ON A TABLE AT A DINNER PARTY",
+      "level": 1,
+      "members": [
+        "CANDLESTICK",
+        "PITCHER",
+        "PLACEMAT",
+        "PLATE"
+      ]
+    },
+    {
+      "name": "THINGS TO CLIMB",
+      "level": 2,
+      "members": [
+        "LADDER",
+        "MOUNTAIN",
+        "ROPE",
+        "TREE"
+      ]
+    },
+    {
+      "name": "WHAT \"DIAMOND\" CAN REFER TO",
+      "level": 3,
+      "members": [
+        "GEMSTONE",
+        "INFIELD",
+        "RHOMBUS",
+        "SUIT"
+      ]
+    }
+  ]
+}

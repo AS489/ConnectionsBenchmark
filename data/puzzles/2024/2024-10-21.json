@@ -1,0 +1,47 @@
+{
+  "id": 498,
+  "date": "2024-10-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF BEANS",
+      "level": 0,
+      "members": [
+        "KIDNEY",
+        "MUNG",
+        "NAVY",
+        "PINTO"
+      ]
+    },
+    {
+      "name": "ATTRACT",
+      "level": 1,
+      "members": [
+        "DRAW",
+        "GRAB",
+        "HOOK",
+        "PULL"
+      ]
+    },
+    {
+      "name": "AUTOMATIC GEAR SHIFTER POSITIONS",
+      "level": 2,
+      "members": [
+        "DRIVE",
+        "LOW",
+        "NEUTRAL",
+        "REVERSE"
+      ]
+    },
+    {
+      "name": "___POOL",
+      "level": 3,
+      "members": [
+        "CAR",
+        "DEAD",
+        "LIVER",
+        "WHIRL"
+      ]
+    }
+  ]
+}

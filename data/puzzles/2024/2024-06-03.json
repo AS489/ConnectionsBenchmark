@@ -1,0 +1,47 @@
+{
+  "id": 358,
+  "date": "2024-06-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "REMOVE, AS BODY HAIR",
+      "level": 0,
+      "members": [
+        "LASER",
+        "PLUCK",
+        "THREAD",
+        "WAX"
+      ]
+    },
+    {
+      "name": "TWIST AROUND",
+      "level": 1,
+      "members": [
+        "COIL",
+        "SPOOL",
+        "WIND",
+        "WRAP"
+      ]
+    },
+    {
+      "name": "THINGS MADE OF CELLS",
+      "level": 2,
+      "members": [
+        "HONEYCOMB",
+        "ORGANISM",
+        "SOLAR PANEL",
+        "SPREADSHEET"
+      ]
+    },
+    {
+      "name": "B-___",
+      "level": 3,
+      "members": [
+        "BALL",
+        "MOVIE",
+        "SCHOOL",
+        "VITAMIN"
+      ]
+    }
+  ]
+}

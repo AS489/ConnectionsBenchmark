@@ -1,0 +1,47 @@
+{
+  "id": 1062,
+  "date": "2026-05-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LONG SANDWICH",
+      "level": null,
+      "members": [
+        "GRINDER",
+        "HERO",
+        "HOAGIE",
+        "SUB"
+      ]
+    },
+    {
+      "name": "PRETEXT",
+      "level": null,
+      "members": [
+        "ARGUMENT",
+        "BASIS",
+        "CAUSE",
+        "GROUNDS"
+      ]
+    },
+    {
+      "name": "SMARTPHONE PHOTO EDITING OPTIONS",
+      "level": null,
+      "members": [
+        "ADJUST",
+        "CROP",
+        "FILTERS",
+        "MARKUP"
+      ]
+    },
+    {
+      "name": "JELLY ___",
+      "level": null,
+      "members": [
+        "BEAN",
+        "BELLY",
+        "DONUT",
+        "ROLL"
+      ]
+    }
+  ]
+}

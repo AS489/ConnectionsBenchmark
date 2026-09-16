@@ -1,0 +1,47 @@
+{
+  "id": 230,
+  "date": "2024-01-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HURT",
+      "level": 0,
+      "members": [
+        "ACHE",
+        "BURN",
+        "SMART",
+        "STING"
+      ]
+    },
+    {
+      "name": "LOOK AFTER",
+      "level": 1,
+      "members": [
+        "GUARD",
+        "MIND",
+        "TEND",
+        "WATCH"
+      ]
+    },
+    {
+      "name": "SOUGHT AFTER IN “THE WIZARD OF OZ”",
+      "level": 2,
+      "members": [
+        "BRAIN",
+        "COURAGE",
+        "HEART",
+        "HOME"
+      ]
+    },
+    {
+      "name": "SILENT “W”",
+      "level": 3,
+      "members": [
+        "ANSWER",
+        "TWO",
+        "WRIST",
+        "WRONG"
+      ]
+    }
+  ]
+}

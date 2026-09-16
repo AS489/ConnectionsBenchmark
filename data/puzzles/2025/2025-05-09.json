@@ -1,0 +1,47 @@
+{
+  "id": 698,
+  "date": "2025-05-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TV DISPLAY SETTINGS",
+      "level": 0,
+      "members": [
+        "BRIGHTNESS",
+        "COLOR",
+        "CONTRAST",
+        "TINT"
+      ]
+    },
+    {
+      "name": "FUZZY, AS A MEMORY",
+      "level": 1,
+      "members": [
+        "DIM",
+        "FAINT",
+        "REMOTE",
+        "VAGUE"
+      ]
+    },
+    {
+      "name": "RESULTS OF SOME ARITHMETIC",
+      "level": 2,
+      "members": [
+        "DIFFERENCE",
+        "PRODUCT",
+        "QUOTIENT",
+        "SUM"
+      ]
+    },
+    {
+      "name": "WINDOW TREATMENTS IN THE SINGULAR",
+      "level": 3,
+      "members": [
+        "BLIND",
+        "DRAPE",
+        "SHADE",
+        "SHUTTER"
+      ]
+    }
+  ]
+}

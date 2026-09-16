@@ -1,0 +1,47 @@
+{
+  "id": 357,
+  "date": "2024-06-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONFORMISTS",
+      "level": 0,
+      "members": [
+        "FOLLOWERS",
+        "LEMMINGS",
+        "PUPPETS",
+        "SHEEP"
+      ]
+    },
+    {
+      "name": "COMPANY OWNERSHIP OFFERS",
+      "level": 1,
+      "members": [
+        "EQUITY",
+        "OPTIONS",
+        "SHARES",
+        "STOCKS"
+      ]
+    },
+    {
+      "name": "U.S. CITIES",
+      "level": 2,
+      "members": [
+        "BILLINGS",
+        "BUFFALO",
+        "MOBILE",
+        "PHOENIX"
+      ]
+    },
+    {
+      "name": "WHAT “DIGS” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "APARTMENT",
+        "INSULTS",
+        "LIKES",
+        "SHOVELS"
+      ]
+    }
+  ]
+}

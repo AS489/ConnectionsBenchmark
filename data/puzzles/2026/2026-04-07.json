@@ -1,0 +1,47 @@
+{
+  "id": 1027,
+  "date": "2026-04-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMPETITION",
+      "level": null,
+      "members": [
+        "BATTLE",
+        "CLASH",
+        "CONTEST",
+        "MATCH"
+      ]
+    },
+    {
+      "name": "ON BOARD",
+      "level": null,
+      "members": [
+        "DOWN",
+        "GAME",
+        "IN",
+        "WILLING"
+      ]
+    },
+    {
+      "name": "WORDS FOR UNSPECIFIED CHOICES",
+      "level": null,
+      "members": [
+        "ANOTHER",
+        "EITHER",
+        "NEITHER",
+        "ONE"
+      ]
+    },
+    {
+      "name": "___LIFE",
+      "level": null,
+      "members": [
+        "AFTER",
+        "LOW",
+        "NIGHT",
+        "WILD"
+      ]
+    }
+  ]
+}

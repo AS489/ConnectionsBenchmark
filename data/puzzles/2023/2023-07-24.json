@@ -1,0 +1,47 @@
+{
+  "id": 43,
+  "date": "2023-07-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SYNONYMS FOR ANGRY",
+      "level": 0,
+      "members": [
+        "FURIOUS",
+        "INCENSED",
+        "IRATE",
+        "LIVID"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE YELLOW",
+      "level": 1,
+      "members": [
+        "BANANA",
+        "CANARY",
+        "SCHOOL BUS",
+        "SUNFLOWER"
+      ]
+    },
+    {
+      "name": "MARINE BIRDS",
+      "level": 2,
+      "members": [
+        "BOOBY",
+        "GULL",
+        "PELICAN",
+        "PUFFIN"
+      ]
+    },
+    {
+      "name": "___ BOYS",
+      "level": 3,
+      "members": [
+        "BEACH",
+        "BEASTIE",
+        "HARDY",
+        "LOST"
+      ]
+    }
+  ]
+}

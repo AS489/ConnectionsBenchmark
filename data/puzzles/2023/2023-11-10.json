@@ -1,0 +1,47 @@
+{
+  "id": 152,
+  "date": "2023-11-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPICES",
+      "level": 0,
+      "members": [
+        "ANISE",
+        "DILL",
+        "NUTMEG",
+        "SAGE"
+      ]
+    },
+    {
+      "name": "INTELLIGENT",
+      "level": 1,
+      "members": [
+        "BRIGHT",
+        "QUICK",
+        "SHARP",
+        "SMART"
+      ]
+    },
+    {
+      "name": "DEODORANTS",
+      "level": 2,
+      "members": [
+        "AXE",
+        "DEGREE",
+        "OLD SPICE",
+        "SECRET"
+      ]
+    },
+    {
+      "name": "MEDIEVAL WEAPONS",
+      "level": 3,
+      "members": [
+        "CLUB",
+        "MACE",
+        "SPEAR",
+        "SWORD"
+      ]
+    }
+  ]
+}

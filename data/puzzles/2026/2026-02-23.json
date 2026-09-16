@@ -1,0 +1,47 @@
+{
+  "id": 986,
+  "date": "2026-02-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EAT VORACIOUSLY",
+      "level": null,
+      "members": [
+        "BOLT",
+        "GORGE",
+        "INHALE",
+        "SCARF"
+      ]
+    },
+    {
+      "name": "CONICAL THINGS",
+      "level": null,
+      "members": [
+        "CHRISTMAS TREE",
+        "CONE",
+        "PARTY HAT",
+        "VOLCANO"
+      ]
+    },
+    {
+      "name": "POSE",
+      "level": null,
+      "members": [
+        "BLUFF",
+        "FRONT",
+        "MASQUERADE",
+        "POSTURE"
+      ]
+    },
+    {
+      "name": "SETTINGS FOR A KISS",
+      "level": null,
+      "members": [
+        "BLARNEY STONE",
+        "MISTLETOE",
+        "NEW YEAR'S EVE",
+        "WEDDING"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1072,
+  "date": "2026-05-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HAIRDOS",
+      "level": null,
+      "members": [
+        "BEEHIVE",
+        "BOUFFANT",
+        "CHIGNON",
+        "POMPADOUR"
+      ]
+    },
+    {
+      "name": "MORE READILY",
+      "level": null,
+      "members": [
+        "FIRST",
+        "PREFERABLY",
+        "RATHER",
+        "SOONER"
+      ]
+    },
+    {
+      "name": "MARVEL CHARACTERS",
+      "level": null,
+      "members": [
+        "DAREDEVIL",
+        "HAWKEYE",
+        "NIGHTCRAWLER",
+        "WOLVERINE"
+      ]
+    },
+    {
+      "name": "WORDS AFTER \"THE\" IN \"STAR WARS\" MOVIE TITLES",
+      "level": null,
+      "members": [
+        "EMPIRE",
+        "FORCE",
+        "LAST",
+        "PHANTOM"
+      ]
+    }
+  ]
+}

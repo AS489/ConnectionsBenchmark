@@ -1,0 +1,47 @@
+{
+  "id": 362,
+  "date": "2024-06-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DREAM UP",
+      "level": 0,
+      "members": [
+        "CONCEIVE",
+        "ENVISION",
+        "IMAGINE",
+        "PICTURE"
+      ]
+    },
+    {
+      "name": "THIN COVERING",
+      "level": 1,
+      "members": [
+        "COAT",
+        "FILM",
+        "LAYER",
+        "SKIN"
+      ]
+    },
+    {
+      "name": "REMOVE, AS CRUMBS",
+      "level": 2,
+      "members": [
+        "BRUSH",
+        "FLICK",
+        "SWEEP",
+        "WIPE"
+      ]
+    },
+    {
+      "name": "VERBS FOR A SOFTWARE ENGINEER",
+      "level": 3,
+      "members": [
+        "CODE",
+        "DEVELOP",
+        "HACK",
+        "PROGRAM"
+      ]
+    }
+  ]
+}

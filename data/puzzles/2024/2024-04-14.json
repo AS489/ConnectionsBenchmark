@@ -1,0 +1,47 @@
+{
+  "id": 308,
+  "date": "2024-04-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PULL USING FORCE",
+      "level": 0,
+      "members": [
+        "RIP",
+        "TEAR",
+        "WRENCH",
+        "YANK"
+      ]
+    },
+    {
+      "name": "BIT OF REPETITIVE TRAINING",
+      "level": 1,
+      "members": [
+        "DRILL",
+        "EXERCISE",
+        "PRACTICE",
+        "ROUTINE"
+      ]
+    },
+    {
+      "name": "U.S.-BASED AIRLINES",
+      "level": 2,
+      "members": [
+        "AMERICAN",
+        "FRONTIER",
+        "SPIRIT",
+        "UNITED"
+      ]
+    },
+    {
+      "name": "BEGINNING WITH DAY ABBREVIATIONS",
+      "level": 3,
+      "members": [
+        "FRIAR",
+        "MONKEY",
+        "SUNDRY",
+        "WEDDING"
+      ]
+    }
+  ]
+}

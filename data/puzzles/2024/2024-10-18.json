@@ -1,0 +1,47 @@
+{
+  "id": 495,
+  "date": "2024-10-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CLUNKER",
+      "level": 0,
+      "members": [
+        "BUST",
+        "DUD",
+        "FLOP",
+        "MISS"
+      ]
+    },
+    {
+      "name": "OPPORTUNITY",
+      "level": 1,
+      "members": [
+        "CHANCE",
+        "SHOT",
+        "TIME",
+        "TURN"
+      ]
+    },
+    {
+      "name": "NON-CASH WAY TO PAY",
+      "level": 2,
+      "members": [
+        "CARD",
+        "CHARGE",
+        "CREDIT",
+        "PLASTIC"
+      ]
+    },
+    {
+      "name": "AMAZON ___",
+      "level": 3,
+      "members": [
+        "KINDLE",
+        "PRIME",
+        "RAINFOREST",
+        "RIVER"
+      ]
+    }
+  ]
+}

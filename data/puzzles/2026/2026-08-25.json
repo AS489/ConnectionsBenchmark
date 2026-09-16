@@ -1,0 +1,47 @@
+{
+  "id": 1166,
+  "date": "2026-08-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SURFACE-LEVEL",
+      "level": null,
+      "members": [
+        "COSMETIC",
+        "ONE-DIMENSIONAL",
+        "SKIN-DEEP",
+        "SUPERFICIAL"
+      ]
+    },
+    {
+      "name": "SCI-FI PHENOMENA",
+      "level": null,
+      "members": [
+        "HYPERSPACE",
+        "PARALLEL UNIVERSE",
+        "TELEPORTATION",
+        "TIME WARP"
+      ]
+    },
+    {
+      "name": "STEPHEN KING FILM ADAPTATIONS, WITH \"THE\"",
+      "level": null,
+      "members": [
+        "GREEN MILE",
+        "LONG WALK",
+        "RUNNING MAN",
+        "SHAWSHANK REDEMPTION"
+      ]
+    },
+    {
+      "name": "ENDING IN ICE CREAM ORDERS",
+      "level": null,
+      "members": [
+        "HARLEM SHAKE",
+        "INSIDE SCOOP",
+        "LICKETY-SPLIT",
+        "TRAFFIC CONE"
+      ]
+    }
+  ]
+}

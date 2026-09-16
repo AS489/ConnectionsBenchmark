@@ -1,0 +1,47 @@
+{
+  "id": 746,
+  "date": "2025-06-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMPONENTS OF A SALAD",
+      "level": 0,
+      "members": [
+        "CHEESE",
+        "DRESSING",
+        "LETTUCE",
+        "PROTEIN"
+      ]
+    },
+    {
+      "name": "KINDS OF MACHINES",
+      "level": 1,
+      "members": [
+        "ENIGMA",
+        "PINBALL",
+        "SEWING",
+        "VENDING"
+      ]
+    },
+    {
+      "name": "LEGAL DRAMAS",
+      "level": 2,
+      "members": [
+        "DAMAGES",
+        "GOLIATH",
+        "MATLOCK",
+        "SUITS"
+      ]
+    },
+    {
+      "name": "ENDING WITH PLAYING CARDS",
+      "level": 3,
+      "members": [
+        "BOJACK",
+        "HAWKING",
+        "LOVELACE",
+        "MCQUEEN"
+      ]
+    }
+  ]
+}

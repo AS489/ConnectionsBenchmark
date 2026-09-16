@@ -1,0 +1,47 @@
+{
+  "id": 763,
+  "date": "2025-07-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INSULT",
+      "level": 0,
+      "members": [
+        "BURN",
+        "KNOCK",
+        "SLIGHT",
+        "ZING"
+      ]
+    },
+    {
+      "name": "CREDIT CARD INFO",
+      "level": 1,
+      "members": [
+        "EXPIRATION",
+        "NAME",
+        "NUMBER",
+        "ZIP"
+      ]
+    },
+    {
+      "name": "SLANG FOR PRINTED MATTER",
+      "level": 2,
+      "members": [
+        "GLOSSY",
+        "MAG",
+        "RAG",
+        "ZINE"
+      ]
+    },
+    {
+      "name": "WINE NICKNAMES",
+      "level": 3,
+      "members": [
+        "BUBBLY",
+        "CAB",
+        "CHARD",
+        "ZIN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 514,
+  "date": "2024-11-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DVR BUTTONS",
+      "level": 0,
+      "members": [
+        "PAUSE",
+        "PLAY",
+        "RECORD",
+        "STOP"
+      ]
+    },
+    {
+      "name": "GROUNDBREAKING",
+      "level": 1,
+      "members": [
+        "DIFFERENT",
+        "NEW",
+        "NOVEL",
+        "ORIGINAL"
+      ]
+    },
+    {
+      "name": "COMMUNICATE THROUGH WRITING",
+      "level": 2,
+      "members": [
+        "CORRESPOND",
+        "MESSAGE",
+        "TEXT",
+        "WRITE"
+      ]
+    },
+    {
+      "name": "THINGS WITH FEET",
+      "level": 3,
+      "members": [
+        "BIPED",
+        "FURNITURE",
+        "POEM",
+        "YARDSTICK"
+      ]
+    }
+  ]
+}

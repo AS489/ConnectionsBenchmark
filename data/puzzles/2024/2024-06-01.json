@@ -1,0 +1,47 @@
+{
+  "id": 356,
+  "date": "2024-06-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "“DON’T DELAY!”",
+      "level": 0,
+      "members": [
+        "HURRY",
+        "NOW",
+        "PRONTO",
+        "STAT"
+      ]
+    },
+    {
+      "name": "OCEAN PHENOMENA",
+      "level": 1,
+      "members": [
+        "CURRENT",
+        "DRIFT",
+        "TIDE",
+        "WAVE"
+      ]
+    },
+    {
+      "name": "DUMBBELL EXERCISES",
+      "level": 2,
+      "members": [
+        "CURL",
+        "FLY",
+        "PRESS",
+        "ROW"
+      ]
+    },
+    {
+      "name": "PHILOSOPHER HOMOPHONES",
+      "level": 3,
+      "members": [
+        "LOCK",
+        "MARKS",
+        "PANE",
+        "RUSTLE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 954,
+  "date": "2026-01-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ITEMS TO RECYCLE",
+      "level": null,
+      "members": [
+        "BOTTLE",
+        "CAN",
+        "CARDBOARD BOX",
+        "NEWSPAPER"
+      ]
+    },
+    {
+      "name": "BEDDING",
+      "level": null,
+      "members": [
+        "BLANKET",
+        "SHAM",
+        "SHEET",
+        "THROW"
+      ]
+    },
+    {
+      "name": "PLAGIARIZE",
+      "level": null,
+      "members": [
+        "COPY",
+        "CRIB",
+        "LIFT",
+        "PIRATE"
+      ]
+    },
+    {
+      "name": "BATMAN'S \"BAT\" THINGS",
+      "level": null,
+      "members": [
+        "CAVE",
+        "MOBILE",
+        "SIGNAL",
+        "SUIT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 634,
+  "date": "2025-03-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WANE",
+      "level": 0,
+      "members": [
+        "DWINDLE",
+        "FADE",
+        "PETER",
+        "TAPER"
+      ]
+    },
+    {
+      "name": "DO SOME TASKS IN THE GARDEN",
+      "level": 1,
+      "members": [
+        "PLANT",
+        "PRUNE",
+        "WATER",
+        "WEED"
+      ]
+    },
+    {
+      "name": "SHOES",
+      "level": 2,
+      "members": [
+        "FLAT",
+        "MARY JANE",
+        "MULE",
+        "SLIDE"
+      ]
+    },
+    {
+      "name": "SAND___",
+      "level": 3,
+      "members": [
+        "CASTLE",
+        "PAPER",
+        "PIPER",
+        "STONE"
+      ]
+    }
+  ]
+}

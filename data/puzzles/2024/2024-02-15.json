@@ -1,0 +1,47 @@
+{
+  "id": 249,
+  "date": "2024-02-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOLLOW ATTENTIVELY",
+      "level": 0,
+      "members": [
+        "MONITOR",
+        "SURVEY",
+        "TRACK",
+        "WATCH"
+      ]
+    },
+    {
+      "name": "WHERE YOU MIGHT FIND SAND",
+      "level": 1,
+      "members": [
+        "BEACH",
+        "DESERT",
+        "HOURGLASS",
+        "PLAYGROUND"
+      ]
+    },
+    {
+      "name": "OVEN BUTTONS",
+      "level": 2,
+      "members": [
+        "BAKE",
+        "BROIL",
+        "LIGHT",
+        "TIMER"
+      ]
+    },
+    {
+      "name": "BRITPOP BANDS",
+      "level": 3,
+      "members": [
+        "BLUR",
+        "OASIS",
+        "PULP",
+        "SUEDE"
+      ]
+    }
+  ]
+}

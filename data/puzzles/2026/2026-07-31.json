@@ -1,0 +1,47 @@
+{
+  "id": 1141,
+  "date": "2026-07-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONSTRUCT",
+      "level": null,
+      "members": [
+        "FASHION",
+        "MODEL",
+        "MOLD",
+        "SHAPE"
+      ]
+    },
+    {
+      "name": "SUPER MARIO FIGURES",
+      "level": null,
+      "members": [
+        "DINOSAUR",
+        "MUSHROOM",
+        "PLUMBER",
+        "PRINCESS"
+      ]
+    },
+    {
+      "name": "FRUITS PLUS STARTING LETTER",
+      "level": null,
+      "members": [
+        "DAPPLE",
+        "JDATE",
+        "SLIME",
+        "SPEAR"
+      ]
+    },
+    {
+      "name": "STARTING WITH MERRIMENTS",
+      "level": null,
+      "members": [
+        "CHEERIOS",
+        "FUNGUS",
+        "GLEEK",
+        "JOYSTICK"
+      ]
+    }
+  ]
+}

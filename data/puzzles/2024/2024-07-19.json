@@ -1,0 +1,47 @@
+{
+  "id": 404,
+  "date": "2024-07-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ROMANTIC PARTNER",
+      "level": 0,
+      "members": [
+        "FLAME",
+        "LOVER",
+        "STEADY",
+        "SWEETHEART"
+      ]
+    },
+    {
+      "name": "INSULT",
+      "level": 1,
+      "members": [
+        "BURN",
+        "DIG",
+        "JAB",
+        "SLIGHT"
+      ]
+    },
+    {
+      "name": "GAS PUMP OPTIONS",
+      "level": 2,
+      "members": [
+        "DIESEL",
+        "PLUS",
+        "PREMIUM",
+        "REGULAR"
+      ]
+    },
+    {
+      "name": "___ TABLE",
+      "level": 3,
+      "members": [
+        "COFFEE",
+        "PERIODIC",
+        "POOL",
+        "WATER"
+      ]
+    }
+  ]
+}

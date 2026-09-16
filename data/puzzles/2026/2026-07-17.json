@@ -1,0 +1,47 @@
+{
+  "id": 1127,
+  "date": "2026-07-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GRAND FINALE",
+      "level": null,
+      "members": [
+        "EPILOGUE",
+        "FAREWELL",
+        "LAST DANCE",
+        "SWAN SONG"
+      ]
+    },
+    {
+      "name": "SEEN IN AN ARCADE",
+      "level": null,
+      "members": [
+        "CRANE GAME",
+        "PINBALL",
+        "TICKETS",
+        "TOKENS"
+      ]
+    },
+    {
+      "name": "FOUR GROUPS OF FOUR",
+      "level": null,
+      "members": [
+        "CARDINAL DIRECTIONS",
+        "CLASSICAL ELEMENTS",
+        "SEASONS",
+        "SUITS"
+      ]
+    },
+    {
+      "name": "ENDING IN PARTS OF A CAR",
+      "level": null,
+      "members": [
+        "PLOT SPOILER",
+        "ROBIN HOOD",
+        "SATIRES",
+        "TREE TRUNK"
+      ]
+    }
+  ]
+}

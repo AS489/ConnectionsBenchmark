@@ -1,0 +1,47 @@
+{
+  "id": 1084,
+  "date": "2026-06-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PAINTING MEDIA",
+      "level": null,
+      "members": [
+        "ACRYLIC",
+        "GOUACHE",
+        "OIL",
+        "TEMPERA"
+      ]
+    },
+    {
+      "name": "ESPRIT",
+      "level": null,
+      "members": [
+        "GUSTO",
+        "PANACHE",
+        "VERVE",
+        "VINEGAR"
+      ]
+    },
+    {
+      "name": "STARTS OF CLASSIC HIP-HOP GROUPS",
+      "level": null,
+      "members": [
+        "BEASTIE",
+        "PUBLIC",
+        "RUN",
+        "SALT"
+      ]
+    },
+    {
+      "name": "GHOST ___",
+      "level": null,
+      "members": [
+        "KITCHEN",
+        "PEPPER",
+        "TOWN",
+        "WRITER"
+      ]
+    }
+  ]
+}

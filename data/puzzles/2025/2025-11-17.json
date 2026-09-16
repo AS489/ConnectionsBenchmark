@@ -1,0 +1,47 @@
+{
+  "id": 889,
+  "date": "2025-11-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "\"YOU BET\"",
+      "level": null,
+      "members": [
+        "ABSOLUTELY",
+        "OKEY-DOKE",
+        "OF COURSE",
+        "SURE THING"
+      ]
+    },
+    {
+      "name": "FORBIDDEN",
+      "level": null,
+      "members": [
+        "OFF-LIMITS",
+        "PROSCRIBED",
+        "TABOO",
+        "VERBOTEN"
+      ]
+    },
+    {
+      "name": "BASKETBALL SHOTS",
+      "level": null,
+      "members": [
+        "ALLEY-OOP",
+        "FADEAWAY",
+        "FINGER ROLL",
+        "SLAM DUNK"
+      ]
+    },
+    {
+      "name": "STARTING WITH SYNONYMS FOR \"SCRAM!\"",
+      "level": null,
+      "members": [
+        "GO-GETTER",
+        "LEAVENING",
+        "SCATTERGORIES",
+        "SHOO-IN"
+      ]
+    }
+  ]
+}

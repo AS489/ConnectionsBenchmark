@@ -1,0 +1,47 @@
+{
+  "id": 570,
+  "date": "2025-01-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SLIMY ANIMALS",
+      "level": 0,
+      "members": [
+        "EARTHWORM",
+        "EEL",
+        "SALAMANDER",
+        "SLUG"
+      ]
+    },
+    {
+      "name": "THINGS THAT LUMINESCE",
+      "level": 1,
+      "members": [
+        "AURORA",
+        "FIREFLY",
+        "GLOWSTICK",
+        "RADIUM"
+      ]
+    },
+    {
+      "name": "DUTCH SYMBOLS",
+      "level": 2,
+      "members": [
+        "CANAL",
+        "CLOG",
+        "TULIP",
+        "WINDMILL"
+      ]
+    },
+    {
+      "name": "ENDING WITH SYNONYMS FOR “PLUNGE”",
+      "level": 3,
+      "members": [
+        "GATECRASH",
+        "RAINDROP",
+        "SKYDIVE",
+        "WATERFALL"
+      ]
+    }
+  ]
+}

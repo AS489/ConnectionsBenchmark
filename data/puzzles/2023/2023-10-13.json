@@ -1,0 +1,47 @@
+{
+  "id": 124,
+  "date": "2023-10-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BEANS",
+      "level": 0,
+      "members": [
+        "FAVA",
+        "KIDNEY",
+        "LIMA",
+        "PINTO"
+      ]
+    },
+    {
+      "name": "CITIES BEGINNING WITH “L”",
+      "level": 1,
+      "members": [
+        "LAGOS",
+        "LIMERICK",
+        "LINCOLN",
+        "LUXOR"
+      ]
+    },
+    {
+      "name": "POETRY TERMS",
+      "level": 2,
+      "members": [
+        "LINE",
+        "METER",
+        "RHYME",
+        "VERSE"
+      ]
+    },
+    {
+      "name": "“THE(E) ___” RAPPERS",
+      "level": 3,
+      "members": [
+        "CREATOR",
+        "DUDE",
+        "RAPPER",
+        "STALLION"
+      ]
+    }
+  ]
+}

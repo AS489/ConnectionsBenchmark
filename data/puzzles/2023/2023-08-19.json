@@ -1,0 +1,47 @@
+{
+  "id": 69,
+  "date": "2023-08-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FRIEND",
+      "level": 0,
+      "members": [
+        "BUD",
+        "CHUM",
+        "MATE",
+        "PAL"
+      ]
+    },
+    {
+      "name": "COOKWEAR",
+      "level": 1,
+      "members": [
+        "CROCK",
+        "POT",
+        "SKILLET",
+        "WOK"
+      ]
+    },
+    {
+      "name": "SHOES",
+      "level": 2,
+      "members": [
+        "CLOG",
+        "PUMP",
+        "SLIDE",
+        "WEDGE"
+      ]
+    },
+    {
+      "name": "SLANG FOR CANNABIS",
+      "level": 3,
+      "members": [
+        "GRASS",
+        "HERB",
+        "MARY JANE",
+        "WEED"
+      ]
+    }
+  ]
+}

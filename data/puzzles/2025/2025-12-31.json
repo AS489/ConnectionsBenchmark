@@ -1,0 +1,47 @@
+{
+  "id": 933,
+  "date": "2025-12-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HAPPY NEW YEAR!",
+      "level": null,
+      "members": [
+        "BALL DROP",
+        "CHAMPAGNE FLUTE",
+        "FIREWORKS",
+        "NOISEMAKER"
+      ]
+    },
+    {
+      "name": "PLACES WHERE THINGS DISAPPEAR",
+      "level": null,
+      "members": [
+        "BERMUDA TRIANGLE",
+        "BLACK HOLE",
+        "COUCH CUSHIONS",
+        "DRYER"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH PHILADELPHIA",
+      "level": null,
+      "members": [
+        "BROTHERLY LOVE",
+        "CHEESESTEAK",
+        "LIBERTY BELL",
+        "ROCKY"
+      ]
+    },
+    {
+      "name": "STARTING WITH BODIES OF WATER",
+      "level": null,
+      "members": [
+        "BAY LEAF",
+        "CHANNEL SURF",
+        "SEA BASS",
+        "SOUND BARRIER"
+      ]
+    }
+  ]
+}

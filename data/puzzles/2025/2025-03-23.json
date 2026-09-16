@@ -1,0 +1,47 @@
+{
+  "id": 651,
+  "date": "2025-03-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CAPTIVATE",
+      "level": 0,
+      "members": [
+        "ABSORB",
+        "ENTRANCE",
+        "GRAB",
+        "RIVET"
+      ]
+    },
+    {
+      "name": "THINGS WITH WINGS",
+      "level": 1,
+      "members": [
+        "AIRPLANE",
+        "FAIRY",
+        "FLY",
+        "HOSPITAL"
+      ]
+    },
+    {
+      "name": "WORDS THAT MODIFY “WATCH”",
+      "level": 2,
+      "members": [
+        "POCKET",
+        "SMART",
+        "STOP",
+        "WRIST"
+      ]
+    },
+    {
+      "name": "WORDS REPEATED IN “MISS MARY MACK”",
+      "level": 3,
+      "members": [
+        "BACK",
+        "BLACK",
+        "BUTTONS",
+        "MACK"
+      ]
+    }
+  ]
+}

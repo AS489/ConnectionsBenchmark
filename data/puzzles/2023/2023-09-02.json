@@ -1,0 +1,47 @@
+{
+  "id": 83,
+  "date": "2023-09-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AU NATUREL",
+      "level": 0,
+      "members": [
+        "BARE",
+        "NAKED",
+        "NUDE",
+        "UNCLAD"
+      ]
+    },
+    {
+      "name": "BAKED GOODS",
+      "level": 1,
+      "members": [
+        "BUN",
+        "DANISH",
+        "MUFFIN",
+        "TURNOVER"
+      ]
+    },
+    {
+      "name": "AMERICAN FOOTBALL ACTIONS",
+      "level": 2,
+      "members": [
+        "FUMBLE",
+        "PUNT",
+        "SACK",
+        "SNAP"
+      ]
+    },
+    {
+      "name": "MANICURE STEPS",
+      "level": 3,
+      "members": [
+        "BUFF",
+        "CLIP",
+        "FILE",
+        "POLISH"
+      ]
+    }
+  ]
+}

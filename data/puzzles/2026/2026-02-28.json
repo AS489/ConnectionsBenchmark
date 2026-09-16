@@ -1,0 +1,47 @@
+{
+  "id": 991,
+  "date": "2026-02-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CRAVING",
+      "level": null,
+      "members": [
+        "DESIRE",
+        "ITCH",
+        "THIRST",
+        "URGE"
+      ]
+    },
+    {
+      "name": "JOBS THAT INVOLVE TRAVELING",
+      "level": null,
+      "members": [
+        "CRUISE DIRECTOR",
+        "PILOT",
+        "ROADIE",
+        "SALESMAN"
+      ]
+    },
+    {
+      "name": "NAME HOMOPHONES",
+      "level": null,
+      "members": [
+        "EARNEST",
+        "KNEEL",
+        "RUSTLE",
+        "TAILOR"
+      ]
+    },
+    {
+      "name": "ASTRONOMICAL TERMS PLUS A LETTER",
+      "level": null,
+      "members": [
+        "COMETH",
+        "NOVAK",
+        "START",
+        "SUNG"
+      ]
+    }
+  ]
+}

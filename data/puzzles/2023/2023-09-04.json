@@ -1,0 +1,47 @@
+{
+  "id": 85,
+  "date": "2023-09-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PAINTING ACCESSORIES",
+      "level": 0,
+      "members": [
+        "BRUSH",
+        "CANVAS",
+        "EASEL",
+        "PALETTE"
+      ]
+    },
+    {
+      "name": "AUTOMATIC TRANSMISSION SETTINGS",
+      "level": 1,
+      "members": [
+        "DRIVE",
+        "NEUTRAL",
+        "PARK",
+        "REVERSE"
+      ]
+    },
+    {
+      "name": "THINGS WITH TEETH",
+      "level": 2,
+      "members": [
+        "COMB",
+        "GEAR",
+        "SAW",
+        "ZIPPER"
+      ]
+    },
+    {
+      "name": "___ CHAIR",
+      "level": 3,
+      "members": [
+        "FIRST",
+        "FOLDING",
+        "HIGH",
+        "LAWN"
+      ]
+    }
+  ]
+}

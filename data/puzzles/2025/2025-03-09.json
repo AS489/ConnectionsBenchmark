@@ -1,0 +1,47 @@
+{
+  "id": 637,
+  "date": "2025-03-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMPUTER INPUT DEVICES",
+      "level": 0,
+      "members": [
+        "MICROPHONE",
+        "MOUSE",
+        "SCANNER",
+        "TABLET"
+      ]
+    },
+    {
+      "name": "BUILDING MATERIALS",
+      "level": 1,
+      "members": [
+        "BRICK",
+        "CONCRETE",
+        "METAL",
+        "STONE"
+      ]
+    },
+    {
+      "name": "HELPFUL DEED",
+      "level": 2,
+      "members": [
+        "FAVOR",
+        "KINDNESS",
+        "SERVICE",
+        "SOLID"
+      ]
+    },
+    {
+      "name": "#1 SONGS FROM 1982",
+      "level": 3,
+      "members": [
+        "ABRACADABRA",
+        "CENTERFOLD",
+        "MICKEY",
+        "PHYSICAL"
+      ]
+    }
+  ]
+}

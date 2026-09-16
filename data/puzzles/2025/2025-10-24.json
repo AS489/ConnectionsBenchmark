@@ -1,0 +1,47 @@
+{
+  "id": 866,
+  "date": "2025-10-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BEST YEARS",
+      "level": null,
+      "members": [
+        "HEYDAY",
+        "PINNACLE",
+        "PRIME",
+        "ZENITH"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN DO TO TEXT",
+      "level": null,
+      "members": [
+        "BOLD",
+        "HIGHLIGHT",
+        "STRIKETHROUGH",
+        "UNDERLINE"
+      ]
+    },
+    {
+      "name": "THINGS KNOWN FOR BEING COLORFUL THINGS",
+      "level": null,
+      "members": [
+        "KALEIDOSCOPE",
+        "PEACOCK",
+        "RAINBOW",
+        "SUNSET"
+      ]
+    },
+    {
+      "name": "ENDING IN ACCESSORIES",
+      "level": null,
+      "members": [
+        "BAYWATCH",
+        "COOTIE",
+        "HERRING",
+        "KINGPIN"
+      ]
+    }
+  ]
+}

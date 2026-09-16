@@ -1,0 +1,47 @@
+{
+  "id": 1,
+  "date": "2023-06-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WET WEATHER",
+      "level": 0,
+      "members": [
+        "HAIL",
+        "RAIN",
+        "SLEET",
+        "SNOW"
+      ]
+    },
+    {
+      "name": "NBA TEAMS",
+      "level": 1,
+      "members": [
+        "BUCKS",
+        "HEAT",
+        "JAZZ",
+        "NETS"
+      ]
+    },
+    {
+      "name": "KEYBOARD KEYS",
+      "level": 2,
+      "members": [
+        "OPTION",
+        "RETURN",
+        "SHIFT",
+        "TAB"
+      ]
+    },
+    {
+      "name": "PALINDROMES",
+      "level": 3,
+      "members": [
+        "KAYAK",
+        "LEVEL",
+        "MOM",
+        "RACECAR"
+      ]
+    }
+  ]
+}

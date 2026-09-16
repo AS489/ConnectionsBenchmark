@@ -1,0 +1,3 @@
+COACH, TRAIN and CABOOSE could be railway. GUIDE and DIRECT could go with COACH as instruct. HANDLE, LID, SPOUT, WHISTLE are kettle parts. PLANT and MOLE are spies, as are ASSET and SLEEPER. DESSERT, DECEMBER, EPILOGUE, CABOOSE come at the end.
+
+{"reasoning": "espionage terms", "guess": ["ASSET", "MOLE", "PLANT", "SLEEPER"]}

@@ -1,0 +1,47 @@
+{
+  "id": 742,
+  "date": "2025-06-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NEWS ANNOUNCEMENT",
+      "level": 0,
+      "members": [
+        "BULLETIN",
+        "FLASH",
+        "REPORT",
+        "WIRE"
+      ]
+    },
+    {
+      "name": "NOUNS FROM A FAMOUS LINE IN THE DECLARATION OF INDEPENDENCE",
+      "level": 1,
+      "members": [
+        "HAPPINESS",
+        "LIBERTY",
+        "LIFE",
+        "PURSUIT"
+      ]
+    },
+    {
+      "name": "HBO SHOWS",
+      "level": 2,
+      "members": [
+        "ENTOURAGE",
+        "EUPHORIA",
+        "INSECURE",
+        "SUCCESSION"
+      ]
+    },
+    {
+      "name": "WHAT “LEFT” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "DEPARTED",
+        "PORT",
+        "PROGRESSIVE",
+        "REMAINING"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 321,
+  "date": "2024-04-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TRUST AS REAL",
+      "level": 0,
+      "members": [
+        "ACCEPT",
+        "BELIEVE",
+        "BUY",
+        "SWALLOW"
+      ]
+    },
+    {
+      "name": "POWER ISSUES",
+      "level": 1,
+      "members": [
+        "OUTAGE",
+        "SHORT",
+        "SPIKE",
+        "SURGE"
+      ]
+    },
+    {
+      "name": "SUMMARY",
+      "level": 2,
+      "members": [
+        "ABSTRACT",
+        "BRIEF",
+        "DIGEST",
+        "OUTLINE"
+      ]
+    },
+    {
+      "name": "NAME HOMOPHONES",
+      "level": 3,
+      "members": [
+        "CURT",
+        "HAIRY",
+        "KNEEL",
+        "WANE"
+      ]
+    }
+  ]
+}

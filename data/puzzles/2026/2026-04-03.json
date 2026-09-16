@@ -1,0 +1,47 @@
+{
+  "id": 1023,
+  "date": "2026-04-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CATTY",
+      "level": null,
+      "members": [
+        "MEAN",
+        "PETTY",
+        "SMALL",
+        "SNIDE"
+      ]
+    },
+    {
+      "name": "HANKER (FOR)",
+      "level": null,
+      "members": [
+        "JONES",
+        "LONG",
+        "LUST",
+        "THIRST"
+      ]
+    },
+    {
+      "name": "COCKTAIL GLASSES",
+      "level": null,
+      "members": [
+        "COLLINS",
+        "HURRICANE",
+        "ROCKS",
+        "ZOMBIE"
+      ]
+    },
+    {
+      "name": "___ CONTROL",
+      "level": null,
+      "members": [
+        "CRUISE",
+        "DAMAGE",
+        "GROUND",
+        "MISSION"
+      ]
+    }
+  ]
+}

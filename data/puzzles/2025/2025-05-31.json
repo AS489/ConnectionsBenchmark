@@ -1,0 +1,47 @@
+{
+  "id": 720,
+  "date": "2025-05-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ALCOVE",
+      "level": 0,
+      "members": [
+        "CAVITY",
+        "HOLLOW",
+        "NOOK",
+        "RECESS"
+      ]
+    },
+    {
+      "name": "WAYS TO RECOGNIZE ACHIEVEMENT",
+      "level": 1,
+      "members": [
+        "CERTIFICATE",
+        "MEDAL",
+        "PLAQUE",
+        "TROPHY"
+      ]
+    },
+    {
+      "name": "VERBS IN BREADMAKING",
+      "level": 2,
+      "members": [
+        "FERMENT",
+        "PROOF",
+        "REST",
+        "RISE"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN BLOW",
+      "level": 3,
+      "members": [
+        "BUBBLE",
+        "FUSE",
+        "KISS",
+        "RASPBERRY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 871,
+  "date": "2025-10-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FORTITUDE",
+      "level": null,
+      "members": [
+        "BACKBONE",
+        "COURAGE",
+        "HEART",
+        "SPIRIT"
+      ]
+    },
+    {
+      "name": "CHANNEL",
+      "level": null,
+      "members": [
+        "MEDIUM",
+        "OUTLET",
+        "PLATFORM",
+        "VENUE"
+      ]
+    },
+    {
+      "name": "WORDS STARTING WITH THE “SAY” SOUND",
+      "level": null,
+      "members": [
+        "SACRUM",
+        "SEITAN",
+        "SEYCHELLES",
+        "SÉANCE"
+      ]
+    },
+    {
+      "name": "THINGS FEATURING LETTERS A THROUGH Z",
+      "level": null,
+      "members": [
+        "ABECEDARIUM",
+        "COMPUTER KEYBOARD",
+        "OUIJA BOARD",
+        "SCRABBLE"
+      ]
+    }
+  ]
+}

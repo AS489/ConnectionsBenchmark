@@ -1,0 +1,47 @@
+{
+  "id": 1018,
+  "date": "2026-03-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STEP ONTO, AS A VEHICLE",
+      "level": null,
+      "members": [
+        "BOARD",
+        "EMBARK",
+        "ENTER",
+        "MOUNT"
+      ]
+    },
+    {
+      "name": "QUANTITIES IN MECHANICS",
+      "level": null,
+      "members": [
+        "ACCELERATION",
+        "FORCE",
+        "MASS",
+        "MOMENTUM"
+      ]
+    },
+    {
+      "name": "TEXTBOOK IMAGES",
+      "level": null,
+      "members": [
+        "FIGURE",
+        "ILLUSTRATION",
+        "PICTURE",
+        "PLATE"
+      ]
+    },
+    {
+      "name": "___ PLANT",
+      "level": null,
+      "members": [
+        "FACE",
+        "PITCHER",
+        "POWER",
+        "ROBERT"
+      ]
+    }
+  ]
+}

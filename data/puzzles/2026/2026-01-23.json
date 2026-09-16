@@ -1,0 +1,47 @@
+{
+  "id": 956,
+  "date": "2026-01-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FACIAL FEATURES",
+      "level": null,
+      "members": [
+        "CHEEK",
+        "EYE",
+        "LIP",
+        "TEMPLE"
+      ]
+    },
+    {
+      "name": "KINDS OF PARKING",
+      "level": null,
+      "members": [
+        "GARAGE",
+        "METER",
+        "STREET",
+        "VALET"
+      ]
+    },
+    {
+      "name": "IMPERIAL UNITS",
+      "level": null,
+      "members": [
+        "ACRE",
+        "BUSHEL",
+        "FOOT",
+        "STONE"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE \"LIGHT\"",
+      "level": null,
+      "members": [
+        "FLOOD",
+        "LIME",
+        "PILOT",
+        "TRAFFIC"
+      ]
+    }
+  ]
+}

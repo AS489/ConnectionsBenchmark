@@ -1,0 +1,47 @@
+{
+  "id": 726,
+  "date": "2025-06-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NEWSPAPER JOBS",
+      "level": 0,
+      "members": [
+        "COLUMNIST",
+        "EDITOR",
+        "PHOTOGRAPHER",
+        "REPORTER"
+      ]
+    },
+    {
+      "name": "EVERYDAY",
+      "level": 1,
+      "members": [
+        "COMMON",
+        "REGULAR",
+        "ROUTINE",
+        "STANDARD"
+      ]
+    },
+    {
+      "name": "WHAT “CON” MIGHT MEAN",
+      "level": 2,
+      "members": [
+        "CONVENTION",
+        "CRIMINAL",
+        "DRAWBACK",
+        "SWINDLE"
+      ]
+    },
+    {
+      "name": "ENDING WITH KINDS OF DOGS",
+      "level": 3,
+      "members": [
+        "NEWSHOUND",
+        "SHADOWBOXER",
+        "SNICKERDOODLE",
+        "TRENDSETTER"
+      ]
+    }
+  ]
+}

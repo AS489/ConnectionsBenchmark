@@ -1,0 +1,47 @@
+{
+  "id": 92,
+  "date": "2023-09-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HALLOWEEN DECORATIONS",
+      "level": 0,
+      "members": [
+        "BAT",
+        "COBWEB",
+        "PUMPKIN",
+        "TOMBSTONE"
+      ]
+    },
+    {
+      "name": "TV SHOWS",
+      "level": 1,
+      "members": [
+        "24",
+        "BONES",
+        "FIREFLY",
+        "WEEDS"
+      ]
+    },
+    {
+      "name": "SLOT MACHINE SYMBOLS",
+      "level": 2,
+      "members": [
+        "7",
+        "BAR",
+        "BELL",
+        "CHERRY"
+      ]
+    },
+    {
+      "name": "NUMBERS IN BOOK TITLES",
+      "level": 3,
+      "members": [
+        "22",
+        "451",
+        "2001",
+        "20,000"
+      ]
+    }
+  ]
+}

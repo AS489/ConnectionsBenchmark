@@ -1,0 +1,47 @@
+{
+  "id": 1126,
+  "date": "2026-07-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SKINCARE PRODUCTS",
+      "level": null,
+      "members": [
+        "CLAY MASK",
+        "EYE CREAM",
+        "PEEL",
+        "TONER"
+      ]
+    },
+    {
+      "name": "SHADES OF BLACK",
+      "level": null,
+      "members": [
+        "CHARCOAL",
+        "INK",
+        "JET",
+        "PITCH"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH PRECISION",
+      "level": null,
+      "members": [
+        "BULLSEYE",
+        "CLOCKWORK",
+        "LASER",
+        "NEEDLE"
+      ]
+    },
+    {
+      "name": "STARTING WITH TINY MARKS",
+      "level": null,
+      "members": [
+        "DOT MATRIX",
+        "PERIOD PIECE",
+        "POINT BREAK",
+        "SPOT REMOVER"
+      ]
+    }
+  ]
+}

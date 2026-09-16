@@ -1,0 +1,47 @@
+{
+  "id": 446,
+  "date": "2024-08-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPARKLING THINGS",
+      "level": 0,
+      "members": [
+        "DIAMOND",
+        "GLITTER",
+        "GOLD",
+        "SEQUIN"
+      ]
+    },
+    {
+      "name": "PARTICIPATE IN SUMMER OLYMPIC EVENTS",
+      "level": 1,
+      "members": [
+        "BOX",
+        "DIVE",
+        "FENCE",
+        "ROW"
+      ]
+    },
+    {
+      "name": "WONDERS OF THE WORLD",
+      "level": 2,
+      "members": [
+        "GARDENS",
+        "LIGHTHOUSE",
+        "PYRAMID",
+        "TEMPLE"
+      ]
+    },
+    {
+      "name": "ICE ___",
+      "level": 3,
+      "members": [
+        "CREAM",
+        "CUBE",
+        "MACHINE",
+        "STORM"
+      ]
+    }
+  ]
+}

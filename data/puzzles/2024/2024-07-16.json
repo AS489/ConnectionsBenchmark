@@ -1,0 +1,47 @@
+{
+  "id": 401,
+  "date": "2024-07-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "IN A BAD MOOD",
+      "level": 0,
+      "members": [
+        "CROSS",
+        "SHORT",
+        "SURLY",
+        "TESTY"
+      ]
+    },
+    {
+      "name": "EXPERIMENTAL",
+      "level": 1,
+      "members": [
+        "EXPLORATORY",
+        "PILOT",
+        "PRELIMINARY",
+        "TRIAL"
+      ]
+    },
+    {
+      "name": "STARTS OF BROADWAY MUSICALS",
+      "level": 2,
+      "members": [
+        "FIDDLER",
+        "JERSEY",
+        "KINKY",
+        "MERRILY"
+      ]
+    },
+    {
+      "name": "PETER ___",
+      "level": 3,
+      "members": [
+        "PAN",
+        "PARKER",
+        "PIPER",
+        "RABBIT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 648,
+  "date": "2025-03-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OUTSPOKEN",
+      "level": 0,
+      "members": [
+        "DIRECT",
+        "FRANK",
+        "LOUD",
+        "VOCAL"
+      ]
+    },
+    {
+      "name": "BODIES OF WATER",
+      "level": 1,
+      "members": [
+        "BAY",
+        "CHANNEL",
+        "SOUND",
+        "STRAIT"
+      ]
+    },
+    {
+      "name": "KINDS OF CORDS",
+      "level": 2,
+      "members": [
+        "BUNGEE",
+        "EXTENSION",
+        "SPINAL",
+        "UMBILICAL"
+      ]
+    },
+    {
+      "name": "THINGS IN BOTTLES",
+      "level": 3,
+      "members": [
+        "GENIE",
+        "LIGHTNING",
+        "MESSAGE",
+        "SHIP"
+      ]
+    }
+  ]
+}

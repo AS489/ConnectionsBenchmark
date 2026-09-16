@@ -1,0 +1,47 @@
+{
+  "id": 695,
+  "date": "2025-05-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SILENCE",
+      "level": 0,
+      "members": [
+        "CALM",
+        "HUSH",
+        "PEACE",
+        "STILL"
+      ]
+    },
+    {
+      "name": "TENNIS COMPETITION UNITS",
+      "level": 1,
+      "members": [
+        "GAME",
+        "MATCH",
+        "SET",
+        "TOURNAMENT"
+      ]
+    },
+    {
+      "name": "COMPARATIVELY SMALL",
+      "level": 2,
+      "members": [
+        "BABY",
+        "COMPACT",
+        "MINUTE",
+        "TOY"
+      ]
+    },
+    {
+      "name": "STARTING WITH SYNONYMS FOR “TEASE”",
+      "level": 3,
+      "members": [
+        "KIDNEY",
+        "MOCKINGBIRD",
+        "RAZZMATAZZ",
+        "RIBBON"
+      ]
+    }
+  ]
+}

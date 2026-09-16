@@ -1,0 +1,47 @@
+{
+  "id": 1102,
+  "date": "2026-06-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DOMINANT",
+      "level": null,
+      "members": [
+        "ALPHA",
+        "HEAD",
+        "LEAD",
+        "PRIMARY"
+      ]
+    },
+    {
+      "name": "MULTIPLICATION INDICATORS",
+      "level": null,
+      "members": [
+        "BY",
+        "TIMES",
+        "X",
+        "●"
+      ]
+    },
+    {
+      "name": "PRONUNCIATION DESCRIPTORS",
+      "level": null,
+      "members": [
+        "SHORT",
+        "SILENT",
+        "SOFT",
+        "STRESSED"
+      ]
+    },
+    {
+      "name": "STARTING WITH EXPLOSIVE ONOMATOPOEIA",
+      "level": null,
+      "members": [
+        "BANGKOK",
+        "BOOMER",
+        "POPSICLE",
+        "POWDER"
+      ]
+    }
+  ]
+}

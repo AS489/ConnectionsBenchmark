@@ -1,0 +1,47 @@
+{
+  "id": 1109,
+  "date": "2026-06-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OLD TIMEY TROUBLEMAKERS",
+      "level": null,
+      "members": [
+        "MISCREANT",
+        "ROGUE",
+        "RUFFIAN",
+        "SCOUNDREL"
+      ]
+    },
+    {
+      "name": "CONSUME WITH GUSTO",
+      "level": null,
+      "members": [
+        "CRUSH",
+        "GUZZLE",
+        "INHALE",
+        "SNARF"
+      ]
+    },
+    {
+      "name": "PARTS OF A SPEAKER",
+      "level": null,
+      "members": [
+        "CABINET",
+        "CONE",
+        "MAGNET",
+        "WOOFER"
+      ]
+    },
+    {
+      "name": "ENDING IN PARTS OF A TREE",
+      "level": null,
+      "members": [
+        "EMBARK",
+        "GROOT",
+        "NUDIBRANCH",
+        "STRUNK"
+      ]
+    }
+  ]
+}

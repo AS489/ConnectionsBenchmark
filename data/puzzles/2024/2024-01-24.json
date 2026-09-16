@@ -1,0 +1,47 @@
+{
+  "id": 227,
+  "date": "2024-01-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SMARTPHONE FEATURES BEGINNING WITH “C”",
+      "level": 0,
+      "members": [
+        "CALCULATOR",
+        "CALENDAR",
+        "CAMERA",
+        "CLOCK"
+      ]
+    },
+    {
+      "name": "PARTS OF THE EYE",
+      "level": 1,
+      "members": [
+        "CONE",
+        "IRIS",
+        "LENS",
+        "PUPIL"
+      ]
+    },
+    {
+      "name": "FAMILIAL NICKNAMES",
+      "level": 2,
+      "members": [
+        "DADA",
+        "GRAMMY",
+        "MUM",
+        "POPPY"
+      ]
+    },
+    {
+      "name": "WORDS PRONOUNCED DIFFERENTLY WITH ACCENT MARKS",
+      "level": 3,
+      "members": [
+        "EXPOSE",
+        "PATE",
+        "RESUME",
+        "ROSE"
+      ]
+    }
+  ]
+}

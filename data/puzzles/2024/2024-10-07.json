@@ -1,0 +1,47 @@
+{
+  "id": 484,
+  "date": "2024-10-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KNUCKLEHEAD",
+      "level": 0,
+      "members": [
+        "DING-DONG",
+        "DODO",
+        "YAHOO",
+        "YO-YO"
+      ]
+    },
+    {
+      "name": "CAR ONOMATOPOEIA",
+      "level": 1,
+      "members": [
+        "BEEP BEEP",
+        "PURR",
+        "SKRRT",
+        "VROOM"
+      ]
+    },
+    {
+      "name": "SOUNDS OF LAUGHTER",
+      "level": 2,
+      "members": [
+        "HAR-HAR",
+        "HOOT",
+        "WHOOP",
+        "YUK"
+      ]
+    },
+    {
+      "name": "FAMOUS PRIMATES",
+      "level": 3,
+      "members": [
+        "BUBBLES",
+        "GEORGE",
+        "KING KONG",
+        "KOKO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 96,
+  "date": "2023-09-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BOVIDS",
+      "level": 0,
+      "members": [
+        "BUFFALO",
+        "COW",
+        "GOAT",
+        "SHEEP"
+      ]
+    },
+    {
+      "name": "EMIT LIGHT",
+      "level": 1,
+      "members": [
+        "BEAM",
+        "GLOW",
+        "RADIATE",
+        "SHINE"
+      ]
+    },
+    {
+      "name": "GYMNASTICS APPARATUS",
+      "level": 2,
+      "members": [
+        "FLOOR",
+        "HORSE",
+        "RINGS",
+        "VAULT"
+      ]
+    },
+    {
+      "name": "WORDS THAT SOUND LIKE TWO LETTERS",
+      "level": 3,
+      "members": [
+        "CUTIE",
+        "ENVY",
+        "EXCEL",
+        "SEEDY"
+      ]
+    }
+  ]
+}

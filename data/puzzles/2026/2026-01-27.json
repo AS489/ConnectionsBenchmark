@@ -1,0 +1,47 @@
+{
+  "id": 960,
+  "date": "2026-01-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "QUITE THE LAUGH",
+      "level": null,
+      "members": [
+        "CARD",
+        "CHARACTER",
+        "CUTUP",
+        "JOKER"
+      ]
+    },
+    {
+      "name": "NHL TEAM MEMBER",
+      "level": null,
+      "members": [
+        "DEVIL",
+        "FLYER",
+        "PENGUIN",
+        "RANGER"
+      ]
+    },
+    {
+      "name": "FIRST WORDS OF ROBIN HOOD CHARACTER NAMES",
+      "level": null,
+      "members": [
+        "FRIAR",
+        "MAID",
+        "ROBIN",
+        "SHERIFF"
+      ]
+    },
+    {
+      "name": "STARTING WITH BASEBALL GEAR",
+      "level": null,
+      "members": [
+        "BALLROOM",
+        "BASEMENT",
+        "BATMOBILE",
+        "CAPSTONE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 384,
+  "date": "2024-06-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HOMOPHONES",
+      "level": 0,
+      "members": [
+        "TO",
+        "TOO",
+        "TUE",
+        "TWO"
+      ]
+    },
+    {
+      "name": "CONNECT",
+      "level": 1,
+      "members": [
+        "COUPLE",
+        "TIE",
+        "UNITE",
+        "WED"
+      ]
+    },
+    {
+      "name": "PLACED DOWN",
+      "level": 2,
+      "members": [
+        "LAID",
+        "PLACED",
+        "PUT",
+        "SAT"
+      ]
+    },
+    {
+      "name": "___FLOWER",
+      "level": 3,
+      "members": [
+        "MAY",
+        "SUN",
+        "WALL",
+        "WILD"
+      ]
+    }
+  ]
+}

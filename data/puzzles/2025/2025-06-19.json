@@ -1,0 +1,47 @@
+{
+  "id": 739,
+  "date": "2025-06-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMPONENTS OF ONE’S GRADE",
+      "level": 0,
+      "members": [
+        "ATTENDANCE",
+        "FINAL",
+        "HOMEWORK",
+        "PAPERS"
+      ]
+    },
+    {
+      "name": "MAP APP OPTIONS",
+      "level": 1,
+      "members": [
+        "DESTINATION",
+        "ROUTE",
+        "STARTING POINT",
+        "STOPS"
+      ]
+    },
+    {
+      "name": "CLASSIC TOYS",
+      "level": 2,
+      "members": [
+        "BALL",
+        "BLOCKS",
+        "JACKS",
+        "TRAIN"
+      ]
+    },
+    {
+      "name": "FENCING GEAR",
+      "level": 3,
+      "members": [
+        "FOILS",
+        "GLOVES",
+        "JACKETS",
+        "MASKS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1058,
+  "date": "2026-05-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNITS OF TV PROGRAMS",
+      "level": null,
+      "members": [
+        "EPISODE",
+        "FRANCHISE",
+        "SEASON",
+        "SERIES"
+      ]
+    },
+    {
+      "name": "THINGS WORN AROUND THE NECK",
+      "level": null,
+      "members": [
+        "BOA",
+        "CHAIN",
+        "LANYARD",
+        "TIE"
+      ]
+    },
+    {
+      "name": "STRINGS TIED IN KNOTS",
+      "level": null,
+      "members": [
+        "FRIENDSHIP BRACELET",
+        "MACRAMÉ",
+        "QUIPU",
+        "SHOELACES"
+      ]
+    },
+    {
+      "name": "___ PIECE",
+      "level": null,
+      "members": [
+        "CONVERSATION",
+        "PERIOD",
+        "PUFF",
+        "THINK"
+      ]
+    }
+  ]
+}

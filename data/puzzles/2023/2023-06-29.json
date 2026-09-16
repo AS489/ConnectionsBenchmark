@@ -1,0 +1,47 @@
+{
+  "id": 18,
+  "date": "2023-06-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MUSCLES, INFORMALLY",
+      "level": 0,
+      "members": [
+        "LAT",
+        "PEC",
+        "QUAD",
+        "TRI"
+      ]
+    },
+    {
+      "name": "AWARDS",
+      "level": 1,
+      "members": [
+        "CUP",
+        "MEDAL",
+        "RIBBON",
+        "TROPHY"
+      ]
+    },
+    {
+      "name": "TITLE TV DOCTORS",
+      "level": 2,
+      "members": [
+        "GREY",
+        "HOUSE",
+        "HOWSER",
+        "QUINN"
+      ]
+    },
+    {
+      "name": "NFL PLAYERS",
+      "level": 3,
+      "members": [
+        "BEAR",
+        "BILL",
+        "BROWN",
+        "COMMANDER"
+      ]
+    }
+  ]
+}

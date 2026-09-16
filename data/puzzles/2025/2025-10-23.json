@@ -1,0 +1,47 @@
+{
+  "id": 865,
+  "date": "2025-10-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PEACHY",
+      "level": null,
+      "members": [
+        "DANDY",
+        "DUCKY",
+        "FINE",
+        "SWELL"
+      ]
+    },
+    {
+      "name": "WINNINGS",
+      "level": null,
+      "members": [
+        "KITTY",
+        "POT",
+        "PRIZE",
+        "PURSE"
+      ]
+    },
+    {
+      "name": "PIECES OF OLYMPIC SPORTS EQUIPMENT",
+      "level": null,
+      "members": [
+        "BALL",
+        "BIRDIE",
+        "PUCK",
+        "STONE"
+      ]
+    },
+    {
+      "name": "___ BAG",
+      "level": null,
+      "members": [
+        "DOGGY",
+        "GO",
+        "MIXED",
+        "SWAG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 843,
+  "date": "2025-10-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FAST-MOVING WATER",
+      "level": null,
+      "members": [
+        "CATARACT",
+        "CURRENT",
+        "RAPIDS",
+        "WHIRLPOOL"
+      ]
+    },
+    {
+      "name": "CRITICIZE",
+      "level": null,
+      "members": [
+        "FLAME",
+        "KNOCK",
+        "SKEWER",
+        "SLAM"
+      ]
+    },
+    {
+      "name": "ECHOEY PLACES",
+      "level": null,
+      "members": [
+        "CANYON",
+        "HALLWAY",
+        "TUNNEL",
+        "ZOOM CALL"
+      ]
+    },
+    {
+      "name": "___ PRIZE",
+      "level": null,
+      "members": [
+        "BOOBY",
+        "DOOR",
+        "FIRST",
+        "JURY"
+      ]
+    }
+  ]
+}

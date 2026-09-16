@@ -1,0 +1,28 @@
+{
+  "_comment": "Each case names a .txt file in this directory holding a raw model response. `expected` is the canonical guess parse_guess must return, or `error: true` if it must raise ParseError. Grow this corpus from real outputs once Phase 2 is live.",
+  "board": ["COACH", "DIRECT", "GUIDE", "TRAIN", "HANDLE", "LID", "SPOUT", "WHISTLE", "ASSET", "MOLE", "PLANT", "SLEEPER", "CABOOSE", "DECEMBER", "DESSERT", "EPILOGUE"],
+  "cases": [
+    {"file": "clean.txt", "expected": ["COACH", "DIRECT", "GUIDE", "TRAIN"]},
+    {"file": "fenced_json.txt", "expected": ["HANDLE", "LID", "SPOUT", "WHISTLE"]},
+    {"file": "fenced_no_lang.txt", "expected": ["HANDLE", "LID", "SPOUT", "WHISTLE"]},
+    {"file": "trailing_prose.txt", "expected": ["ASSET", "MOLE", "PLANT", "SLEEPER"]},
+    {"file": "leading_prose.txt", "expected": ["ASSET", "MOLE", "PLANT", "SLEEPER"]},
+    {"file": "lowercase_words.txt", "expected": ["CABOOSE", "DECEMBER", "DESSERT", "EPILOGUE"]},
+    {"file": "articles_attached.txt", "expected": ["CABOOSE", "DECEMBER", "DESSERT", "EPILOGUE"]},
+    {"file": "bare_list.txt", "expected": ["COACH", "DIRECT", "GUIDE", "TRAIN"]},
+    {"file": "comma_string.txt", "expected": ["COACH", "DIRECT", "GUIDE", "TRAIN"]},
+    {"file": "alt_key_words.txt", "expected": ["HANDLE", "LID", "SPOUT", "WHISTLE"]},
+    {"file": "extra_whitespace.txt", "expected": ["HANDLE", "LID", "SPOUT", "WHISTLE"]},
+    {"file": "two_json_objects.txt", "expected": ["ASSET", "MOLE", "PLANT", "SLEEPER"]},
+    {"file": "plain_labelled_line.txt", "expected": ["CABOOSE", "DECEMBER", "DESSERT", "EPILOGUE"]},
+    {"file": "quoted_with_punctuation.txt", "expected": ["COACH", "DIRECT", "GUIDE", "TRAIN"]},
+    {"file": "typo_close_match.txt", "expected": ["CABOOSE", "DECEMBER", "DESSERT", "EPILOGUE"]},
+    {"file": "reasoning_mentions_many_words.txt", "expected": ["ASSET", "MOLE", "PLANT", "SLEEPER"]},
+    {"file": "err_three_words.txt", "error": true},
+    {"file": "err_five_words.txt", "error": true},
+    {"file": "err_off_board.txt", "error": true},
+    {"file": "err_duplicate_word.txt", "error": true},
+    {"file": "err_no_json.txt", "error": true},
+    {"file": "err_empty.txt", "error": true}
+  ]
+}

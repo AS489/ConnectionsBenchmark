@@ -1,0 +1,47 @@
+{
+  "id": 630,
+  "date": "2025-03-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CELLPHONE MODES",
+      "level": 0,
+      "members": [
+        "AIRPLANE",
+        "DO NOT DISTURB",
+        "RING",
+        "VIBRATE"
+      ]
+    },
+    {
+      "name": "EVADE",
+      "level": 1,
+      "members": [
+        "DODGE",
+        "ESCAPE",
+        "LOSE",
+        "SHAKE"
+      ]
+    },
+    {
+      "name": "WHAT “W” MIGHT STAND FOR",
+      "level": 2,
+      "members": [
+        "TUNGSTEN",
+        "WATT",
+        "WEST",
+        "WIN"
+      ]
+    },
+    {
+      "name": "___STRING",
+      "level": 3,
+      "members": [
+        "DRAW",
+        "HAM",
+        "HEART",
+        "SHOE"
+      ]
+    }
+  ]
+}

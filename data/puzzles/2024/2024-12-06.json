@@ -1,0 +1,47 @@
+{
+  "id": 544,
+  "date": "2024-12-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BAFFLE",
+      "level": 0,
+      "members": [
+        "PERPLEX",
+        "PUZZLE",
+        "STUMP",
+        "VEX"
+      ]
+    },
+    {
+      "name": "CURSE",
+      "level": 1,
+      "members": [
+        "HEX",
+        "JINX",
+        "POX",
+        "SPELL"
+      ]
+    },
+    {
+      "name": "“TOY STORY” CHARACTERS, FAMILIARLY",
+      "level": 2,
+      "members": [
+        "BUZZ",
+        "HAMM",
+        "REX",
+        "SLINKY"
+      ]
+    },
+    {
+      "name": "COLLOQUIAL SUFFIXES",
+      "level": 3,
+      "members": [
+        "CORE",
+        "GATE",
+        "MANIA",
+        "PILLED"
+      ]
+    }
+  ]
+}

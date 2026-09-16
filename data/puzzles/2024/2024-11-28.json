@@ -1,0 +1,47 @@
+{
+  "id": 536,
+  "date": "2024-11-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "APPRECIATION",
+      "level": 0,
+      "members": [
+        "CREDIT",
+        "PRAISE",
+        "RECOGNITION",
+        "THANKS"
+      ]
+    },
+    {
+      "name": "FRAUDSTER",
+      "level": 1,
+      "members": [
+        "CHEAT",
+        "CON",
+        "FAKE",
+        "QUACK"
+      ]
+    },
+    {
+      "name": "EAT VORACIOUSLY",
+      "level": 2,
+      "members": [
+        "BOLT",
+        "DOWN",
+        "GOBBLE",
+        "SCARF"
+      ]
+    },
+    {
+      "name": "___ TUESDAY",
+      "level": 3,
+      "members": [
+        "FAT",
+        "GIVING",
+        "SUPER",
+        "TACO"
+      ]
+    }
+  ]
+}

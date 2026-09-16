@@ -1,0 +1,47 @@
+{
+  "id": 53,
+  "date": "2023-08-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ANIMAL GROUP NAMES",
+      "level": 0,
+      "members": [
+        "COLONY",
+        "HERD",
+        "PRIDE",
+        "SWARM"
+      ]
+    },
+    {
+      "name": "STONED",
+      "level": 1,
+      "members": [
+        "BAKED",
+        "BLAZED",
+        "HIGH",
+        "LIT"
+      ]
+    },
+    {
+      "name": "AP CLASSES",
+      "level": 2,
+      "members": [
+        "BIO",
+        "CHEM",
+        "GOV",
+        "STATS"
+      ]
+    },
+    {
+      "name": "TAXONOMY RANKS",
+      "level": 3,
+      "members": [
+        "CLASS",
+        "DOMAIN",
+        "FAMILY",
+        "ORDER"
+      ]
+    }
+  ]
+}

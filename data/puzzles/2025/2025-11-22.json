@@ -1,0 +1,47 @@
+{
+  "id": 894,
+  "date": "2025-11-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LITTLE BIT",
+      "level": null,
+      "members": [
+        "DAB",
+        "DROP",
+        "SPLASH",
+        "TOUCH"
+      ]
+    },
+    {
+      "name": "SAILOR",
+      "level": null,
+      "members": [
+        "SALTY DOG",
+        "SKIPPER",
+        "SWAB",
+        "TAR"
+      ]
+    },
+    {
+      "name": "TROPICAL FRUITS/VEGETABLES",
+      "level": null,
+      "members": [
+        "BITTER MELON",
+        "CHAYOTE",
+        "DURIAN",
+        "SOURSOP"
+      ]
+    },
+    {
+      "name": "___ DEAL",
+      "level": null,
+      "members": [
+        "BIG",
+        "PLEA",
+        "RAW",
+        "SWEETHEART"
+      ]
+    }
+  ]
+}

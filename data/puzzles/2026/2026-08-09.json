@@ -1,0 +1,47 @@
+{
+  "id": 1150,
+  "date": "2026-08-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TAKE A DIFFERENT APPROACH",
+      "level": null,
+      "members": [
+        "CHANGE TACK",
+        "COURSE-CORRECT",
+        "RECALIBRATE",
+        "SHIFT GEARS"
+      ]
+    },
+    {
+      "name": "CLASSIC CHILDREN'S BOOKS",
+      "level": null,
+      "members": [
+        "CAPS FOR SALE",
+        "CORDUROY",
+        "GOODNIGHT MOON",
+        "MADELINE"
+      ]
+    },
+    {
+      "name": "MOVIE SUBGENRES",
+      "level": null,
+      "members": [
+        "BUDDY COP",
+        "NEO-NOIR",
+        "SPACE OPERA",
+        "SPAGHETTI WESTERN"
+      ]
+    },
+    {
+      "name": "THINGS PEOPLE TRY TO GET OUT OF",
+      "level": null,
+      "members": [
+        "BAD DREAM",
+        "ESCAPE ROOM",
+        "JURY DUTY",
+        "LABYRINTH"
+      ]
+    }
+  ]
+}

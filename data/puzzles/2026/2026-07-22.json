@@ -1,0 +1,47 @@
+{
+  "id": 1132,
+  "date": "2026-07-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SYMPTOMS OF AN ALLERGIC REACTION",
+      "level": null,
+      "members": [
+        "HIVES",
+        "ITCHING",
+        "RASH",
+        "REDNESS"
+      ]
+    },
+    {
+      "name": "ON A GOLF SCORECARD",
+      "level": null,
+      "members": [
+        "HOLE",
+        "PAR",
+        "SCORE",
+        "STROKES"
+      ]
+    },
+    {
+      "name": "PLATFORM-SPECIFIC POSTS",
+      "level": null,
+      "members": [
+        "PINS",
+        "SNAPS",
+        "TWEETS",
+        "VINES"
+      ]
+    },
+    {
+      "name": "FEATURES OF A ZEBRA",
+      "level": null,
+      "members": [
+        "HOOVES",
+        "MANE",
+        "TAIL",
+        "WHITE STRIPES"
+      ]
+    }
+  ]
+}

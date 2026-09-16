@@ -1,0 +1,47 @@
+{
+  "id": 364,
+  "date": "2024-06-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FEELING SOME TYPE OF WAY",
+      "level": 0,
+      "members": [
+        "BITTER",
+        "SALTY",
+        "SORE",
+        "UPSET"
+      ]
+    },
+    {
+      "name": "THROW HERE AND THERE",
+      "level": 1,
+      "members": [
+        "PEPPER",
+        "SCATTER",
+        "SPRINKLE",
+        "STREW"
+      ]
+    },
+    {
+      "name": "THINGS WITH LAYERS",
+      "level": 2,
+      "members": [
+        "CAKE",
+        "EARTH",
+        "ONION",
+        "PLYWOOD"
+      ]
+    },
+    {
+      "name": "___ POTATO",
+      "level": 3,
+      "members": [
+        "BAKED",
+        "COUCH",
+        "HOT",
+        "SWEET"
+      ]
+    }
+  ]
+}

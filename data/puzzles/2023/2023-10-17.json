@@ -1,0 +1,47 @@
+{
+  "id": 128,
+  "date": "2023-10-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TAUNTS",
+      "level": 0,
+      "members": [
+        "BOO",
+        "HISS",
+        "JEER",
+        "RASPBERRY"
+      ]
+    },
+    {
+      "name": "FAILURE",
+      "level": 1,
+      "members": [
+        "BOMB",
+        "DUD",
+        "FLOP",
+        "LEMON"
+      ]
+    },
+    {
+      "name": "RUDELY BREAK OFF CONTACT",
+      "level": 2,
+      "members": [
+        "DESERT",
+        "GHOST",
+        "IGNORE",
+        "JILT"
+      ]
+    },
+    {
+      "name": "ROCK ___",
+      "level": 3,
+      "members": [
+        "BOTTOM",
+        "CANDY",
+        "GARDEN",
+        "STAR"
+      ]
+    }
+  ]
+}

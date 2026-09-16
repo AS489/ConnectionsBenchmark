@@ -1,0 +1,47 @@
+{
+  "id": 1175,
+  "date": "2026-09-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TWO SHAKES OF A LAMB'S TAIL",
+      "level": null,
+      "members": [
+        "BLINK",
+        "FLASH",
+        "HEARTBEAT",
+        "TRICE"
+      ]
+    },
+    {
+      "name": "SHADES OF RED",
+      "level": null,
+      "members": [
+        "CARMINE",
+        "CINNABAR",
+        "MAROON",
+        "VERMILLION"
+      ]
+    },
+    {
+      "name": "TOY CAR BRANDS",
+      "level": null,
+      "members": [
+        "HOT WHEELS",
+        "MATCHBOX",
+        "MICRO MACHINES",
+        "TONKA"
+      ]
+    },
+    {
+      "name": "SPREADSHEET FUNCTIONS",
+      "level": null,
+      "members": [
+        "AVERAGE",
+        "COUNT",
+        "MAX",
+        "SUM"
+      ]
+    }
+  ]
+}

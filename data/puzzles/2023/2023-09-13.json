@@ -1,0 +1,47 @@
+{
+  "id": 94,
+  "date": "2023-09-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "“SKEDADDLE!”",
+      "level": 0,
+      "members": [
+        "GET OUT",
+        "GO",
+        "LEAVE",
+        "SCRAM"
+      ]
+    },
+    {
+      "name": "PRONOUNS",
+      "level": 1,
+      "members": [
+        "ME",
+        "THEM",
+        "US",
+        "YOU"
+      ]
+    },
+    {
+      "name": "ANAGRAMS",
+      "level": 2,
+      "members": [
+        "NOPE",
+        "OPEN",
+        "PEON",
+        "PONE"
+      ]
+    },
+    {
+      "name": "___ BABY",
+      "level": 3,
+      "members": [
+        "BEANIE",
+        "FUR",
+        "NEPO",
+        "SANTA"
+      ]
+    }
+  ]
+}

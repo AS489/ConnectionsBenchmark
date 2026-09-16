@@ -1,0 +1,47 @@
+{
+  "id": 221,
+  "date": "2024-01-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SHOW OFF",
+      "level": 0,
+      "members": [
+        "GRANDSTAND",
+        "PEACOCK",
+        "POSTURE",
+        "STRUT"
+      ]
+    },
+    {
+      "name": "FOREMOST",
+      "level": 1,
+      "members": [
+        "MAIN",
+        "PARAMOUNT",
+        "PRIME",
+        "SUPREME"
+      ]
+    },
+    {
+      "name": "COLORS IN BRAZIL’S FLAG",
+      "level": 2,
+      "members": [
+        "BLUE",
+        "GREEN",
+        "WHITE",
+        "YELLOW"
+      ]
+    },
+    {
+      "name": "___ LETTER",
+      "level": 3,
+      "members": [
+        "CHAIN",
+        "COVER",
+        "LOVE",
+        "SCARLET"
+      ]
+    }
+  ]
+}

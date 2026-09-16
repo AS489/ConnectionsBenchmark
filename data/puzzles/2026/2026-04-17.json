@@ -1,0 +1,47 @@
+{
+  "id": 1037,
+  "date": "2026-04-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VEGETABLE PARTS",
+      "level": null,
+      "members": [
+        "BULB",
+        "LEAF",
+        "ROOT",
+        "STEM"
+      ]
+    },
+    {
+      "name": "PREVAILING",
+      "level": null,
+      "members": [
+        "COMMON",
+        "DOMINANT",
+        "GENERAL",
+        "POPULAR"
+      ]
+    },
+    {
+      "name": "PARTS OF A PIANO",
+      "level": null,
+      "members": [
+        "HAMMER",
+        "KEY",
+        "PEDAL",
+        "STRING"
+      ]
+    },
+    {
+      "name": "SECOND HALVES OF DRINK NAMES",
+      "level": null,
+      "members": [
+        "SODA",
+        "STORMY",
+        "TAN",
+        "TONIC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1017,
+  "date": "2026-03-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WHAT IT ALL BOILS DOWN TO",
+      "level": null,
+      "members": [
+        "BASIC FACTS",
+        "BOTTOM LINE",
+        "BRASS TACKS",
+        "NITTY-GRITTY"
+      ]
+    },
+    {
+      "name": "FEATURES OF AN AIRPORT TERMINAL",
+      "level": null,
+      "members": [
+        "BAGGAGE CLAIM",
+        "DUTY-FREE",
+        "FOOD COURT",
+        "TICKET COUNTER"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE ORANGE",
+      "level": null,
+      "members": [
+        "GOLDFISH CRACKER",
+        "MONARCH BUTTERFLY",
+        "THE LORAX",
+        "TRAFFIC CONE"
+      ]
+    },
+    {
+      "name": "ENDING IN WORDS FOR CELLULAR CONNECTIVITY",
+      "level": null,
+      "members": [
+        "LIP SERVICE",
+        "MONKEY BARS",
+        "TURN SIGNAL",
+        "WEDDING RECEPTION"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1181,
+  "date": "2026-09-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HARD TO UNDERSTAND",
+      "level": null,
+      "members": [
+        "BEWILDERING",
+        "ESOTERIC",
+        "INCOMPREHENSIBLE",
+        "OPAQUE"
+      ]
+    },
+    {
+      "name": "WORDS WITH \"SMALL\" PREFIXES",
+      "level": null,
+      "members": [
+        "MICROBREWERY",
+        "MINIVAN",
+        "NANOTECHNOLOGY",
+        "PICOSECOND"
+      ]
+    },
+    {
+      "name": "HORROR MOVIES",
+      "level": null,
+      "members": [
+        "ARACHNOPHOBIA",
+        "HALLOWEEN",
+        "IT",
+        "SAW"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE \"FORCE\"",
+      "level": null,
+      "members": [
+        "BRUTE",
+        "ELECTROMAGNETIC",
+        "G",
+        "TASK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 939,
+  "date": "2026-01-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "APARTMENT",
+      "level": null,
+      "members": [
+        "DIGS",
+        "FLAT",
+        "PAD",
+        "QUARTERS"
+      ]
+    },
+    {
+      "name": "SONOROUS",
+      "level": null,
+      "members": [
+        "CLEAR",
+        "DEEP",
+        "FULL",
+        "RICH"
+      ]
+    },
+    {
+      "name": "POKER HANDS, FAMILIARLY",
+      "level": null,
+      "members": [
+        "BOAT",
+        "FLUSH",
+        "STRAIGHT",
+        "QUADS"
+      ]
+    },
+    {
+      "name": "___ ANIMAL",
+      "level": null,
+      "members": [
+        "BALLOON",
+        "PACK",
+        "PARTY",
+        "STUFFED"
+      ]
+    }
+  ]
+}

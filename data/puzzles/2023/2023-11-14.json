@@ -1,0 +1,47 @@
+{
+  "id": 156,
+  "date": "2023-11-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BASIC EMOTIONS",
+      "level": 0,
+      "members": [
+        "ANGER",
+        "FEAR",
+        "HAPPINESS",
+        "SURPRISE"
+      ]
+    },
+    {
+      "name": "BIT OF VOCAL FANFARE",
+      "level": 1,
+      "members": [
+        "BEHOLD",
+        "PRESTO",
+        "TADA",
+        "VOILA"
+      ]
+    },
+    {
+      "name": "OBTAIN",
+      "level": 2,
+      "members": [
+        "GET",
+        "LAND",
+        "SECURE",
+        "WIN"
+      ]
+    },
+    {
+      "name": "___ ANT",
+      "level": 3,
+      "members": [
+        "ADAM",
+        "CARPENTER",
+        "FIRE",
+        "RED"
+      ]
+    }
+  ]
+}

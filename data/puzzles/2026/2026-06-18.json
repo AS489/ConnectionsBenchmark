@@ -1,0 +1,47 @@
+{
+  "id": 1098,
+  "date": "2026-06-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FITNESS CLASS TYPES",
+      "level": null,
+      "members": [
+        "AEROBICS",
+        "BARRE",
+        "BOOTCAMP",
+        "PILATES"
+      ]
+    },
+    {
+      "name": "DEMEANOR",
+      "level": null,
+      "members": [
+        "ATTITUDE",
+        "BEARING",
+        "CARRIAGE",
+        "PRESENCE"
+      ]
+    },
+    {
+      "name": "PEACE ACTIVISTS",
+      "level": null,
+      "members": [
+        "GANDHI",
+        "KING",
+        "MANDELA",
+        "TUTU"
+      ]
+    },
+    {
+      "name": "TOOLS MINUS LAST TWO LETTERS",
+      "level": null,
+      "members": [
+        "HAMM",
+        "JIGS",
+        "PLIE",
+        "WREN"
+      ]
+    }
+  ]
+}

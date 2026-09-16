@@ -1,0 +1,47 @@
+{
+  "id": 139,
+  "date": "2023-10-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SENSES",
+      "level": 0,
+      "members": [
+        "SIGHT",
+        "SMELL",
+        "TASTE",
+        "TOUCH"
+      ]
+    },
+    {
+      "name": "APPEARANCE",
+      "level": 1,
+      "members": [
+        "DRESS",
+        "LOOK",
+        "MANNER",
+        "STYLE"
+      ]
+    },
+    {
+      "name": "“AGREE!”",
+      "level": 2,
+      "members": [
+        "DITTO",
+        "LIKEWISE",
+        "SAME",
+        "SECOND"
+      ]
+    },
+    {
+      "name": "___ MOON",
+      "level": 3,
+      "members": [
+        "BLUE",
+        "HARVEST",
+        "NEW",
+        "SAILOR"
+      ]
+    }
+  ]
+}

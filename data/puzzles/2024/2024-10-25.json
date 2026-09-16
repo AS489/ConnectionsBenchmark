@@ -1,0 +1,47 @@
+{
+  "id": 502,
+  "date": "2024-10-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "•",
+      "level": 0,
+      "members": [
+        "DOT",
+        "PERIOD",
+        "POINT",
+        "TITTLE"
+      ]
+    },
+    {
+      "name": "EVENT WITH DANCING",
+      "level": 1,
+      "members": [
+        "BALL",
+        "FORMAL",
+        "HOP",
+        "RAVE"
+      ]
+    },
+    {
+      "name": "IPHONE MESSAGE TAPBACK RESPONSES",
+      "level": 2,
+      "members": [
+        "EXCLAMATION POINTS",
+        "HEART",
+        "QUESTION MARK",
+        "THUMBS UP"
+      ]
+    },
+    {
+      "name": "“PAN”",
+      "level": 3,
+      "members": [
+        "BAD REVIEW",
+        "CAMERA MOVEMENT",
+        "COOKWARE",
+        "SATYR"
+      ]
+    }
+  ]
+}

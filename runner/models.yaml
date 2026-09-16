@@ -1,0 +1,28 @@
+# Model roster. Pin dated snapshots wherever OpenRouter offers them: if an id silently
+# changes underneath the benchmark, every historical comparison becomes meaningless.
+# The resolved `model` string from each response is recorded in the run record so
+# drift is at least detectable after the fact.
+#
+# `slug` is the stable identity used in file names and the site; `openrouter_id` may be
+# re-pinned over time. Never rename a slug — add a new one.
+
+defaults:
+  temperature: 0
+  max_tokens: 4096
+  attempts_per_day: 1
+  max_cost_usd_per_run: 0.50
+  json_schema: true
+
+models:
+  - slug: anthropic__claude-opus-5
+    openrouter_id: anthropic/claude-opus-5
+    reasoning: { max_tokens: 8000 }
+  - slug: anthropic__claude-sonnet-5
+    openrouter_id: anthropic/claude-sonnet-5
+    reasoning: { max_tokens: 8000 }
+  - slug: openai__gpt-5
+    openrouter_id: openai/gpt-5
+    reasoning: { effort: high }
+  - slug: google__gemini-2.5-pro
+    openrouter_id: google/gemini-2.5-pro
+    reasoning: { effort: high }

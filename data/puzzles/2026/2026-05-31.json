@@ -1,0 +1,47 @@
+{
+  "id": 1080,
+  "date": "2026-05-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS THAT ARE YELLOW",
+      "level": null,
+      "members": [
+        "BUTTER",
+        "PIKACHU",
+        "RUBBER DUCK",
+        "SCHOOL BUS"
+      ]
+    },
+    {
+      "name": "BILLIARDS TERMS",
+      "level": null,
+      "members": [
+        "BREAK",
+        "CUE",
+        "POCKET",
+        "RACK"
+      ]
+    },
+    {
+      "name": "SLANG FOR A SAILOR",
+      "level": null,
+      "members": [
+        "JACK",
+        "SALT",
+        "SEA DOG",
+        "TAR"
+      ]
+    },
+    {
+      "name": "KINDS OF WOOD PLUS \"S\"",
+      "level": null,
+      "members": [
+        "SASH",
+        "SOAK",
+        "SPINE",
+        "STEAK"
+      ]
+    }
+  ]
+}

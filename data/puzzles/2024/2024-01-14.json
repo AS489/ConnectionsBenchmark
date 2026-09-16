@@ -1,0 +1,47 @@
+{
+  "id": 217,
+  "date": "2024-01-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS TO PAY",
+      "level": 0,
+      "members": [
+        "BILL",
+        "CHECK",
+        "INVOICE",
+        "TAB"
+      ]
+    },
+    {
+      "name": "THIEVE",
+      "level": 1,
+      "members": [
+        "PINCH",
+        "ROB",
+        "STEAL",
+        "SWIPE"
+      ]
+    },
+    {
+      "name": "MALE ANIMALS",
+      "level": 2,
+      "members": [
+        "BUCK",
+        "BULL",
+        "JACK",
+        "TOM"
+      ]
+    },
+    {
+      "name": "LEGWEAR, IN THE SINGULAR",
+      "level": 3,
+      "members": [
+        "JEAN",
+        "PANT",
+        "SHORT",
+        "TIGHT"
+      ]
+    }
+  ]
+}

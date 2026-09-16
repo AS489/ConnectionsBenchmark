@@ -1,0 +1,47 @@
+{
+  "id": 191,
+  "date": "2023-12-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ACCESSORIES",
+      "level": 0,
+      "members": [
+        "BELT",
+        "BRACELET",
+        "TIE",
+        "WATCH"
+      ]
+    },
+    {
+      "name": "COMEDIAN’S OUTPUT",
+      "level": 1,
+      "members": [
+        "BIT",
+        "JOKE",
+        "ROUTINE",
+        "SKETCH"
+      ]
+    },
+    {
+      "name": "ATTRACTION",
+      "level": 2,
+      "members": [
+        "APPEAL",
+        "CHARM",
+        "DRAW",
+        "PULL"
+      ]
+    },
+    {
+      "name": "TWO LETTERS + NUMBER",
+      "level": 3,
+      "members": [
+        "CANINE",
+        "FREIGHT",
+        "OFTEN",
+        "STONE"
+      ]
+    }
+  ]
+}

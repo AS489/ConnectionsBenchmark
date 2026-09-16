@@ -1,0 +1,47 @@
+{
+  "id": 814,
+  "date": "2025-09-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CURSES",
+      "level": 0,
+      "members": [
+        "EXPLETIVES",
+        "FOUR-LETTER WORDS",
+        "PROFANITY",
+        "SWEARING"
+      ]
+    },
+    {
+      "name": "IN \"A VISIT FROM ST. NICHOLAS\"",
+      "level": 1,
+      "members": [
+        "CHRISTMAS",
+        "HOUSE",
+        "MOUSE",
+        "STIRRING"
+      ]
+    },
+    {
+      "name": "WORN BY EARRING MAGIC KEN",
+      "level": 2,
+      "members": [
+        "EARRING",
+        "MESH SHIRT",
+        "NECKLACE",
+        "PLEATHER VEST"
+      ]
+    },
+    {
+      "name": "STARTING WITH POSSESSIVE DETERMINERS",
+      "level": 3,
+      "members": [
+        "HERRING",
+        "HISTAMINE",
+        "MYSTERY",
+        "OUROBOROS"
+      ]
+    }
+  ]
+}

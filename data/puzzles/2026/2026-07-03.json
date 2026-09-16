@@ -1,0 +1,47 @@
+{
+  "id": 1113,
+  "date": "2026-07-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "POSITIVE FEELINGS",
+      "level": null,
+      "members": [
+        "BLISS",
+        "FELICITY",
+        "HAPPINESS",
+        "WARM FUZZIES"
+      ]
+    },
+    {
+      "name": "RETRO EXPRESSIONS OF APPROVAL",
+      "level": null,
+      "members": [
+        "COOL BEANS",
+        "FAR OUT",
+        "GROOVY",
+        "RIGHT ON"
+      ]
+    },
+    {
+      "name": "BAD THINGS TO GIVE SOMEONE",
+      "level": null,
+      "members": [
+        "COLD SHOULDER",
+        "DIRTY LOOK",
+        "HARD TIME",
+        "RUNAROUND"
+      ]
+    },
+    {
+      "name": "WHAT THINGS PRONOUNCED \"T\" MIGHT REFER TO",
+      "level": null,
+      "members": [
+        "GOLF ACCESSORY",
+        "GOSSIP",
+        "HOT DRINK",
+        "SHIRT"
+      ]
+    }
+  ]
+}

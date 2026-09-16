@@ -1,0 +1,47 @@
+{
+  "id": 591,
+  "date": "2025-01-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TYPES OF ACADEMIC COURSES",
+      "level": 0,
+      "members": [
+        "DISCUSSION",
+        "LAB",
+        "LECTURE",
+        "SEMINAR"
+      ]
+    },
+    {
+      "name": "RESULTS OF SOME DIGGING",
+      "level": 1,
+      "members": [
+        "DITCH",
+        "HOLE",
+        "PIT",
+        "TRENCH"
+      ]
+    },
+    {
+      "name": "ONES WEARING ROBES",
+      "level": 2,
+      "members": [
+        "BOXER",
+        "JUDGE",
+        "MONK",
+        "WIZARD"
+      ]
+    },
+    {
+      "name": "___ UP",
+      "level": 3,
+      "members": [
+        "BATTER",
+        "BOTTOMS",
+        "CHIN",
+        "LAWYER"
+      ]
+    }
+  ]
+}

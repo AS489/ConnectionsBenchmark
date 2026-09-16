@@ -1,0 +1,47 @@
+{
+  "id": 1014,
+  "date": "2026-03-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DESPICABLE",
+      "level": null,
+      "members": [
+        "BASE",
+        "LOW",
+        "MEAN",
+        "VILE"
+      ]
+    },
+    {
+      "name": "FEATURES OF A WEDDING",
+      "level": null,
+      "members": [
+        "CAKE",
+        "KISS",
+        "RING",
+        "VOW"
+      ]
+    },
+    {
+      "name": "KINDS OF TRUCKS",
+      "level": null,
+      "members": [
+        "DUMP",
+        "FIRE",
+        "FOOD",
+        "TOW"
+      ]
+    },
+    {
+      "name": "HETERONYMS",
+      "level": null,
+      "members": [
+        "BOW",
+        "ROW",
+        "SOW",
+        "WIND"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 32,
+  "date": "2023-07-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SHOE PARTS",
+      "level": 0,
+      "members": [
+        "HEEL",
+        "LACE",
+        "SOLE",
+        "TONGUE"
+      ]
+    },
+    {
+      "name": "BOARD GAMES",
+      "level": 1,
+      "members": [
+        "CLUE",
+        "RISK",
+        "SORRY",
+        "TROUBLE"
+      ]
+    },
+    {
+      "name": "FICTIONAL SPIES",
+      "level": 2,
+      "members": [
+        "BOND",
+        "HUNT",
+        "RYAN",
+        "SMART"
+      ]
+    },
+    {
+      "name": "RUBBER ___",
+      "level": 3,
+      "members": [
+        "BAND",
+        "CEMENT",
+        "DUCKIE",
+        "SOUL"
+      ]
+    }
+  ]
+}

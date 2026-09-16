@@ -1,0 +1,47 @@
+{
+  "id": 62,
+  "date": "2023-08-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STATE ABBREVIATIONS",
+      "level": 0,
+      "members": [
+        "CO",
+        "MA",
+        "ME",
+        "PA"
+      ]
+    },
+    {
+      "name": "MUSICAL NOTES",
+      "level": 1,
+      "members": [
+        "DO",
+        "FA",
+        "LA",
+        "TI"
+      ]
+    },
+    {
+      "name": "GREEK LETTERS",
+      "level": 2,
+      "members": [
+        "MU",
+        "NU",
+        "PI",
+        "XI"
+      ]
+    },
+    {
+      "name": "PERIODIC TABLE SYMBOLS",
+      "level": 3,
+      "members": [
+        "FE",
+        "HE",
+        "NA",
+        "NI"
+      ]
+    }
+  ]
+}

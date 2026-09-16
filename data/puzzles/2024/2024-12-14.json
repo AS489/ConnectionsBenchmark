@@ -1,0 +1,47 @@
+{
+  "id": 552,
+  "date": "2024-12-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FISH",
+      "level": 0,
+      "members": [
+        "FLUKE",
+        "MULLET",
+        "SOLE",
+        "TANG"
+      ]
+    },
+    {
+      "name": "WORDS IN AN AUCTION-ENDING PHRASE",
+      "level": 1,
+      "members": [
+        "GOING",
+        "ONCE",
+        "SOLD",
+        "TWICE"
+      ]
+    },
+    {
+      "name": "GLOBAL CURRENCIES",
+      "level": 2,
+      "members": [
+        "POUND",
+        "REAL",
+        "SOL",
+        "YUAN"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “CUP”",
+      "level": 3,
+      "members": [
+        "BUTTER",
+        "DIVA",
+        "SOLO",
+        "WORLD"
+      ]
+    }
+  ]
+}

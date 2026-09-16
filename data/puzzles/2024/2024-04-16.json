@@ -1,0 +1,47 @@
+{
+  "id": 310,
+  "date": "2024-04-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FLABBERGAST",
+      "level": 0,
+      "members": [
+        "FLOOR",
+        "ROCK",
+        "SHOCK",
+        "SURPRISE"
+      ]
+    },
+    {
+      "name": "BIT OF JOURNALISM",
+      "level": 1,
+      "members": [
+        "ARTICLE",
+        "FEATURE",
+        "REPORT",
+        "STORY"
+      ]
+    },
+    {
+      "name": "ON THE SAME PLANE",
+      "level": 2,
+      "members": [
+        "EVEN",
+        "FLAT",
+        "FLUSH",
+        "LEVEL"
+      ]
+    },
+    {
+      "name": "THEATER SECTIONS",
+      "level": 3,
+      "members": [
+        "BALCONY",
+        "BOX",
+        "ORCHESTRA",
+        "STAGE"
+      ]
+    }
+  ]
+}

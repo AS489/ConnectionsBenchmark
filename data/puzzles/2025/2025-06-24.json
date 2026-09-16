@@ -1,0 +1,47 @@
+{
+  "id": 744,
+  "date": "2025-06-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STRICT",
+      "level": 0,
+      "members": [
+        "FIRM",
+        "RIGID",
+        "STERN",
+        "TOUGH"
+      ]
+    },
+    {
+      "name": "BOTANICAL COVERINGS",
+      "level": 1,
+      "members": [
+        "HULL",
+        "HUSK",
+        "POD",
+        "SHELL"
+      ]
+    },
+    {
+      "name": "SEEN IN OPENING CREDITS",
+      "level": 2,
+      "members": [
+        "CAST",
+        "DIRECTOR",
+        "STUDIO",
+        "TITLE"
+      ]
+    },
+    {
+      "name": "OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE",
+      "level": 3,
+      "members": [
+        "LINE",
+        "PLANE",
+        "POINT",
+        "SOLID"
+      ]
+    }
+  ]
+}

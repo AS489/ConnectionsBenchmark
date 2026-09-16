@@ -1,0 +1,47 @@
+{
+  "id": 118,
+  "date": "2023-10-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RHYMES",
+      "level": 0,
+      "members": [
+        "DARREN",
+        "KAREN",
+        "SHARON",
+        "AARON"
+      ]
+    },
+    {
+      "name": "NATURAL FEATURES",
+      "level": 1,
+      "members": [
+        "DALE",
+        "BROOK",
+        "SAVANNA",
+        "CLIFF"
+      ]
+    },
+    {
+      "name": "IRREGULAR VERBS",
+      "level": 2,
+      "members": [
+        "DREW",
+        "ROSE",
+        "WILL",
+        "MAY"
+      ]
+    },
+    {
+      "name": "PALINDROMES",
+      "level": 3,
+      "members": [
+        "EVE",
+        "HANNAH",
+        "OTTO",
+        "NATAN"
+      ]
+    }
+  ]
+}

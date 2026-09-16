@@ -1,0 +1,47 @@
+{
+  "id": 50,
+  "date": "2023-07-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNITS OF LENGTH",
+      "level": 0,
+      "members": [
+        "FOOT",
+        "INCH",
+        "MILE",
+        "YARD"
+      ]
+    },
+    {
+      "name": "TYPES OF PAINT",
+      "level": 1,
+      "members": [
+        "ACRYLIC",
+        "OIL",
+        "TEMPERA",
+        "WATERCOLOR"
+      ]
+    },
+    {
+      "name": "DEEP-FRIED FOOD",
+      "level": 2,
+      "members": [
+        "FALAFEL",
+        "KATSU",
+        "SAMOSA",
+        "SCHNITZEL"
+      ]
+    },
+    {
+      "name": "STARTS OF U.S. COINS",
+      "level": 3,
+      "members": [
+        "DIM",
+        "NICK",
+        "PEN",
+        "QUART"
+      ]
+    }
+  ]
+}

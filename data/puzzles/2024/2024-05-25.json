@@ -1,0 +1,47 @@
+{
+  "id": 349,
+  "date": "2024-05-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ADVERTISING FORMAT",
+      "level": 0,
+      "members": [
+        "BANNER",
+        "BILLBOARD",
+        "POSTER",
+        "SIGN"
+      ]
+    },
+    {
+      "name": "INAUGURAL",
+      "level": 1,
+      "members": [
+        "FIRST",
+        "INITIAL",
+        "MAIDEN",
+        "PREMIER"
+      ]
+    },
+    {
+      "name": "ADVOCATE FOR",
+      "level": 2,
+      "members": [
+        "BACK",
+        "CHAMPION",
+        "ENDORSE",
+        "SUPPORT"
+      ]
+    },
+    {
+      "name": "PRONOUN PLUS “E”",
+      "level": 3,
+      "members": [
+        "HERE",
+        "THEME",
+        "USE",
+        "WEE"
+      ]
+    }
+  ]
+}

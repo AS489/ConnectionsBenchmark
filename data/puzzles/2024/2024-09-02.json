@@ -1,0 +1,47 @@
+{
+  "id": 449,
+  "date": "2024-09-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PECULIAR",
+      "level": 0,
+      "members": [
+        "CURIOUS",
+        "FUNNY",
+        "OFF",
+        "WEIRD"
+      ]
+    },
+    {
+      "name": "ASSIGNMENT",
+      "level": 1,
+      "members": [
+        "JOB",
+        "POSITION",
+        "POST",
+        "STATION"
+      ]
+    },
+    {
+      "name": "CLASSIC COLLECTION ITEMS",
+      "level": 2,
+      "members": [
+        "COIN",
+        "COMIC",
+        "RECORD",
+        "STAMP"
+      ]
+    },
+    {
+      "name": "CHAIN ___",
+      "level": 3,
+      "members": [
+        "LETTER",
+        "MAIL",
+        "REACTION",
+        "STORE"
+      ]
+    }
+  ]
+}

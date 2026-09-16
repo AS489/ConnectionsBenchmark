@@ -1,0 +1,47 @@
+{
+  "id": 270,
+  "date": "2024-03-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SHARED",
+      "level": 0,
+      "members": [
+        "COLLECTIVE",
+        "COMMON",
+        "JOINT",
+        "MUTUAL"
+      ]
+    },
+    {
+      "name": "RID OF CONTENTS",
+      "level": 1,
+      "members": [
+        "CLEAR",
+        "DRAIN",
+        "EMPTY",
+        "FLUSH"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH “STUB”",
+      "level": 2,
+      "members": [
+        "CIGARETTE",
+        "PENCIL",
+        "TICKET",
+        "TOE"
+      ]
+    },
+    {
+      "name": "___ DREAM",
+      "level": 3,
+      "members": [
+        "AMERICAN",
+        "FEVER",
+        "LUCID",
+        "PIPE"
+      ]
+    }
+  ]
+}

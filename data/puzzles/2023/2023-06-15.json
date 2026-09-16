@@ -1,0 +1,47 @@
+{
+  "id": 4,
+  "date": "2023-06-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SNEAKER BRANDS",
+      "level": 0,
+      "members": [
+        "ADIDAS",
+        "NIKE",
+        "PUMA",
+        "REEBOK"
+      ]
+    },
+    {
+      "name": "MUSICALS BEGINNING WITH “C”",
+      "level": 1,
+      "members": [
+        "CABARET",
+        "CAROUSEL",
+        "CATS",
+        "CHICAGO"
+      ]
+    },
+    {
+      "name": "CLEANING VERBS",
+      "level": 2,
+      "members": [
+        "DUST",
+        "MOP",
+        "SWEEP",
+        "VACUUM"
+      ]
+    },
+    {
+      "name": "___ MAN SUPERHEROES",
+      "level": 3,
+      "members": [
+        "BAT",
+        "IRON",
+        "SPIDER",
+        "SUPER"
+      ]
+    }
+  ]
+}

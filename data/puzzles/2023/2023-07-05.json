@@ -1,0 +1,47 @@
+{
+  "id": 24,
+  "date": "2023-07-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CANDY BARS",
+      "level": 0,
+      "members": [
+        "BOUNTY",
+        "CRUNCH",
+        "HEATH",
+        "MILKY WAY"
+      ]
+    },
+    {
+      "name": "VIDEO GAME CONSOLES",
+      "level": 1,
+      "members": [
+        "DREAMCAST",
+        "GENESIS",
+        "SWITCH",
+        "WII"
+      ]
+    },
+    {
+      "name": "EAR PARTS",
+      "level": 2,
+      "members": [
+        "ANVIL",
+        "COCHLEA",
+        "HAMMER",
+        "STIRRUP"
+      ]
+    },
+    {
+      "name": "BAND NAMES MINUS NUMBERS",
+      "level": 3,
+      "members": [
+        "BLINK",
+        "MAROON",
+        "SUM",
+        "U"
+      ]
+    }
+  ]
+}

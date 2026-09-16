@@ -1,0 +1,47 @@
+{
+  "id": 585,
+  "date": "2025-01-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BUYING AND SELLING",
+      "level": 0,
+      "members": [
+        "BUSINESS",
+        "COMMERCE",
+        "MARKET",
+        "TRADE"
+      ]
+    },
+    {
+      "name": "INSTALLED ON A WALL",
+      "level": 1,
+      "members": [
+        "BASEBOARD",
+        "OUTLET",
+        "SCONCE",
+        "SWITCH"
+      ]
+    },
+    {
+      "name": "SPY",
+      "level": 2,
+      "members": [
+        "AGENT",
+        "ASSET",
+        "MOLE",
+        "PLANT"
+      ]
+    },
+    {
+      "name": "___ RAT",
+      "level": 3,
+      "members": [
+        "GYM",
+        "MALL",
+        "PACK",
+        "RUG"
+      ]
+    }
+  ]
+}

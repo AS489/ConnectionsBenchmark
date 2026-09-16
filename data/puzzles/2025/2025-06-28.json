@@ -1,0 +1,47 @@
+{
+  "id": 748,
+  "date": "2025-06-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS A DOG CAN FETCH",
+      "level": 0,
+      "members": [
+        "BALL",
+        "BONE",
+        "FRISBEE",
+        "STICK"
+      ]
+    },
+    {
+      "name": "GREAT MANY",
+      "level": 1,
+      "members": [
+        "DROVE",
+        "HOST",
+        "LOAD",
+        "SCORE"
+      ]
+    },
+    {
+      "name": "POSSIBLE RESULTS OF A TRAFFIC VIOLATION",
+      "level": 2,
+      "members": [
+        "BOOT",
+        "POINTS",
+        "TICKET",
+        "TOW"
+      ]
+    },
+    {
+      "name": "INDUSTRIAL REVOLUTION INVENTORS",
+      "level": 3,
+      "members": [
+        "BELL",
+        "DIESEL",
+        "SINGER",
+        "WATT"
+      ]
+    }
+  ]
+}

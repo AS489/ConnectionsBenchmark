@@ -1,0 +1,47 @@
+{
+  "id": 88,
+  "date": "2023-09-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ROCKY HORROR PICTURE SHOW",
+      "level": 0,
+      "members": [
+        "HORROR",
+        "PICTURE",
+        "ROCKY",
+        "SHOW"
+      ]
+    },
+    {
+      "name": "WHO FRAMED ROGER RABBIT",
+      "level": 1,
+      "members": [
+        "FRAMED",
+        "RABBIT",
+        "ROGER",
+        "WHO"
+      ]
+    },
+    {
+      "name": "WHEN HARRY MET SALLY",
+      "level": 2,
+      "members": [
+        "HARRY",
+        "MET",
+        "SALLY",
+        "WHEN"
+      ]
+    },
+    {
+      "name": "MAD MAX FURY ROAD",
+      "level": 3,
+      "members": [
+        "FURY",
+        "MAD",
+        "MAX",
+        "ROAD"
+      ]
+    }
+  ]
+}

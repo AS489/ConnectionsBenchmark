@@ -1,0 +1,47 @@
+{
+  "id": 228,
+  "date": "2024-01-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OF-THE-MOMENT",
+      "level": 0,
+      "members": [
+        "BIG",
+        "HOT",
+        "IN",
+        "POPULAR"
+      ]
+    },
+    {
+      "name": "PICTOGRAPH",
+      "level": 1,
+      "members": [
+        "CHARACTER",
+        "GLYPH",
+        "ICON",
+        "SYMBOL"
+      ]
+    },
+    {
+      "name": "IMPOSE, AS A PENALTY",
+      "level": 2,
+      "members": [
+        "ASSESS",
+        "CHARGE",
+        "FINE",
+        "LEVY"
+      ]
+    },
+    {
+      "name": "WORDS BEGINNING WITH BODY PARTS",
+      "level": 3,
+      "members": [
+        "HANDSOME",
+        "HIPPO",
+        "LEGEND",
+        "LIPID"
+      ]
+    }
+  ]
+}

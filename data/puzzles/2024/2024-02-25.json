@@ -1,0 +1,47 @@
+{
+  "id": 259,
+  "date": "2024-02-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WALK HEAVILY",
+      "level": 0,
+      "members": [
+        "LUMBER",
+        "PLOD",
+        "STOMP",
+        "TRUDGE"
+      ]
+    },
+    {
+      "name": "FLEXIBLE",
+      "level": 1,
+      "members": [
+        "ELASTIC",
+        "LIMBER",
+        "PLASTIC",
+        "SUPPLE"
+      ]
+    },
+    {
+      "name": "FENCING EQUIPMENT",
+      "level": 2,
+      "members": [
+        "FOIL",
+        "GLOVE",
+        "JACKET",
+        "MASK"
+      ]
+    },
+    {
+      "name": "WORDS BEGINNING WITH INSTRUMENTS",
+      "level": 3,
+      "members": [
+        "BASSINET",
+        "CELLOPHANE",
+        "HARPOON",
+        "ORGANISM"
+      ]
+    }
+  ]
+}

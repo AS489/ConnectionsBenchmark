@@ -1,0 +1,47 @@
+{
+  "id": 347,
+  "date": "2024-05-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TAKE ADVANTAGE OF",
+      "level": 0,
+      "members": [
+        "EXPLOIT",
+        "LEVERAGE",
+        "MILK",
+        "USE"
+      ]
+    },
+    {
+      "name": "FINISHED, AS TIME",
+      "level": 1,
+      "members": [
+        "DONE",
+        "OVER",
+        "THROUGH",
+        "UP"
+      ]
+    },
+    {
+      "name": "NEWSPAPER DESKS",
+      "level": 2,
+      "members": [
+        "CITY",
+        "COPY",
+        "CULTURE",
+        "SPORTS"
+      ]
+    },
+    {
+      "name": "WORDS BEGINNING WITH GREETINGS",
+      "level": 3,
+      "members": [
+        "HEYDAY",
+        "HIJINKS",
+        "SUPPER",
+        "YOGURT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 268,
+  "date": "2024-03-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "POP MEGASTARS",
+      "level": 0,
+      "members": [
+        "GRANDE",
+        "MARS",
+        "STYLES",
+        "SWIFT"
+      ]
+    },
+    {
+      "name": "METHOD",
+      "level": 1,
+      "members": [
+        "CHANNEL",
+        "MEANS",
+        "MEDIUM",
+        "VEHICLE"
+      ]
+    },
+    {
+      "name": "UNLIKELY, AS CHANCES",
+      "level": 2,
+      "members": [
+        "OUTSIDE",
+        "REMOTE",
+        "SLIM",
+        "SMALL"
+      ]
+    },
+    {
+      "name": "LIVING ___",
+      "level": 3,
+      "members": [
+        "LARGE",
+        "LEGEND",
+        "PROOF",
+        "ROOM"
+      ]
+    }
+  ]
+}

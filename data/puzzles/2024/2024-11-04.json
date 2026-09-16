@@ -1,0 +1,47 @@
+{
+  "id": 512,
+  "date": "2024-11-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EQUIP",
+      "level": 0,
+      "members": [
+        "FURNISH",
+        "OUTFIT",
+        "PROVISION",
+        "STOCK"
+      ]
+    },
+    {
+      "name": "INDIVIDUALITY",
+      "level": 1,
+      "members": [
+        "BEING",
+        "CHARACTER",
+        "EGO",
+        "SELF"
+      ]
+    },
+    {
+      "name": "FURNITURE",
+      "level": 2,
+      "members": [
+        "CHEST",
+        "CONSOLE",
+        "VANITY",
+        "WARDROBE"
+      ]
+    },
+    {
+      "name": "WORDS WITH APOSTROPHES REMOVED",
+      "level": 3,
+      "members": [
+        "CANT",
+        "ID",
+        "SHELL",
+        "WERE"
+      ]
+    }
+  ]
+}

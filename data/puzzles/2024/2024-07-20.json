@@ -1,0 +1,47 @@
+{
+  "id": 405,
+  "date": "2024-07-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EFFORTLESS",
+      "level": 0,
+      "members": [
+        "FLUID",
+        "GRACEFUL",
+        "NATURAL",
+        "SMOOTH"
+      ]
+    },
+    {
+      "name": "EXERTION",
+      "level": 1,
+      "members": [
+        "EFFORT",
+        "LABOR",
+        "SWEAT",
+        "WORK"
+      ]
+    },
+    {
+      "name": "ENERGY FOR AN ELECTRONIC DEVICE",
+      "level": 2,
+      "members": [
+        "BATTERY",
+        "CHARGE",
+        "JUICE",
+        "POWER"
+      ]
+    },
+    {
+      "name": "WHAT “POP” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "BURST",
+        "DAD",
+        "MAINSTREAM",
+        "SODA"
+      ]
+    }
+  ]
+}

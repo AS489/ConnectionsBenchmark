@@ -1,0 +1,47 @@
+{
+  "id": 447,
+  "date": "2024-08-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NEWSPAPER SECTIONS",
+      "level": 0,
+      "members": [
+        "ARTS",
+        "BUSINESS",
+        "COMICS",
+        "SPORTS"
+      ]
+    },
+    {
+      "name": "TREE FEATURES",
+      "level": 1,
+      "members": [
+        "BARK",
+        "CROWN",
+        "RINGS",
+        "ROOTS"
+      ]
+    },
+    {
+      "name": "KINDS OF SALAD",
+      "level": 2,
+      "members": [
+        "CHEF",
+        "GARDEN",
+        "GREEK",
+        "WEDGE"
+      ]
+    },
+    {
+      "name": "SEEN ON BACKS OF U.S. COINS",
+      "level": 3,
+      "members": [
+        "EAGLE",
+        "MONTICELLO",
+        "SHIELD",
+        "TORCH"
+      ]
+    }
+  ]
+}

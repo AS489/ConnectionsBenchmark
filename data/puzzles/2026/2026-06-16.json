@@ -1,0 +1,47 @@
+{
+  "id": 1096,
+  "date": "2026-06-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CREAMY SALAD DRESSINGS",
+      "level": null,
+      "members": [
+        "BLUE CHEESE",
+        "CAESAR",
+        "GREEN GODDESS",
+        "RANCH"
+      ]
+    },
+    {
+      "name": "ATTENDANTS",
+      "level": null,
+      "members": [
+        "COURT",
+        "ENTOURAGE",
+        "RETINUE",
+        "SUITE"
+      ]
+    },
+    {
+      "name": "RARE THINGS, IDIOMATICALLY",
+      "level": null,
+      "members": [
+        "BLACK SWAN",
+        "BLUE MOON",
+        "PERFECT STORM",
+        "UNICORN"
+      ]
+    },
+    {
+      "name": "WHAT \"HOOPS\" MIGHT REFER TO",
+      "level": null,
+      "members": [
+        "BASKETBALL",
+        "EARRINGS",
+        "RED TAPE",
+        "RHYTHMIC GYMNASTICS GEAR"
+      ]
+    }
+  ]
+}

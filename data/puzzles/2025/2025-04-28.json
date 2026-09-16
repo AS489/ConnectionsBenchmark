@@ -1,0 +1,47 @@
+{
+  "id": 687,
+  "date": "2025-04-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HAIR PRODUCTS",
+      "level": 0,
+      "members": [
+        "GEL",
+        "MOUSSE",
+        "SPRAY",
+        "WAX"
+      ]
+    },
+    {
+      "name": "AUSTERE",
+      "level": 1,
+      "members": [
+        "BARE",
+        "PLAIN",
+        "SIMPLE",
+        "SPARE"
+      ]
+    },
+    {
+      "name": "CLUES AT A CRIME SCENE",
+      "level": 2,
+      "members": [
+        "FIBER",
+        "FINGERPRINT",
+        "HAIR",
+        "TIRE MARK"
+      ]
+    },
+    {
+      "name": "WEARY",
+      "level": 3,
+      "members": [
+        "BORE",
+        "DRAIN",
+        "EXHAUST",
+        "TIRE"
+      ]
+    }
+  ]
+}

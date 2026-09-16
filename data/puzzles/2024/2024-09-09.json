@@ -1,0 +1,47 @@
+{
+  "id": 456,
+  "date": "2024-09-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GET RED IN THE FACE",
+      "level": 0,
+      "members": [
+        "BLUSH",
+        "BURN",
+        "FLUSH",
+        "GLOW"
+      ]
+    },
+    {
+      "name": "CONTINUOUS",
+      "level": 1,
+      "members": [
+        "CONSECUTIVE",
+        "NONSTOP",
+        "SOLID",
+        "STRAIGHT"
+      ]
+    },
+    {
+      "name": "FLAVOR ASSORTMENT",
+      "level": 2,
+      "members": [
+        "FLIGHT",
+        "PLATTER",
+        "SAMPLER",
+        "TASTING"
+      ]
+    },
+    {
+      "name": "SITCOMS",
+      "level": 3,
+      "members": [
+        "BLOSSOM",
+        "COACH",
+        "COMMUNITY",
+        "FULL HOUSE"
+      ]
+    }
+  ]
+}

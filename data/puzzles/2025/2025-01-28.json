@@ -1,0 +1,47 @@
+{
+  "id": 597,
+  "date": "2025-01-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FUNNY PERSON",
+      "level": 0,
+      "members": [
+        "CARD",
+        "CHARACTER",
+        "JOKER",
+        "LAUGH"
+      ]
+    },
+    {
+      "name": "RESISTANCE TRAINING EQUIPMENT",
+      "level": 1,
+      "members": [
+        "BAND",
+        "BENCH",
+        "DUMBBELL",
+        "MAT"
+      ]
+    },
+    {
+      "name": "CANDY BARS MINUS “S”",
+      "level": 2,
+      "members": [
+        "AIRHEAD",
+        "MAR",
+        "MOUND",
+        "SNICKER"
+      ]
+    },
+    {
+      "name": "SPEED ___",
+      "level": 3,
+      "members": [
+        "BUMP",
+        "CHESS",
+        "DEMON",
+        "DIAL"
+      ]
+    }
+  ]
+}

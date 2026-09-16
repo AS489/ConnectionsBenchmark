@@ -1,0 +1,47 @@
+{
+  "id": 694,
+  "date": "2025-05-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GLIDE",
+      "level": 0,
+      "members": [
+        "COAST",
+        "CRUISE",
+        "DRIFT",
+        "FLOAT"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH COUNT DRACULA",
+      "level": 1,
+      "members": [
+        "BAT",
+        "CAPE",
+        "CASTLE",
+        "FANG"
+      ]
+    },
+    {
+      "name": "STOP CHANGING",
+      "level": 2,
+      "members": [
+        "FLATTEN",
+        "LEVEL",
+        "PLATEAU",
+        "SETTLE"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE LONG AND CYLINDRICAL",
+      "level": 3,
+      "members": [
+        "BATON",
+        "CIGAR",
+        "HOAGIE",
+        "TORPEDO"
+      ]
+    }
+  ]
+}

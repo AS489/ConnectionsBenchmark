@@ -1,0 +1,47 @@
+{
+  "id": 856,
+  "date": "2025-10-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CAPTIVATE",
+      "level": null,
+      "members": [
+        "ABSORB",
+        "ENGAGE",
+        "HOLD",
+        "OCCUPY"
+      ]
+    },
+    {
+      "name": "SUMMARY",
+      "level": null,
+      "members": [
+        "BRIEF",
+        "DIGEST",
+        "OUTLINE",
+        "REVIEW"
+      ]
+    },
+    {
+      "name": "HALT",
+      "level": null,
+      "members": [
+        "CHECK",
+        "CURB",
+        "STAUNCH",
+        "STEM"
+      ]
+    },
+    {
+      "name": "ANIMALS MINUS STARTING LETTER",
+      "level": null,
+      "members": [
+        "ANTHER",
+        "EASEL",
+        "HARK",
+        "LAMA"
+      ]
+    }
+  ]
+}

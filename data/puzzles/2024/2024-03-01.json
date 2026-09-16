@@ -1,0 +1,47 @@
+{
+  "id": 264,
+  "date": "2024-03-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GARLIC BREAD INGREDIENTS",
+      "level": 0,
+      "members": [
+        "BREAD",
+        "BUTTER",
+        "GARLIC",
+        "PARSLEY"
+      ]
+    },
+    {
+      "name": "WAGER",
+      "level": 1,
+      "members": [
+        "BET",
+        "GAMBLE",
+        "RISK",
+        "STAKE"
+      ]
+    },
+    {
+      "name": "DISNEYLAND LANDS",
+      "level": 2,
+      "members": [
+        "ADVENTURE",
+        "FANTASY",
+        "FRONTIER",
+        "TOMORROW"
+      ]
+    },
+    {
+      "name": "___ BAT",
+      "level": 3,
+      "members": [
+        "BASEBALL",
+        "CRICKET",
+        "FRUIT",
+        "VAMPIRE"
+      ]
+    }
+  ]
+}

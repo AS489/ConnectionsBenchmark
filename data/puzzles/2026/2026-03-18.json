@@ -1,0 +1,47 @@
+{
+  "id": 1008,
+  "date": "2026-03-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INTERVAL",
+      "level": null,
+      "members": [
+        "PATCH",
+        "PERIOD",
+        "SPELL",
+        "STRETCH"
+      ]
+    },
+    {
+      "name": "REACT TO A STUBBED TOE",
+      "level": null,
+      "members": [
+        "CURSE",
+        "HOP",
+        "WINCE",
+        "YELL"
+      ]
+    },
+    {
+      "name": "GUITAR EFFECTS PEDALS",
+      "level": null,
+      "members": [
+        "DELAY",
+        "REVERB",
+        "WAH",
+        "WHAMMY"
+      ]
+    },
+    {
+      "name": "___ CHECK",
+      "level": null,
+      "members": [
+        "BLANK",
+        "COAT",
+        "RAIN",
+        "REALITY"
+      ]
+    }
+  ]
+}

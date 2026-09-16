@@ -1,0 +1,47 @@
+{
+  "id": 352,
+  "date": "2024-05-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AMENABLE",
+      "level": 0,
+      "members": [
+        "EASY",
+        "FLEXIBLE",
+        "OPEN",
+        "RECEPTIVE"
+      ]
+    },
+    {
+      "name": "ANAGRAMS",
+      "level": 1,
+      "members": [
+        "EVIL",
+        "LIVE",
+        "VEIL",
+        "VILE"
+      ]
+    },
+    {
+      "name": "SPELLING BEE RANKS",
+      "level": 2,
+      "members": [
+        "AMAZING",
+        "BEGINNER",
+        "GENIUS",
+        "SOLID"
+      ]
+    },
+    {
+      "name": "ADJECTIVES FOR A CANDLE",
+      "level": 3,
+      "members": [
+        "LIT",
+        "SCENTED",
+        "WAXY",
+        "WICKED"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 303,
+  "date": "2024-04-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BREADTH",
+      "level": 0,
+      "members": [
+        "EXTENT",
+        "RANGE",
+        "REACH",
+        "SCOPE"
+      ]
+    },
+    {
+      "name": "HAIR TOOLS",
+      "level": 1,
+      "members": [
+        "BRUSH",
+        "COMB",
+        "DRYER",
+        "IRON"
+      ]
+    },
+    {
+      "name": "HERALDRY TERMS",
+      "level": 2,
+      "members": [
+        "ARMS",
+        "COAT",
+        "CREST",
+        "SHIELD"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “DRUM”",
+      "level": 3,
+      "members": [
+        "EAR",
+        "KETTLE",
+        "OIL",
+        "STEEL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1116,
+  "date": "2026-07-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STUNNING NEWS",
+      "level": null,
+      "members": [
+        "BOMBSHELL",
+        "REVELATION",
+        "SHOCKER",
+        "THUNDERBOLT"
+      ]
+    },
+    {
+      "name": "SCIENCE FAIR MODEL SUBJECTS",
+      "level": null,
+      "members": [
+        "ATOM",
+        "DNA",
+        "SOLAR SYSTEM",
+        "VOLCANO"
+      ]
+    },
+    {
+      "name": "ACME PRODUCTS USED BY WILE E. COYOTE",
+      "level": null,
+      "members": [
+        "EARTHQUAKE PILLS",
+        "IRON BIRD SEED",
+        "ROCKET SKATES",
+        "TNT"
+      ]
+    },
+    {
+      "name": "STARTING WITH DATING APPS",
+      "level": null,
+      "members": [
+        "BUMBLEBEE",
+        "GRIND RAIL",
+        "MATCHA",
+        "TINDERBOX"
+      ]
+    }
+  ]
+}

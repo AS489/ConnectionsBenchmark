@@ -1,0 +1,47 @@
+{
+  "id": 25,
+  "date": "2023-07-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DESSERTS",
+      "level": 0,
+      "members": [
+        "CHEESECAKE",
+        "FLAN",
+        "MOUSSE",
+        "TIRAMISU"
+      ]
+    },
+    {
+      "name": "MILD OATHS",
+      "level": 1,
+      "members": [
+        "DARN",
+        "FUDGE",
+        "HECK",
+        "SHOOT"
+      ]
+    },
+    {
+      "name": "ANIMALS WITH TUSKS",
+      "level": 2,
+      "members": [
+        "ELEPHANT",
+        "HIPPO",
+        "NARWHAL",
+        "WARTHOG"
+      ]
+    },
+    {
+      "name": "MUSTACHES",
+      "level": 3,
+      "members": [
+        "HANDLEBAR",
+        "HORSESHOE",
+        "PENCIL",
+        "WALRUS"
+      ]
+    }
+  ]
+}

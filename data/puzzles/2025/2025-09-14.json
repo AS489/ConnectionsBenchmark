@@ -1,0 +1,47 @@
+{
+  "id": 826,
+  "date": "2025-09-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ENTRYWAY",
+      "level": 0,
+      "members": [
+        "DOOR",
+        "GATE",
+        "HATCH",
+        "PORTAL"
+      ]
+    },
+    {
+      "name": "MAP FEATURES",
+      "level": 1,
+      "members": [
+        "COMPASS",
+        "INSET",
+        "KEY",
+        "SCALE"
+      ]
+    },
+    {
+      "name": "SURPASS",
+      "level": 2,
+      "members": [
+        "BEAT",
+        "BEST",
+        "BETTER",
+        "TOP"
+      ]
+    },
+    {
+      "name": "STREETS WITH SYMBOLIC IMPORTANCE",
+      "level": 3,
+      "members": [
+        "DOWNING",
+        "FLEET",
+        "MAIN",
+        "WALL"
+      ]
+    }
+  ]
+}

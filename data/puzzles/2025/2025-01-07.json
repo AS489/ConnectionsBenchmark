@@ -1,0 +1,47 @@
+{
+  "id": 576,
+  "date": "2025-01-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VOCAL MUSIC",
+      "level": 0,
+      "members": [
+        "A CAPPELLA",
+        "BARBERSHOP",
+        "DOO-WOP",
+        "MADRIGAL"
+      ]
+    },
+    {
+      "name": "A HANDFUL OF",
+      "level": 1,
+      "members": [
+        "A FEW",
+        "CERTAIN",
+        "SOME",
+        "VARIOUS"
+      ]
+    },
+    {
+      "name": "BOOK SUBTITLES",
+      "level": 2,
+      "members": [
+        "A LIFE",
+        "A NOVEL",
+        "ESSAYS",
+        "PART ONE"
+      ]
+    },
+    {
+      "name": "___ IS ___ (IS ___)",
+      "level": 3,
+      "members": [
+        "A DEAL",
+        "A ROSE",
+        "ENOUGH",
+        "LOVE"
+      ]
+    }
+  ]
+}

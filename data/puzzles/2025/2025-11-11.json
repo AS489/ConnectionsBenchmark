@@ -1,0 +1,47 @@
+{
+  "id": 883,
+  "date": "2025-11-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MAKEUP",
+      "level": null,
+      "members": [
+        "BLUSH",
+        "FOUNDATION",
+        "HIGHLIGHTER",
+        "POWDER"
+      ]
+    },
+    {
+      "name": "BREADTH",
+      "level": null,
+      "members": [
+        "EXTENT",
+        "RANGE",
+        "SCALE",
+        "SCOPE"
+      ]
+    },
+    {
+      "name": "OBJECT USED FOR SUPPORT",
+      "level": null,
+      "members": [
+        "BASE",
+        "HOLDER",
+        "REST",
+        "STAND"
+      ]
+    },
+    {
+      "name": "ICONS ON AN IPHONE",
+      "level": null,
+      "members": [
+        "COMPASS",
+        "ENVELOPE",
+        "MUSIC NOTES",
+        "SPEECH BUBBLE"
+      ]
+    }
+  ]
+}

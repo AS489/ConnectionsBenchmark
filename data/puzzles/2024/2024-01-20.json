@@ -1,0 +1,47 @@
+{
+  "id": 223,
+  "date": "2024-01-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DECLINE",
+      "level": 0,
+      "members": [
+        "DIP",
+        "DROP",
+        "FALL",
+        "SINK"
+      ]
+    },
+    {
+      "name": "MOVE WITH SPEED",
+      "level": 1,
+      "members": [
+        "BLAZE",
+        "FLY",
+        "RACE",
+        "TEAR"
+      ]
+    },
+    {
+      "name": "KINDS OF DANCE",
+      "level": 2,
+      "members": [
+        "MODERN",
+        "SALSA",
+        "SWING",
+        "TAP"
+      ]
+    },
+    {
+      "name": "BABY ___",
+      "level": 3,
+      "members": [
+        "BOOM",
+        "CARROT",
+        "SHOWER",
+        "TALK"
+      ]
+    }
+  ]
+}

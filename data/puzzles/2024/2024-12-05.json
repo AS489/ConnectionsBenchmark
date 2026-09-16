@@ -1,0 +1,47 @@
+{
+  "id": 543,
+  "date": "2024-12-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "APTITUDE",
+      "level": 0,
+      "members": [
+        "FLAIR",
+        "GIFT",
+        "INSTINCT",
+        "NOSE"
+      ]
+    },
+    {
+      "name": "EXTERIOR",
+      "level": 1,
+      "members": [
+        "FACE",
+        "FRONT",
+        "OUTSIDE",
+        "SURFACE"
+      ]
+    },
+    {
+      "name": "TECH COMPANIES",
+      "level": 2,
+      "members": [
+        "AMAZON",
+        "APPLE",
+        "INTUIT",
+        "ORACLE"
+      ]
+    },
+    {
+      "name": "___STONE",
+      "level": 3,
+      "members": [
+        "BRIM",
+        "LIME",
+        "RHINE",
+        "YELLOW"
+      ]
+    }
+  ]
+}

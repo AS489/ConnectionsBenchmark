@@ -1,0 +1,47 @@
+{
+  "id": 388,
+  "date": "2024-07-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DEVELOP, AS IDEAS",
+      "level": 0,
+      "members": [
+        "BRAINSTORM",
+        "IDEATE",
+        "SPITBALL",
+        "WORKSHOP"
+      ]
+    },
+    {
+      "name": "TANGIBLE",
+      "level": 1,
+      "members": [
+        "CONCRETE",
+        "MATERIAL",
+        "REAL",
+        "SOLID"
+      ]
+    },
+    {
+      "name": "KINDS OF CAKE",
+      "level": 2,
+      "members": [
+        "BIRTHDAY",
+        "CRUMB",
+        "MARBLE",
+        "POUND"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN THROW, IN METAPHORS",
+      "level": 3,
+      "members": [
+        "CURVEBALL",
+        "PARTY",
+        "TANTRUM",
+        "WRENCH"
+      ]
+    }
+  ]
+}

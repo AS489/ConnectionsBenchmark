@@ -1,0 +1,47 @@
+{
+  "id": 33,
+  "date": "2023-07-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BOATS",
+      "level": 0,
+      "members": [
+        "FERRY",
+        "JUNK",
+        "TUG",
+        "YACHT"
+      ]
+    },
+    {
+      "name": "SANDWICHES",
+      "level": 1,
+      "members": [
+        "CLUB",
+        "CUBAN",
+        "MELT",
+        "SUB"
+      ]
+    },
+    {
+      "name": "CUTS OF BEEF",
+      "level": 2,
+      "members": [
+        "FLANK",
+        "LOIN",
+        "ROUND",
+        "SHANK"
+      ]
+    },
+    {
+      "name": "NICKNAMES THAT ARE VERBS",
+      "level": 3,
+      "members": [
+        "CHUCK",
+        "JOSH",
+        "ROB",
+        "SUE"
+      ]
+    }
+  ]
+}

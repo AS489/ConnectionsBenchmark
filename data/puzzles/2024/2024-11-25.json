@@ -1,0 +1,47 @@
+{
+  "id": 533,
+  "date": "2024-11-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ATTAIN",
+      "level": 0,
+      "members": [
+        "EARN",
+        "LAND",
+        "SCORE",
+        "WIN"
+      ]
+    },
+    {
+      "name": "LARGE GROUP",
+      "level": 1,
+      "members": [
+        "CROWD",
+        "FLOCK",
+        "HOST",
+        "SEA"
+      ]
+    },
+    {
+      "name": "PARTS OF A SHIP",
+      "level": 2,
+      "members": [
+        "ANCHOR",
+        "BOW",
+        "BRIDGE",
+        "DECK"
+      ]
+    },
+    {
+      "name": "ASSOCIATED PRINCIPLES IN CHINESE PHILOSOPHY",
+      "level": 3,
+      "members": [
+        "EXPANSIVE",
+        "LIGHT",
+        "MASCULINE",
+        "YANG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 993,
+  "date": "2026-03-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GYMNASTICS APPARATUS",
+      "level": null,
+      "members": [
+        "BEAM",
+        "HORSE",
+        "RINGS",
+        "VAULT"
+      ]
+    },
+    {
+      "name": "STATUS",
+      "level": null,
+      "members": [
+        "POSITION",
+        "RANK",
+        "STANDING",
+        "STATION"
+      ]
+    },
+    {
+      "name": "BASEBALL CALLS",
+      "level": null,
+      "members": [
+        "BALL",
+        "FOUL",
+        "SAFE",
+        "STRIKE"
+      ]
+    },
+    {
+      "name": "___ CHICKEN",
+      "level": null,
+      "members": [
+        "FUNKY",
+        "POPCORN",
+        "RUBBER",
+        "SPRING"
+      ]
+    }
+  ]
+}

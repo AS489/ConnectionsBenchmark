@@ -1,0 +1,47 @@
+{
+  "id": 73,
+  "date": "2023-08-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FACIAL HAIR",
+      "level": 0,
+      "members": [
+        "BEARD",
+        "GOATEE",
+        "MUSTACHE",
+        "STUBBLE"
+      ]
+    },
+    {
+      "name": "BIKE PARTS",
+      "level": 1,
+      "members": [
+        "GEAR",
+        "HANDLEBAR",
+        "PEDAL",
+        "WHEEL"
+      ]
+    },
+    {
+      "name": "PURSUE",
+      "level": 2,
+      "members": [
+        "DOG",
+        "FOLLOW",
+        "TAIL",
+        "TRACK"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE CAST",
+      "level": 3,
+      "members": [
+        "DOUBT",
+        "MOVIE",
+        "SHADOW",
+        "VOTE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1114,
+  "date": "2026-07-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PERSIST",
+      "level": null,
+      "members": [
+        "CONTINUE",
+        "LAST",
+        "LINGER",
+        "STAY"
+      ]
+    },
+    {
+      "name": "KINDS OF POEMS",
+      "level": null,
+      "members": [
+        "BALLAD",
+        "EPIC",
+        "ODE",
+        "VILLANELLE"
+      ]
+    },
+    {
+      "name": "TROPICAL DRINKS",
+      "level": null,
+      "members": [
+        "HURRICANE",
+        "PAINKILLER",
+        "SCORPION",
+        "ZOMBIE"
+      ]
+    },
+    {
+      "name": "SWEET ___",
+      "level": null,
+      "members": [
+        "DREAMS",
+        "NOTHINGS",
+        "PEA",
+        "SPOT"
+      ]
+    }
+  ]
+}

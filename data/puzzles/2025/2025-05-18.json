@@ -1,0 +1,47 @@
+{
+  "id": 707,
+  "date": "2025-05-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TASKS FOR A STUDENT",
+      "level": 0,
+      "members": [
+        "ASSIGNMENT",
+        "DRILL",
+        "EXERCISE",
+        "LESSON"
+      ]
+    },
+    {
+      "name": "ENCOURAGING RESPONSES IN A GUESSING GAME",
+      "level": 1,
+      "members": [
+        "ALMOST",
+        "CLOSE",
+        "NOT QUITE",
+        "WARM"
+      ]
+    },
+    {
+      "name": "UP FOR ANYTHING",
+      "level": 2,
+      "members": [
+        "EASY",
+        "FLEXIBLE",
+        "GAME",
+        "OPEN"
+      ]
+    },
+    {
+      "name": "WHAT “A” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "AREA",
+        "ATHLETIC",
+        "EXCELLENT",
+        "ONE"
+      ]
+    }
+  ]
+}

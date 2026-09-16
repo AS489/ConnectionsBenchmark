@@ -1,0 +1,47 @@
+{
+  "id": 848,
+  "date": "2025-10-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A RECORD PLAYER SETUP",
+      "level": null,
+      "members": [
+        "AMP",
+        "PREAMP",
+        "SPEAKER",
+        "TURNTABLE"
+      ]
+    },
+    {
+      "name": "KINDS OF COATS",
+      "level": null,
+      "members": [
+        "CAMEL",
+        "DUFFLE",
+        "PEA",
+        "TRENCH"
+      ]
+    },
+    {
+      "name": "THINGS THAT COME ON SPOOLS",
+      "level": null,
+      "members": [
+        "FILM",
+        "TAPE",
+        "THREAD",
+        "WIRE"
+      ]
+    },
+    {
+      "name": "STARTING WITH HOMOPHONES OF GREETINGS",
+      "level": null,
+      "members": [
+        "HAIKU",
+        "HAYSTACK",
+        "HELONIUM",
+        "YEOMAN"
+      ]
+    }
+  ]
+}

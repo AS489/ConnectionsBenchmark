@@ -1,0 +1,47 @@
+{
+  "id": 370,
+  "date": "2024-06-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BASKETBALL SHOTS",
+      "level": 0,
+      "members": [
+        "DUNK",
+        "FLOATER",
+        "LAYUP",
+        "THREE"
+      ]
+    },
+    {
+      "name": "FISH",
+      "level": 1,
+      "members": [
+        "PERCH",
+        "PIKE",
+        "SKATE",
+        "SOLE"
+      ]
+    },
+    {
+      "name": "QUALITIES OF THICK HAIR",
+      "level": 2,
+      "members": [
+        "BODY",
+        "BOUNCE",
+        "LIFT",
+        "VOLUME"
+      ]
+    },
+    {
+      "name": "___ CHILD",
+      "level": 3,
+      "members": [
+        "FLOWER",
+        "ONLY",
+        "POSTER",
+        "PROBLEM"
+      ]
+    }
+  ]
+}

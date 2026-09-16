@@ -1,0 +1,47 @@
+{
+  "id": 667,
+  "date": "2025-04-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PRICK",
+      "level": 0,
+      "members": [
+        "JAB",
+        "PIERCE",
+        "POKE",
+        "STICK"
+      ]
+    },
+    {
+      "name": "RADIO LINGO",
+      "level": 1,
+      "members": [
+        "COPY",
+        "NEGATIVE",
+        "OVER",
+        "ROGER"
+      ]
+    },
+    {
+      "name": "OLD TESTAMENT BOOKS",
+      "level": 2,
+      "members": [
+        "DANIEL",
+        "JOB",
+        "JUDGES",
+        "NUMBERS"
+      ]
+    },
+    {
+      "name": "WORDS PRONOUNCED “SH” WITHOUT AN “SH”",
+      "level": 3,
+      "members": [
+        "SEAN",
+        "SIOBHAN",
+        "SUGAR",
+        "SURE"
+      ]
+    }
+  ]
+}

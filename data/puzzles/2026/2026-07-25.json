@@ -1,0 +1,47 @@
+{
+  "id": 1135,
+  "date": "2026-07-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPANISH RELATIVES",
+      "level": null,
+      "members": [
+        "ABUELA",
+        "HIJO",
+        "MADRE",
+        "PRIMO"
+      ]
+    },
+    {
+      "name": "START TO CRY, WITH \"UP\"",
+      "level": null,
+      "members": [
+        "CHOKE",
+        "MIST",
+        "TEAR",
+        "WELL"
+      ]
+    },
+    {
+      "name": "AFRICAN CURRENCIES",
+      "level": null,
+      "members": [
+        "KWANZA",
+        "LEONE",
+        "NAIRA",
+        "RAND"
+      ]
+    },
+    {
+      "name": "STRIP ___",
+      "level": null,
+      "members": [
+        "CLUB",
+        "MALL",
+        "POKER",
+        "STEAK"
+      ]
+    }
+  ]
+}

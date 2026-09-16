@@ -1,0 +1,47 @@
+{
+  "id": 758,
+  "date": "2025-07-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LIAISON",
+      "level": 0,
+      "members": [
+        "AFFAIR",
+        "FLING",
+        "RELATIONS",
+        "THING"
+      ]
+    },
+    {
+      "name": "SEEN IN A LOCKER ROOM",
+      "level": 1,
+      "members": [
+        "BENCH",
+        "LOCKER",
+        "MIRROR",
+        "SCALE"
+      ]
+    },
+    {
+      "name": "SOMETHING ENTERED FOR ACCESS",
+      "level": 2,
+      "members": [
+        "CODE",
+        "KEY",
+        "PASSWORD",
+        "PIN"
+      ]
+    },
+    {
+      "name": "JOHNS",
+      "level": 3,
+      "members": [
+        "CANDY",
+        "CARPENTER",
+        "LEGEND",
+        "MAJOR"
+      ]
+    }
+  ]
+}

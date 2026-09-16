@@ -1,0 +1,47 @@
+{
+  "id": 629,
+  "date": "2025-03-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ASSOCIATED WITH GOOD LUCK",
+      "level": 0,
+      "members": [
+        "HORSESHOE",
+        "LADYBUG",
+        "PENNY",
+        "SHAMROCK"
+      ]
+    },
+    {
+      "name": "TO-BO- COMPOUND WORDS",
+      "level": 1,
+      "members": [
+        "TOLLBOOTH",
+        "TOMBOY",
+        "TOOLBOX",
+        "TOWBOAT"
+      ]
+    },
+    {
+      "name": "BROADWAY MUSICALS, FAMILIARLY",
+      "level": 2,
+      "members": [
+        "FIDDLER",
+        "MERRILY",
+        "PHANTOM",
+        "SUNSET"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “COWBOY” IN FILM AND MUSIC",
+      "level": 3,
+      "members": [
+        "DRUGSTORE",
+        "MIDNIGHT",
+        "RHINESTONE",
+        "SPACE"
+      ]
+    }
+  ]
+}

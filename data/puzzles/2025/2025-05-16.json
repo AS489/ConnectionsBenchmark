@@ -1,0 +1,47 @@
+{
+  "id": 705,
+  "date": "2025-05-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF PLANTS",
+      "level": 0,
+      "members": [
+        "HERB",
+        "SHRUB",
+        "TREE",
+        "VINE"
+      ]
+    },
+    {
+      "name": "DISCONTINUE",
+      "level": 1,
+      "members": [
+        "DISSOLVE",
+        "END",
+        "SCRAP",
+        "SUNSET"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH BULLS",
+      "level": 2,
+      "members": [
+        "MICHAEL JORDAN",
+        "RODEO",
+        "TAURUS",
+        "WALL STREET"
+      ]
+    },
+    {
+      "name": "ENDING WITH BUILDING MATERIALS",
+      "level": 3,
+      "members": [
+        "HOLLYWOOD",
+        "HOURGLASS",
+        "KUBRICK",
+        "NEUROPLASTIC"
+      ]
+    }
+  ]
+}

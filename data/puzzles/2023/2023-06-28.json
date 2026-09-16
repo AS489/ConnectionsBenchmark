@@ -1,0 +1,47 @@
+{
+  "id": 17,
+  "date": "2023-06-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NECKWEAR",
+      "level": 0,
+      "members": [
+        "ASCOT",
+        "BOLO",
+        "SCARF",
+        "TIE"
+      ]
+    },
+    {
+      "name": "SHIP DIRECTIONS",
+      "level": 1,
+      "members": [
+        "BOW",
+        "PORT",
+        "STARBOARD",
+        "STERN"
+      ]
+    },
+    {
+      "name": "DETERGENTS",
+      "level": 2,
+      "members": [
+        "ALL",
+        "ERA",
+        "GAIN",
+        "TIDE"
+      ]
+    },
+    {
+      "name": "___ TRIANGLE",
+      "level": 3,
+      "members": [
+        "ACUTE",
+        "BERMUDA",
+        "LOVE",
+        "RIGHT"
+      ]
+    }
+  ]
+}

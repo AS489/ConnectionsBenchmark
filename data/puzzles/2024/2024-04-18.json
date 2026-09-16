@@ -1,0 +1,47 @@
+{
+  "id": 312,
+  "date": "2024-04-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SIDEWALK SIGHTS",
+      "level": 0,
+      "members": [
+        "CURB",
+        "GRATE",
+        "GUTTER",
+        "MANHOLE"
+      ]
+    },
+    {
+      "name": "HAVE IN MIND",
+      "level": 1,
+      "members": [
+        "AIM",
+        "INTEND",
+        "MEAN",
+        "PLAN"
+      ]
+    },
+    {
+      "name": "UNIT ABBREVIATIONS",
+      "level": 2,
+      "members": [
+        "CAL",
+        "GAL",
+        "IN",
+        "OZ"
+      ]
+    },
+    {
+      "name": "GOLDEN ___",
+      "level": 3,
+      "members": [
+        "FLEECE",
+        "GIRLS",
+        "PARACHUTE",
+        "RULE"
+      ]
+    }
+  ]
+}

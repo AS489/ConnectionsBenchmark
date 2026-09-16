@@ -1,0 +1,47 @@
+{
+  "id": 309,
+  "date": "2024-04-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INVENT AS YOU GO",
+      "level": 0,
+      "members": [
+        "AD-LIB",
+        "FREESTYLE",
+        "IMPROV",
+        "MAKE UP"
+      ]
+    },
+    {
+      "name": "THINGS BABIES DO",
+      "level": 1,
+      "members": [
+        "BABBLE",
+        "COO",
+        "CRAWL",
+        "NURSE"
+      ]
+    },
+    {
+      "name": "SUPERFICIAL",
+      "level": 2,
+      "members": [
+        "COSMETIC",
+        "EXTERNAL",
+        "SHALLOW",
+        "SURFACE"
+      ]
+    },
+    {
+      "name": "___ EFFECT",
+      "level": 3,
+      "members": [
+        "BUTTERFLY",
+        "DOMINO",
+        "PLACEBO",
+        "SIDE"
+      ]
+    }
+  ]
+}

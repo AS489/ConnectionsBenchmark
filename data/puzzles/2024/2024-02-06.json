@@ -1,0 +1,47 @@
+{
+  "id": 240,
+  "date": "2024-02-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OSTENTATIOUS, AS AN OUTFIT",
+      "level": 0,
+      "members": [
+        "BRIGHT",
+        "FLASHY",
+        "GARISH",
+        "LOUD"
+      ]
+    },
+    {
+      "name": "EUPHEMISMS FOR FLATULENCE",
+      "level": 1,
+      "members": [
+        "GAS",
+        "STINKER",
+        "TOOT",
+        "WIND"
+      ]
+    },
+    {
+      "name": "KINDS OF BLOND",
+      "level": 2,
+      "members": [
+        "DIRTY",
+        "HONEY",
+        "PLATINUM",
+        "STRAWBERRY"
+      ]
+    },
+    {
+      "name": "WHAT “O” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "HUG",
+        "OF",
+        "OXYGEN",
+        "ZERO"
+      ]
+    }
+  ]
+}

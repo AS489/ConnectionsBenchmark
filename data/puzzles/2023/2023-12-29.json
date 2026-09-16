@@ -1,0 +1,47 @@
+{
+  "id": 201,
+  "date": "2023-12-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SHIRTS",
+      "level": 0,
+      "members": [
+        "CROP",
+        "POLO",
+        "TANK",
+        "TEE"
+      ]
+    },
+    {
+      "name": "COOL, IN ’80S SLANG",
+      "level": 1,
+      "members": [
+        "BAD",
+        "FLY",
+        "FRESH",
+        "RAD"
+      ]
+    },
+    {
+      "name": "LETTER SPELLINGS",
+      "level": 2,
+      "members": [
+        "BEE",
+        "EX",
+        "GEE",
+        "JAY"
+      ]
+    },
+    {
+      "name": "___ GEORGE",
+      "level": 3,
+      "members": [
+        "BOY",
+        "BY",
+        "CURIOUS",
+        "SAINT"
+      ]
+    }
+  ]
+}

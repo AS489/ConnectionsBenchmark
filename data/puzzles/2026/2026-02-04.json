@@ -1,0 +1,47 @@
+{
+  "id": 968,
+  "date": "2026-02-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONTENTION",
+      "level": null,
+      "members": [
+        "CONFLICT",
+        "DISCORD",
+        "FRICTION",
+        "RIVALRY"
+      ]
+    },
+    {
+      "name": "GAMES OF CHANCE",
+      "level": null,
+      "members": [
+        "BINGO",
+        "CRAPS",
+        "LOTTERY",
+        "WAR"
+      ]
+    },
+    {
+      "name": "MORE OR LESS, COLLOQUIALLY",
+      "level": null,
+      "members": [
+        "APPROX",
+        "BOUT",
+        "LIKE",
+        "ROUND"
+      ]
+    },
+    {
+      "name": "STARTING WITH NBA TEAMS",
+      "level": null,
+      "members": [
+        "BULLSEYE",
+        "HEATED",
+        "MAGICAL",
+        "NETSCAPE"
+      ]
+    }
+  ]
+}

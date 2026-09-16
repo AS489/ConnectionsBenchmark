@@ -1,0 +1,47 @@
+{
+  "id": 759,
+  "date": "2025-07-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LOWEST PART",
+      "level": 0,
+      "members": [
+        "BASE",
+        "BOTTOM",
+        "FOOT",
+        "FOUNDATION"
+      ]
+    },
+    {
+      "name": "KINDS OF SOCKS",
+      "level": 1,
+      "members": [
+        "ANKLE",
+        "COMPRESSION",
+        "CREW",
+        "DRESS"
+      ]
+    },
+    {
+      "name": "THINGS YOU DO AT SOMEONE'S FRONT DOOR",
+      "level": 2,
+      "members": [
+        "BUZZ",
+        "KNOCK",
+        "RING",
+        "SHOUT"
+      ]
+    },
+    {
+      "name": "ENDING IN SYNONYMS FOR \"CLIP\"",
+      "level": 3,
+      "members": [
+        "COMPARE",
+        "CONNECTICUT",
+        "PARSNIP",
+        "WALLOP"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 144,
+  "date": "2023-11-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "IGNITE",
+      "level": 0,
+      "members": [
+        "BURN",
+        "KINDLE",
+        "LIGHT",
+        "TORCH"
+      ]
+    },
+    {
+      "name": "INFORMATION",
+      "level": 1,
+      "members": [
+        "DATA",
+        "INFO",
+        "INTEL",
+        "NEWS"
+      ]
+    },
+    {
+      "name": "SMALL WOODED AREA",
+      "level": 2,
+      "members": [
+        "DELL",
+        "GLEN",
+        "HOLLOW",
+        "VALLEY"
+      ]
+    },
+    {
+      "name": "THINGS WITH CORES",
+      "level": 3,
+      "members": [
+        "APPLE",
+        "COMPUTER",
+        "PLANET",
+        "REACTOR"
+      ]
+    }
+  ]
+}

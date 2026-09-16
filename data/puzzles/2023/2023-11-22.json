@@ -1,0 +1,47 @@
+{
+  "id": 164,
+  "date": "2023-11-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AREAS BETWEEN MOUNTAINS AND HILLS",
+      "level": 0,
+      "members": [
+        "CANYON",
+        "GULCH",
+        "PASS",
+        "RAVINE"
+      ]
+    },
+    {
+      "name": "EAT VORACIOUSLY",
+      "level": 1,
+      "members": [
+        "GORGE",
+        "GULP",
+        "SCARF",
+        "WOLF"
+      ]
+    },
+    {
+      "name": "FEATURED IN “SNOW WHITE”",
+      "level": 2,
+      "members": [
+        "APPLE",
+        "BASHFUL",
+        "MIRROR",
+        "QUEEN"
+      ]
+    },
+    {
+      "name": "“C” + BIRD",
+      "level": 3,
+      "members": [
+        "CHEN",
+        "CLARK",
+        "COWL",
+        "CRAVEN"
+      ]
+    }
+  ]
+}

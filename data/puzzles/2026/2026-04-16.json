@@ -1,0 +1,47 @@
+{
+  "id": 1036,
+  "date": "2026-04-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TEASE",
+      "level": null,
+      "members": [
+        "NEEDLE",
+        "RIB",
+        "RIDE",
+        "ROAST"
+      ]
+    },
+    {
+      "name": "THERMOSTAT SETTINGS",
+      "level": null,
+      "members": [
+        "AUTO",
+        "COOL",
+        "FAN",
+        "HEAT"
+      ]
+    },
+    {
+      "name": "FEATURES OF A CATWOMAN COSTUME",
+      "level": null,
+      "members": [
+        "BODYSUIT",
+        "CLAWS",
+        "MASK",
+        "WHIP"
+      ]
+    },
+    {
+      "name": "TRAINING ___",
+      "level": null,
+      "members": [
+        "BRA",
+        "CAMP",
+        "DAY",
+        "WHEELS"
+      ]
+    }
+  ]
+}

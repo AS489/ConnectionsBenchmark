@@ -1,0 +1,47 @@
+{
+  "id": 806,
+  "date": "2025-08-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PREDICAMENT",
+      "level": 0,
+      "members": [
+        "FIX",
+        "JAM",
+        "MESS",
+        "PICKLE"
+      ]
+    },
+    {
+      "name": "SMALL SPHERICAL THINGS",
+      "level": 1,
+      "members": [
+        "MOTHBALL",
+        "PEA",
+        "PEARL",
+        "POM-POM"
+      ]
+    },
+    {
+      "name": "PIPE-SMOKING ACCESSORIES",
+      "level": 2,
+      "members": [
+        "FILTER",
+        "LIGHTER",
+        "PIPE CLEANER",
+        "TAMPER"
+      ]
+    },
+    {
+      "name": "WHAT \"DOWN\" MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "FEATHERS",
+        "GUZZLE",
+        "SAD",
+        "WILLING"
+      ]
+    }
+  ]
+}

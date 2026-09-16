@@ -1,0 +1,47 @@
+{
+  "id": 1163,
+  "date": "2026-08-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CARPENTRY TOOLS",
+      "level": null,
+      "members": [
+        "CHISEL",
+        "HAMMER",
+        "PLANE",
+        "SAW"
+      ]
+    },
+    {
+      "name": "KINDS OF MELON",
+      "level": null,
+      "members": [
+        "BITTER",
+        "MUSK",
+        "WATER",
+        "WINTER"
+      ]
+    },
+    {
+      "name": "GARDEN HOSE SETTINGS",
+      "level": null,
+      "members": [
+        "CONE",
+        "JET",
+        "MIST",
+        "SHOWER"
+      ]
+    },
+    {
+      "name": "___ GIRLS OF POP CULTURE",
+      "level": null,
+      "members": [
+        "GILMORE",
+        "GOLDEN",
+        "MEAN",
+        "SPICE"
+      ]
+    }
+  ]
+}

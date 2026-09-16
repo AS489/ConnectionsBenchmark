@@ -1,0 +1,47 @@
+{
+  "id": 256,
+  "date": "2024-02-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DOG SOUNDS",
+      "level": 0,
+      "members": [
+        "BARK",
+        "GROWL",
+        "HOWL",
+        "WHINE"
+      ]
+    },
+    {
+      "name": "DEPARTMENT",
+      "level": 1,
+      "members": [
+        "ARM",
+        "BRANCH",
+        "CHAPTER",
+        "WING"
+      ]
+    },
+    {
+      "name": "ORIGIN",
+      "level": 2,
+      "members": [
+        "CRADLE",
+        "FONT",
+        "ROOT",
+        "SOURCE"
+      ]
+    },
+    {
+      "name": "COLORS WITH THEIR FIRST LETTERS CHANGED",
+      "level": 3,
+      "members": [
+        "CLUE",
+        "FROWN",
+        "MELLOW",
+        "PREEN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 348,
+  "date": "2024-05-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONDUITS FOR WATER REMOVAL",
+      "level": 0,
+      "members": [
+        "DRAIN",
+        "DUCT",
+        "PIPE",
+        "SEWER"
+      ]
+    },
+    {
+      "name": "FOOD PRODUCTS ASSOCIATED WITH SENTIMENTALITY",
+      "level": 1,
+      "members": [
+        "CHEESE",
+        "CORN",
+        "SAP",
+        "SCHMALTZ"
+      ]
+    },
+    {
+      "name": "THINGS TO CRACK",
+      "level": 2,
+      "members": [
+        "EGG",
+        "KNUCKLES",
+        "SMILE",
+        "WINDOW"
+      ]
+    },
+    {
+      "name": "___ CHANGE",
+      "level": 3,
+      "members": [
+        "CHUMP",
+        "CLIMATE",
+        "LOOSE",
+        "SEA"
+      ]
+    }
+  ]
+}

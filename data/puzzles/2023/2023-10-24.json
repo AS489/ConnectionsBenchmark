@@ -1,0 +1,47 @@
+{
+  "id": 135,
+  "date": "2023-10-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ANIMAL GROUPS",
+      "level": 0,
+      "members": [
+        "COLONY",
+        "HERD",
+        "PRIDE",
+        "SCHOOL"
+      ]
+    },
+    {
+      "name": "SMALL OPENING",
+      "level": 1,
+      "members": [
+        "CRANNY",
+        "NICHE",
+        "NOOK",
+        "RECESS"
+      ]
+    },
+    {
+      "name": "PARADIGMATIC",
+      "level": 2,
+      "members": [
+        "CLASSIC",
+        "DEFINITIVE",
+        "MODEL",
+        "TEXTBOOK"
+      ]
+    },
+    {
+      "name": "RHYMING COMPOUND WORDS",
+      "level": 3,
+      "members": [
+        "BACKPACK",
+        "BIGWIG",
+        "DOWNTOWN",
+        "RAGTAG"
+      ]
+    }
+  ]
+}

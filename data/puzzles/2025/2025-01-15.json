@@ -1,0 +1,47 @@
+{
+  "id": 584,
+  "date": "2025-01-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MEANS",
+      "level": 0,
+      "members": [
+        "MECHANISM",
+        "MEDIUM",
+        "TOOL",
+        "VEHICLE"
+      ]
+    },
+    {
+      "name": "LACKING",
+      "level": 1,
+      "members": [
+        "LIGHT",
+        "LOW",
+        "SHORT",
+        "SHY"
+      ]
+    },
+    {
+      "name": "MARTINI SPECIFICATIONS",
+      "level": 2,
+      "members": [
+        "DIRTY",
+        "DRY",
+        "PERFECT",
+        "WET"
+      ]
+    },
+    {
+      "name": "FICTIONAL MISTERS",
+      "level": 3,
+      "members": [
+        "BIG",
+        "PEANUT",
+        "ROBOT",
+        "TOAD"
+      ]
+    }
+  ]
+}

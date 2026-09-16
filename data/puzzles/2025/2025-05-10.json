@@ -1,0 +1,47 @@
+{
+  "id": 699,
+  "date": "2025-05-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LETTER SIGN-OFFS",
+      "level": 0,
+      "members": [
+        "BEST",
+        "CHEERS",
+        "LOVE",
+        "SINCERELY"
+      ]
+    },
+    {
+      "name": "WITHOUT",
+      "level": 1,
+      "members": [
+        "ABSENT",
+        "MINUS",
+        "SANS",
+        "WANTING"
+      ]
+    },
+    {
+      "name": "VIGOR",
+      "level": 2,
+      "members": [
+        "BEANS",
+        "ENERGY",
+        "PEP",
+        "ZIP"
+      ]
+    },
+    {
+      "name": "___ STRIP",
+      "level": 3,
+      "members": [
+        "BACON",
+        "COMIC",
+        "LANDING",
+        "SUNSET"
+      ]
+    }
+  ]
+}

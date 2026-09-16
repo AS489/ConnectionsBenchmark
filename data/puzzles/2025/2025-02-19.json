@@ -1,0 +1,47 @@
+{
+  "id": 619,
+  "date": "2025-02-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STRUCTURES BY THE SHORE",
+      "level": 0,
+      "members": [
+        "BOARDWALK",
+        "DOCK",
+        "LIGHTHOUSE",
+        "WHARF"
+      ]
+    },
+    {
+      "name": "SMALL IMPERFECTION",
+      "level": 1,
+      "members": [
+        "DENT",
+        "DING",
+        "NICK",
+        "SCRATCH"
+      ]
+    },
+    {
+      "name": "SOUNDS A CUCKOO CLOCK MAKES",
+      "level": 2,
+      "members": [
+        "CHIME",
+        "CUCKOO",
+        "TICK",
+        "TOCK"
+      ]
+    },
+    {
+      "name": "___TAIL",
+      "level": 3,
+      "members": [
+        "COCK",
+        "MOCK",
+        "PIG",
+        "PONY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 876,
+  "date": "2025-11-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STEER",
+      "level": null,
+      "members": [
+        "DIRECT",
+        "DRIVE",
+        "GUIDE",
+        "PILOT"
+      ]
+    },
+    {
+      "name": "THIN LAYER",
+      "level": null,
+      "members": [
+        "COAT",
+        "FILM",
+        "LEAF",
+        "SHEET"
+      ]
+    },
+    {
+      "name": "FILE EXTENSIONS",
+      "level": null,
+      "members": [
+        "DOC",
+        "MID",
+        "TIFF",
+        "ZIP"
+      ]
+    },
+    {
+      "name": "___ GUITAR",
+      "level": null,
+      "members": [
+        "AIR",
+        "ELECTRIC",
+        "RHYTHM",
+        "SLIDE"
+      ]
+    }
+  ]
+}

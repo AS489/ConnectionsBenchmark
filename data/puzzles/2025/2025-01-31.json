@@ -1,0 +1,47 @@
+{
+  "id": 600,
+  "date": "2025-01-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STORAGE CONTAINERS",
+      "level": 0,
+      "members": [
+        "CASE",
+        "CHEST",
+        "CRATE",
+        "TRUNK"
+      ]
+    },
+    {
+      "name": "SCHNOZZ",
+      "level": 1,
+      "members": [
+        "BEAK",
+        "HONKER",
+        "SNOOT",
+        "SNOUT"
+      ]
+    },
+    {
+      "name": "ONES WITH DISCERNING TASTES",
+      "level": 2,
+      "members": [
+        "CONNOISSEUR",
+        "CRITIC",
+        "EXPERT",
+        "SNOB"
+      ]
+    },
+    {
+      "name": "STARTS OF SWIMMING STROKES",
+      "level": 3,
+      "members": [
+        "BACK",
+        "BREAST",
+        "BUTTER",
+        "FREE"
+      ]
+    }
+  ]
+}

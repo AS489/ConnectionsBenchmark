@@ -1,0 +1,47 @@
+{
+  "id": 375,
+  "date": "2024-06-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BITS OF HARDWARE",
+      "level": 0,
+      "members": [
+        "NAIL",
+        "NUT",
+        "SCREW",
+        "WASHER"
+      ]
+    },
+    {
+      "name": "FISHING GEAR",
+      "level": 1,
+      "members": [
+        "FLY",
+        "HOOK",
+        "LINE",
+        "SINKER"
+      ]
+    },
+    {
+      "name": "HAIR SALON FIXTURES",
+      "level": 2,
+      "members": [
+        "CHAIR",
+        "DRYER",
+        "MIRROR",
+        "SINK"
+      ]
+    },
+    {
+      "name": "LIGHTNING ___",
+      "level": 3,
+      "members": [
+        "BOLT",
+        "BUG",
+        "ROD",
+        "STRIKE"
+      ]
+    }
+  ]
+}

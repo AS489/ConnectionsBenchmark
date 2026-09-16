@@ -1,0 +1,47 @@
+{
+  "id": 241,
+  "date": "2024-02-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SEA CREATURES",
+      "level": 0,
+      "members": [
+        "CRAB",
+        "RAY",
+        "SPONGE",
+        "SQUID"
+      ]
+    },
+    {
+      "name": "BASIC TWO-DIMENSIONAL SHAPES",
+      "level": 1,
+      "members": [
+        "CIRCLE",
+        "DIAMOND",
+        "SQUARE",
+        "TRIANGLE"
+      ]
+    },
+    {
+      "name": "BOXING MANEUVERS",
+      "level": 2,
+      "members": [
+        "BOB",
+        "CROSS",
+        "HOOK",
+        "WEAVE"
+      ]
+    },
+    {
+      "name": "FANCY ___",
+      "level": 3,
+      "members": [
+        "FEAST",
+        "FREE",
+        "PANTS",
+        "THAT"
+      ]
+    }
+  ]
+}

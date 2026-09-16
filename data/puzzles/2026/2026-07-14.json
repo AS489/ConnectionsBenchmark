@@ -1,0 +1,47 @@
+{
+  "id": 1124,
+  "date": "2026-07-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONTRACT",
+      "level": null,
+      "members": [
+        "AGREEMENT",
+        "BARGAIN",
+        "DEAL",
+        "UNDERSTANDING"
+      ]
+    },
+    {
+      "name": "EDIT MENU OPTIONS",
+      "level": null,
+      "members": [
+        "COPY",
+        "CUT",
+        "DELETE",
+        "PASTE"
+      ]
+    },
+    {
+      "name": "KINDS OF BASKETS",
+      "level": null,
+      "members": [
+        "EASTER",
+        "GROCERY",
+        "LAUNDRY",
+        "PICNIC"
+      ]
+    },
+    {
+      "name": "SYMBOLIZED WITH ARROWS",
+      "level": null,
+      "members": [
+        "RECYCLING",
+        "SHUFFLE",
+        "THIS SIDE UP",
+        "U-TURN"
+      ]
+    }
+  ]
+}

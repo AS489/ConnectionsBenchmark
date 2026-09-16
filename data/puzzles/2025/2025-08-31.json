@@ -1,0 +1,47 @@
+{
+  "id": 812,
+  "date": "2025-08-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CRITICIZE HARSHLY",
+      "level": 0,
+      "members": [
+        "BASH",
+        "BLAST",
+        "FLAME",
+        "ROAST"
+      ]
+    },
+    {
+      "name": "COMMON COMPONENTS OF BOARD GAMES",
+      "level": 1,
+      "members": [
+        "BOARD",
+        "CARDS",
+        "DICE",
+        "PIECES"
+      ]
+    },
+    {
+      "name": "HETERONYMS",
+      "level": 2,
+      "members": [
+        "AXES",
+        "BASS",
+        "COORDINATE",
+        "DOES"
+      ]
+    },
+    {
+      "name": "___STICKS",
+      "level": 3,
+      "members": [
+        "CHOP",
+        "DRUM",
+        "FIDDLE",
+        "FISH"
+      ]
+    }
+  ]
+}

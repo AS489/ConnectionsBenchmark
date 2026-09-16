@@ -1,0 +1,47 @@
+{
+  "id": 819,
+  "date": "2025-09-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GYMNASTICS MOVES",
+      "level": 0,
+      "members": [
+        "AERIAL",
+        "ARABESQUE",
+        "ROUNDOFF",
+        "SPLIT"
+      ]
+    },
+    {
+      "name": "DISNEY PRINCESSES",
+      "level": 1,
+      "members": [
+        "ARIEL",
+        "AURORA",
+        "MERIDA",
+        "TIANA"
+      ]
+    },
+    {
+      "name": "FONTS",
+      "level": 2,
+      "members": [
+        "ARIAL",
+        "GEORGIA",
+        "IMPACT",
+        "VERDANA"
+      ]
+    },
+    {
+      "name": "GEOMETRY ADJECTIVES",
+      "level": 3,
+      "members": [
+        "ANGULAR",
+        "AREAL",
+        "LINEAR",
+        "VOLUMETRIC"
+      ]
+    }
+  ]
+}

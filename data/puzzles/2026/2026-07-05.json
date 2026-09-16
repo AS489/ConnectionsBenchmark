@@ -1,0 +1,47 @@
+{
+  "id": 1115,
+  "date": "2026-07-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GRANOLA INGREDIENTS",
+      "level": null,
+      "members": [
+        "HONEY",
+        "NUTS",
+        "OATS",
+        "SEEDS"
+      ]
+    },
+    {
+      "name": "PAYMENT METHODS",
+      "level": null,
+      "members": [
+        "CARD",
+        "CASH",
+        "CHECK",
+        "WIRE"
+      ]
+    },
+    {
+      "name": "AMEX CARD TYPES",
+      "level": null,
+      "members": [
+        "CENTURION",
+        "GOLD",
+        "GREEN",
+        "PLATINUM"
+      ]
+    },
+    {
+      "name": "WHAT \"W\" MIGHT STAND FOR",
+      "level": null,
+      "members": [
+        "TUNGSTEN",
+        "WEST",
+        "WIN",
+        "WITH"
+      ]
+    }
+  ]
+}

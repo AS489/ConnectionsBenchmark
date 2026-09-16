@@ -1,0 +1,47 @@
+{
+  "id": 813,
+  "date": "2025-09-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FIRST APPEARANCE",
+      "level": 0,
+      "members": [
+        "DEBUT",
+        "INTRODUCTION",
+        "LAUNCH",
+        "PREMIERE"
+      ]
+    },
+    {
+      "name": "ONES CELEBRATED WITH HOLIDAYS",
+      "level": 1,
+      "members": [
+        "MOTHER",
+        "PRESIDENT",
+        "SAINT PATRICK",
+        "SAINT VALENTINE"
+      ]
+    },
+    {
+      "name": "FAMOUS POETS",
+      "level": 2,
+      "members": [
+        "BISHOP",
+        "BURNS",
+        "LORDE",
+        "POPE"
+      ]
+    },
+    {
+      "name": "WHAT \"CARDINAL\" MIGHT REFER TO",
+      "level": 3,
+      "members": [
+        "BIRD",
+        "CLERGY MEMBER",
+        "M.L.B. PLAYER",
+        "N.F.L. PLAYER"
+      ]
+    }
+  ]
+}

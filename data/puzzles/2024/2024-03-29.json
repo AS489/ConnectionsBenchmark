@@ -1,0 +1,47 @@
+{
+  "id": 292,
+  "date": "2024-03-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ESPECIALLY",
+      "level": 0,
+      "members": [
+        "MIGHTY",
+        "PRETTY",
+        "REALLY",
+        "VERY"
+      ]
+    },
+    {
+      "name": "DISNEY CHARACTERS",
+      "level": 1,
+      "members": [
+        "DAISY",
+        "GOOFY",
+        "HAPPY",
+        "LADY"
+      ]
+    },
+    {
+      "name": "KINDS OF BLUE",
+      "level": 2,
+      "members": [
+        "BABY",
+        "NAVY",
+        "SKY",
+        "TIFFANY"
+      ]
+    },
+    {
+      "name": "BODY PARTS PLUS \"Y\"",
+      "level": 3,
+      "members": [
+        "ARMY",
+        "COLONY",
+        "LIVERY",
+        "SHINY"
+      ]
+    }
+  ]
+}

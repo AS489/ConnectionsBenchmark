@@ -1,0 +1,47 @@
+{
+  "id": 250,
+  "date": "2024-02-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMFY SHOES",
+      "level": 0,
+      "members": [
+        "CROC",
+        "LOAFER",
+        "MOCCASIN",
+        "SLIPPER"
+      ]
+    },
+    {
+      "name": "THINGS MADE WITH FEATHERS",
+      "level": 1,
+      "members": [
+        "BOA",
+        "HEADDRESS",
+        "PILLOW",
+        "SHUTTLECOCK"
+      ]
+    },
+    {
+      "name": "PROGRAMMING LANGUAGES",
+      "level": 2,
+      "members": [
+        "BASIC",
+        "JAVA",
+        "PYTHON",
+        "RUBY"
+      ]
+    },
+    {
+      "name": "THINGS THAT CAN STRIKE",
+      "level": 3,
+      "members": [
+        "COBRA",
+        "INSPIRATION",
+        "LIGHTNING",
+        "UNION"
+      ]
+    }
+  ]
+}

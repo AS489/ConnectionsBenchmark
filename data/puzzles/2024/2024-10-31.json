@@ -1,0 +1,47 @@
+{
+  "id": 508,
+  "date": "2024-10-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TERMS OF ENDEARMENT",
+      "level": 0,
+      "members": [
+        "DARLING",
+        "LOVE",
+        "PUMPKIN",
+        "TREASURE"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN DO WITH YOUR EYELIDS",
+      "level": 1,
+      "members": [
+        "BAT",
+        "BLINK",
+        "FLUTTER",
+        "WINK"
+      ]
+    },
+    {
+      "name": "SPORTS CARS",
+      "level": 2,
+      "members": [
+        "DIABLO",
+        "MUSTANG",
+        "SPIDER",
+        "VIPER"
+      ]
+    },
+    {
+      "name": "___ HUNT",
+      "level": 3,
+      "members": [
+        "EGG",
+        "JOB",
+        "SCAVENGER",
+        "WITCH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 339,
+  "date": "2024-05-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BIT OF LEGISLATION",
+      "level": 0,
+      "members": [
+        "ACT",
+        "BILL",
+        "MEASURE",
+        "RESOLUTION"
+      ]
+    },
+    {
+      "name": "GRASSLAND",
+      "level": 1,
+      "members": [
+        "MEADOW",
+        "PLAIN",
+        "PRAIRIE",
+        "SAVANNA"
+      ]
+    },
+    {
+      "name": "FORTHRIGHT",
+      "level": 2,
+      "members": [
+        "DIRECT",
+        "FRANK",
+        "OPEN",
+        "STRAIGHT"
+      ]
+    },
+    {
+      "name": "CAR COMPANIES MINUS LETTER",
+      "level": 3,
+      "members": [
+        "AURA",
+        "BUCK",
+        "DOGE",
+        "HODA"
+      ]
+    }
+  ]
+}

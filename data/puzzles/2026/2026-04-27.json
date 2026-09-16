@@ -1,0 +1,47 @@
+{
+  "id": 1047,
+  "date": "2026-04-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SALAD INGREDIENTS",
+      "level": null,
+      "members": [
+        "RANCH DRESSING",
+        "RED ONION",
+        "ROASTED CHICKEN",
+        "ROMAINE LETTUCE"
+      ]
+    },
+    {
+      "name": "CLASSIC FILMS",
+      "level": null,
+      "members": [
+        "RAIN MAN",
+        "REAR WINDOW",
+        "RESERVOIR DOGS",
+        "ROMAN HOLIDAY"
+      ]
+    },
+    {
+      "name": "\"THE SIMPSONS\" CHARACTERS",
+      "level": null,
+      "members": [
+        "RADIOACTIVE MAN",
+        "RALPH WIGGUM",
+        "REVEREND LOVEJOY",
+        "ROD FLANDERS"
+      ]
+    },
+    {
+      "name": "ENDING IN NBA PLAYERS",
+      "level": null,
+      "members": [
+        "RAGING BULL",
+        "REGINA KING",
+        "ROE BUCK",
+        "ROTARY CLIPPER"
+      ]
+    }
+  ]
+}

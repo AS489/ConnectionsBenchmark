@@ -1,0 +1,47 @@
+{
+  "id": 429,
+  "date": "2024-08-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STATED",
+      "level": 0,
+      "members": [
+        "SAID",
+        "SPOKE",
+        "TOLD",
+        "VOICED"
+      ]
+    },
+    {
+      "name": "NICKNAME",
+      "level": 1,
+      "members": [
+        "DESIGNATION",
+        "HANDLE",
+        "MONIKER",
+        "SOBRIQUET"
+      ]
+    },
+    {
+      "name": "OBVIOUS",
+      "level": 2,
+      "members": [
+        "CLEAR",
+        "MARKED",
+        "PRONOUNCED",
+        "STRIKING"
+      ]
+    },
+    {
+      "name": "___HOUSE (THAT AREN’T HOUSES)",
+      "level": 3,
+      "members": [
+        "PORTER",
+        "POWER",
+        "ROUGH",
+        "WHEEL"
+      ]
+    }
+  ]
+}

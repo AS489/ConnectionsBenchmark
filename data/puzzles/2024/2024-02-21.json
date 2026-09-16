@@ -1,0 +1,47 @@
+{
+  "id": 255,
+  "date": "2024-02-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PESTERS",
+      "level": 0,
+      "members": [
+        "BADGERS",
+        "BUGS",
+        "HOUNDS",
+        "NAGS"
+      ]
+    },
+    {
+      "name": "TONY WINNERS FOR BEST MUSICAL",
+      "level": 1,
+      "members": [
+        "ANNIE",
+        "CABARET",
+        "CATS",
+        "COMPANY"
+      ]
+    },
+    {
+      "name": "THEY HAVE KEYS",
+      "level": 2,
+      "members": [
+        "COMPUTER",
+        "PIANO",
+        "SUPER",
+        "TESTS"
+      ]
+    },
+    {
+      "name": "SCHOOL OF ___",
+      "level": 3,
+      "members": [
+        "FISH",
+        "HARD KNOCKS",
+        "ROCK",
+        "THOUGHT"
+      ]
+    }
+  ]
+}

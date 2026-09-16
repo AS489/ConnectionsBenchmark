@@ -1,0 +1,3 @@
+{"reasoning": "spy words", "guess": ["ASSET", "MOLE", "PLANT", "SLEEPER"]}
+
+I am fairly confident about this one — MOLE and SLEEPER are strongly associated with espionage.

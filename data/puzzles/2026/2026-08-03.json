@@ -1,0 +1,47 @@
+{
+  "id": 1144,
+  "date": "2026-08-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ROAD LESS TRAVELED",
+      "level": null,
+      "members": [
+        "ALLEY",
+        "BACKSTREET",
+        "BYWAY",
+        "LANE"
+      ]
+    },
+    {
+      "name": "SHADES OF GREEN",
+      "level": null,
+      "members": [
+        "FOREST",
+        "HUNTER",
+        "MINT",
+        "SAGE"
+      ]
+    },
+    {
+      "name": "\"Y\" IS THE ONLY VOWEL",
+      "level": null,
+      "members": [
+        "FLY BY",
+        "MYRRH",
+        "NSYNC",
+        "RHYTHM"
+      ]
+    },
+    {
+      "name": "STARTING WITH SYNONYMS FOR \"PESTER\"",
+      "level": null,
+      "members": [
+        "BUG FIX",
+        "NAG CHAMPA",
+        "NEEDLESS",
+        "TEA SET"
+      ]
+    }
+  ]
+}

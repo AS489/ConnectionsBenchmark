@@ -1,0 +1,47 @@
+{
+  "id": 479,
+  "date": "2024-10-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PUT ON THE LINE",
+      "level": 0,
+      "members": [
+        "BET",
+        "CHANCE",
+        "GAMBLE",
+        "RISK"
+      ]
+    },
+    {
+      "name": "USE A KITCHEN KNIFE",
+      "level": 1,
+      "members": [
+        "CUBE",
+        "DICE",
+        "JULIENNE",
+        "SLICE"
+      ]
+    },
+    {
+      "name": "ROBERT DE NIRO FILMS",
+      "level": 2,
+      "members": [
+        "CASINO",
+        "HEAT",
+        "JOKER",
+        "TAXI DRIVER"
+      ]
+    },
+    {
+      "name": "DISTINCTIVE NUMBER OF ARMS (OR LACK THEREOF)",
+      "level": 3,
+      "members": [
+        "OCTOPUS",
+        "SHIVA",
+        "SLOT MACHINE",
+        "VENUS DE MILO"
+      ]
+    }
+  ]
+}

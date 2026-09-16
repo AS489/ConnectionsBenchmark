@@ -1,0 +1,47 @@
+{
+  "id": 413,
+  "date": "2024-07-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A BOOK",
+      "level": 0,
+      "members": [
+        "COVER",
+        "JACKET",
+        "PAGE",
+        "SPINE"
+      ]
+    },
+    {
+      "name": "CAT COAT PATTERNS",
+      "level": 1,
+      "members": [
+        "CALICO",
+        "TABBY",
+        "TORTOISESHELL",
+        "TUXEDO"
+      ]
+    },
+    {
+      "name": "NERVOUSNESS, IN THE SINGULAR",
+      "level": 2,
+      "members": [
+        "BUTTERFLY",
+        "JITTER",
+        "NERVE",
+        "WILLY"
+      ]
+    },
+    {
+      "name": "STARTING WITH VEGETABLES",
+      "level": 3,
+      "members": [
+        "BEETHOVEN",
+        "CORNUCOPIA",
+        "KALEIDOSCOPE",
+        "PEACOCK"
+      ]
+    }
+  ]
+}

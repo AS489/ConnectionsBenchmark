@@ -1,0 +1,47 @@
+{
+  "id": 335,
+  "date": "2024-05-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ONE WITH TOP BILLING",
+      "level": 0,
+      "members": [
+        "HEADLINER",
+        "LEAD",
+        "PRINCIPAL",
+        "STAR"
+      ]
+    },
+    {
+      "name": "VAMPIRE VULNERABILITIES",
+      "level": 1,
+      "members": [
+        "CROSS",
+        "GARLIC",
+        "SILVER",
+        "SUN"
+      ]
+    },
+    {
+      "name": "SATIRICAL PUBLICATIONS, FAMILIARLY",
+      "level": 2,
+      "members": [
+        "CRACKED",
+        "LAMPOON",
+        "MAD",
+        "ONION"
+      ]
+    },
+    {
+      "name": "CLUB ___",
+      "level": 3,
+      "members": [
+        "MED",
+        "MUSIC",
+        "SANDWICH",
+        "SODA"
+      ]
+    }
+  ]
+}

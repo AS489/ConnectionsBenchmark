@@ -1,0 +1,47 @@
+{
+  "id": 893,
+  "date": "2025-11-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS WORN ON LAPELS",
+      "level": null,
+      "members": [
+        "AWARENESS RIBBON",
+        "BOUTONNIÈRE",
+        "LAPEL PIN",
+        "LAVALIER"
+      ]
+    },
+    {
+      "name": "COCKTAILS",
+      "level": null,
+      "members": [
+        "COSMOPOLITAN",
+        "GREYHOUND",
+        "SCREWDRIVER",
+        "SEA BREEZE"
+      ]
+    },
+    {
+      "name": "PIXAR PROTAGONISTS",
+      "level": null,
+      "members": [
+        "CLOWNFISH",
+        "GRUMPY OLD MAN",
+        "RACECAR",
+        "TALKING DOLL"
+      ]
+    },
+    {
+      "name": "STARTING WITH SYNONYMS FOR \"EAT\"",
+      "level": null,
+      "members": [
+        "BOLT CUTTER",
+        "CHOW MEIN",
+        "SCARF RING",
+        "WOLF EEL"
+      ]
+    }
+  ]
+}

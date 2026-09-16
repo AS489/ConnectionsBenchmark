@@ -1,0 +1,47 @@
+{
+  "id": 84,
+  "date": "2023-09-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FEMALE ANIMALS",
+      "level": 0,
+      "members": [
+        "COW",
+        "DOE",
+        "HEN",
+        "MARE"
+      ]
+    },
+    {
+      "name": "PRONOUNS",
+      "level": 1,
+      "members": [
+        "I",
+        "IT",
+        "THEY",
+        "WE"
+      ]
+    },
+    {
+      "name": "ROMAN NUMERALS",
+      "level": 2,
+      "members": [
+        "D",
+        "L",
+        "M",
+        "V"
+      ]
+    },
+    {
+      "name": "HOMOPHONES",
+      "level": 3,
+      "members": [
+        "EWE",
+        "U",
+        "YEW",
+        "YOU"
+      ]
+    }
+  ]
+}

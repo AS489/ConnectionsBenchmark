@@ -1,0 +1,47 @@
+{
+  "id": 403,
+  "date": "2024-07-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OPEN SPACE",
+      "level": 0,
+      "members": [
+        "COURT",
+        "PLAZA",
+        "SQUARE",
+        "YARD"
+      ]
+    },
+    {
+      "name": "BOXING UNIT",
+      "level": 1,
+      "members": [
+        "BOUT",
+        "CONTEST",
+        "MATCH",
+        "ROUND"
+      ]
+    },
+    {
+      "name": "GLITZINESS",
+      "level": 2,
+      "members": [
+        "DAZZLE",
+        "FLASH",
+        "POMP",
+        "RITZ"
+      ]
+    },
+    {
+      "name": "EMOJI",
+      "level": 3,
+      "members": [
+        "FIRE",
+        "HEART",
+        "SKULL",
+        "SPARKLES"
+      ]
+    }
+  ]
+}

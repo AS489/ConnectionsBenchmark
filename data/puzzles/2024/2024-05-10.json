@@ -1,0 +1,47 @@
+{
+  "id": 334,
+  "date": "2024-05-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHUTZPAH",
+      "level": 0,
+      "members": [
+        "BRASS",
+        "CHEEK",
+        "GALL",
+        "NERVE"
+      ]
+    },
+    {
+      "name": "ACCESSORIES FOR DOG WALKING",
+      "level": 1,
+      "members": [
+        "COLLAR",
+        "HALTER",
+        "HARNESS",
+        "LEAD"
+      ]
+    },
+    {
+      "name": "THINGS THAT SPIN",
+      "level": 2,
+      "members": [
+        "CAROUSEL",
+        "GLOBE",
+        "RECORD",
+        "TOP"
+      ]
+    },
+    {
+      "name": "LEAD SINGERS OF ’70S ROCK BANDS",
+      "level": 3,
+      "members": [
+        "FERRY",
+        "MERCURY",
+        "NICKS",
+        "PLANT"
+      ]
+    }
+  ]
+}

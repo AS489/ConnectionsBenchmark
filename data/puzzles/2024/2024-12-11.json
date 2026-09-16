@@ -1,0 +1,47 @@
+{
+  "id": 549,
+  "date": "2024-12-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UTOPIA",
+      "level": 0,
+      "members": [
+        "PARADISE",
+        "SEVENTH HEAVEN",
+        "SHANGRI-LA",
+        "XANADU"
+      ]
+    },
+    {
+      "name": "THINGS YOU SHAKE",
+      "level": 1,
+      "members": [
+        "HAIRSPRAY",
+        "MAGIC 8 BALL",
+        "SALAD DRESSING",
+        "SNOWGLOBE"
+      ]
+    },
+    {
+      "name": "PROPER NOUN PORTMANTEAUX",
+      "level": 2,
+      "members": [
+        "JAZZERCISE",
+        "PARALYMPICS",
+        "POKÉMON",
+        "WIKIPEDIA"
+      ]
+    },
+    {
+      "name": "ENDING IN SYNONYMS FOR “FRIEND”",
+      "level": 3,
+      "members": [
+        "KETCHUM",
+        "PAYPAL",
+        "PRIMATE",
+        "ROSEBUD"
+      ]
+    }
+  ]
+}

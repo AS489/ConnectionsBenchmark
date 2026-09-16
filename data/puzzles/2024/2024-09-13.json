@@ -1,0 +1,47 @@
+{
+  "id": 460,
+  "date": "2024-09-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VITALITY",
+      "level": 0,
+      "members": [
+        "ENERGY",
+        "JUICE",
+        "LIFE",
+        "ZIP"
+      ]
+    },
+    {
+      "name": "PALINDROMES FEATURING “E”",
+      "level": 1,
+      "members": [
+        "LEVEL",
+        "PEP",
+        "REFER",
+        "TENET"
+      ]
+    },
+    {
+      "name": "FEATURED IN “JACK AND THE BEANSTALK”",
+      "level": 2,
+      "members": [
+        "BEANS",
+        "COW",
+        "GIANT",
+        "JACK"
+      ]
+    },
+    {
+      "name": "CAR MODELS",
+      "level": 3,
+      "members": [
+        "BEETLE",
+        "CIVIC",
+        "FOCUS",
+        "VOLT"
+      ]
+    }
+  ]
+}

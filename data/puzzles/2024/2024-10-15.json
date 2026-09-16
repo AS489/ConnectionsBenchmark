@@ -1,0 +1,47 @@
+{
+  "id": 492,
+  "date": "2024-10-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOOTBALL POSITIONS",
+      "level": 0,
+      "members": [
+        "CENTER",
+        "GUARD",
+        "QUARTERBACK",
+        "SAFETY"
+      ]
+    },
+    {
+      "name": "CABLE CHANNELS",
+      "level": 1,
+      "members": [
+        "DISCOVERY",
+        "HISTORY",
+        "NICKELODEON",
+        "OXYGEN"
+      ]
+    },
+    {
+      "name": "FICTIONAL CLOWNS",
+      "level": 2,
+      "members": [
+        "HOMEY",
+        "JOKER",
+        "PENNYWISE",
+        "RONALD"
+      ]
+    },
+    {
+      "name": "WHAT “D” MIGHT STAND FOR",
+      "level": 3,
+      "members": [
+        "DEFENSE",
+        "DEMOCRAT",
+        "DIMENSIONAL",
+        "DRIVE"
+      ]
+    }
+  ]
+}

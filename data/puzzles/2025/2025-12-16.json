@@ -1,0 +1,47 @@
+{
+  "id": 918,
+  "date": "2025-12-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DANCES",
+      "level": null,
+      "members": [
+        "BOLERO",
+        "FOXTROT",
+        "MAMBO",
+        "QUICKSTEP"
+      ]
+    },
+    {
+      "name": "DESCENDANTS",
+      "level": null,
+      "members": [
+        "BROOD",
+        "FAMILY",
+        "OFFSPRING",
+        "POSTERITY"
+      ]
+    },
+    {
+      "name": "HITCHCOCK MOVIES",
+      "level": null,
+      "members": [
+        "LIFEBOAT",
+        "ROPE",
+        "SPELLBOUND",
+        "SUSPICION"
+      ]
+    },
+    {
+      "name": "STARTING WITH PERCUSSION INSTRUMENTS",
+      "level": null,
+      "members": [
+        "BELLHOP",
+        "CHIMERA",
+        "DRUMROLL",
+        "RATTLESNAKE"
+      ]
+    }
+  ]
+}

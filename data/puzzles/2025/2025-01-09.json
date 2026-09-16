@@ -1,0 +1,47 @@
+{
+  "id": 578,
+  "date": "2025-01-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VENDOR’S SPOT AT A MARKET",
+      "level": 0,
+      "members": [
+        "BOOTH",
+        "STALL",
+        "STAND",
+        "TABLE"
+      ]
+    },
+    {
+      "name": "DOG COMMANDS",
+      "level": 1,
+      "members": [
+        "COME",
+        "HEEL",
+        "SIT",
+        "STAY"
+      ]
+    },
+    {
+      "name": "CORPORATE DEPARTMENTS",
+      "level": 2,
+      "members": [
+        "FINANCE",
+        "IT",
+        "LEGAL",
+        "SALES"
+      ]
+    },
+    {
+      "name": "LAST WORDS IN “AMERICA THE BEAUTIFUL”",
+      "level": 3,
+      "members": [
+        "FROM",
+        "SEA",
+        "SHINING",
+        "TO"
+      ]
+    }
+  ]
+}

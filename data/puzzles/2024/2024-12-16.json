@@ -1,0 +1,47 @@
+{
+  "id": 554,
+  "date": "2024-12-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TYPES OF RADIO",
+      "level": 0,
+      "members": [
+        "AM",
+        "HAM",
+        "SATELLITE",
+        "WALKIE-TALKIE"
+      ]
+    },
+    {
+      "name": "KINDS OF PLAY FIGHTS",
+      "level": 1,
+      "members": [
+        "FOOD",
+        "PILLOW",
+        "SNOWBALL",
+        "WATER BALLOON"
+      ]
+    },
+    {
+      "name": "SNACK CAKES",
+      "level": 2,
+      "members": [
+        "DEVIL DOG",
+        "DING DONG",
+        "HOHO",
+        "YODEL"
+      ]
+    },
+    {
+      "name": "CLASSIC JOKE STAPLES",
+      "level": 3,
+      "members": [
+        "BAR",
+        "CHICKEN",
+        "KNOCK-KNOCK",
+        "LIGHT BULB"
+      ]
+    }
+  ]
+}

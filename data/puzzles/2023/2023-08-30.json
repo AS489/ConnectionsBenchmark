@@ -1,0 +1,47 @@
+{
+  "id": 80,
+  "date": "2023-08-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLAYGROUND FIXTURES",
+      "level": 0,
+      "members": [
+        "SANDBOX",
+        "SEESAW",
+        "SLIDE",
+        "SWING"
+      ]
+    },
+    {
+      "name": "INFLUENCE",
+      "level": 1,
+      "members": [
+        "CLOUT",
+        "PULL",
+        "SWAY",
+        "WEIGHT"
+      ]
+    },
+    {
+      "name": "EGYPTIAN SYMBOLS",
+      "level": 2,
+      "members": [
+        "ANKH",
+        "CROOK",
+        "EYE",
+        "SCARAB"
+      ]
+    },
+    {
+      "name": "FONTS",
+      "level": 3,
+      "members": [
+        "COURIER",
+        "IMPACT",
+        "PAPYRUS",
+        "TIMES"
+      ]
+    }
+  ]
+}

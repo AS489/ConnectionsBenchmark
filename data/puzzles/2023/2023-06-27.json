@@ -1,0 +1,47 @@
+{
+  "id": 16,
+  "date": "2023-06-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COFFEE DRINKS",
+      "level": 0,
+      "members": [
+        "AMERICANO",
+        "CAPPUCCINO",
+        "ESPRESSO",
+        "LATTE"
+      ]
+    },
+    {
+      "name": "TREE NUTS",
+      "level": 1,
+      "members": [
+        "ALMOND",
+        "CASHEW",
+        "PECAN",
+        "WALNUT"
+      ]
+    },
+    {
+      "name": "SHADES OF GREEN",
+      "level": 2,
+      "members": [
+        "EMERALD",
+        "FOREST",
+        "KELLY",
+        "OLIVE"
+      ]
+    },
+    {
+      "name": "MR. ___",
+      "level": 3,
+      "members": [
+        "BEAN",
+        "CLEAN",
+        "FOX",
+        "PEANUT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 394,
+  "date": "2024-07-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHRONICLE",
+      "level": 0,
+      "members": [
+        "JOURNAL",
+        "LOG",
+        "RECORD",
+        "REGISTER"
+      ]
+    },
+    {
+      "name": "MESS OF HAIR",
+      "level": 1,
+      "members": [
+        "MANE",
+        "MOP",
+        "SHOCK",
+        "TANGLE"
+      ]
+    },
+    {
+      "name": "TV SHOWS MINUS “S”",
+      "level": 2,
+      "members": [
+        "CHEER",
+        "FRIEND",
+        "SCRUB",
+        "WEED"
+      ]
+    },
+    {
+      "name": "WORDS AFTER “HEDGE”",
+      "level": 3,
+      "members": [
+        "FUND",
+        "HOG",
+        "MAZE",
+        "TRIMMER"
+      ]
+    }
+  ]
+}

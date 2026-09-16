@@ -1,0 +1,47 @@
+{
+  "id": 879,
+  "date": "2025-11-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TEXTILE PATTERNS",
+      "level": null,
+      "members": [
+        "ANIMAL PRINT",
+        "HERRINGBONE",
+        "HOUNDSTOOTH",
+        "POLKA DOT"
+      ]
+    },
+    {
+      "name": "GREEN CONDIMENTS",
+      "level": null,
+      "members": [
+        "CHIMICHURRI",
+        "PESTO",
+        "RELISH",
+        "SALSA VERDE"
+      ]
+    },
+    {
+      "name": "THINGS WITH HOLES IN THE MIDDLE",
+      "level": null,
+      "members": [
+        "BAGEL",
+        "HULA HOOP",
+        "INNER TUBE",
+        "WASHER"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE PURPLE",
+      "level": null,
+      "members": [
+        "BARNEY THE DINOSAUR",
+        "EGGPLANT",
+        "PEOPLE EATER",
+        "SWING STATE"
+      ]
+    }
+  ]
+}

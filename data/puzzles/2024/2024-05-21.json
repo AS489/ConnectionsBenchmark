@@ -1,0 +1,47 @@
+{
+  "id": 345,
+  "date": "2024-05-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SMIDGEN",
+      "level": 0,
+      "members": [
+        "BIT",
+        "DASH",
+        "PINCH",
+        "TOUCH"
+      ]
+    },
+    {
+      "name": "BARGAIN",
+      "level": 1,
+      "members": [
+        "BUY",
+        "DEAL",
+        "STEAL",
+        "VALUE"
+      ]
+    },
+    {
+      "name": "BILLIARDS EQUIPMENT",
+      "level": 2,
+      "members": [
+        "BALL",
+        "CHALK",
+        "CUE",
+        "RACK"
+      ]
+    },
+    {
+      "name": "___BOOK (THAT’S NOT A BOOK)",
+      "level": 3,
+      "members": [
+        "FACE",
+        "MAC",
+        "MATCH",
+        "POCKET"
+      ]
+    }
+  ]
+}

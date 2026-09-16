@@ -1,0 +1,47 @@
+{
+  "id": 671,
+  "date": "2025-04-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SHORT PERIOD OF TIME",
+      "level": 0,
+      "members": [
+        "BIT",
+        "FLASH",
+        "JIFF",
+        "SEC"
+      ]
+    },
+    {
+      "name": "DO WRONG",
+      "level": 1,
+      "members": [
+        "ERR",
+        "FALL",
+        "SIN",
+        "STRAY"
+      ]
+    },
+    {
+      "name": "N.B.A. PLAYER",
+      "level": 2,
+      "members": [
+        "BUCK",
+        "NET",
+        "SPUR",
+        "SUN"
+      ]
+    },
+    {
+      "name": "STARTS OF AFRICAN COUNTRIES",
+      "level": 3,
+      "members": [
+        "BOTS",
+        "CAME",
+        "KEN",
+        "TAN"
+      ]
+    }
+  ]
+}

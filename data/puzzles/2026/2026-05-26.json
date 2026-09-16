@@ -1,0 +1,47 @@
+{
+  "id": 1075,
+  "date": "2026-05-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHAMPIONSHIP AWARDS",
+      "level": null,
+      "members": [
+        "CUP",
+        "MEDAL",
+        "PENNANT",
+        "RING"
+      ]
+    },
+    {
+      "name": "MATTER AT HAND",
+      "level": null,
+      "members": [
+        "CONCERN",
+        "FOCUS",
+        "POINT",
+        "SUBJECT"
+      ]
+    },
+    {
+      "name": "'80S COMEDIES",
+      "level": null,
+      "members": [
+        "AIRPLANE",
+        "BIG",
+        "CLUE",
+        "TWINS"
+      ]
+    },
+    {
+      "name": "ANAGRAMS",
+      "level": null,
+      "members": [
+        "ENLIST",
+        "LISTEN",
+        "SILENT",
+        "TINSEL"
+      ]
+    }
+  ]
+}

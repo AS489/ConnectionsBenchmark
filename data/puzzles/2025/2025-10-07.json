@@ -1,0 +1,47 @@
+{
+  "id": 849,
+  "date": "2025-10-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GOSSIP",
+      "level": null,
+      "members": [
+        "BUZZ",
+        "DIRT",
+        "DISH",
+        "TALK"
+      ]
+    },
+    {
+      "name": "SEEN AT A WEDDING",
+      "level": null,
+      "members": [
+        "ALTAR",
+        "BOUQUET",
+        "CAKE",
+        "RING"
+      ]
+    },
+    {
+      "name": "TEAM",
+      "level": null,
+      "members": [
+        "BUNCH",
+        "CREW",
+        "GROUP",
+        "PACK"
+      ]
+    },
+    {
+      "name": "MUSICALS PLUS STARTING LETTER",
+      "level": null,
+      "members": [
+        "BRENT",
+        "CHAIR",
+        "FANNIE",
+        "SCATS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 390,
+  "date": "2024-07-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "YEARN",
+      "level": 0,
+      "members": [
+        "DESIRE",
+        "LONG",
+        "PINE",
+        "YEN"
+      ]
+    },
+    {
+      "name": "MAGAZINES",
+      "level": 1,
+      "members": [
+        "FORTUNE",
+        "MAD",
+        "NATURE",
+        "O"
+      ]
+    },
+    {
+      "name": "CHARACTERS IN BOND MOVIES",
+      "level": 2,
+      "members": [
+        "BOND",
+        "M",
+        "MONEYPENNY",
+        "Q"
+      ]
+    },
+    {
+      "name": "WORDS THAT PRECEDE “POP” IN MUSIC GENRES",
+      "level": 3,
+      "members": [
+        "BUBBLEGUM",
+        "EURO",
+        "K",
+        "POWER"
+      ]
+    }
+  ]
+}

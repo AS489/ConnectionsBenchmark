@@ -1,0 +1,47 @@
+{
+  "id": 209,
+  "date": "2024-01-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STRONG SMELL",
+      "level": 0,
+      "members": [
+        "FUNK",
+        "MUSK",
+        "ODOR",
+        "TANG"
+      ]
+    },
+    {
+      "name": "MOVE BACK AND FORTH",
+      "level": 1,
+      "members": [
+        "ROCK",
+        "SWAY",
+        "SWING",
+        "WAVE"
+      ]
+    },
+    {
+      "name": "THINGS TO PICK",
+      "level": 2,
+      "members": [
+        "AFRO",
+        "BONE",
+        "FIGHT",
+        "LOCK"
+      ]
+    },
+    {
+      "name": "___ BALL",
+      "level": 3,
+      "members": [
+        "CRYSTAL",
+        "DISCO",
+        "FOUL",
+        "GUTTER"
+      ]
+    }
+  ]
+}

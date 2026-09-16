@@ -1,0 +1,47 @@
+{
+  "id": 72,
+  "date": "2023-08-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PERFORMING ARTISTS",
+      "level": 0,
+      "members": [
+        "ACTOR",
+        "DANCER",
+        "SINGER",
+        "STAND-UP"
+      ]
+    },
+    {
+      "name": "SANTA’S REINDEER",
+      "level": 1,
+      "members": [
+        "COMET",
+        "CUPID",
+        "DASHER",
+        "VIXEN"
+      ]
+    },
+    {
+      "name": "SEEN ON VALENTINE’S DAY",
+      "level": 2,
+      "members": [
+        "CARD",
+        "CHOCOLATE",
+        "HEART",
+        "ROSE"
+      ]
+    },
+    {
+      "name": "“BAD ___” MOVIES",
+      "level": 3,
+      "members": [
+        "BOYS",
+        "LIEUTENANT",
+        "SANTA",
+        "TASTE"
+      ]
+    }
+  ]
+}

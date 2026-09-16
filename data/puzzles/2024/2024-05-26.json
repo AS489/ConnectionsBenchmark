@@ -1,0 +1,47 @@
+{
+  "id": 350,
+  "date": "2024-05-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOUND ON A STOVE TOP",
+      "level": 0,
+      "members": [
+        "GRIDDLE",
+        "KETTLE",
+        "PAN",
+        "POT"
+      ]
+    },
+    {
+      "name": "ORNAMENTAL BORDER",
+      "level": 1,
+      "members": [
+        "FRILL",
+        "FRINGE",
+        "RUFFLE",
+        "TRIM"
+      ]
+    },
+    {
+      "name": "DEPOSIT, WITH “DOWN”",
+      "level": 2,
+      "members": [
+        "LAY",
+        "PLACE",
+        "PUT",
+        "SET"
+      ]
+    },
+    {
+      "name": "WORDS THAT SOUNDS LIKE PLURAL LETTERS",
+      "level": 3,
+      "members": [
+        "GEEZ",
+        "SEIZE",
+        "TEASE",
+        "WISE"
+      ]
+    }
+  ]
+}

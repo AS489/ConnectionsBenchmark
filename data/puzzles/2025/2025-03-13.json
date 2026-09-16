@@ -1,0 +1,47 @@
+{
+  "id": 641,
+  "date": "2025-03-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTIALITY",
+      "level": 0,
+      "members": [
+        "ANGLE",
+        "BIAS",
+        "SLANT",
+        "SPIN"
+      ]
+    },
+    {
+      "name": "SIGNAL DOWN, AS A TAXI",
+      "level": 1,
+      "members": [
+        "FLAG",
+        "HAIL",
+        "WAVE",
+        "WHISTLE"
+      ]
+    },
+    {
+      "name": "CARDS IN TEXAS HOLD ’EM",
+      "level": 2,
+      "members": [
+        "FLOP",
+        "HOLE",
+        "RIVER",
+        "TURN"
+      ]
+    },
+    {
+      "name": "SHAKESPEAREAN WORDS",
+      "level": 3,
+      "members": [
+        "ANON",
+        "ART",
+        "THOU",
+        "WILT"
+      ]
+    }
+  ]
+}

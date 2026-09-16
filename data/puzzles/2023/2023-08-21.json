@@ -1,0 +1,47 @@
+{
+  "id": 71,
+  "date": "2023-08-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "U.S. MOUNTAIN STATES",
+      "level": 0,
+      "members": [
+        "ARIZONA",
+        "COLORADO",
+        "NEVADA",
+        "UTAH"
+      ]
+    },
+    {
+      "name": "SODA BRANDS",
+      "level": 1,
+      "members": [
+        "CRUSH",
+        "MUG",
+        "SPRITE",
+        "SQUIRT"
+      ]
+    },
+    {
+      "name": "CLASSIC ROCK BANDS",
+      "level": 2,
+      "members": [
+        "GENESIS",
+        "KANSAS",
+        "RUSH",
+        "YES"
+      ]
+    },
+    {
+      "name": "TONY ___",
+      "level": 3,
+      "members": [
+        "HAWK",
+        "MONTANA",
+        "SOPRANO",
+        "STARK"
+      ]
+    }
+  ]
+}

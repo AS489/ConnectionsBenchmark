@@ -1,0 +1,47 @@
+{
+  "id": 730,
+  "date": "2025-06-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ARBITRATE",
+      "level": 0,
+      "members": [
+        "CHAIR",
+        "JUDGE",
+        "MEDIATE",
+        "MODERATE"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN INSERT IN A DOCUMENT",
+      "level": 1,
+      "members": [
+        "CHART",
+        "IMAGE",
+        "TABLE",
+        "TEXT BOX"
+      ]
+    },
+    {
+      "name": "'80S SLANG",
+      "level": 2,
+      "members": [
+        "CHILL",
+        "PSYCH",
+        "RADICAL",
+        "WORD"
+      ]
+    },
+    {
+      "name": "___ DUTY",
+      "level": 3,
+      "members": [
+        "CIVIC",
+        "CUSTOMS",
+        "HEAVY",
+        "JURY"
+      ]
+    }
+  ]
+}

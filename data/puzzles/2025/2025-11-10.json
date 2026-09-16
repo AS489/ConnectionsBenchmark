@@ -1,0 +1,47 @@
+{
+  "id": 882,
+  "date": "2025-11-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PERCUSSION INSTRUMENTS",
+      "level": null,
+      "members": [
+        "BELL",
+        "DRUM",
+        "RATTLE",
+        "TRIANGLE"
+      ]
+    },
+    {
+      "name": "SATISFY, AS DEBTS",
+      "level": null,
+      "members": [
+        "CLEAR",
+        "PAY",
+        "SETTLE",
+        "SQUARE"
+      ]
+    },
+    {
+      "name": "WORDS IN A FAMOUS QUOTE BY CAESAR",
+      "level": null,
+      "members": [
+        "CAME",
+        "CONQUERED",
+        "I",
+        "SAW"
+      ]
+    },
+    {
+      "name": "LATIN PREPOSITIONS",
+      "level": null,
+      "members": [
+        "AB",
+        "PRO",
+        "SINE",
+        "SUB"
+      ]
+    }
+  ]
+}

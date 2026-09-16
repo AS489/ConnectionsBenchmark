@@ -1,0 +1,47 @@
+{
+  "id": 147,
+  "date": "2023-11-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNCHANGING",
+      "level": 0,
+      "members": [
+        "EVEN",
+        "LEVEL",
+        "STABLE",
+        "STEADY"
+      ]
+    },
+    {
+      "name": "LONG, SHARP OBJECTS",
+      "level": 1,
+      "members": [
+        "LANCE",
+        "PIN",
+        "SKEWER",
+        "SPIT"
+      ]
+    },
+    {
+      "name": "MUSIC PUBLICATIONS",
+      "level": 2,
+      "members": [
+        "BILLBOARD",
+        "PITCHFORK",
+        "ROLLING STONE",
+        "SPIN"
+      ]
+    },
+    {
+      "name": "WORDS WITH NUMERICAL PREFIXES",
+      "level": 3,
+      "members": [
+        "UNIFORM",
+        "BICYCLE",
+        "TRILOGY",
+        "QUADRANT"
+      ]
+    }
+  ]
+}

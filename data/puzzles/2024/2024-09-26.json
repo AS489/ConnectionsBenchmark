@@ -1,0 +1,47 @@
+{
+  "id": 473,
+  "date": "2024-09-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DECORATIVE EDGE",
+      "level": 0,
+      "members": [
+        "BORDER",
+        "FRILL",
+        "FRINGE",
+        "TRIM"
+      ]
+    },
+    {
+      "name": "INCREASE, IN A WAY",
+      "level": 1,
+      "members": [
+        "GROW",
+        "MOUNT",
+        "SWELL",
+        "WAX"
+      ]
+    },
+    {
+      "name": "SPECIFICATIONS FOR A BARTENDER",
+      "level": 2,
+      "members": [
+        "DRY",
+        "NEAT",
+        "STRAIGHT",
+        "VIRGIN"
+      ]
+    },
+    {
+      "name": "STRING ___",
+      "level": 3,
+      "members": [
+        "BEAN",
+        "BIKINI",
+        "CHEESE",
+        "THEORY"
+      ]
+    }
+  ]
+}

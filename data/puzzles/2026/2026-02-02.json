@@ -1,0 +1,47 @@
+{
+  "id": 966,
+  "date": "2026-02-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DURATION",
+      "level": null,
+      "members": [
+        "INTERVAL",
+        "PERIOD",
+        "SPAN",
+        "STRETCH"
+      ]
+    },
+    {
+      "name": "CREDENTIALS FOR ENTRY",
+      "level": null,
+      "members": [
+        "LANYARD",
+        "PASS",
+        "STAMP",
+        "WRISTBAND"
+      ]
+    },
+    {
+      "name": "MODERN CRIME SERIES PROTAGONISTS",
+      "level": null,
+      "members": [
+        "BOSCH",
+        "CROSS",
+        "REACHER",
+        "RYAN"
+      ]
+    },
+    {
+      "name": "TREES PLUS A LETTER",
+      "level": null,
+      "members": [
+        "FAIR",
+        "MARPLE",
+        "POPULAR",
+        "PSALM"
+      ]
+    }
+  ]
+}

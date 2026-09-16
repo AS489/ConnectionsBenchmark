@@ -1,0 +1,47 @@
+{
+  "id": 1090,
+  "date": "2026-06-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TECHNIQUE",
+      "level": null,
+      "members": [
+        "FASHION",
+        "MANNER",
+        "METHOD",
+        "WAY"
+      ]
+    },
+    {
+      "name": "GROSS THINGS THAT FORM ON WET SURFACES",
+      "level": null,
+      "members": [
+        "CRUST",
+        "FILM",
+        "SCUM",
+        "SKIN"
+      ]
+    },
+    {
+      "name": "PARTS OF A THEATER",
+      "level": null,
+      "members": [
+        "CATWALK",
+        "PIT",
+        "STAGE",
+        "WINGS"
+      ]
+    },
+    {
+      "name": "COUNTED IN DOCUMENT WORD COUNTS",
+      "level": null,
+      "members": [
+        "CHARACTER",
+        "LINE",
+        "PAGE",
+        "WORD"
+      ]
+    }
+  ]
+}

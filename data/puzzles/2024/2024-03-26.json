@@ -1,0 +1,47 @@
+{
+  "id": 289,
+  "date": "2024-03-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MUSICAL INSTRUMENTS",
+      "level": 0,
+      "members": [
+        "BASS",
+        "BASSOON",
+        "HARP",
+        "RECORDER"
+      ]
+    },
+    {
+      "name": "PLANT GROWTHS",
+      "level": 1,
+      "members": [
+        "BLOOM",
+        "BUD",
+        "SHOOT",
+        "SPROUT"
+      ]
+    },
+    {
+      "name": "BRING UP",
+      "level": 2,
+      "members": [
+        "FOSTER",
+        "NURSE",
+        "RAISE",
+        "REAR"
+      ]
+    },
+    {
+      "name": "SOLAR EMANATIONS",
+      "level": 3,
+      "members": [
+        "CORONA",
+        "FLARE",
+        "LIGHT",
+        "RADIATION"
+      ]
+    }
+  ]
+}

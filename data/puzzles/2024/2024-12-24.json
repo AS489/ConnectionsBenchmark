@@ -1,0 +1,47 @@
+{
+  "id": 562,
+  "date": "2024-12-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "“LIONS AND TIGERS AND BEARS, OH MY!”",
+      "level": 0,
+      "members": [
+        "BEARS",
+        "LIONS",
+        "OH MY",
+        "TIGERS"
+      ]
+    },
+    {
+      "name": "BELOVED, AS A FRIEND",
+      "level": 1,
+      "members": [
+        "CLOSE",
+        "DEAR",
+        "INTIMATE",
+        "TIGHT"
+      ]
+    },
+    {
+      "name": "WORDS THAT SOUND LIKE PLURAL LETTERS",
+      "level": 2,
+      "members": [
+        "BEES",
+        "EASE",
+        "JAYS",
+        "USE"
+      ]
+    },
+    {
+      "name": "WHEN TRIPLED, HIT SONG TITLES",
+      "level": 3,
+      "members": [
+        "BILLS",
+        "BYE",
+        "GIMME",
+        "PLEASE"
+      ]
+    }
+  ]
+}

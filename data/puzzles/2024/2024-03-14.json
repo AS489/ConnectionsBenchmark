@@ -1,0 +1,47 @@
+{
+  "id": 277,
+  "date": "2024-03-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BOX OFFICE VICTORY",
+      "level": 0,
+      "members": [
+        "HIT",
+        "SMASH",
+        "SUCCESS",
+        "WINNER"
+      ]
+    },
+    {
+      "name": "VOLLEYBALL MOVES",
+      "level": 1,
+      "members": [
+        "BUMP",
+        "SERVE",
+        "SET",
+        "SPIKE"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF GREEK LETTERS",
+      "level": 2,
+      "members": [
+        "MOO",
+        "NEW",
+        "PIE",
+        "ROW"
+      ]
+    },
+    {
+      "name": "___-O",
+      "level": 3,
+      "members": [
+        "DADDY",
+        "DAY",
+        "JACKIE",
+        "JELL"
+      ]
+    }
+  ]
+}

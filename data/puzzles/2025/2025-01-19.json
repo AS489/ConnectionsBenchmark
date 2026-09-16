@@ -1,0 +1,47 @@
+{
+  "id": 588,
+  "date": "2025-01-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FUND",
+      "level": 0,
+      "members": [
+        "KITTY",
+        "POOL",
+        "POT",
+        "PURSE"
+      ]
+    },
+    {
+      "name": "COURT FILING",
+      "level": 1,
+      "members": [
+        "ACTION",
+        "CASE",
+        "CLAIM",
+        "SUIT"
+      ]
+    },
+    {
+      "name": "LANDFORMS",
+      "level": 2,
+      "members": [
+        "BASIN",
+        "BLUFF",
+        "CAPE",
+        "PLAIN"
+      ]
+    },
+    {
+      "name": "THEY HAVE RAYS",
+      "level": 3,
+      "members": [
+        "AQUARIUM",
+        "GEOMETRY",
+        "SUN",
+        "TAMPA BAY"
+      ]
+    }
+  ]
+}

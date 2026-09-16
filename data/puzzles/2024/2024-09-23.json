@@ -1,0 +1,47 @@
+{
+  "id": 470,
+  "date": "2024-09-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NOT SMOOTH, AS TERRAIN",
+      "level": 0,
+      "members": [
+        "BUMPY",
+        "ROUGH",
+        "RUGGED",
+        "UNEVEN"
+      ]
+    },
+    {
+      "name": "BIT OF LAND FOR GROWING",
+      "level": 1,
+      "members": [
+        "BED",
+        "PARCEL",
+        "PATCH",
+        "PLOT"
+      ]
+    },
+    {
+      "name": "MEMBER OF A CARTOON DUO",
+      "level": 2,
+      "members": [
+        "CHIP",
+        "ROCKY",
+        "SCRATCHY",
+        "STITCH"
+      ]
+    },
+    {
+      "name": "___ PARK",
+      "level": 3,
+      "members": [
+        "AMUSEMENT",
+        "NATIONAL",
+        "PARALLEL",
+        "SOUTH"
+      ]
+    }
+  ]
+}

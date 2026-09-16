@@ -1,0 +1,47 @@
+{
+  "id": 659,
+  "date": "2025-03-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONSUMED",
+      "level": 0,
+      "members": [
+        "ATE",
+        "HAD",
+        "PUT AWAY",
+        "TOOK IN"
+      ]
+    },
+    {
+      "name": "ALSO",
+      "level": 1,
+      "members": [
+        "AS WELL",
+        "BESIDES",
+        "TO BOOT",
+        "TOO"
+      ]
+    },
+    {
+      "name": "ATM OPTIONS",
+      "level": 2,
+      "members": [
+        "BALANCE",
+        "DEPOSIT",
+        "TRANSFER",
+        "WITHDRAWAL"
+      ]
+    },
+    {
+      "name": "___PLAY",
+      "level": 3,
+      "members": [
+        "FORE",
+        "HORSE",
+        "SCREEN",
+        "WORD"
+      ]
+    }
+  ]
+}

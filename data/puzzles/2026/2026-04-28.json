@@ -1,0 +1,47 @@
+{
+  "id": 1048,
+  "date": "2026-04-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ENTREATY",
+      "level": null,
+      "members": [
+        "APPEAL",
+        "BID",
+        "CALL",
+        "REQUEST"
+      ]
+    },
+    {
+      "name": "LAUNDRY DAY VERBS",
+      "level": null,
+      "members": [
+        "DRY",
+        "FOLD",
+        "SORT",
+        "WASH"
+      ]
+    },
+    {
+      "name": "THINGS THAT COME IN \"BOOKS\"",
+      "level": null,
+      "members": [
+        "CHECK",
+        "COUPON",
+        "MATCH",
+        "STAMP"
+      ]
+    },
+    {
+      "name": "SUN___",
+      "level": null,
+      "members": [
+        "DIAL",
+        "FLOWER",
+        "SCREEN",
+        "TAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 177,
+  "date": "2023-12-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ENORMOUS",
+      "level": 0,
+      "members": [
+        "BIG",
+        "GIANT",
+        "GREAT",
+        "HUGE"
+      ]
+    },
+    {
+      "name": "BOOKSTORE SECTIONS",
+      "level": 1,
+      "members": [
+        "FICTION",
+        "HUMOR",
+        "POETRY",
+        "TRAVEL"
+      ]
+    },
+    {
+      "name": "TV SHOWS WITH HAPPY-SOUNDING NAMES",
+      "level": 2,
+      "members": [
+        "CHEERS",
+        "EUPHORIA",
+        "FELICITY",
+        "GLEE"
+      ]
+    },
+    {
+      "name": "___ CRANE",
+      "level": 3,
+      "members": [
+        "CONSTRUCTION",
+        "FRASIER",
+        "PAPER",
+        "WHOOPING"
+      ]
+    }
+  ]
+}

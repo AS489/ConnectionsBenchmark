@@ -1,0 +1,47 @@
+{
+  "id": 644,
+  "date": "2025-03-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BUNCH",
+      "level": 0,
+      "members": [
+        "CLUSTER",
+        "COLLECTION",
+        "CONSTELLATION",
+        "GROUP"
+      ]
+    },
+    {
+      "name": "ENDING WITH SILENT “T”",
+      "level": 1,
+      "members": [
+        "BALLET",
+        "DEBUT",
+        "RAPPORT",
+        "TAROT"
+      ]
+    },
+    {
+      "name": "SERIAL KILLER MOVIES",
+      "level": 2,
+      "members": [
+        "MONSTER",
+        "PSYCHO",
+        "SEVEN",
+        "ZODIAC"
+      ]
+    },
+    {
+      "name": "STARTING WITH CONSTELLATIONS",
+      "level": 3,
+      "members": [
+        "DRACONIAN",
+        "HYDRANT",
+        "LEONARDO",
+        "LIBRARY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 661,
+  "date": "2025-04-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CAPRICE",
+      "level": 0,
+      "members": [
+        "FANCY",
+        "IMPULSE",
+        "LARK",
+        "WHIM"
+      ]
+    },
+    {
+      "name": "ILK",
+      "level": 1,
+      "members": [
+        "KIND",
+        "LIKE",
+        "SORT",
+        "TYPE"
+      ]
+    },
+    {
+      "name": "WILLIAMSES",
+      "level": 2,
+      "members": [
+        "HANK",
+        "ROBIN",
+        "TENNESSEE",
+        "VENUS"
+      ]
+    },
+    {
+      "name": "WORDS PRONOUNCED DIFFERENTLY AS PROPER NOUNS",
+      "level": 3,
+      "members": [
+        "HERB",
+        "JOB",
+        "NICE",
+        "READING"
+      ]
+    }
+  ]
+}

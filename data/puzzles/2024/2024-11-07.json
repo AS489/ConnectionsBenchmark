@@ -1,0 +1,47 @@
+{
+  "id": 515,
+  "date": "2024-11-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOOD-RELATED JUMBLES",
+      "level": 0,
+      "members": [
+        "HASH",
+        "SALAD",
+        "SCRAMBLE",
+        "STEW"
+      ]
+    },
+    {
+      "name": "PUBLIC STANDING",
+      "level": 1,
+      "members": [
+        "CHARACTER",
+        "IMAGE",
+        "NAME",
+        "REPUTATION"
+      ]
+    },
+    {
+      "name": "INFO ON A MUSEUM PLACARD",
+      "level": 2,
+      "members": [
+        "ARTIST",
+        "MEDIUM",
+        "TITLE",
+        "YEAR"
+      ]
+    },
+    {
+      "name": "ANAGRAMS OF FAMOUS PAINTERS",
+      "level": 3,
+      "members": [
+        "DIAL",
+        "EGADS",
+        "MONTE",
+        "YOGA"
+      ]
+    }
+  ]
+}

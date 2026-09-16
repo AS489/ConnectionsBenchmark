@@ -1,0 +1,47 @@
+{
+  "id": 942,
+  "date": "2026-01-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS THAT ARE RED",
+      "level": null,
+      "members": [
+        "3 BALL",
+        "CARDINAL",
+        "HEART EMOJI",
+        "SOLO CUP"
+      ]
+    },
+    {
+      "name": "USED IN METAPHORS FOR PRECARIOUS SITUATIONS",
+      "level": null,
+      "members": [
+        "8 BALL",
+        "DEEP END",
+        "LIMB",
+        "THIN ICE"
+      ]
+    },
+    {
+      "name": "MUSICAL ARTISTS MINUS STARTING NUMBERS",
+      "level": null,
+      "members": [
+        "6 MAFIA",
+        "CHAINZ",
+        "DIRECTION",
+        "NON BLONDES"
+      ]
+    },
+    {
+      "name": "CARDINAL DIRECTIONS WITH FIRST LETTER CHANGED",
+      "level": null,
+      "members": [
+        "COUTH",
+        "FORTH",
+        "LEST",
+        "OAST"
+      ]
+    }
+  ]
+}

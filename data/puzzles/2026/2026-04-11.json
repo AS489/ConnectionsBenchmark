@@ -1,0 +1,47 @@
+{
+  "id": 1031,
+  "date": "2026-04-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOUND IN THE TRUNK OF A CAR",
+      "level": null,
+      "members": [
+        "ICE SCRAPER",
+        "JACK",
+        "JUMPER CABLES",
+        "SPARE TIRE"
+      ]
+    },
+    {
+      "name": "BENEFACTOR",
+      "level": null,
+      "members": [
+        "ANGEL",
+        "CHAMPION",
+        "PATRON",
+        "SPONSOR"
+      ]
+    },
+    {
+      "name": "STRUCTURAL SUPPORTS",
+      "level": null,
+      "members": [
+        "BEAM",
+        "BRACE",
+        "COLUMN",
+        "STRUT"
+      ]
+    },
+    {
+      "name": "ENDING IN BODIES OF WATER",
+      "level": null,
+      "members": [
+        "BOMBAY",
+        "CHELSEA",
+        "SCREWDRIVER",
+        "SNOWFLAKE"
+      ]
+    }
+  ]
+}

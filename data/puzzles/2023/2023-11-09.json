@@ -1,0 +1,47 @@
+{
+  "id": 151,
+  "date": "2023-11-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DOCTORS’ ORDERS",
+      "level": 0,
+      "members": [
+        "DIET",
+        "EXERCISE",
+        "FRESH AIR",
+        "SLEEP"
+      ]
+    },
+    {
+      "name": "EMAIL ACTIONS",
+      "level": 1,
+      "members": [
+        "COMPOSE",
+        "FORWARD",
+        "REPLY ALL",
+        "SEND"
+      ]
+    },
+    {
+      "name": "PODCASTS",
+      "level": 2,
+      "members": [
+        "RADIOLAB",
+        "SERIAL",
+        "UP FIRST",
+        "WTF"
+      ]
+    },
+    {
+      "name": "___ COMEDY",
+      "level": 3,
+      "members": [
+        "BLACK",
+        "DIVINE",
+        "PROP",
+        "SKETCH"
+      ]
+    }
+  ]
+}

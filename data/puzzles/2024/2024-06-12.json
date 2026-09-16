@@ -1,0 +1,47 @@
+{
+  "id": 367,
+  "date": "2024-06-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLACES IN NEW YORK CITY",
+      "level": 0,
+      "members": [
+        "CHINATOWN",
+        "DUMBO",
+        "MANHATTAN",
+        "WALL STREET"
+      ]
+    },
+    {
+      "name": "RHYMING TITLES",
+      "level": 1,
+      "members": [
+        "BE KIND REWIND",
+        "E.T.",
+        "FRIGHT NIGHT",
+        "KILL BILL"
+      ]
+    },
+    {
+      "name": "ENDING IN UNITS OF MEASUREMENT",
+      "level": 2,
+      "members": [
+        "HEDWIG AND THE ANGRY INCH",
+        "MY LEFT FOOT",
+        "THE GREEN MILE",
+        "THE LONGEST YARD"
+      ]
+    },
+    {
+      "name": "STARTING WITH ANIMALS",
+      "level": 3,
+      "members": [
+        "BEETLEJUICE",
+        "FOXY BROWN",
+        "DOGMA",
+        "OCTOPUSSY"
+      ]
+    }
+  ]
+}

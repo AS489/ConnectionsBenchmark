@@ -1,0 +1,47 @@
+{
+  "id": 174,
+  "date": "2023-12-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONTAINERS",
+      "level": 0,
+      "members": [
+        "BASKET",
+        "BIN",
+        "CHEST",
+        "HAMPER"
+      ]
+    },
+    {
+      "name": "CIRCULAR SHAPES",
+      "level": 1,
+      "members": [
+        "BAND",
+        "CIRCLE",
+        "HOOP",
+        "RING"
+      ]
+    },
+    {
+      "name": "RESTRICT",
+      "level": 2,
+      "members": [
+        "CAP",
+        "CHECK",
+        "CURB",
+        "LIMIT"
+      ]
+    },
+    {
+      "name": "___ JAM",
+      "level": 3,
+      "members": [
+        "NBA",
+        "PAPER",
+        "PEARL",
+        "TRAFFIC"
+      ]
+    }
+  ]
+}

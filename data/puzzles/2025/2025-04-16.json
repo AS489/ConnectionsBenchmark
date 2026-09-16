@@ -1,0 +1,47 @@
+{
+  "id": 675,
+  "date": "2025-04-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BURLESQUE WEAR",
+      "level": 0,
+      "members": [
+        "BOA",
+        "CORSET",
+        "GARTER",
+        "STOCKINGS"
+      ]
+    },
+    {
+      "name": "MESS UP THE SURFACE OF",
+      "level": 1,
+      "members": [
+        "SCAR",
+        "SCRAPE",
+        "SCRATCH",
+        "SCORE"
+      ]
+    },
+    {
+      "name": "THEY ROAR",
+      "level": 2,
+      "members": [
+        "CROWD",
+        "ENGINE",
+        "KATY PERRY",
+        "LION"
+      ]
+    },
+    {
+      "name": "LATIN DANCES WITH A VOWEL CHANGED",
+      "level": 3,
+      "members": [
+        "MAMBA",
+        "MERINGUE",
+        "SIMBA",
+        "TANGY"
+      ]
+    }
+  ]
+}

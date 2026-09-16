@@ -1,0 +1,47 @@
+{
+  "id": 239,
+  "date": "2024-02-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "\"GIVE ME A BREAK!\"",
+      "level": 0,
+      "members": [
+        "BROTHER",
+        "LORD",
+        "PLEASE",
+        "SHEESH"
+      ]
+    },
+    {
+      "name": "ECCLESIASTICAL TITLES",
+      "level": 1,
+      "members": [
+        "BISHOP",
+        "CARDINAL",
+        "PASTOR",
+        "PRIOR"
+      ]
+    },
+    {
+      "name": "ROCK & ROLL HALL OF FAME INDUCTEES",
+      "level": 2,
+      "members": [
+        "HEART",
+        "MADONNA",
+        "PRINCE",
+        "QUEEN"
+      ]
+    },
+    {
+      "name": "CITY HOMOPHONES",
+      "level": 3,
+      "members": [
+        "DELI",
+        "NIECE",
+        "ROAM",
+        "SOUL"
+      ]
+    }
+  ]
+}

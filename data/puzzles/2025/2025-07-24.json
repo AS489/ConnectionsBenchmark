@@ -1,0 +1,47 @@
+{
+  "id": 774,
+  "date": "2025-07-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COLOSSAL",
+      "level": 0,
+      "members": [
+        "GIANT",
+        "GREAT",
+        "MAMMOTH",
+        "TITANIC"
+      ]
+    },
+    {
+      "name": "LEAVE QUICKLY",
+      "level": 1,
+      "members": [
+        "BOUNCE",
+        "DIP",
+        "JET",
+        "SPLIT"
+      ]
+    },
+    {
+      "name": "PARTS OF A BASKETBALL HOOP",
+      "level": 2,
+      "members": [
+        "BACKBOARD",
+        "NET",
+        "POLE",
+        "RIM"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF SYNONYMS FOR “NAB”",
+      "level": 3,
+      "members": [
+        "KNICK",
+        "LUTE",
+        "RABE",
+        "STEEL"
+      ]
+    }
+  ]
+}

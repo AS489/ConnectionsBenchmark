@@ -1,0 +1,47 @@
+{
+  "id": 378,
+  "date": "2024-06-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "“SETTLE DOWN!”",
+      "level": 0,
+      "members": [
+        "EASY",
+        "ENOUGH",
+        "RELAX",
+        "QUIET"
+      ]
+    },
+    {
+      "name": "MINOR AILMENTS",
+      "level": 1,
+      "members": [
+        "BUG",
+        "CHILL",
+        "COLD",
+        "COUGH"
+      ]
+    },
+    {
+      "name": "WHAT HUMPBACK WHALES DO",
+      "level": 2,
+      "members": [
+        "BREACH",
+        "DIVE",
+        "SING",
+        "SPOUT"
+      ]
+    },
+    {
+      "name": "___ CITY NICKNAMES",
+      "level": 3,
+      "members": [
+        "MAGIC",
+        "MOTOR",
+        "SIN",
+        "WINDY"
+      ]
+    }
+  ]
+}

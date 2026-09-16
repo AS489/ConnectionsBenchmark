@@ -1,0 +1,47 @@
+{
+  "id": 328,
+  "date": "2024-05-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ENJOY",
+      "level": 0,
+      "members": [
+        "FANCY",
+        "LOVE",
+        "RELISH",
+        "SAVOR"
+      ]
+    },
+    {
+      "name": "FILLER WORDS",
+      "level": 1,
+      "members": [
+        "LIKE",
+        "LITERALLY",
+        "UM",
+        "WELL"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF A LOCK",
+      "level": 2,
+      "members": [
+        "CYLINDER",
+        "PIN",
+        "SPRING",
+        "TUMBLER"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF UNITS OF MEASURE",
+      "level": 3,
+      "members": [
+        "CARROT",
+        "HURTS",
+        "JEWEL",
+        "OM"
+      ]
+    }
+  ]
+}

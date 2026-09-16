@@ -1,0 +1,47 @@
+{
+  "id": 1162,
+  "date": "2026-08-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS MOST ANIMALS NEED",
+      "level": null,
+      "members": [
+        "NUTRITION",
+        "OXYGEN",
+        "SLEEP",
+        "WATER"
+      ]
+    },
+    {
+      "name": "CALLS TO BEGIN A PERFORMANCE",
+      "level": null,
+      "members": [
+        "ACTION",
+        "CURTAIN UP",
+        "PLACES",
+        "SHOWTIME"
+      ]
+    },
+    {
+      "name": "___ KIDS",
+      "level": null,
+      "members": [
+        "COMEBACK",
+        "KARATE",
+        "SUNDANCE",
+        "WIMPY"
+      ]
+    },
+    {
+      "name": "ONCE IN A ___",
+      "level": null,
+      "members": [
+        "BLUE MOON",
+        "GENERATION",
+        "LIFETIME",
+        "WHILE"
+      ]
+    }
+  ]
+}

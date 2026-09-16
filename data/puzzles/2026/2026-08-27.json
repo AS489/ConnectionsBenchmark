@@ -1,0 +1,47 @@
+{
+  "id": 1168,
+  "date": "2026-08-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ELECTRIC THINGS",
+      "level": null,
+      "members": [
+        "ELECTRIC EEL",
+        "LIGHTNING",
+        "LIVE WIRE",
+        "PIKACHU"
+      ]
+    },
+    {
+      "name": "MOVED TO TEARS",
+      "level": null,
+      "members": [
+        "CHOKED UP",
+        "EMOTIONAL",
+        "MISTY",
+        "OVERCOME"
+      ]
+    },
+    {
+      "name": "SHADES OF GRAY",
+      "level": null,
+      "members": [
+        "ASH",
+        "DOVE",
+        "PEWTER",
+        "SLATE"
+      ]
+    },
+    {
+      "name": "MUSIC GENRE PLUS STARTING LETTER",
+      "level": null,
+      "members": [
+        "BROCK",
+        "NEMO",
+        "SPUNK",
+        "WRAP"
+      ]
+    }
+  ]
+}

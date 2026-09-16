@@ -1,0 +1,47 @@
+{
+  "id": 1139,
+  "date": "2026-07-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FASTENERS",
+      "level": null,
+      "members": [
+        "NAIL",
+        "RIVET",
+        "SCREW",
+        "STAPLE"
+      ]
+    },
+    {
+      "name": "NONDESCRIPT",
+      "level": null,
+      "members": [
+        "BASIC",
+        "MID",
+        "PLAIN",
+        "VANILLA"
+      ]
+    },
+    {
+      "name": "UNITS OF WISDOM",
+      "level": null,
+      "members": [
+        "GEM",
+        "NUGGET",
+        "PEARL",
+        "WORD"
+      ]
+    },
+    {
+      "name": "___BOARDS IN A CLASSROOM",
+      "level": null,
+      "members": [
+        "BLACK",
+        "CHALK",
+        "CORK",
+        "WHITE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 275,
+  "date": "2024-03-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SECTION",
+      "level": 0,
+      "members": [
+        "CLASS",
+        "DIVISION",
+        "RANK",
+        "TIER"
+      ]
+    },
+    {
+      "name": "INCLUDING",
+      "level": 1,
+      "members": [
+        "AND",
+        "ALSO",
+        "PLUS",
+        "WITH"
+      ]
+    },
+    {
+      "name": "DOG BREEDS, INFORMALLY",
+      "level": 2,
+      "members": [
+        "BOSTON",
+        "GOLDEN",
+        "LAB",
+        "PIT"
+      ]
+    },
+    {
+      "name": "FAMOUS POEMS",
+      "level": 3,
+      "members": [
+        "DADDY",
+        "HARLEM",
+        "HOWL",
+        "IF"
+      ]
+    }
+  ]
+}

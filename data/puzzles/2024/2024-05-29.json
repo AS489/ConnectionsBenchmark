@@ -1,0 +1,47 @@
+{
+  "id": 353,
+  "date": "2024-05-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOOD",
+      "level": 0,
+      "members": [
+        "CHOW",
+        "EATS",
+        "FARE",
+        "GRUB"
+      ]
+    },
+    {
+      "name": "PILOT",
+      "level": 1,
+      "members": [
+        "DIRECT",
+        "GUIDE",
+        "LEAD",
+        "STEER"
+      ]
+    },
+    {
+      "name": "INTIMIDATE",
+      "level": 2,
+      "members": [
+        "BULLY",
+        "COW",
+        "DAUNT",
+        "RATTLE"
+      ]
+    },
+    {
+      "name": "___ MARKET",
+      "level": 3,
+      "members": [
+        "BULL",
+        "FLEA",
+        "MEAT",
+        "STOCK"
+      ]
+    }
+  ]
+}

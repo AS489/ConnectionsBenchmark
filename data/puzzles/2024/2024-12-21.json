@@ -1,0 +1,47 @@
+{
+  "id": 559,
+  "date": "2024-12-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LOOP",
+      "level": 0,
+      "members": [
+        "BAND",
+        "CIRCLE",
+        "HOOP",
+        "RING"
+      ]
+    },
+    {
+      "name": "COOKING VESSELS",
+      "level": 1,
+      "members": [
+        "CASSEROLE",
+        "CROCK",
+        "PAN",
+        "POT"
+      ]
+    },
+    {
+      "name": "KINDS OF BEDS",
+      "level": 2,
+      "members": [
+        "BUNK",
+        "CANOPY",
+        "MURPHY",
+        "SLEIGH"
+      ]
+    },
+    {
+      "name": "THINGS CALLED “OSCAR”",
+      "level": 3,
+      "members": [
+        "BALONEY",
+        "GROUCH",
+        "O",
+        "STATUETTE"
+      ]
+    }
+  ]
+}

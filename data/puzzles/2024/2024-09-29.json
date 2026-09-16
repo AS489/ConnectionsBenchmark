@@ -1,0 +1,47 @@
+{
+  "id": 476,
+  "date": "2024-09-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MAKE GOOD ON, AS A PROMISE",
+      "level": 0,
+      "members": [
+        "FULFILL",
+        "HONOR",
+        "KEEP",
+        "UPHOLD"
+      ]
+    },
+    {
+      "name": "BEDDING",
+      "level": 1,
+      "members": [
+        "BLANKET",
+        "SHAM",
+        "SHEET",
+        "THROW"
+      ]
+    },
+    {
+      "name": "ACTIONS IN CARD GAMES",
+      "level": 2,
+      "members": [
+        "DISCARD",
+        "DRAW",
+        "PASS",
+        "PLAY"
+      ]
+    },
+    {
+      "name": "CABINET DEPARTMENTS",
+      "level": 3,
+      "members": [
+        "ENERGY",
+        "JUSTICE",
+        "LABOR",
+        "STATE"
+      ]
+    }
+  ]
+}

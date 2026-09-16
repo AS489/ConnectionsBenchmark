@@ -1,0 +1,47 @@
+{
+  "id": 1177,
+  "date": "2026-09-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MOVE UNSTEADILY",
+      "level": null,
+      "members": [
+        "SWAY",
+        "TODDLE",
+        "TOTTER",
+        "WOBBLE"
+      ]
+    },
+    {
+      "name": "BIRD ONOMATOPOEIA",
+      "level": null,
+      "members": [
+        "COO",
+        "GOBBLE",
+        "HONK",
+        "WARBLE"
+      ]
+    },
+    {
+      "name": "___HEAD",
+      "level": null,
+      "members": [
+        "BOBBLE",
+        "HAMMER",
+        "JUG",
+        "SLEEPY"
+      ]
+    },
+    {
+      "name": "DESSERTS MINUS LAST LETTER",
+      "level": null,
+      "members": [
+        "COBBLE",
+        "PI",
+        "TAR",
+        "TORT"
+      ]
+    }
+  ]
+}

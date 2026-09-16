@@ -1,0 +1,47 @@
+{
+  "id": 382,
+  "date": "2024-06-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PURSUIT",
+      "level": 0,
+      "members": [
+        "CHASE",
+        "HUNT",
+        "QUEST",
+        "SEARCH"
+      ]
+    },
+    {
+      "name": "ROMANTIC LETTER SIGN-OFFS",
+      "level": 1,
+      "members": [
+        "ALWAYS",
+        "KISSES",
+        "LOVE",
+        "YOURS"
+      ]
+    },
+    {
+      "name": "GROUP WITHIN A GROUP",
+      "level": 2,
+      "members": [
+        "CAMP",
+        "PARTY",
+        "SIDE",
+        "WING"
+      ]
+    },
+    {
+      "name": "GOLD ___",
+      "level": 3,
+      "members": [
+        "BOND",
+        "LEAF",
+        "MINE",
+        "RUSH"
+      ]
+    }
+  ]
+}

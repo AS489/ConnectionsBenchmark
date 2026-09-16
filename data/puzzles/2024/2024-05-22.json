@@ -1,0 +1,47 @@
+{
+  "id": 346,
+  "date": "2024-05-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BODY PARTS IN “HEAD, SHOULDERS, KNEES AND TOES”",
+      "level": 0,
+      "members": [
+        "HEAD",
+        "KNEES",
+        "SHOULDERS",
+        "TOES"
+      ]
+    },
+    {
+      "name": "CAR, INFORMALLY",
+      "level": 1,
+      "members": [
+        "AUTO",
+        "RIDE",
+        "WHEELS",
+        "WHIP"
+      ]
+    },
+    {
+      "name": "REMOVES THE COVERING OF",
+      "level": 2,
+      "members": [
+        "PARES",
+        "PEELS",
+        "SHELLS",
+        "SHUCKS"
+      ]
+    },
+    {
+      "name": "“BUZZY” THINGS",
+      "level": 3,
+      "members": [
+        "BEES",
+        "CAFFEINE",
+        "GOSSIP",
+        "INTERCOMS"
+      ]
+    }
+  ]
+}

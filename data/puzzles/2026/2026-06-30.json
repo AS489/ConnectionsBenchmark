@@ -1,0 +1,47 @@
+{
+  "id": 1110,
+  "date": "2026-06-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DIVIDING STRUCTURES",
+      "level": null,
+      "members": [
+        "FENCE",
+        "GATE",
+        "HEDGE",
+        "WALL"
+      ]
+    },
+    {
+      "name": "PARTICIPATE IN SOME WINTER OLYMPICS",
+      "level": null,
+      "members": [
+        "CURL",
+        "LUGE",
+        "SKATE",
+        "SKI"
+      ]
+    },
+    {
+      "name": "COMMON RECYCLABLES",
+      "level": null,
+      "members": [
+        "BOTTLE",
+        "BOX",
+        "CAN",
+        "NEWSPAPER"
+      ]
+    },
+    {
+      "name": "WHAT \"DRAFT\" MIGHT REFER TO",
+      "level": null,
+      "members": [
+        "BREEZE",
+        "ON TAP",
+        "RECRUIT",
+        "SKETCH"
+      ]
+    }
+  ]
+}

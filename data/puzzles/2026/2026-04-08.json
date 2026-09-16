@@ -1,0 +1,47 @@
+{
+  "id": 1028,
+  "date": "2026-04-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COHORT MEMBER",
+      "level": null,
+      "members": [
+        "ASSOCIATE",
+        "COLLEAGUE",
+        "FELLOW",
+        "PEER"
+      ]
+    },
+    {
+      "name": "AESTHETIC",
+      "level": null,
+      "members": [
+        "DESIGN",
+        "LOOK",
+        "SCHEME",
+        "STYLE"
+      ]
+    },
+    {
+      "name": "KINDS OF BAR APPARATUSES",
+      "level": null,
+      "members": [
+        "MONKEY",
+        "PARALLEL",
+        "PULL-UP",
+        "UNEVEN"
+      ]
+    },
+    {
+      "name": "EYEWEAR IN THE SINGULAR",
+      "level": null,
+      "members": [
+        "CONTACT",
+        "GOGGLE",
+        "SHADE",
+        "SPECTACLE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 842,
+  "date": "2025-09-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNNATURAL, AS MANNERISMS",
+      "level": null,
+      "members": [
+        "AWKWARD",
+        "STIFF",
+        "STILTED",
+        "WOODEN"
+      ]
+    },
+    {
+      "name": "WORDS IN A FAMOUS TONGUE TWISTER",
+      "level": null,
+      "members": [
+        "CHUCK",
+        "COULD",
+        "WOOD",
+        "WOODCHUCK"
+      ]
+    },
+    {
+      "name": "CARTOON BIRDS",
+      "level": null,
+      "members": [
+        "FOGHORN",
+        "SCROOGE",
+        "WOODSTOCK",
+        "WOODY"
+      ]
+    },
+    {
+      "name": "ENDING WITH NUMBER HOMOPHONES",
+      "level": null,
+      "members": [
+        "CLASSICS",
+        "CREATE",
+        "GUTHRIE",
+        "THEREFORE"
+      ]
+    }
+  ]
+}

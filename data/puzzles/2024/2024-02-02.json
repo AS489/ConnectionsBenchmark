@@ -1,0 +1,47 @@
+{
+  "id": 236,
+  "date": "2024-02-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TIME OFF",
+      "level": 0,
+      "members": [
+        "BREAK",
+        "HOLIDAY",
+        "LEAVE",
+        "RECESS"
+      ]
+    },
+    {
+      "name": "FEATURES OF A BELT",
+      "level": 1,
+      "members": [
+        "BUCKLE",
+        "HOLE",
+        "LOOP",
+        "STRAP"
+      ]
+    },
+    {
+      "name": "HOMOPHONES",
+      "level": 2,
+      "members": [
+        "HOLEY",
+        "HOLI",
+        "HOLY",
+        "WHOLLY"
+      ]
+    },
+    {
+      "name": "___WOOD",
+      "level": 3,
+      "members": [
+        "DOG",
+        "DRIFT",
+        "HOLLY",
+        "SANDAL"
+      ]
+    }
+  ]
+}

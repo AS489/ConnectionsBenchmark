@@ -1,0 +1,47 @@
+{
+  "id": 1148,
+  "date": "2026-08-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMPONENTS OF A CANDLE",
+      "level": null,
+      "members": [
+        "FRAGRANCE",
+        "JAR",
+        "WAX",
+        "WICK"
+      ]
+    },
+    {
+      "name": "COLD THINGS",
+      "level": null,
+      "members": [
+        "LIQUID NITROGEN",
+        "REFRIGERATOR",
+        "SNOW",
+        "SUNDAE"
+      ]
+    },
+    {
+      "name": "PARTS OF AN ELEVATOR",
+      "level": null,
+      "members": [
+        "BUTTONS",
+        "CABLES",
+        "MOTOR",
+        "SHAFT"
+      ]
+    },
+    {
+      "name": "STARTING WITH MALE ANIMALS",
+      "level": null,
+      "members": [
+        "BUCKYBALL",
+        "JACKPOT",
+        "RAMBO",
+        "TOMATILLO"
+      ]
+    }
+  ]
+}

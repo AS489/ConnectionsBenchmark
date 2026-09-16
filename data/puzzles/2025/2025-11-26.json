@@ -1,0 +1,47 @@
+{
+  "id": 898,
+  "date": "2025-11-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VERBS EXPRESSING POSSIBILITY",
+      "level": null,
+      "members": [
+        "CAN",
+        "COULD",
+        "MAY",
+        "MIGHT"
+      ]
+    },
+    {
+      "name": "WOMEN’S NICKNAMES",
+      "level": null,
+      "members": [
+        "DEB",
+        "JAN",
+        "KAT",
+        "SUE"
+      ]
+    },
+    {
+      "name": "FINANCIAL ABBREVIATIONS",
+      "level": null,
+      "members": [
+        "APR",
+        "CFO",
+        "IRA",
+        "SEC"
+      ]
+    },
+    {
+      "name": "BACKWARDS ANIMALS",
+      "level": null,
+      "members": [
+        "FLOW",
+        "GOD",
+        "MAR",
+        "TAB"
+      ]
+    }
+  ]
+}

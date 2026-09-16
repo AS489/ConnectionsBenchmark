@@ -1,0 +1,47 @@
+{
+  "id": 184,
+  "date": "2023-12-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MURKY CONDITION",
+      "level": 0,
+      "members": [
+        "CLOUD",
+        "FOG",
+        "HAZE",
+        "MIST"
+      ]
+    },
+    {
+      "name": "FOLLOW",
+      "level": 1,
+      "members": [
+        "SHADOW",
+        "TAIL",
+        "TRACK",
+        "TRAIL"
+      ]
+    },
+    {
+      "name": "PINBALL MACHINE COMPONENTS",
+      "level": 2,
+      "members": [
+        "BALL",
+        "BUMPER",
+        "FLIPPER",
+        "PLUNGER"
+      ]
+    },
+    {
+      "name": "___LAND",
+      "level": 3,
+      "members": [
+        "FIN",
+        "GREEN",
+        "ICE",
+        "IRE"
+      ]
+    }
+  ]
+}

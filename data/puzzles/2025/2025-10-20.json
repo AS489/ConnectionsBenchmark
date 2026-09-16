@@ -1,0 +1,47 @@
+{
+  "id": 862,
+  "date": "2025-10-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AFFLICTION",
+      "level": null,
+      "members": [
+        "BUGBEAR",
+        "COMPLEX",
+        "DEMON",
+        "HANG-UP"
+      ]
+    },
+    {
+      "name": "REPRESENTED BY CONSTELLATIONS",
+      "level": null,
+      "members": [
+        "BIG BEAR",
+        "CENTAUR",
+        "HUNTER",
+        "LYRE"
+      ]
+    },
+    {
+      "name": "PERIODIC TABLE SYMBOLS",
+      "level": null,
+      "members": [
+        "AS",
+        "BE",
+        "I",
+        "K"
+      ]
+    },
+    {
+      "name": "___CORN",
+      "level": null,
+      "members": [
+        "A",
+        "CAPRI",
+        "POP",
+        "UNI"
+      ]
+    }
+  ]
+}

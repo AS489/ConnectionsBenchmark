@@ -1,0 +1,47 @@
+{
+  "id": 982,
+  "date": "2026-02-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EASTER SUPPLIES",
+      "level": null,
+      "members": [
+        "BASKET",
+        "DYE",
+        "EGGS",
+        "PEEPS"
+      ]
+    },
+    {
+      "name": "FIREPLACE ACCESSORIES",
+      "level": null,
+      "members": [
+        "BELLOWS",
+        "POKER",
+        "SHOVEL",
+        "TONGS"
+      ]
+    },
+    {
+      "name": "ELEMENTS OF \"SATURDAY NIGHT FEVER\"",
+      "level": null,
+      "members": [
+        "DISCO",
+        "JOHN TRAVOLTA",
+        "PLATFORM SHOES",
+        "POLYESTER SUIT"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF WAYS TO COOK SOMETHING",
+      "level": null,
+      "members": [
+        "BOYLE",
+        "BRAYS",
+        "SEER",
+        "STU"
+      ]
+    }
+  ]
+}

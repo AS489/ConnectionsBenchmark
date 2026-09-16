@@ -1,0 +1,47 @@
+{
+  "id": 896,
+  "date": "2025-11-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SMALL KITCHEN APPLIANCES",
+      "level": null,
+      "members": [
+        "BLENDER",
+        "MICROWAVE",
+        "RICE COOKER",
+        "TOASTER"
+      ]
+    },
+    {
+      "name": "FEATURES OF A CAR'S CENTER CONSOLE",
+      "level": null,
+      "members": [
+        "AIR CONDITIONER",
+        "CUP HOLDER",
+        "RADIO",
+        "SHIFTER"
+      ]
+    },
+    {
+      "name": "SEEN WHILE GOING THROUGH AIRPORT SECURITY",
+      "level": null,
+      "members": [
+        "BIN",
+        "CARRY-ON",
+        "METAL DETECTOR",
+        "X-RAY"
+      ]
+    },
+    {
+      "name": "ENDING IN COLORS",
+      "level": null,
+      "members": [
+        "INFRARED",
+        "MARIGOLD",
+        "STINGRAY",
+        "ULTRAVIOLET"
+      ]
+    }
+  ]
+}

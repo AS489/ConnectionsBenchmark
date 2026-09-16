@@ -1,0 +1,47 @@
+{
+  "id": 467,
+  "date": "2024-09-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PRESUME",
+      "level": 0,
+      "members": [
+        "FIGURE",
+        "IMAGINE",
+        "SUSPECT",
+        "THINK"
+      ]
+    },
+    {
+      "name": "SOMEBODY",
+      "level": 1,
+      "members": [
+        "CHARACTER",
+        "INDIVIDUAL",
+        "PARTY",
+        "PERSON"
+      ]
+    },
+    {
+      "name": "CHARACTERS IN “THE EMPIRE STRIKES BACK,\" FAMILIARLY",
+      "level": 2,
+      "members": [
+        "BOBA",
+        "CHEWY",
+        "EMPEROR",
+        "SOLO"
+      ]
+    },
+    {
+      "name": "WORDS AFTER “KITTY”",
+      "level": 3,
+      "members": [
+        "CAT",
+        "CORNER",
+        "HAWK",
+        "LITTER"
+      ]
+    }
+  ]
+}

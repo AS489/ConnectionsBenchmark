@@ -1,0 +1,47 @@
+{
+  "id": 12,
+  "date": "2023-06-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ANIMAL GROUP NAMES",
+      "level": 0,
+      "members": [
+        "FLOCK",
+        "PACK",
+        "POD",
+        "SCHOOL"
+      ]
+    },
+    {
+      "name": "DEADLY SINS",
+      "level": 1,
+      "members": [
+        "ENVY",
+        "GREED",
+        "LUST",
+        "PRIDE"
+      ]
+    },
+    {
+      "name": "SLOW ANIMALS",
+      "level": 2,
+      "members": [
+        "LORIS",
+        "SLOTH",
+        "SNAIL",
+        "TORTOISE"
+      ]
+    },
+    {
+      "name": "TRIG FUNCTIONS",
+      "level": 3,
+      "members": [
+        "COT",
+        "SEC",
+        "SIN",
+        "TAN"
+      ]
+    }
+  ]
+}

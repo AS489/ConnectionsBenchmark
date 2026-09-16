@@ -1,0 +1,47 @@
+{
+  "id": 622,
+  "date": "2025-02-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MEMBER OF A TEAM WITH THE MOST CHAMPIONSHIPS IN THEIR RESPECTIVE SPORTS",
+      "level": 0,
+      "members": [
+        "CANADIEN",
+        "CELTIC",
+        "PACKER",
+        "YANKEE"
+      ]
+    },
+    {
+      "name": "CREATE SOME VOLUME/TEXTURE IN HAIR",
+      "level": 1,
+      "members": [
+        "CRIMP",
+        "CURL",
+        "FEATHER",
+        "TEASE"
+      ]
+    },
+    {
+      "name": "SUPPLIES FOR MACARONI ART",
+      "level": 2,
+      "members": [
+        "GLITTER",
+        "GLUE",
+        "MACARONI",
+        "PAPER"
+      ]
+    },
+    {
+      "name": "WORDS AFTER “GOLDEN”",
+      "level": 3,
+      "members": [
+        "DOODLE",
+        "GOOSE",
+        "PARACHUTE",
+        "ROD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 880,
+  "date": "2025-11-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BLOCK, AS AN OPENING",
+      "level": null,
+      "members": [
+        "CLOSE",
+        "PLUG",
+        "SEAL",
+        "STOP"
+      ]
+    },
+    {
+      "name": "PUT FORWARD, AS AN ANNOUNCEMENT",
+      "level": null,
+      "members": [
+        "DELIVER",
+        "GIVE",
+        "PRESENT",
+        "PRONOUNCE"
+      ]
+    },
+    {
+      "name": "KINDS OF LANGUAGE",
+      "level": null,
+      "members": [
+        "BODY",
+        "PROGRAMMING",
+        "SIGN",
+        "SPOKEN"
+      ]
+    },
+    {
+      "name": "WORDS AFTER \"I\"",
+      "level": null,
+      "members": [
+        "BEAM",
+        "CHING",
+        "ROBOT",
+        "SPY"
+      ]
+    }
+  ]
+}

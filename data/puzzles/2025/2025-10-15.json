@@ -1,0 +1,47 @@
+{
+  "id": 857,
+  "date": "2025-10-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TYPES OF POOLS",
+      "level": null,
+      "members": [
+        "INFINITY",
+        "KIDDIE",
+        "KIDNEY",
+        "OLYMPIC"
+      ]
+    },
+    {
+      "name": "IN THE NATO PHONETIC ALPHABET",
+      "level": null,
+      "members": [
+        "BRAVO",
+        "DELTA",
+        "GOLF",
+        "LIMA"
+      ]
+    },
+    {
+      "name": "FORD MODELS",
+      "level": null,
+      "members": [
+        "BRONCO",
+        "FIESTA",
+        "MUSTANG",
+        "PINTO"
+      ]
+    },
+    {
+      "name": "___ SEAL",
+      "level": null,
+      "members": [
+        "ELEPHANT",
+        "GREAT",
+        "NAVY",
+        "VACUUM"
+      ]
+    }
+  ]
+}

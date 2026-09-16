@@ -1,0 +1,47 @@
+{
+  "id": 478,
+  "date": "2024-10-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FLUSTERED STATE",
+      "level": 0,
+      "members": [
+        "LATHER",
+        "STEW",
+        "SWEAT",
+        "TIZZY"
+      ]
+    },
+    {
+      "name": "FITNESS",
+      "level": 1,
+      "members": [
+        "CONDITION",
+        "FORM",
+        "HEALTH",
+        "SHAPE"
+      ]
+    },
+    {
+      "name": "FAST-MOVING WATER",
+      "level": 2,
+      "members": [
+        "CASCADE",
+        "CURRENT",
+        "RAPID",
+        "WAVE"
+      ]
+    },
+    {
+      "name": "DISHWASHER CYCLES",
+      "level": 3,
+      "members": [
+        "NORMAL",
+        "QUICK",
+        "RINSE",
+        "SANITIZE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 607,
+  "date": "2025-02-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BE IN CHARGE OF",
+      "level": 0,
+      "members": [
+        "DIRECT",
+        "HEAD",
+        "LEAD",
+        "RUN"
+      ]
+    },
+    {
+      "name": "THINGS MADE OF RUBBER",
+      "level": 1,
+      "members": [
+        "BALLOON",
+        "ERASER",
+        "GALOSH",
+        "TIRE"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH THE GENIE IN “ALADDIN”",
+      "level": 2,
+      "members": [
+        "BLUE",
+        "EARRING",
+        "LAMP",
+        "WISHES"
+      ]
+    },
+    {
+      "name": "RED ___",
+      "level": 3,
+      "members": [
+        "BULL",
+        "CROSS",
+        "HERRING",
+        "VELVET"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 841,
+  "date": "2025-09-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF UNDERWEAR",
+      "level": null,
+      "members": [
+        "BOXER",
+        "BRIEF",
+        "HIPSTER",
+        "THONG"
+      ]
+    },
+    {
+      "name": "PLAY A JOKE ON",
+      "level": null,
+      "members": [
+        "FOOL",
+        "PRANK",
+        "PUNK",
+        "TRICK"
+      ]
+    },
+    {
+      "name": "PARTS OF A TOILET TANK",
+      "level": null,
+      "members": [
+        "CHAIN",
+        "FLAPPER",
+        "FLOAT",
+        "HANDLE"
+      ]
+    },
+    {
+      "name": "FIRST WORDS IN '70S ROCK SONG TITLES",
+      "level": null,
+      "members": [
+        "BABA",
+        "BOHEMIAN",
+        "HOTEL",
+        "STAIRWAY"
+      ]
+    }
+  ]
+}

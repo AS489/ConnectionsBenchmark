@@ -1,0 +1,47 @@
+{
+  "id": 497,
+  "date": "2024-10-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BIT OF NEWSPAPER WRITING",
+      "level": 0,
+      "members": [
+        "ARTICLE",
+        "COLUMN",
+        "FEATURE",
+        "STORY"
+      ]
+    },
+    {
+      "name": "NOISY DISTURBANCE",
+      "level": 1,
+      "members": [
+        "CLATTER",
+        "RACKET",
+        "ROW",
+        "RUCKUS"
+      ]
+    },
+    {
+      "name": "TABLE TENNIS NEEDS",
+      "level": 2,
+      "members": [
+        "BALL",
+        "NET",
+        "PADDLE",
+        "TABLE"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF COORDINATING CONJUNCTIONS",
+      "level": 3,
+      "members": [
+        "BUTT",
+        "FORE",
+        "OAR",
+        "SEW"
+      ]
+    }
+  ]
+}

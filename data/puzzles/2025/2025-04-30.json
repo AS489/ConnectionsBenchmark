@@ -1,0 +1,47 @@
+{
+  "id": 689,
+  "date": "2025-04-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A SHOE",
+      "level": 0,
+      "members": [
+        "HEEL",
+        "SOLE",
+        "TONGUE",
+        "UPPER"
+      ]
+    },
+    {
+      "name": "ACCOMMODATION",
+      "level": 1,
+      "members": [
+        "CAPACITY",
+        "CHAIRS",
+        "ROOM",
+        "SEATING"
+      ]
+    },
+    {
+      "name": "REPUTATION",
+      "level": 2,
+      "members": [
+        "FACE",
+        "IMAGE",
+        "REGARD",
+        "STANDING"
+      ]
+    },
+    {
+      "name": "ENDING WITH SYNONYMS FOR “YUCK”",
+      "level": 3,
+      "members": [
+        "DYNASTY",
+        "ENGROSS",
+        "GIMMICK",
+        "MILDEW"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 486,
+  "date": "2024-10-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EFFERVESCENCE",
+      "level": 0,
+      "members": [
+        "BUBBLES",
+        "FIZZ",
+        "FOAM",
+        "FROTH"
+      ]
+    },
+    {
+      "name": "BURGEON",
+      "level": 1,
+      "members": [
+        "BLOSSOM",
+        "DEVELOP",
+        "MATURE",
+        "PROGRESS"
+      ]
+    },
+    {
+      "name": "MUSIC PUBLICATIONS",
+      "level": 2,
+      "members": [
+        "BILLBOARD",
+        "MOJO",
+        "PITCHFORK",
+        "SPIN"
+      ]
+    },
+    {
+      "name": "ENDING WITH TABLEWARE",
+      "level": 3,
+      "members": [
+        "BOILERPLATE",
+        "BUTTERCUP",
+        "JACKKNIFE",
+        "WITHERSPOON"
+      ]
+    }
+  ]
+}

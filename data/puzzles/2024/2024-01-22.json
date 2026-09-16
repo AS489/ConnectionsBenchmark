@@ -1,0 +1,47 @@
+{
+  "id": 225,
+  "date": "2024-01-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SYMBOLIC RODS",
+      "level": 0,
+      "members": [
+        "BATON",
+        "SCEPTER",
+        "STAFF",
+        "WAND"
+      ]
+    },
+    {
+      "name": "DENTAL TERMS",
+      "level": 1,
+      "members": [
+        "CAVITY",
+        "CROWN",
+        "FILLING",
+        "PLAQUE"
+      ]
+    },
+    {
+      "name": "RUBBER STAMP WORDS",
+      "level": 2,
+      "members": [
+        "APPROVED",
+        "PAID",
+        "URGENT",
+        "VOID"
+      ]
+    },
+    {
+      "name": "___ YEAR",
+      "level": 3,
+      "members": [
+        "GAP",
+        "LEAP",
+        "LIGHT",
+        "SCHOOL"
+      ]
+    }
+  ]
+}

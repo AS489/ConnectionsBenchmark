@@ -1,0 +1,47 @@
+{
+  "id": 166,
+  "date": "2023-11-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CRITICIZE",
+      "level": 0,
+      "members": [
+        "KNOCK",
+        "PAN",
+        "ROAST",
+        "SLAM"
+      ]
+    },
+    {
+      "name": "REALITY SHOWS",
+      "level": 1,
+      "members": [
+        "ALONE",
+        "CATFISH",
+        "CHOPPED",
+        "SURVIVOR"
+      ]
+    },
+    {
+      "name": "CAR BRANDS",
+      "level": 2,
+      "members": [
+        "FIAT",
+        "JAGUAR",
+        "MINI",
+        "RAM"
+      ]
+    },
+    {
+      "name": "___ PAD",
+      "level": 3,
+      "members": [
+        "BACHELOR",
+        "LILY",
+        "MAXI",
+        "MOUSE"
+      ]
+    }
+  ]
+}

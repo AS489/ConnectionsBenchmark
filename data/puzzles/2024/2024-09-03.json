@@ -1,0 +1,47 @@
+{
+  "id": 450,
+  "date": "2024-09-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ABSOLVE",
+      "level": 0,
+      "members": [
+        "EXCUSE",
+        "PARDON",
+        "SAVE",
+        "SPARE"
+      ]
+    },
+    {
+      "name": "EXCESSIVELY",
+      "level": 1,
+      "members": [
+        "BEYOND",
+        "EXTRA",
+        "OVER",
+        "TOO"
+      ]
+    },
+    {
+      "name": "GLOBAL CURRENCIES",
+      "level": 2,
+      "members": [
+        "POUND",
+        "REAL",
+        "WON",
+        "YEN"
+      ]
+    },
+    {
+      "name": "___HEAD",
+      "level": 3,
+      "members": [
+        "ARROW",
+        "BLOCK",
+        "FORE",
+        "KNUCKLE"
+      ]
+    }
+  ]
+}

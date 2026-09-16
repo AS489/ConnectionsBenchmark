@@ -1,0 +1,47 @@
+{
+  "id": 127,
+  "date": "2023-10-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DAYS OF THE WEEK",
+      "level": 0,
+      "members": [
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY",
+        "THURSDAY"
+      ]
+    },
+    {
+      "name": "GO BAD",
+      "level": 1,
+      "members": [
+        "ROT",
+        "SOUR",
+        "SPOIL",
+        "TURN"
+      ]
+    },
+    {
+      "name": "“THE ADDAMS FAMILY” CHARACTERS",
+      "level": 2,
+      "members": [
+        "FESTER",
+        "LURCH",
+        "THING",
+        "WEDNESDAY"
+      ]
+    },
+    {
+      "name": "FAT ___",
+      "level": 3,
+      "members": [
+        "CAT",
+        "CHANCE",
+        "LIP",
+        "TUESDAY"
+      ]
+    }
+  ]
+}

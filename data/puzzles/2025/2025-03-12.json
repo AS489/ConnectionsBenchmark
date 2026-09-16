@@ -1,0 +1,47 @@
+{
+  "id": 640,
+  "date": "2025-03-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INGREDIENTS IN CLASSIC POUND CAKE",
+      "level": 0,
+      "members": [
+        "BUTTER",
+        "EGGS",
+        "FLOUR",
+        "SUGAR"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE RED",
+      "level": 1,
+      "members": [
+        "CARDINAL",
+        "ELMO",
+        "KETCHUP",
+        "ROSE"
+      ]
+    },
+    {
+      "name": "WORDS SAID TO HAVE NO EXACT RHYMES",
+      "level": 2,
+      "members": [
+        "MONTH",
+        "ORANGE",
+        "PURPLE",
+        "SILVER"
+      ]
+    },
+    {
+      "name": "___ CANDY",
+      "level": 3,
+      "members": [
+        "COTTON",
+        "EYE",
+        "JOHN",
+        "ROCK"
+      ]
+    }
+  ]
+}

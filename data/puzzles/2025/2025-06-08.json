@@ -1,0 +1,47 @@
+{
+  "id": 728,
+  "date": "2025-06-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PERSIST",
+      "level": 0,
+      "members": [
+        "HOLD",
+        "LAST",
+        "STAND",
+        "STAY"
+      ]
+    },
+    {
+      "name": "ANIMAL METAPHORS IN ECONOMICS",
+      "level": 1,
+      "members": [
+        "BEAR",
+        "BULL",
+        "DOVE",
+        "HAWK"
+      ]
+    },
+    {
+      "name": "SIDEBAR INFO ON A PERSON’S WIKIPEDIA PAGE",
+      "level": 2,
+      "members": [
+        "BORN",
+        "EDUCATION",
+        "OCCUPATION",
+        "SPOUSE"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF SLANG FOR MONEY",
+      "level": 3,
+      "members": [
+        "BRED",
+        "CACHE",
+        "DOE",
+        "LUTE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 354,
+  "date": "2024-05-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLUNDER",
+      "level": 0,
+      "members": [
+        "LOOT",
+        "RAID",
+        "ROB",
+        "SACK"
+      ]
+    },
+    {
+      "name": "INFLUENCE",
+      "level": 1,
+      "members": [
+        "CLOUT",
+        "PULL",
+        "SWAY",
+        "WEIGHT"
+      ]
+    },
+    {
+      "name": "HAIRSTYLES",
+      "level": 2,
+      "members": [
+        "BOB",
+        "CROP",
+        "FADE",
+        "SHAG"
+      ]
+    },
+    {
+      "name": "___ PIN",
+      "level": 3,
+      "members": [
+        "BOBBY",
+        "HAIR",
+        "PUSH",
+        "SAFETY"
+      ]
+    }
+  ]
+}

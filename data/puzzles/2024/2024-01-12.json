@@ -1,0 +1,47 @@
+{
+  "id": 215,
+  "date": "2024-01-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TOPIC OF DISCUSSION",
+      "level": 0,
+      "members": [
+        "ISSUE",
+        "MATTER",
+        "POINT",
+        "SUBJECT"
+      ]
+    },
+    {
+      "name": "SECTION OF ONE’S LIFE",
+      "level": 1,
+      "members": [
+        "CHAPTER",
+        "PERIOD",
+        "PHASE",
+        "STAGE"
+      ]
+    },
+    {
+      "name": "PARTS OF A CAR, INFORMALLY",
+      "level": 2,
+      "members": [
+        "DASH",
+        "SHOCK",
+        "TANK",
+        "WHEEL"
+      ]
+    },
+    {
+      "name": "COLOR HOMOPHONES",
+      "level": 3,
+      "members": [
+        "BLEW",
+        "CHORAL",
+        "READ",
+        "ROWS"
+      ]
+    }
+  ]
+}

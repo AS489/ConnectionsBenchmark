@@ -1,0 +1,47 @@
+{
+  "id": 3,
+  "date": "2023-06-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FACIAL FEATURES",
+      "level": 0,
+      "members": [
+        "CHEEK",
+        "EYE",
+        "MOUTH",
+        "NOSE"
+      ]
+    },
+    {
+      "name": "SYNONYMS FOR EAT",
+      "level": 1,
+      "members": [
+        "CHOW",
+        "GOBBLE",
+        "SCARF",
+        "WOLF"
+      ]
+    },
+    {
+      "name": "DOG BREEDS, INFORMALLY",
+      "level": 2,
+      "members": [
+        "LAB",
+        "PEKE",
+        "PIT",
+        "POM"
+      ]
+    },
+    {
+      "name": "MEMBERS OF A TRIO",
+      "level": 3,
+      "members": [
+        "AMIGO",
+        "KING",
+        "STOOGE",
+        "TENOR"
+      ]
+    }
+  ]
+}

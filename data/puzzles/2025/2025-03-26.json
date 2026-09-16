@@ -1,0 +1,47 @@
+{
+  "id": 654,
+  "date": "2025-03-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A TABLE SETTING",
+      "level": 0,
+      "members": [
+        "FORK",
+        "GLASS",
+        "NAPKIN",
+        "PLATE"
+      ]
+    },
+    {
+      "name": "INCREASED, WITH “UP”",
+      "level": 1,
+      "members": [
+        "FLEW",
+        "ROSE",
+        "SHOT",
+        "THRUST"
+      ]
+    },
+    {
+      "name": "KINDS OF DIGITAL STORAGE",
+      "level": 2,
+      "members": [
+        "CARD",
+        "CLOUD",
+        "DISK",
+        "DRIVE"
+      ]
+    },
+    {
+      "name": "UNITS OF VOLUME PLUS LETTER",
+      "level": 3,
+      "members": [
+        "BOUNCE",
+        "GALLEON",
+        "PINOT",
+        "QUARTZ"
+      ]
+    }
+  ]
+}

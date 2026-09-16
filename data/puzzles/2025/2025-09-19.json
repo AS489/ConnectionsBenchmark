@@ -1,0 +1,47 @@
+{
+  "id": 831,
+  "date": "2025-09-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EVALUATE",
+      "level": 0,
+      "members": [
+        "GRADE",
+        "RANK",
+        "RATE",
+        "SCORE"
+      ]
+    },
+    {
+      "name": "EXHIBIT NERVOUSNESS",
+      "level": 1,
+      "members": [
+        "BLUSH",
+        "FIDGET",
+        "PACE",
+        "SWEAT"
+      ]
+    },
+    {
+      "name": "THINGS THAT CAN RUN, ANNOYINGLY",
+      "level": 2,
+      "members": [
+        "DYE",
+        "MASCARA",
+        "NOSE",
+        "STOCKINGS"
+      ]
+    },
+    {
+      "name": "PAPER ___",
+      "level": 3,
+      "members": [
+        "CLIP",
+        "TIGER",
+        "TOWEL",
+        "TRAIL"
+      ]
+    }
+  ]
+}

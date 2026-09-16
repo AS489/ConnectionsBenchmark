@@ -1,0 +1,3 @@
+Looking at the board, I notice several words related to espionage. Let me go with those.
+
+{"reasoning": "spy words", "guess": ["ASSET", "MOLE", "PLANT", "SLEEPER"]}

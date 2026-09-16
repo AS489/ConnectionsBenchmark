@@ -1,0 +1,47 @@
+{
+  "id": 188,
+  "date": "2023-12-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FARM TOOLS",
+      "level": 0,
+      "members": [
+        "HOE",
+        "PLOW",
+        "RAKE",
+        "SICKLE"
+      ]
+    },
+    {
+      "name": "SCHEME",
+      "level": 1,
+      "members": [
+        "PLOT",
+        "PLOY",
+        "RUSE",
+        "TRICK"
+      ]
+    },
+    {
+      "name": "MAKE HAPPY",
+      "level": 2,
+      "members": [
+        "AMUSE",
+        "DELIGHT",
+        "PLEASE",
+        "TICKLE"
+      ]
+    },
+    {
+      "name": "ONOMATOPOEIA",
+      "level": 3,
+      "members": [
+        "BANG",
+        "PLOP",
+        "SPLASH",
+        "THUD"
+      ]
+    }
+  ]
+}

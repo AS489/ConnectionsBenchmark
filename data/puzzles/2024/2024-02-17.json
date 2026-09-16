@@ -1,0 +1,47 @@
+{
+  "id": 251,
+  "date": "2024-02-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BIT OF HAIR",
+      "level": 0,
+      "members": [
+        "CURL",
+        "LOCK",
+        "RINGLET",
+        "TRESS"
+      ]
+    },
+    {
+      "name": "MEDIA ATTENTION",
+      "level": 1,
+      "members": [
+        "COVERAGE",
+        "EXPOSURE",
+        "PRESS",
+        "PUBLICITY"
+      ]
+    },
+    {
+      "name": "NOUN SUFFIXES",
+      "level": 2,
+      "members": [
+        "DOM",
+        "ION",
+        "NESS",
+        "SHIP"
+      ]
+    },
+    {
+      "name": "___ CIRCUS",
+      "level": 3,
+      "members": [
+        "FAMILY",
+        "FLEA",
+        "FLYING",
+        "MEDIA"
+      ]
+    }
+  ]
+}

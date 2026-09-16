@@ -1,0 +1,47 @@
+{
+  "id": 269,
+  "date": "2024-03-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF AN AIRPORT",
+      "level": 0,
+      "members": [
+        "HANGAR",
+        "RUNWAY",
+        "TARMAC",
+        "TERMINAL"
+      ]
+    },
+    {
+      "name": "LEGAL TERMS",
+      "level": 1,
+      "members": [
+        "ACTION",
+        "CLAIM",
+        "COMPLAINT",
+        "LAWSUIT"
+      ]
+    },
+    {
+      "name": "THINGS A JUGGLER JUGGLES",
+      "level": 2,
+      "members": [
+        "BEANBAG",
+        "CLUB",
+        "RING",
+        "TORCH"
+      ]
+    },
+    {
+      "name": "WORDS ENDING IN CLOTHING",
+      "level": 3,
+      "members": [
+        "FOXGLOVE",
+        "GUMSHOE",
+        "TURNCOAT",
+        "WINDSOCK"
+      ]
+    }
+  ]
+}

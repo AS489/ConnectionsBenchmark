@@ -1,0 +1,47 @@
+{
+  "id": 994,
+  "date": "2026-03-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "\"BIG\" THINGS",
+      "level": null,
+      "members": [
+        "APPLE",
+        "BROTHER",
+        "DIPPER",
+        "MAC"
+      ]
+    },
+    {
+      "name": "BE ADJACENT TO",
+      "level": null,
+      "members": [
+        "ABUT",
+        "FLANK",
+        "NEIGHBOR",
+        "TOUCH"
+      ]
+    },
+    {
+      "name": "SEEN IN A CLOSET",
+      "level": null,
+      "members": [
+        "HANGER",
+        "HOOK",
+        "ROD",
+        "SHELF"
+      ]
+    },
+    {
+      "name": "STARTING WITH SYNONYMS FOR \"SPEEDY\"",
+      "level": null,
+      "members": [
+        "BRISKET",
+        "FASTIDIOUS",
+        "FLEETWOOD",
+        "QUICKSAND"
+      ]
+    }
+  ]
+}

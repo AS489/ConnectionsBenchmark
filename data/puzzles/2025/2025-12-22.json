@@ -1,0 +1,47 @@
+{
+  "id": 924,
+  "date": "2025-12-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INFLUX",
+      "level": null,
+      "members": [
+        "RASH",
+        "RUSH",
+        "SURGE",
+        "WAVE"
+      ]
+    },
+    {
+      "name": "SUBSEQUENT",
+      "level": null,
+      "members": [
+        "COMING",
+        "FOLLOWING",
+        "FUTURE",
+        "LATER"
+      ]
+    },
+    {
+      "name": "KINDS OF CARDS",
+      "level": null,
+      "members": [
+        "BUSINESS",
+        "GREETING",
+        "MEMBERSHIP",
+        "PLAYING"
+      ]
+    },
+    {
+      "name": "COLORS MINUS LAST LETTER",
+      "level": null,
+      "members": [
+        "BROW",
+        "CYA",
+        "PIN",
+        "WHIT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 443,
+  "date": "2024-08-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXPLOSIVE SOUND",
+      "level": 0,
+      "members": [
+        "BOOM",
+        "CRASH",
+        "ROAR",
+        "THUNDER"
+      ]
+    },
+    {
+      "name": "CHILI PEPPER QUALITY",
+      "level": 1,
+      "members": [
+        "FIRE",
+        "HEAT",
+        "KICK",
+        "SPICE"
+      ]
+    },
+    {
+      "name": "CLASSIC BARBERSHOP SUPPLIES",
+      "level": 2,
+      "members": [
+        "BRUSH",
+        "CAPE",
+        "CLIPPERS",
+        "GEL"
+      ]
+    },
+    {
+      "name": "KINDS OF CARDS",
+      "level": 3,
+      "members": [
+        "BASEBALL",
+        "MAGIC",
+        "SET",
+        "TAROT"
+      ]
+    }
+  ]
+}

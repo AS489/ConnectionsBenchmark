@@ -1,0 +1,47 @@
+{
+  "id": 475,
+  "date": "2024-09-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMPOSITE",
+      "level": 0,
+      "members": [
+        "BLEND",
+        "COMPOUND",
+        "CROSS",
+        "HYBRID"
+      ]
+    },
+    {
+      "name": "EMBED",
+      "level": 1,
+      "members": [
+        "LODGE",
+        "PLANT",
+        "STICK",
+        "WEDGE"
+      ]
+    },
+    {
+      "name": "ITEMS IN A MONOPOLY BOX",
+      "level": 2,
+      "members": [
+        "DEED",
+        "HOTEL",
+        "HOUSE",
+        "TOKEN"
+      ]
+    },
+    {
+      "name": "___ CONTROL",
+      "level": 3,
+      "members": [
+        "BIRTH",
+        "CRUISE",
+        "QUALITY",
+        "REMOTE"
+      ]
+    }
+  ]
+}

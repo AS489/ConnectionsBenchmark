@@ -1,0 +1,47 @@
+{
+  "id": 1129,
+  "date": "2026-07-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CIRCUIT COMPONENTS",
+      "level": null,
+      "members": [
+        "BREAKER",
+        "FUSE",
+        "RELAY",
+        "SWITCH"
+      ]
+    },
+    {
+      "name": "DIGITAL COUPLING VERBS",
+      "level": null,
+      "members": [
+        "CONNECT",
+        "JOIN",
+        "PAIR",
+        "SYNC"
+      ]
+    },
+    {
+      "name": "THINGS TOILETS DO",
+      "level": null,
+      "members": [
+        "DRAIN",
+        "FLUSH",
+        "REFILL",
+        "SWIRL"
+      ]
+    },
+    {
+      "name": "___ FACE EXPRESSIONS",
+      "level": null,
+      "members": [
+        "GAME",
+        "LONG",
+        "POKER",
+        "STRAIGHT"
+      ]
+    }
+  ]
+}

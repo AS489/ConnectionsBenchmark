@@ -1,0 +1,47 @@
+{
+  "id": 682,
+  "date": "2025-04-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A TREE",
+      "level": 0,
+      "members": [
+        "BRANCH",
+        "LEAF",
+        "ROOT",
+        "TRUNK"
+      ]
+    },
+    {
+      "name": "CANINE/FELINE FEATURES",
+      "level": 1,
+      "members": [
+        "FUR",
+        "MUZZLE",
+        "PAW",
+        "TAIL"
+      ]
+    },
+    {
+      "name": "COMEDIC ROUTINE",
+      "level": 2,
+      "members": [
+        "ACT",
+        "BIT",
+        "GAG",
+        "SKETCH"
+      ]
+    },
+    {
+      "name": "___POLE",
+      "level": 3,
+      "members": [
+        "BEAN",
+        "FLAG",
+        "MAY",
+        "TAD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 380,
+  "date": "2024-06-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DIVULGE, AS PRIVATE INFORMATION",
+      "level": 0,
+      "members": [
+        "DISH",
+        "SPILL",
+        "TALK",
+        "TELL"
+      ]
+    },
+    {
+      "name": "DIVIDE",
+      "level": 1,
+      "members": [
+        "BRANCH",
+        "FORK",
+        "PART",
+        "SPLIT"
+      ]
+    },
+    {
+      "name": "SILENT “K”",
+      "level": 2,
+      "members": [
+        "DOORKNOB",
+        "KNIFE",
+        "TOPKNOT",
+        "UNKNOWN"
+      ]
+    },
+    {
+      "name": "KEY TO SUCCESS, SO TO SPEAK",
+      "level": 3,
+      "members": [
+        "FORMULA",
+        "RECIPE",
+        "SECRET",
+        "TICKET"
+      ]
+    }
+  ]
+}

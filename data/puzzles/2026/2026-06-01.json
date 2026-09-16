@@ -1,0 +1,47 @@
+{
+  "id": 1081,
+  "date": "2026-06-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ROOM FEATURES",
+      "level": null,
+      "members": [
+        "CEILING",
+        "DOOR",
+        "WALL",
+        "WINDOW"
+      ]
+    },
+    {
+      "name": "OLD-TIMEY LOUNGING ACCESSORIES",
+      "level": null,
+      "members": [
+        "NEWSPAPER",
+        "PIPE",
+        "ROBE",
+        "SLIPPERS"
+      ]
+    },
+    {
+      "name": "SUBJECTS IN TENNESSEE WILLIAMS TITLES",
+      "level": null,
+      "members": [
+        "STREETCAR",
+        "CAT",
+        "MENAGERIE",
+        "TATTOO"
+      ]
+    },
+    {
+      "name": "___ RING",
+      "level": null,
+      "members": [
+        "KEY",
+        "ONION",
+        "TREE",
+        "WEDDING"
+      ]
+    }
+  ]
+}

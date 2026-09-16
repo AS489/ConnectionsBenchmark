@@ -1,0 +1,47 @@
+{
+  "id": 205,
+  "date": "2024-01-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "B.L.T. INGREDIENTS",
+      "level": 0,
+      "members": [
+        "BREAD",
+        "BACON",
+        "LETTUCE",
+        "TOMATO"
+      ]
+    },
+    {
+      "name": "OBSTRUCT",
+      "level": 1,
+      "members": [
+        "BLOCK",
+        "CLOG",
+        "JAM",
+        "STOP"
+      ]
+    },
+    {
+      "name": "BASEBALL STATS",
+      "level": 2,
+      "members": [
+        "DOUBLE",
+        "HIT",
+        "RUN",
+        "WALK"
+      ]
+    },
+    {
+      "name": "SMALL ___",
+      "level": 3,
+      "members": [
+        "FRY",
+        "TALK",
+        "WONDER",
+        "WORLD"
+      ]
+    }
+  ]
+}

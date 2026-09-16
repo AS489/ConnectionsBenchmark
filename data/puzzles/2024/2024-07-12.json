@@ -1,0 +1,47 @@
+{
+  "id": 397,
+  "date": "2024-07-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SCHOOL FACILITIES",
+      "level": 0,
+      "members": [
+        "AUDITORIUM",
+        "GYM",
+        "LAB",
+        "LIBRARY"
+      ]
+    },
+    {
+      "name": "ROULETTE BETS",
+      "level": 1,
+      "members": [
+        "BLACK",
+        "EVEN",
+        "ODD",
+        "RED"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH “DOVE”",
+      "level": 2,
+      "members": [
+        "CHOCOLATE",
+        "PEACE",
+        "PIGEON",
+        "SOAP"
+      ]
+    },
+    {
+      "name": "___ GOOSE",
+      "level": 3,
+      "members": [
+        "GREY",
+        "GOLDEN",
+        "MOTHER",
+        "SILLY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 438,
+  "date": "2024-08-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CLASSIC MOVIE THEATER EQUIPMENT",
+      "level": 0,
+      "members": [
+        "PROJECTOR",
+        "REEL",
+        "SCREEN",
+        "SPEAKER"
+      ]
+    },
+    {
+      "name": "TIER",
+      "level": 1,
+      "members": [
+        "DECK",
+        "FLOOR",
+        "LEVEL",
+        "STORY"
+      ]
+    },
+    {
+      "name": "NEWSPAPER NAMES",
+      "level": 2,
+      "members": [
+        "GLOBE",
+        "MIRROR",
+        "POST",
+        "SUN"
+      ]
+    },
+    {
+      "name": "PRANK VERBS",
+      "level": 3,
+      "members": [
+        "EGG",
+        "MOON",
+        "STREAK",
+        "TOILET PAPER"
+      ]
+    }
+  ]
+}

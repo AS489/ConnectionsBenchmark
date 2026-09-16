@@ -1,0 +1,47 @@
+{
+  "id": 1003,
+  "date": "2026-03-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "\"NO THANKS\"",
+      "level": null,
+      "members": [
+        "LATER",
+        "NAH",
+        "NEXT TIME",
+        "PASS"
+      ]
+    },
+    {
+      "name": "KINDS OF NUMBERS",
+      "level": null,
+      "members": [
+        "EVEN",
+        "IRRATIONAL",
+        "PERFECT",
+        "PRIME"
+      ]
+    },
+    {
+      "name": "KINDS OF WALLS",
+      "level": null,
+      "members": [
+        "BERLIN",
+        "BRICK",
+        "FOURTH",
+        "GREAT"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF NON-NUMERIC AMOUNTS",
+      "level": null,
+      "members": [
+        "AWL",
+        "NUN",
+        "PHEW",
+        "SUM"
+      ]
+    }
+  ]
+}

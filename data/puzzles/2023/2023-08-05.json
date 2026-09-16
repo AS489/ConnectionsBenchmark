@@ -1,0 +1,47 @@
+{
+  "id": 55,
+  "date": "2023-08-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CLASSIC TOYS",
+      "level": 0,
+      "members": [
+        "BLOCKS",
+        "DOLL",
+        "TOP",
+        "YO-YO"
+      ]
+    },
+    {
+      "name": "WORDS WITH THREE G’S",
+      "level": 1,
+      "members": [
+        "BAGGAGE",
+        "EGGNOG",
+        "GIGGLE",
+        "LEGGINGS"
+      ]
+    },
+    {
+      "name": "SHAKESPEARE CHARACTERS",
+      "level": 2,
+      "members": [
+        "DUNCAN",
+        "JULIET",
+        "PUCK",
+        "VIOLA"
+      ]
+    },
+    {
+      "name": "___ STICK",
+      "level": 3,
+      "members": [
+        "FISH",
+        "HOCKEY",
+        "MEMORY",
+        "SELFIE"
+      ]
+    }
+  ]
+}

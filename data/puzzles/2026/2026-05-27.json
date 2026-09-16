@@ -1,0 +1,47 @@
+{
+  "id": 1076,
+  "date": "2026-05-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SMALL COMMUNITY",
+      "level": null,
+      "members": [
+        "COMMUNE",
+        "HAMLET",
+        "TOWNSHIP",
+        "VILLAGE"
+      ]
+    },
+    {
+      "name": "CLASSIC BOARD GAMES",
+      "level": null,
+      "members": [
+        "BATTLESHIP",
+        "OPERATION",
+        "OTHELLO",
+        "TROUBLE"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF WAYS OF LOOKING",
+      "level": null,
+      "members": [
+        "AYE",
+        "LEAR",
+        "PIER",
+        "STAIR"
+      ]
+    },
+    {
+      "name": "ENDING IN THE \"LITTLE WOMEN\" MARCH SISTERS",
+      "level": null,
+      "members": [
+        "BANJO",
+        "MACBETH",
+        "MONOGAMY",
+        "NUTMEG"
+      ]
+    }
+  ]
+}

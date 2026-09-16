@@ -1,0 +1,47 @@
+{
+  "id": 1085,
+  "date": "2026-06-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ASSOCIATED WITH HANSEL AND GRETEL",
+      "level": null,
+      "members": [
+        "BREADCRUMB",
+        "FOREST",
+        "OVEN",
+        "WITCH"
+      ]
+    },
+    {
+      "name": "BIT OF CEREAL",
+      "level": null,
+      "members": [
+        "CLUSTER",
+        "FLAKE",
+        "LOOP",
+        "PUFF"
+      ]
+    },
+    {
+      "name": "DEMI MOORE MOVIES",
+      "level": null,
+      "members": [
+        "DISCLOSURE",
+        "GHOST",
+        "STRIPTEASE",
+        "THE SUBSTANCE"
+      ]
+    },
+    {
+      "name": "ENDING IN METHODS OF TRANSPORTATION",
+      "level": null,
+      "members": [
+        "INCUBUS",
+        "OSCAR",
+        "QUATRAIN",
+        "SITUATIONSHIP"
+      ]
+    }
+  ]
+}

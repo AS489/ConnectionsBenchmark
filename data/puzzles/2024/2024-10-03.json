@@ -1,0 +1,47 @@
+{
+  "id": 480,
+  "date": "2024-10-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BEVERAGES",
+      "level": 0,
+      "members": [
+        "JUICE",
+        "MILK",
+        "PUNCH",
+        "SODA"
+      ]
+    },
+    {
+      "name": "CARE FOR A PLANT",
+      "level": 1,
+      "members": [
+        "FERTILIZE",
+        "POT",
+        "PRUNE",
+        "WATER"
+      ]
+    },
+    {
+      "name": "ITEM SOLD IN PAIRS",
+      "level": 2,
+      "members": [
+        "BOOKEND",
+        "EARBUD",
+        "SKI",
+        "SOCK"
+      ]
+    },
+    {
+      "name": "BUGS PLUS STARTING LETTER",
+      "level": 3,
+      "members": [
+        "BLOUSE",
+        "PANT",
+        "SMITE",
+        "STICK"
+      ]
+    }
+  ]
+}

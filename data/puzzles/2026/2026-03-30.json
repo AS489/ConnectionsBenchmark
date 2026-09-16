@@ -1,0 +1,47 @@
+{
+  "id": 1020,
+  "date": "2026-03-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "IMITATION",
+      "level": null,
+      "members": [
+        "DUMMY",
+        "ERSATZ",
+        "FAUX",
+        "MOCK"
+      ]
+    },
+    {
+      "name": "PLAY AROUND (WITH)",
+      "level": null,
+      "members": [
+        "FUTZ",
+        "MESS",
+        "TINKER",
+        "TOY"
+      ]
+    },
+    {
+      "name": "CAR RENTAL COMPANIES",
+      "level": null,
+      "members": [
+        "AVIS",
+        "BUDGET",
+        "DOLLAR",
+        "HERTZ"
+      ]
+    },
+    {
+      "name": "SNACK BRANDS PLUS STARTING LETTER",
+      "level": null,
+      "members": [
+        "FRITZ",
+        "PLAYS",
+        "TRUFFLES",
+        "YUTZ"
+      ]
+    }
+  ]
+}

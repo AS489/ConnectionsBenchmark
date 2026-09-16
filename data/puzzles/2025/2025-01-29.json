@@ -1,0 +1,47 @@
+{
+  "id": 598,
+  "date": "2025-01-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OWNED",
+      "level": 0,
+      "members": [
+        "BORE",
+        "HAD",
+        "HELD",
+        "POSSESSED"
+      ]
+    },
+    {
+      "name": "THINGS YOU MIGHT DO IN YOUR SLEEP",
+      "level": 1,
+      "members": [
+        "DREAM",
+        "DROOL",
+        "SNORE",
+        "TALK"
+      ]
+    },
+    {
+      "name": "MOVIE SERIES WITH 2024 RELEASES",
+      "level": 2,
+      "members": [
+        "ALIEN",
+        "GLADIATOR",
+        "VENOM",
+        "WICKED"
+      ]
+    },
+    {
+      "name": "___ HOUSE",
+      "level": 3,
+      "members": [
+        "FULL",
+        "GINGERBREAD",
+        "HAUNTED",
+        "WHITE"
+      ]
+    }
+  ]
+}

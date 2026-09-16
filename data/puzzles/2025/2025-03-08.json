@@ -1,0 +1,47 @@
+{
+  "id": 636,
+  "date": "2025-03-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FAUX",
+      "level": 0,
+      "members": [
+        "ARTIFICIAL",
+        "FAKE",
+        "IMITATION",
+        "MOCK"
+      ]
+    },
+    {
+      "name": "WASHING MACHINE CYCLES/SETTINGS",
+      "level": 1,
+      "members": [
+        "BULKY",
+        "COTTON",
+        "DELICATE",
+        "SPIN"
+      ]
+    },
+    {
+      "name": "WORDS SAID FREQUENTLY IN THE “BILL AND TED” MOVIES",
+      "level": 2,
+      "members": [
+        "BOGUS",
+        "DUDE",
+        "EXCELLENT",
+        "TOTALLY"
+      ]
+    },
+    {
+      "name": "___BOX",
+      "level": 3,
+      "members": [
+        "CHATTER",
+        "JUKE",
+        "SHADOW",
+        "SOAP"
+      ]
+    }
+  ]
+}

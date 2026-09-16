@@ -1,0 +1,47 @@
+{
+  "id": 81,
+  "date": "2023-08-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "APPETIZER UNIT",
+      "level": 0,
+      "members": [
+        "FRY",
+        "NACHO",
+        "POPPER",
+        "WING"
+      ]
+    },
+    {
+      "name": "RESPONSE TO A CORRECT ANSWER",
+      "level": 1,
+      "members": [
+        "BINGO",
+        "CORRECT",
+        "RIGHT",
+        "YES"
+      ]
+    },
+    {
+      "name": "MAR",
+      "level": 2,
+      "members": [
+        "CHIP",
+        "DING",
+        "NICK",
+        "SCRATCH"
+      ]
+    },
+    {
+      "name": "___JACK",
+      "level": 3,
+      "members": [
+        "APPLE",
+        "CRACKER",
+        "FLAP",
+        "LUMBER"
+      ]
+    }
+  ]
+}

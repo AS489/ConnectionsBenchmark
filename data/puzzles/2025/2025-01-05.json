@@ -1,0 +1,47 @@
+{
+  "id": 574,
+  "date": "2025-01-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HARDLY BUSTLING",
+      "level": 0,
+      "members": [
+        "CALM",
+        "QUIET",
+        "SLEEPY",
+        "SLOW"
+      ]
+    },
+    {
+      "name": "EARN",
+      "level": 1,
+      "members": [
+        "GROSS",
+        "MAKE",
+        "NET",
+        "YIELD"
+      ]
+    },
+    {
+      "name": "REMOTE CONTROL FUNCTIONS",
+      "level": 2,
+      "members": [
+        "HOME",
+        "MUTE",
+        "STOP",
+        "VOLUME"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “DRUM”",
+      "level": 3,
+      "members": [
+        "EAR",
+        "KETTLE",
+        "OIL",
+        "SNARE"
+      ]
+    }
+  ]
+}

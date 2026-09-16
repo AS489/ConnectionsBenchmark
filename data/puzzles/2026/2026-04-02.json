@@ -1,0 +1,47 @@
+{
+  "id": 1022,
+  "date": "2026-04-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SUPPORT",
+      "level": null,
+      "members": [
+        "BACK",
+        "CHAMPION",
+        "ENDORSE",
+        "SECOND"
+      ]
+    },
+    {
+      "name": "OPPORTUNITY",
+      "level": null,
+      "members": [
+        "CHANCE",
+        "MOMENT",
+        "OPENING",
+        "WINDOW"
+      ]
+    },
+    {
+      "name": "MALE ANIMALS",
+      "level": null,
+      "members": [
+        "BUCK",
+        "DRAKE",
+        "DRONE",
+        "STALLION"
+      ]
+    },
+    {
+      "name": "ENDS OF LIQUOR BRANDS",
+      "level": null,
+      "members": [
+        "CARDI",
+        "EATER",
+        "MESON",
+        "MIGOS"
+      ]
+    }
+  ]
+}

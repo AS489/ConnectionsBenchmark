@@ -1,0 +1,47 @@
+{
+  "id": 1100,
+  "date": "2026-06-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FEATURING SILENT AND PRONOUNCED \"K\"S",
+      "level": null,
+      "members": [
+        "JACKKNIFE",
+        "KNAPSACK",
+        "KNICKS",
+        "KNOCK-KNOCK"
+      ]
+    },
+    {
+      "name": "ENDORSE",
+      "level": null,
+      "members": [
+        "BACK",
+        "BOLSTER",
+        "CHAMPION",
+        "SUPPORT"
+      ]
+    },
+    {
+      "name": "KINDS OF CHAIRS",
+      "level": null,
+      "members": [
+        "BEANBAG",
+        "RECLINER",
+        "ROCKER",
+        "STOOL"
+      ]
+    },
+    {
+      "name": "WORDS REPEATED IN HIT SONG TITLES",
+      "level": null,
+      "members": [
+        "JUMPIN'",
+        "LOUIE",
+        "NEW YORK",
+        "REBEL"
+      ]
+    }
+  ]
+}

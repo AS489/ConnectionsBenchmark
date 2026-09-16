@@ -1,0 +1,47 @@
+{
+  "id": 976,
+  "date": "2026-02-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DOWNRIGHT",
+      "level": null,
+      "members": [
+        "PURE",
+        "SHEER",
+        "STARK",
+        "UTTER"
+      ]
+    },
+    {
+      "name": "PENNANT",
+      "level": null,
+      "members": [
+        "BANNER",
+        "COLORS",
+        "FLAG",
+        "STANDARD"
+      ]
+    },
+    {
+      "name": "CIGARETTE BRANDS",
+      "level": null,
+      "members": [
+        "CAMEL",
+        "KENT",
+        "PARLIAMENT",
+        "SALEM"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF WAYS TO GET SMALLER",
+      "level": null,
+      "members": [
+        "LESSON",
+        "RESEED",
+        "SYNC",
+        "WAYNE"
+      ]
+    }
+  ]
+}

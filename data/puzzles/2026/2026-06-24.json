@@ -1,0 +1,47 @@
+{
+  "id": 1104,
+  "date": "2026-06-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PROG BANDS",
+      "level": null,
+      "members": [
+        "GENESIS",
+        "KING CRIMSON",
+        "PINK FLOYD",
+        "RUSH"
+      ]
+    },
+    {
+      "name": "CLASSIC WEDDING GIFTS",
+      "level": null,
+      "members": [
+        "CHINA",
+        "LUGGAGE",
+        "MONEY",
+        "TOASTER"
+      ]
+    },
+    {
+      "name": "RED CHARACTERS",
+      "level": null,
+      "members": [
+        "CLIFFORD",
+        "DEADPOOL",
+        "KOOL-AID MAN",
+        "MR. KRABS"
+      ]
+    },
+    {
+      "name": "RHYMING COMPOUND WORDS",
+      "level": null,
+      "members": [
+        "CHICK FLICK",
+        "HELTER SKELTER",
+        "HUMPTY DUMPTY",
+        "MUMBO JUMBO"
+      ]
+    }
+  ]
+}

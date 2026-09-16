@@ -1,0 +1,47 @@
+{
+  "id": 175,
+  "date": "2023-12-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MONTHLY BILLS",
+      "level": 0,
+      "members": [
+        "CABLE",
+        "ELECTRIC",
+        "GAS",
+        "WATER"
+      ]
+    },
+    {
+      "name": "RELATED TO SOUND/HEARING",
+      "level": 1,
+      "members": [
+        "ACOUSTIC",
+        "AUDITORY",
+        "HEARD",
+        "SONIC"
+      ]
+    },
+    {
+      "name": "CONNECT",
+      "level": 2,
+      "members": [
+        "COUPLE",
+        "HITCH",
+        "LINK",
+        "TIE"
+      ]
+    },
+    {
+      "name": "EXCITE, WITH “UP”",
+      "level": 3,
+      "members": [
+        "AMP",
+        "FIRE",
+        "HYPE",
+        "PUMP"
+      ]
+    }
+  ]
+}

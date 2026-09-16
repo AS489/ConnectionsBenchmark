@@ -1,0 +1,47 @@
+{
+  "id": 519,
+  "date": "2024-11-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHOCOLATE BARS",
+      "level": 0,
+      "members": [
+        "CRUNCH",
+        "DOVE",
+        "MARS",
+        "PAYDAY"
+      ]
+    },
+    {
+      "name": "GIST",
+      "level": 1,
+      "members": [
+        "CORE",
+        "MEAT",
+        "SUBSTANCE",
+        "THRUST"
+      ]
+    },
+    {
+      "name": "KINDS OF BRAS",
+      "level": 2,
+      "members": [
+        "DEMI",
+        "PUSH-UP",
+        "SPORTS",
+        "WIRELESS"
+      ]
+    },
+    {
+      "name": "___ BIRD",
+      "level": 3,
+      "members": [
+        "BIG",
+        "EARLY",
+        "LADY",
+        "SUE"
+      ]
+    }
+  ]
+}

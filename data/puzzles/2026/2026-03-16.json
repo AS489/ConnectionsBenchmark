@@ -1,0 +1,47 @@
+{
+  "id": 1006,
+  "date": "2026-03-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ANIMAL GROUP NAMES",
+      "level": null,
+      "members": [
+        "GAGGLE",
+        "PACK",
+        "POD",
+        "PRIDE"
+      ]
+    },
+    {
+      "name": "THINGS ASSOCIATED WITH BEING SLOW",
+      "level": null,
+      "members": [
+        "GLACIER",
+        "MOLASSES",
+        "SLOTH",
+        "TRAFFIC"
+      ]
+    },
+    {
+      "name": "SILENT \"W\"",
+      "level": null,
+      "members": [
+        "CARTWRIGHT",
+        "TWO",
+        "WRATH",
+        "WRESTLE"
+      ]
+    },
+    {
+      "name": "WORDS THAT SOUND LIKE STATE ABBREVIATIONS",
+      "level": null,
+      "members": [
+        "ANY",
+        "EMMY",
+        "ENVY",
+        "OKAY"
+      ]
+    }
+  ]
+}

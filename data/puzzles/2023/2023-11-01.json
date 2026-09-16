@@ -1,0 +1,47 @@
+{
+  "id": 143,
+  "date": "2023-11-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SOCIAL MEDIA ACTIONS",
+      "level": 0,
+      "members": [
+        "FOLLOW",
+        "LIKE",
+        "SHARE",
+        "SUBSCRIBE"
+      ]
+    },
+    {
+      "name": "USE A NEEDLE AND THREAD",
+      "level": 1,
+      "members": [
+        "DARN",
+        "HEM",
+        "SEAM",
+        "SEW"
+      ]
+    },
+    {
+      "name": "SHOWS SET IN HOSPITALS",
+      "level": 2,
+      "members": [
+        "ER",
+        "HOUSE",
+        "RATCHED",
+        "SCRUBS"
+      ]
+    },
+    {
+      "name": "EXPRESSIONS OF HESITATION",
+      "level": 3,
+      "members": [
+        "ERM",
+        "UH",
+        "UM",
+        "WELL"
+      ]
+    }
+  ]
+}

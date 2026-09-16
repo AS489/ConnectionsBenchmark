@@ -1,0 +1,47 @@
+{
+  "id": 579,
+  "date": "2025-01-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BE CONTINGENT (ON)",
+      "level": 0,
+      "members": [
+        "DEPEND",
+        "HINGE",
+        "RELY",
+        "REST"
+      ]
+    },
+    {
+      "name": "“CALM DOWN”",
+      "level": 1,
+      "members": [
+        "CHILL",
+        "EASY",
+        "ENOUGH",
+        "RELAX"
+      ]
+    },
+    {
+      "name": "INGREDIENTS IN AN OLD FASHIONED",
+      "level": 2,
+      "members": [
+        "BITTERS",
+        "ORANGE",
+        "RYE",
+        "SUGAR"
+      ]
+    },
+    {
+      "name": "FEATURED IN THE MONTY HALL PROBLEM",
+      "level": 3,
+      "members": [
+        "CAR",
+        "DOOR",
+        "GOAT",
+        "HOST"
+      ]
+    }
+  ]
+}

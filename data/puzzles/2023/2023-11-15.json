@@ -1,0 +1,47 @@
+{
+  "id": 157,
+  "date": "2023-11-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "“GROSS!”",
+      "level": 0,
+      "members": [
+        "EW",
+        "ICK",
+        "PU",
+        "UGH"
+      ]
+    },
+    {
+      "name": "MAGAZINES",
+      "level": 1,
+      "members": [
+        "O",
+        "OK",
+        "US",
+        "W"
+      ]
+    },
+    {
+      "name": "“YES” IN DIFFERENT LANGUAGES",
+      "level": 2,
+      "members": [
+        "HAI",
+        "JA",
+        "SI",
+        "DA"
+      ]
+    },
+    {
+      "name": "HOMOPHONES",
+      "level": 3,
+      "members": [
+        "OUI",
+        "WE",
+        "WEE",
+        "WII"
+      ]
+    }
+  ]
+}

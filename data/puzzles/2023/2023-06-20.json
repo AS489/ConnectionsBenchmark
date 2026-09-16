@@ -1,0 +1,47 @@
+{
+  "id": 9,
+  "date": "2023-06-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPORTS",
+      "level": 0,
+      "members": [
+        "CRICKET",
+        "FENCING",
+        "POLO",
+        "SQUASH"
+      ]
+    },
+    {
+      "name": "TOPS",
+      "level": 1,
+      "members": [
+        "CAMI",
+        "HALTER",
+        "TANK",
+        "TEE"
+      ]
+    },
+    {
+      "name": "VEGETABLES",
+      "level": 2,
+      "members": [
+        "BEET",
+        "CARROT",
+        "CORN",
+        "ONION"
+      ]
+    },
+    {
+      "name": "INSECTS",
+      "level": 3,
+      "members": [
+        "ANT",
+        "BEETLE",
+        "MANTIS",
+        "TERMITE"
+      ]
+    }
+  ]
+}

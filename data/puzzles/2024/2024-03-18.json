@@ -1,0 +1,47 @@
+{
+  "id": 281,
+  "date": "2024-03-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SEGMENT OF A PROCESS",
+      "level": 0,
+      "members": [
+        "CYCLE",
+        "PHASE",
+        "ROUND",
+        "STAGE"
+      ]
+    },
+    {
+      "name": "CONSTELLATIONS",
+      "level": 1,
+      "members": [
+        "CYGNUS",
+        "GEMINI",
+        "ORION",
+        "PEGASUS"
+      ]
+    },
+    {
+      "name": "SPIRALS IN NATURE",
+      "level": 2,
+      "members": [
+        "CYCLONE",
+        "GALAXY",
+        "SNAIL",
+        "SUNFLOWER"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH “ONE”",
+      "level": 3,
+      "members": [
+        "CYCLOPS",
+        "MONOLOGUE",
+        "SOLITAIRE",
+        "UNICYCLE"
+      ]
+    }
+  ]
+}

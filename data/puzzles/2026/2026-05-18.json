@@ -1,0 +1,47 @@
+{
+  "id": 1067,
+  "date": "2026-05-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HOMOPHONES",
+      "level": null,
+      "members": [
+        "PAIR",
+        "PARE",
+        "PEAR",
+        "PÈRE"
+      ]
+    },
+    {
+      "name": "RUPTURE",
+      "level": null,
+      "members": [
+        "BLOW",
+        "CRACK",
+        "POP",
+        "SPLIT"
+      ]
+    },
+    {
+      "name": "MLB PLAYER",
+      "level": null,
+      "members": [
+        "PADRE",
+        "RED",
+        "ROYAL",
+        "TWIN"
+      ]
+    },
+    {
+      "name": "FRUIT ANAGRAMS",
+      "level": null,
+      "members": [
+        "CHEAP",
+        "EARP",
+        "LUMP",
+        "WIKI"
+      ]
+    }
+  ]
+}

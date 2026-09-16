@@ -1,0 +1,47 @@
+{
+  "id": 359,
+  "date": "2024-06-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TAKE HOME, AS INCOME",
+      "level": 0,
+      "members": [
+        "CLEAR",
+        "EARN",
+        "MAKE",
+        "NET"
+      ]
+    },
+    {
+      "name": "PARTS OF A WIZARD COSTUME",
+      "level": 1,
+      "members": [
+        "BEARD",
+        "HAT",
+        "ROBE",
+        "STAFF"
+      ]
+    },
+    {
+      "name": "FOUND ON A SHIP",
+      "level": 2,
+      "members": [
+        "BRIDGE",
+        "DECK",
+        "HATCH",
+        "KEEL"
+      ]
+    },
+    {
+      "name": "C-___",
+      "level": 3,
+      "members": [
+        "CLEF",
+        "SECTION",
+        "SPAN",
+        "SUITE"
+      ]
+    }
+  ]
+}

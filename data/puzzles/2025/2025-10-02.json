@@ -1,0 +1,47 @@
+{
+  "id": 844,
+  "date": "2025-10-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DOG COMMANDS",
+      "level": null,
+      "members": [
+        "COME",
+        "DOWN",
+        "HEEL",
+        "STAY"
+      ]
+    },
+    {
+      "name": "DESERVED",
+      "level": null,
+      "members": [
+        "DUE",
+        "FAIR",
+        "JUST",
+        "RIGHT"
+      ]
+    },
+    {
+      "name": "SITUATED",
+      "level": null,
+      "members": [
+        "LEFT",
+        "PLACED",
+        "PUT",
+        "SET"
+      ]
+    },
+    {
+      "name": "BEST ANIMATED FEATURE OSCAR WINNERS",
+      "level": null,
+      "members": [
+        "BRAVE",
+        "FLOW",
+        "FROZEN",
+        "UP"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 766,
+  "date": "2025-07-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A COLLEGE CAMPUS",
+      "level": 0,
+      "members": [
+        "CAFETERIA",
+        "DORM",
+        "LIBRARY",
+        "QUAD"
+      ]
+    },
+    {
+      "name": "EXAGGERATED, AS A PERFORMANCE",
+      "level": 1,
+      "members": [
+        "CAMP",
+        "DRAMATIC",
+        "HAMMY",
+        "OVERDONE"
+      ]
+    },
+    {
+      "name": "CLOSE IN ON",
+      "level": 2,
+      "members": [
+        "CORNER",
+        "SURROUND",
+        "TRAP",
+        "TREE"
+      ]
+    },
+    {
+      "name": "STARTS OF GREEK LETTERS",
+      "level": 3,
+      "members": [
+        "BET",
+        "DELT",
+        "LAMB",
+        "THE"
+      ]
+    }
+  ]
+}

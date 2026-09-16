@@ -1,0 +1,47 @@
+{
+  "id": 278,
+  "date": "2024-03-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CRITICIZE",
+      "level": 0,
+      "members": [
+        "BLAST",
+        "KNOCK",
+        "SLAM",
+        "TRASH"
+      ]
+    },
+    {
+      "name": "“MY MISTAKE!”",
+      "level": 1,
+      "members": [
+        "APOLOGIES",
+        "OOPS",
+        "PARDON",
+        "SORRY"
+      ]
+    },
+    {
+      "name": "ALIBI",
+      "level": 2,
+      "members": [
+        "DEFENSE",
+        "EXCUSE",
+        "OUT",
+        "REASON"
+      ]
+    },
+    {
+      "name": "PLAY ___",
+      "level": 3,
+      "members": [
+        "DATE",
+        "DEAD",
+        "DIRTY",
+        "DOH"
+      ]
+    }
+  ]
+}

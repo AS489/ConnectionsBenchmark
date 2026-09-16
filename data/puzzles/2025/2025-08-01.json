@@ -1,0 +1,47 @@
+{
+  "id": 782,
+  "date": "2025-08-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "APTITUDE",
+      "level": 0,
+      "members": [
+        "BENT",
+        "FACULTY",
+        "FLAIR",
+        "GIFT"
+      ]
+    },
+    {
+      "name": "SILENT “W”",
+      "level": 1,
+      "members": [
+        "PLAYWRIGHT",
+        "SWORD",
+        "WRAP",
+        "WREATH"
+      ]
+    },
+    {
+      "name": "LEGENDS OF CLASSIC HOLLYWOOD",
+      "level": 2,
+      "members": [
+        "DEAN",
+        "GABLE",
+        "GARLAND",
+        "TEMPLE"
+      ]
+    },
+    {
+      "name": "HIT THE ___",
+      "level": 3,
+      "members": [
+        "HAY",
+        "JACKPOT",
+        "ROAD",
+        "ROOF"
+      ]
+    }
+  ]
+}

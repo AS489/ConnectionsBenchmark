@@ -1,0 +1,47 @@
+{
+  "id": 416,
+  "date": "2024-07-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RASPY",
+      "level": 0,
+      "members": [
+        "GRUFF",
+        "HOARSE",
+        "HUSKY",
+        "ROUGH"
+      ]
+    },
+    {
+      "name": "FINGERS",
+      "level": 1,
+      "members": [
+        "LITTLE",
+        "MIDDLE",
+        "POINTER",
+        "RING"
+      ]
+    },
+    {
+      "name": "ALE STYLES",
+      "level": 2,
+      "members": [
+        "AMBER",
+        "PORTER",
+        "SOUR",
+        "STOUT"
+      ]
+    },
+    {
+      "name": "FRENCH ___",
+      "level": 3,
+      "members": [
+        "BULLDOG",
+        "FRY",
+        "HORN",
+        "KISS"
+      ]
+    }
+  ]
+}

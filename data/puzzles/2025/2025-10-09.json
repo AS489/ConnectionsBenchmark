@@ -1,0 +1,47 @@
+{
+  "id": 851,
+  "date": "2025-10-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FANTASY",
+      "level": null,
+      "members": [
+        "INVENTION",
+        "FANCY",
+        "FICTION",
+        "FIGMENT"
+      ]
+    },
+    {
+      "name": "KINDS OF ROCKS",
+      "level": null,
+      "members": [
+        "FLINT",
+        "LIMESTONE",
+        "MARBLE",
+        "SLATE"
+      ]
+    },
+    {
+      "name": "NEWS ARTICLE FEATURES",
+      "level": null,
+      "members": [
+        "CAPTION",
+        "DATELINE",
+        "LEDE",
+        "PHOTO"
+      ]
+    },
+    {
+      "name": "TITLE FIGURES IN CLASSIC VIDEO GAMES",
+      "level": null,
+      "members": [
+        "GORILLA",
+        "HEDGEHOG",
+        "PLUMBER",
+        "PRINCESS"
+      ]
+    }
+  ]
+}

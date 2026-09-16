@@ -1,0 +1,47 @@
+{
+  "id": 837,
+  "date": "2025-09-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LEFT-LEANING, POLITICALLY",
+      "level": null,
+      "members": [
+        "BLUE",
+        "LEFT",
+        "LIBERAL",
+        "PROGRESSIVE"
+      ]
+    },
+    {
+      "name": "ICE CREAM PARLOR ORDERS",
+      "level": null,
+      "members": [
+        "CONE",
+        "CUP",
+        "SHAKE",
+        "SPLIT"
+      ]
+    },
+    {
+      "name": "MATT DAMON MOVIES, WITH \"THE\"",
+      "level": null,
+      "members": [
+        "DEPARTED",
+        "GOOD SHEPHERD",
+        "MARTIAN",
+        "RAINMAKER"
+      ]
+    },
+    {
+      "name": "NAMED \"APOLLO\"",
+      "level": null,
+      "members": [
+        "FICTIONAL BOXER",
+        "GREEK/ROMAN GOD",
+        "SPACECRAFT",
+        "THEATER"
+      ]
+    }
+  ]
+}

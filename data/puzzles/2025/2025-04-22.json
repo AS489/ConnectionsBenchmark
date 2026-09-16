@@ -1,0 +1,47 @@
+{
+  "id": 681,
+  "date": "2025-04-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CANCEL, AS A PROJECT",
+      "level": 0,
+      "members": [
+        "AXE",
+        "CUT",
+        "DROP",
+        "SCRAP"
+      ]
+    },
+    {
+      "name": "SEEN IN A POTTERY STUDIO",
+      "level": 1,
+      "members": [
+        "CLAY",
+        "GLAZE",
+        "KILN",
+        "WHEEL"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE SLIPPERY",
+      "level": 2,
+      "members": [
+        "BANANA PEEL",
+        "EEL",
+        "GREASE",
+        "ICE"
+      ]
+    },
+    {
+      "name": "NATURAL PRODUCERS OF HEAT",
+      "level": 3,
+      "members": [
+        "FIRE",
+        "LIGHTNING",
+        "SUN",
+        "VOLCANO"
+      ]
+    }
+  ]
+}

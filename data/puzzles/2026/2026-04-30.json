@@ -1,0 +1,47 @@
+{
+  "id": 1050,
+  "date": "2026-04-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNNERVE",
+      "level": null,
+      "members": [
+        "ALARM",
+        "DISTURB",
+        "SHAKE",
+        "SHOCK"
+      ]
+    },
+    {
+      "name": "REMOVE, AS AN ITEM FROM A LIST, WITH \"OFF\"",
+      "level": null,
+      "members": [
+        "CHECK",
+        "CROSS",
+        "MARK",
+        "TICK"
+      ]
+    },
+    {
+      "name": "WHAT \"T\" MIGHT STAND FOR",
+      "level": null,
+      "members": [
+        "TESLA",
+        "TIME",
+        "TRUE",
+        "TYRANNOSAURUS"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF POSSESSIVE ADJECTIVES",
+      "level": null,
+      "members": [
+        "HOUR",
+        "HUR",
+        "THERE",
+        "YORE"
+      ]
+    }
+  ]
+}

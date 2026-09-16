@@ -1,0 +1,47 @@
+{
+  "id": 1016,
+  "date": "2026-03-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOOD PROCUREMENT METHODS",
+      "level": null,
+      "members": [
+        "AGRICULTURE",
+        "FISHING",
+        "GATHERING",
+        "HUNTING"
+      ]
+    },
+    {
+      "name": "MEMBER OF A DETROIT SPORTS TEAM",
+      "level": null,
+      "members": [
+        "LION",
+        "PISTON",
+        "RED WING",
+        "TIGER"
+      ]
+    },
+    {
+      "name": "FEATURES OF A CLASSIC VOTING BOOTH",
+      "level": null,
+      "members": [
+        "BALLOT",
+        "BOOTH",
+        "CURTAIN",
+        "LEVER"
+      ]
+    },
+    {
+      "name": "THEY HAVE BOLTS",
+      "level": null,
+      "members": [
+        "FRANKENSTEIN'S MONSTER",
+        "HARDWARE STORE",
+        "LIGHTNING",
+        "LOCK"
+      ]
+    }
+  ]
+}

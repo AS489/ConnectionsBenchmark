@@ -1,0 +1,47 @@
+{
+  "id": 1061,
+  "date": "2026-05-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SUBSTANTIAL BOOK",
+      "level": null,
+      "members": [
+        "OPUS",
+        "TOME",
+        "VOLUME",
+        "WORK"
+      ]
+    },
+    {
+      "name": "\"SAINT\" CITIES",
+      "level": null,
+      "members": [
+        "MONICA",
+        "PAULO",
+        "PETERSBURG",
+        "SALVADOR"
+      ]
+    },
+    {
+      "name": "\"LONG\" THINGS",
+      "level": null,
+      "members": [
+        "DISTANCE",
+        "DIVISION",
+        "JOHNS",
+        "WEEKEND"
+      ]
+    },
+    {
+      "name": "CURRENCIES PLUS A LETTER",
+      "level": null,
+      "members": [
+        "FRANCI",
+        "RANDO",
+        "REALM",
+        "WONK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 444,
+  "date": "2024-08-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLAYGROUND EQUIPMENT",
+      "level": 0,
+      "members": [
+        "MONKEY BARS",
+        "SLIDE",
+        "SWINGS",
+        "TEETER-TOTTER"
+      ]
+    },
+    {
+      "name": "FOUND AT THE END OF A STRING/CORD",
+      "level": 1,
+      "members": [
+        "PENDULUM",
+        "TEA BAG",
+        "TETHERBALL",
+        "YO-YO"
+      ]
+    },
+    {
+      "name": "DESCRIBED AS DRY",
+      "level": 2,
+      "members": [
+        "DESERT",
+        "HUMOR",
+        "MARTINI",
+        "TEETOTALER"
+      ]
+    },
+    {
+      "name": "BABY ___",
+      "level": 3,
+      "members": [
+        "BLUES",
+        "BOOMER",
+        "STEPS",
+        "TEETH"
+      ]
+    }
+  ]
+}

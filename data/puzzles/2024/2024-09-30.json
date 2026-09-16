@@ -1,0 +1,47 @@
+{
+  "id": 477,
+  "date": "2024-09-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COOK WITH HEAT AND WATER",
+      "level": 0,
+      "members": [
+        "BLANCH",
+        "BOIL",
+        "POACH",
+        "STEAM"
+      ]
+    },
+    {
+      "name": "COMMON PERFUME INGREDIENTS",
+      "level": 1,
+      "members": [
+        "AMBERGRIS",
+        "MUSK",
+        "ROSE",
+        "VANILLA"
+      ]
+    },
+    {
+      "name": "CHARACTERS WITH PET DOGS",
+      "level": 2,
+      "members": [
+        "CHARLIE",
+        "DOROTHY",
+        "SHAGGY",
+        "WALLACE"
+      ]
+    },
+    {
+      "name": "CAPITAL CITY HOMOPHONES",
+      "level": 3,
+      "members": [
+        "KETO",
+        "ROAM",
+        "SOPHIA",
+        "SOUL"
+      ]
+    }
+  ]
+}

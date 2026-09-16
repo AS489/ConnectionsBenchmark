@@ -1,0 +1,47 @@
+{
+  "id": 146,
+  "date": "2023-11-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WAYS TO PREPARE",
+      "level": 0,
+      "members": [
+        "DRILL",
+        "PRACTICE",
+        "STUDY",
+        "TRAIN"
+      ]
+    },
+    {
+      "name": "HOLLOW CYLINDERS",
+      "level": 1,
+      "members": [
+        "HOSE",
+        "PIPE",
+        "STRAW",
+        "TUBE"
+      ]
+    },
+    {
+      "name": "WEAPONS IN THE GAME CLUE",
+      "level": 2,
+      "members": [
+        "CANDLESTICK",
+        "KNIFE",
+        "ROPE",
+        "WRENCH"
+      ]
+    },
+    {
+      "name": "“E-” THINGS",
+      "level": 3,
+      "members": [
+        "CIGARETTE",
+        "BIKE",
+        "TICKET",
+        "SPORTS"
+      ]
+    }
+  ]
+}

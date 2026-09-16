@@ -1,0 +1,47 @@
+{
+  "id": 799,
+  "date": "2025-08-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INDICATION",
+      "level": 0,
+      "members": [
+        "CUE",
+        "NOD",
+        "PROMPT",
+        "SIGNAL"
+      ]
+    },
+    {
+      "name": "OPPORTUNITY",
+      "level": 1,
+      "members": [
+        "BREAK",
+        "CHANCE",
+        "OPENING",
+        "SHOT"
+      ]
+    },
+    {
+      "name": "HOTEL AMENITIES",
+      "level": 2,
+      "members": [
+        "BREAKFAST",
+        "PARKING",
+        "POOL",
+        "WI-FI"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE \"WATCH\"",
+      "level": 3,
+      "members": [
+        "DIGITAL",
+        "POCKET",
+        "STOP",
+        "WRIST"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 6,
+  "date": "2023-06-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MONOPOLY SQUARES",
+      "level": 0,
+      "members": [
+        "BOARDWALK",
+        "CHANCE",
+        "GO",
+        "JAIL"
+      ]
+    },
+    {
+      "name": "SHADES OF BLUE",
+      "level": 1,
+      "members": [
+        "BABY",
+        "MIDNIGHT",
+        "POWDER",
+        "ROYAL"
+      ]
+    },
+    {
+      "name": "RAPPERS",
+      "level": 2,
+      "members": [
+        "COMMON",
+        "FUTURE",
+        "ICE CUBE",
+        "Q-TIP"
+      ]
+    },
+    {
+      "name": "MEMBERS OF A SEPTET",
+      "level": 3,
+      "members": [
+        "SEA",
+        "SIN",
+        "SISTER",
+        "WONDER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 834,
+  "date": "2025-09-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BASIC GEOMETRIC CALCULATIONS",
+      "level": null,
+      "members": [
+        "AREA",
+        "LENGTH",
+        "PERIMETER",
+        "VOLUME"
+      ]
+    },
+    {
+      "name": "BLACK-AND-WHITE THINGS",
+      "level": null,
+      "members": [
+        "CROSSWORD",
+        "DOMINO",
+        "ORCA",
+        "OREO"
+      ]
+    },
+    {
+      "name": "LAS VEGAS CASINO HOTELS",
+      "level": null,
+      "members": [
+        "ARIA",
+        "ENCORE",
+        "EXCALIBUR",
+        "LUXOR"
+      ]
+    },
+    {
+      "name": "WORDS THAT SOUND LIKE PLURAL LETTERS",
+      "level": null,
+      "members": [
+        "ARS",
+        "AYES",
+        "EASE",
+        "OWES"
+      ]
+    }
+  ]
+}

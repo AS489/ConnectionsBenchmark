@@ -1,0 +1,47 @@
+{
+  "id": 1040,
+  "date": "2026-04-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MASS OF SMOKE",
+      "level": null,
+      "members": [
+        "BILLOW",
+        "CLOUD",
+        "PLUME",
+        "PUFF"
+      ]
+    },
+    {
+      "name": "FISHING GEAR",
+      "level": null,
+      "members": [
+        "BAIT",
+        "HOOK",
+        "NET",
+        "ROD"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH BLACK WIDOW SPIDERS",
+      "level": null,
+      "members": [
+        "CANNIBALISM",
+        "HOURGLASS",
+        "VENOM",
+        "WEB"
+      ]
+    },
+    {
+      "name": "___ MONDAY",
+      "level": null,
+      "members": [
+        "BLUE",
+        "CYBER",
+        "MANIC",
+        "MEATLESS"
+      ]
+    }
+  ]
+}

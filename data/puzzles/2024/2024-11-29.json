@@ -1,0 +1,47 @@
+{
+  "id": 537,
+  "date": "2024-11-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNDERTAKING",
+      "level": 0,
+      "members": [
+        "ENDEAVOR",
+        "ENTERPRISE",
+        "PROJECT",
+        "VENTURE"
+      ]
+    },
+    {
+      "name": "UNITS",
+      "level": 1,
+      "members": [
+        "HERTZ",
+        "MOLE",
+        "SECOND",
+        "VOLT"
+      ]
+    },
+    {
+      "name": "M.L.B. TEAM MEMBER",
+      "level": 2,
+      "members": [
+        "NATIONAL",
+        "RAY",
+        "TIGER",
+        "TWIN"
+      ]
+    },
+    {
+      "name": "FIRST WORDS OF HBO SHOWS",
+      "level": 3,
+      "members": [
+        "BOARDWALK",
+        "CURB",
+        "GAME",
+        "SILICON"
+      ]
+    }
+  ]
+}

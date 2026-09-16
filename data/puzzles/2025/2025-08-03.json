@@ -1,0 +1,47 @@
+{
+  "id": 784,
+  "date": "2025-08-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EMULATE",
+      "level": 0,
+      "members": [
+        "COPY",
+        "ECHO",
+        "MIRROR",
+        "PARROT"
+      ]
+    },
+    {
+      "name": "SPORTS",
+      "level": 1,
+      "members": [
+        "CRICKET",
+        "GOLF",
+        "POLO",
+        "SQUASH"
+      ]
+    },
+    {
+      "name": "MANIA",
+      "level": 2,
+      "members": [
+        "BUG",
+        "CRAZE",
+        "FAD",
+        "FEVER"
+      ]
+    },
+    {
+      "name": "SINGLE ANIMAL IN A CREATIVELY SPELLED BAND NAME",
+      "level": 3,
+      "members": [
+        "BEETLE",
+        "BIRD",
+        "GORILLA",
+        "MONKEY"
+      ]
+    }
+  ]
+}

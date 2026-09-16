@@ -1,0 +1,47 @@
+{
+  "id": 360,
+  "date": "2024-06-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "“AWESOME!”",
+      "level": 0,
+      "members": [
+        "COOL",
+        "NICE",
+        "SICK",
+        "SWEET"
+      ]
+    },
+    {
+      "name": "VARIETY",
+      "level": 1,
+      "members": [
+        "KIND",
+        "SORT",
+        "STYLE",
+        "TYPE"
+      ]
+    },
+    {
+      "name": "GIST",
+      "level": 2,
+      "members": [
+        "DRIFT",
+        "IDEA",
+        "MESSAGE",
+        "POINT"
+      ]
+    },
+    {
+      "name": "FRIED APPETIZER, INFORMALLY",
+      "level": 3,
+      "members": [
+        "RING",
+        "STICK",
+        "TENDER",
+        "WING"
+      ]
+    }
+  ]
+}

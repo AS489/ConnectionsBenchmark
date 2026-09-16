@@ -1,0 +1,47 @@
+{
+  "id": 670,
+  "date": "2025-04-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SOURCES OF VITAMINS",
+      "level": 0,
+      "members": [
+        "CITRUS",
+        "LEAFY GREENS",
+        "SUNSHINE",
+        "SUPPLEMENTS"
+      ]
+    },
+    {
+      "name": "PLACES USED IN RETAIL SUFFIXES",
+      "level": 1,
+      "members": [
+        "CITY",
+        "LAND",
+        "TOWN",
+        "WORLD"
+      ]
+    },
+    {
+      "name": "PLACES TO FIND STARS",
+      "level": 2,
+      "members": [
+        "AMERICAN FLAG",
+        "GALAXY",
+        "RED CARPET",
+        "UBER RATING"
+      ]
+    },
+    {
+      "name": "WORDS AFTER “GO”",
+      "level": 3,
+      "members": [
+        "ALL OUT",
+        "BETWEEN",
+        "KART",
+        "STEADY"
+      ]
+    }
+  ]
+}

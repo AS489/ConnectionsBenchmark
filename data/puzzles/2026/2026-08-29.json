@@ -1,0 +1,47 @@
+{
+  "id": 1170,
+  "date": "2026-08-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNDER THE HOOD OF A CAR",
+      "level": null,
+      "members": [
+        "ALTERNATOR",
+        "BATTERY",
+        "ENGINE",
+        "RADIATOR"
+      ]
+    },
+    {
+      "name": "KINDS OF SALAD",
+      "level": null,
+      "members": [
+        "CHOPPED",
+        "GREEK",
+        "HOUSE",
+        "WEDGE"
+      ]
+    },
+    {
+      "name": "KEYBOARD KEYS",
+      "level": null,
+      "members": [
+        "CONTROL",
+        "ESCAPE",
+        "SHIFT",
+        "SPACE"
+      ]
+    },
+    {
+      "name": "STARTING WITH FIGURES FROM GREEK MYTH",
+      "level": null,
+      "members": [
+        "AT LAST",
+        "HERALD",
+        "HYDRANT",
+        "TRITONE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 465,
+  "date": "2024-09-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GATHERING SPOT OUTSIDE A RESIDENCE",
+      "level": 0,
+      "members": [
+        "DECK",
+        "PORCH",
+        "STOOP",
+        "YARD"
+      ]
+    },
+    {
+      "name": "LOWDOWN",
+      "level": 1,
+      "members": [
+        "DISH",
+        "DOPE",
+        "INFO",
+        "SCOOP"
+      ]
+    },
+    {
+      "name": "KINDS OF REELS",
+      "level": 2,
+      "members": [
+        "BLOOPER",
+        "DEMO",
+        "HIGHLIGHT",
+        "SIZZLE"
+      ]
+    },
+    {
+      "name": "CARTOON DOGS MINUS “Y”",
+      "level": 3,
+      "members": [
+        "DROOP",
+        "GOOF",
+        "LAD",
+        "SNOOP"
+      ]
+    }
+  ]
+}

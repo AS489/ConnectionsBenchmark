@@ -1,0 +1,47 @@
+{
+  "id": 185,
+  "date": "2023-12-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GOLF COURSE PARTS",
+      "level": 0,
+      "members": [
+        "BUNKER",
+        "FAIRWAY",
+        "GREEN",
+        "ROUGH"
+      ]
+    },
+    {
+      "name": "“I GIVE!”",
+      "level": 1,
+      "members": [
+        "ENOUGH",
+        "MERCY",
+        "STOP",
+        "UNCLE"
+      ]
+    },
+    {
+      "name": "INDECENT",
+      "level": 2,
+      "members": [
+        "BAWDY",
+        "BLUE",
+        "COARSE",
+        "RISQUE"
+      ]
+    },
+    {
+      "name": "”-OUGH” WORDS THAT DON’T RHYME",
+      "level": 3,
+      "members": [
+        "BOUGH",
+        "COUGH",
+        "DOUGH",
+        "TOUGH"
+      ]
+    }
+  ]
+}

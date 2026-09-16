@@ -1,0 +1,47 @@
+{
+  "id": 120,
+  "date": "2023-10-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CROPS",
+      "level": 0,
+      "members": [
+        "CORN",
+        "CUCUMBER",
+        "PEPPER",
+        "TOMATO"
+      ]
+    },
+    {
+      "name": "SLANG FOR HEAD",
+      "level": 1,
+      "members": [
+        "CROWN",
+        "DOME",
+        "MELON",
+        "NOODLE"
+      ]
+    },
+    {
+      "name": "SONG",
+      "level": 2,
+      "members": [
+        "CUT",
+        "NUMBER",
+        "SINGLE",
+        "TRACK"
+      ]
+    },
+    {
+      "name": "THINGS THAT WHISTLE",
+      "level": 3,
+      "members": [
+        "BIRD",
+        "KETTLE",
+        "REFEREE",
+        "TRAIN"
+      ]
+    }
+  ]
+}

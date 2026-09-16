@@ -1,0 +1,47 @@
+{
+  "id": 1042,
+  "date": "2026-04-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "POTTERY EQUIPMENT",
+      "level": null,
+      "members": [
+        "CLAY",
+        "GLAZE",
+        "KILN",
+        "WHEEL"
+      ]
+    },
+    {
+      "name": "WALLOP",
+      "level": null,
+      "members": [
+        "DECK",
+        "PUNCH",
+        "SLUG",
+        "SOCK"
+      ]
+    },
+    {
+      "name": "WORDS PRONOUNCED DIFFERENT WAYS AS PROPER NOUNS",
+      "level": null,
+      "members": [
+        "HERB",
+        "NICE",
+        "POLISH",
+        "READING"
+      ]
+    },
+    {
+      "name": "PICK-UP ___",
+      "level": null,
+      "members": [
+        "ARTIST",
+        "GAME",
+        "STICKS",
+        "TRUCK"
+      ]
+    }
+  ]
+}

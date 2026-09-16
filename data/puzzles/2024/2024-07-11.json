@@ -1,0 +1,47 @@
+{
+  "id": 396,
+  "date": "2024-07-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SCHOOL SUPPLIES",
+      "level": 0,
+      "members": [
+        "PEN",
+        "RULER",
+        "SCISSORS",
+        "TAPE"
+      ]
+    },
+    {
+      "name": "FUNDAMENTAL",
+      "level": 1,
+      "members": [
+        "ESSENTIAL",
+        "KEY",
+        "PRINCIPAL",
+        "STAPLE"
+      ]
+    },
+    {
+      "name": "TRANSFER",
+      "level": 2,
+      "members": [
+        "GIVE",
+        "HAND",
+        "PASS",
+        "SEND"
+      ]
+    },
+    {
+      "name": "LIGHT-UP SIGNS",
+      "level": 3,
+      "members": [
+        "APPLAUSE",
+        "EXIT",
+        "RECORDING",
+        "WALK"
+      ]
+    }
+  ]
+}

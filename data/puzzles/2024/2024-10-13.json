@@ -1,0 +1,47 @@
+{
+  "id": 490,
+  "date": "2024-10-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MADE OF KERATIN",
+      "level": 0,
+      "members": [
+        "CLAW",
+        "HOOF",
+        "HORN",
+        "NAIL"
+      ]
+    },
+    {
+      "name": "ROAD RUNNER CARTOON STAPLES",
+      "level": 1,
+      "members": [
+        "ANVIL",
+        "BOULDER",
+        "COYOTE",
+        "TNT"
+      ]
+    },
+    {
+      "name": "KINDS OF PANTS",
+      "level": 2,
+      "members": [
+        "CAPRI",
+        "CARGO",
+        "HAMMER",
+        "STIRRUP"
+      ]
+    },
+    {
+      "name": "___ ROLL",
+      "level": 3,
+      "members": [
+        "CALIFORNIA",
+        "DRUM",
+        "EGG",
+        "HONOR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 859,
+  "date": "2025-10-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "USED DURING A PRESENTATION",
+      "level": null,
+      "members": [
+        "CLICKER",
+        "LASER POINTER",
+        "PROJECTOR",
+        "SLIDES"
+      ]
+    },
+    {
+      "name": "ITEMS IN A SOUVENIR SHOP",
+      "level": null,
+      "members": [
+        "FIGURINE",
+        "KEY RING",
+        "MAGNET",
+        "POSTCARD"
+      ]
+    },
+    {
+      "name": "FOLKTALE CHARACTERS",
+      "level": null,
+      "members": [
+        "CHICKEN LITTLE",
+        "JACK",
+        "THUMBELINA",
+        "TOM THUMB"
+      ]
+    },
+    {
+      "name": "WEATHER TERMS",
+      "level": null,
+      "members": [
+        "BEAUFORT SCALE",
+        "DEWPOINT",
+        "HEAT INDEX",
+        "WIND CHILL"
+      ]
+    }
+  ]
+}

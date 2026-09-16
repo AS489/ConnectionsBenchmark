@@ -1,0 +1,47 @@
+{
+  "id": 183,
+  "date": "2023-12-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LUXURIOUS FABRICS",
+      "level": 0,
+      "members": [
+        "CHIFFON",
+        "SATIN",
+        "SILK",
+        "VELVET"
+      ]
+    },
+    {
+      "name": "COME DOWN TO REST",
+      "level": 1,
+      "members": [
+        "PERCH",
+        "ROOST",
+        "SETTLE",
+        "LAND"
+      ]
+    },
+    {
+      "name": "SHOE PARTS",
+      "level": 2,
+      "members": [
+        "EYELET",
+        "LACE",
+        "SOLE",
+        "TONGUE"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE DELIVERED",
+      "level": 3,
+      "members": [
+        "BABY",
+        "BLOW",
+        "PACKAGE",
+        "SPEECH"
+      ]
+    }
+  ]
+}

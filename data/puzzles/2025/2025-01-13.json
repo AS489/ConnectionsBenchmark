@@ -1,0 +1,47 @@
+{
+  "id": 582,
+  "date": "2025-01-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TEACH",
+      "level": 0,
+      "members": [
+        "COACH",
+        "GUIDE",
+        "SCHOOL",
+        "TRAIN"
+      ]
+    },
+    {
+      "name": "CACHE",
+      "level": 1,
+      "members": [
+        "BANK",
+        "POOL",
+        "RESERVE",
+        "STORE"
+      ]
+    },
+    {
+      "name": "DRIVING INSTRUCTOR DIRECTIVES",
+      "level": 2,
+      "members": [
+        "BRAKE",
+        "PARK",
+        "SIGNAL",
+        "TURN"
+      ]
+    },
+    {
+      "name": "___WORM",
+      "level": 3,
+      "members": [
+        "BOOK",
+        "EARTH",
+        "GLOW",
+        "INCH"
+      ]
+    }
+  ]
+}

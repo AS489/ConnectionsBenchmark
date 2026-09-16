@@ -1,0 +1,47 @@
+{
+  "id": 535,
+  "date": "2024-11-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NOT WORKING RELIABLY",
+      "level": 0,
+      "members": [
+        "BUGGY",
+        "ERRATIC",
+        "GLITCHY",
+        "SPOTTY"
+      ]
+    },
+    {
+      "name": "CAR PARTS",
+      "level": 1,
+      "members": [
+        "BUMPER",
+        "GRILLE",
+        "MIRROR",
+        "RIM"
+      ]
+    },
+    {
+      "name": "WHAT A SITTER MIGHT SIT",
+      "level": 2,
+      "members": [
+        "BABY",
+        "HOUSE",
+        "PET",
+        "PLANT"
+      ]
+    },
+    {
+      "name": "___ BAND",
+      "level": 3,
+      "members": [
+        "BOY",
+        "RUBBER",
+        "TRIBUTE",
+        "WEDDING"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 903,
+  "date": "2025-12-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMPLETE TURN",
+      "level": null,
+      "members": [
+        "CIRCUIT",
+        "LAP",
+        "ORBIT",
+        "REVOLUTION"
+      ]
+    },
+    {
+      "name": "CIRCULAR THINGS",
+      "level": null,
+      "members": [
+        "FULL MOON",
+        "LP",
+        "PIZZA PIE",
+        "PUPIL"
+      ]
+    },
+    {
+      "name": "KAFKA WORKS, WITH \"THE\"",
+      "level": null,
+      "members": [
+        "CASTLE",
+        "JUDGMENT",
+        "METAMORPHOSIS",
+        "TRIAL"
+      ]
+    },
+    {
+      "name": "STARTING WITH LETTER HOMOPHONES",
+      "level": null,
+      "members": [
+        "EYE CONTACT",
+        "PEA SOUP",
+        "SEA CHANGE",
+        "TEA LEAVES"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 377,
+  "date": "2024-06-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ONE THING AFTER ANOTHER",
+      "level": 0,
+      "members": [
+        "CHAIN",
+        "TRAIN",
+        "SERIES",
+        "STRING"
+      ]
+    },
+    {
+      "name": "KINDS OF GOLF CLUBS",
+      "level": 1,
+      "members": [
+        "DRIVER",
+        "IRON",
+        "WEDGE",
+        "WOOD"
+      ]
+    },
+    {
+      "name": "HORROR MOVIES, WITH “THE”",
+      "level": 2,
+      "members": [
+        "BIRDS",
+        "FOG",
+        "OMEN",
+        "RING"
+      ]
+    },
+    {
+      "name": "WORDS FOR SAUSAGE",
+      "level": 3,
+      "members": [
+        "BRAT",
+        "DOG",
+        "FRANK",
+        "LINK"
+      ]
+    }
+  ]
+}

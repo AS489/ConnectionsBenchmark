@@ -1,0 +1,47 @@
+{
+  "id": 150,
+  "date": "2023-11-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BROUGHT TO THE BEACH",
+      "level": 0,
+      "members": [
+        "FLIP-FLOP",
+        "SUNSCREEN",
+        "TOWEL",
+        "UMBRELLA"
+      ]
+    },
+    {
+      "name": "TYPES OF FRENCH FRIES",
+      "level": 1,
+      "members": [
+        "CURLY",
+        "SHOESTRING",
+        "WAFFLE",
+        "WEDGE"
+      ]
+    },
+    {
+      "name": "EQUIVOCATE",
+      "level": 2,
+      "members": [
+        "HEDGE",
+        "SEE-SAW",
+        "WAVER",
+        "YO-YO"
+      ]
+    },
+    {
+      "name": "SECOND WORDS OF VODKA COCKTAILS",
+      "level": 3,
+      "members": [
+        "BREEZE",
+        "MARY",
+        "MULE",
+        "RUSSIAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 235,
+  "date": "2024-02-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MAKE SHORTER",
+      "level": 0,
+      "members": [
+        "CLIP",
+        "CUT",
+        "PARE",
+        "TRIM"
+      ]
+    },
+    {
+      "name": "MUSCULAR",
+      "level": 1,
+      "members": [
+        "BUILT",
+        "JACKED",
+        "RIPPED",
+        "SWOLE"
+      ]
+    },
+    {
+      "name": "ENTHUSIAST",
+      "level": 2,
+      "members": [
+        "BUFF",
+        "FAN",
+        "LOVER",
+        "NUT"
+      ]
+    },
+    {
+      "name": "WRINKLY THINGS",
+      "level": 3,
+      "members": [
+        "BRAIN",
+        "PRUNE",
+        "PUG",
+        "WALNUT"
+      ]
+    }
+  ]
+}

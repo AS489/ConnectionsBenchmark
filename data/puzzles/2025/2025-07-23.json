@@ -1,0 +1,47 @@
+{
+  "id": 773,
+  "date": "2025-07-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DREAD-INDUCING FIGURES",
+      "level": 0,
+      "members": [
+        "BOGEYMAN",
+        "BUGBEAR",
+        "HOBGOBLIN",
+        "PHANTOM"
+      ]
+    },
+    {
+      "name": "KINDS OF STEAKS",
+      "level": 1,
+      "members": [
+        "CHATEAUBRIAND",
+        "FLATIRON",
+        "PORTERHOUSE",
+        "TOMAHAWK"
+      ]
+    },
+    {
+      "name": "RELATED TO BUYING A HOME",
+      "level": 2,
+      "members": [
+        "APPRAISAL",
+        "ESCROW",
+        "INSURANCE",
+        "MORTGAGE"
+      ]
+    },
+    {
+      "name": "ANIMALS ENDING WITH ANIMALS",
+      "level": 3,
+      "members": [
+        "GEODUCK",
+        "SEAHORSE",
+        "TITMOUSE",
+        "WOMBAT"
+      ]
+    }
+  ]
+}

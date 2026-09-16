@@ -1,0 +1,47 @@
+{
+  "id": 351,
+  "date": "2024-05-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AGENCY IN DECISIONMAKING",
+      "level": 0,
+      "members": [
+        "CHOICE",
+        "SAY",
+        "VOICE",
+        "VOTE"
+      ]
+    },
+    {
+      "name": "DOG COMMANDS",
+      "level": 1,
+      "members": [
+        "DOWN",
+        "HEEL",
+        "SHAKE",
+        "SPEAK"
+      ]
+    },
+    {
+      "name": "KINDS OF NOTES",
+      "level": 2,
+      "members": [
+        "FLAT",
+        "NATURAL",
+        "QUARTER",
+        "WHOLE"
+      ]
+    },
+    {
+      "name": "___ IRON",
+      "level": 3,
+      "members": [
+        "PUMP",
+        "STEAM",
+        "TIRE",
+        "WAFFLE"
+      ]
+    }
+  ]
+}

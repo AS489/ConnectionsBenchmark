@@ -1,0 +1,47 @@
+{
+  "id": 20,
+  "date": "2023-07-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GRAINS",
+      "level": 0,
+      "members": [
+        "BARLEY",
+        "OAT",
+        "RYE",
+        "SPELT"
+      ]
+    },
+    {
+      "name": "ROYAL TITLES",
+      "level": 1,
+      "members": [
+        "BARON",
+        "EARL",
+        "KING",
+        "PRINCE"
+      ]
+    },
+    {
+      "name": "UNIVERSITIES",
+      "level": 2,
+      "members": [
+        "BROWN",
+        "DUKE",
+        "HOWARD",
+        "RICE"
+      ]
+    },
+    {
+      "name": "BEST DIRECTOR OSCAR WINNERS",
+      "level": 3,
+      "members": [
+        "BONG",
+        "FORD",
+        "LEE",
+        "STONE"
+      ]
+    }
+  ]
+}

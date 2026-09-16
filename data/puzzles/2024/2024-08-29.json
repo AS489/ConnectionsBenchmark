@@ -1,0 +1,47 @@
+{
+  "id": 445,
+  "date": "2024-08-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF PIANOS",
+      "level": 0,
+      "members": [
+        "ELECTRONIC",
+        "GRAND",
+        "PLAYER",
+        "UPRIGHT"
+      ]
+    },
+    {
+      "name": "DEEM",
+      "level": 1,
+      "members": [
+        "CONSIDER",
+        "COUNT",
+        "JUDGE",
+        "REGARD"
+      ]
+    },
+    {
+      "name": "U.S. COLLEGES/UNIVERSITIES",
+      "level": 2,
+      "members": [
+        "BROWN",
+        "DUKE",
+        "HOWARD",
+        "SMITH"
+      ]
+    },
+    {
+      "name": "SECOND NAMES IN COMPANIES WITH AMPERSANDS",
+      "level": 3,
+      "members": [
+        "GAMBLE",
+        "JOHNSON",
+        "NOBLE",
+        "YOUNG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 685,
+  "date": "2025-04-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TINT",
+      "level": 0,
+      "members": [
+        "COLOR",
+        "HUE",
+        "SHADE",
+        "TONE"
+      ]
+    },
+    {
+      "name": "VALLEY",
+      "level": 1,
+      "members": [
+        "DALE",
+        "DELL",
+        "GLEN",
+        "HOLLOW"
+      ]
+    },
+    {
+      "name": "BOBS",
+      "level": 2,
+      "members": [
+        "DOLE",
+        "HOPE",
+        "MARLEY",
+        "ROSS"
+      ]
+    },
+    {
+      "name": "COLOR ANAGRAMS",
+      "level": 3,
+      "members": [
+        "DRE",
+        "GARY",
+        "GENRE",
+        "LUBE"
+      ]
+    }
+  ]
+}

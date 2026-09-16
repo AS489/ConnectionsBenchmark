@@ -1,0 +1,47 @@
+{
+  "id": 722,
+  "date": "2025-06-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXPEDITION",
+      "level": 0,
+      "members": [
+        "JOURNEY",
+        "ODYSSEY",
+        "QUEST",
+        "VOYAGE"
+      ]
+    },
+    {
+      "name": "HOLD DEAR",
+      "level": 1,
+      "members": [
+        "ESTEEM",
+        "PRIZE",
+        "TREASURE",
+        "VALUE"
+      ]
+    },
+    {
+      "name": "WORDS WHOSE ONLY VOWEL IS “Y”",
+      "level": 2,
+      "members": [
+        "MYRRH",
+        "NYMPH",
+        "RHYTHM",
+        "SPHYNX"
+      ]
+    },
+    {
+      "name": "NAMES ENDING IN “K” PLUS WORD",
+      "level": 3,
+      "members": [
+        "FRANKINCENSE",
+        "JACKPOT",
+        "MARKDOWN",
+        "NICKNAME"
+      ]
+    }
+  ]
+}

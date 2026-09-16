@@ -1,0 +1,47 @@
+{
+  "id": 1182,
+  "date": "2026-09-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHEMICAL ELEMENTS",
+      "level": null,
+      "members": [
+        "ACTINIUM",
+        "KRYPTON",
+        "LEAD",
+        "SULFUR"
+      ]
+    },
+    {
+      "name": "WHAT YOU MIGHT SEE STICKING OUT OF A WINDOW",
+      "level": null,
+      "members": [
+        "AIR CONDITIONER",
+        "CATIO",
+        "CLOTHESLINE",
+        "FLOWER BOX"
+      ]
+    },
+    {
+      "name": "BRUCE SPRINGSTEEN CLASSICS",
+      "level": null,
+      "members": [
+        "ATLANTIC CITY",
+        "BADLANDS",
+        "BORN TO RUN",
+        "THUNDER ROAD"
+      ]
+    },
+    {
+      "name": "ENDING IN SYNONYMS FOR \"HAPPENING NOW\"",
+      "level": null,
+      "members": [
+        "ADULT CONTEMPORARY",
+        "ALTERNATING CURRENT",
+        "REPRESENT",
+        "SEXTANT"
+      ]
+    }
+  ]
+}

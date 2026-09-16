@@ -1,0 +1,47 @@
+{
+  "id": 962,
+  "date": "2026-01-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MAKEUP",
+      "level": null,
+      "members": [
+        "BRONZER",
+        "FOUNDATION",
+        "LINER",
+        "STAIN"
+      ]
+    },
+    {
+      "name": "FEATURED IN GOLDILOCKS AND THE THREE BEARS",
+      "level": null,
+      "members": [
+        "BEAR",
+        "BED",
+        "GOLDILOCKS",
+        "PORRIDGE"
+      ]
+    },
+    {
+      "name": "ENDING WITH DRINKING VESSELS",
+      "level": null,
+      "members": [
+        "FIBERGLASS",
+        "SILVERSTEIN",
+        "SMUG",
+        "STUMBLER"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF WORDS MEANING \"BRUTAL\"",
+      "level": null,
+      "members": [
+        "GOREY",
+        "GRIMM",
+        "GRIZZLY",
+        "SCARRY"
+      ]
+    }
+  ]
+}

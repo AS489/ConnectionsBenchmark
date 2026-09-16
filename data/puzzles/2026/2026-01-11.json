@@ -1,0 +1,47 @@
+{
+  "id": 944,
+  "date": "2026-01-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GROUP",
+      "level": null,
+      "members": [
+        "BAND",
+        "CREW",
+        "PACK",
+        "TEAM"
+      ]
+    },
+    {
+      "name": "PLUNGE",
+      "level": null,
+      "members": [
+        "CRASH",
+        "CRATER",
+        "DROP",
+        "TANK"
+      ]
+    },
+    {
+      "name": "PARTS OF A SINK",
+      "level": null,
+      "members": [
+        "BASIN",
+        "DRAIN",
+        "FAUCET",
+        "STOPPER"
+      ]
+    },
+    {
+      "name": "EQUESTRIAN GEAR",
+      "level": null,
+      "members": [
+        "BIT",
+        "CROP",
+        "HALTER",
+        "SADDLE"
+      ]
+    }
+  ]
+}

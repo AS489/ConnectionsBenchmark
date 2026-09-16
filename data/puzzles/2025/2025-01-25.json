@@ -1,0 +1,47 @@
+{
+  "id": 594,
+  "date": "2025-01-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SCHOOL PERIODS",
+      "level": 0,
+      "members": [
+        "CLASS",
+        "HOMEROOM",
+        "LUNCH",
+        "RECESS"
+      ]
+    },
+    {
+      "name": "FEATURES OF A SKI RESORT",
+      "level": 1,
+      "members": [
+        "LIFT",
+        "LODGE",
+        "MOGUL",
+        "SLOPE"
+      ]
+    },
+    {
+      "name": "WORDS DERIVED FROM JAPANESE",
+      "level": 2,
+      "members": [
+        "EMOJI",
+        "GINKGO",
+        "KARAOKE",
+        "TYCOON"
+      ]
+    },
+    {
+      "name": "WORDS AFTER THE PREFIX “TRI-”",
+      "level": 3,
+      "members": [
+        "ANGLE",
+        "CYCLE",
+        "DENT",
+        "POD"
+      ]
+    }
+  ]
+}

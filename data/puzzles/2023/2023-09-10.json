@@ -1,0 +1,47 @@
+{
+  "id": 91,
+  "date": "2023-09-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AMAZON ANIMALS",
+      "level": 0,
+      "members": [
+        "ANACONDA",
+        "CAPYBARA",
+        "JAGUAR",
+        "TOUCAN"
+      ]
+    },
+    {
+      "name": "LOWEST POINT",
+      "level": 1,
+      "members": [
+        "BASE",
+        "BOTTOM",
+        "FOOT",
+        "FOUNDATION"
+      ]
+    },
+    {
+      "name": "MUSICALS",
+      "level": 2,
+      "members": [
+        "COMPANY",
+        "GREASE",
+        "HAIR",
+        "RENT"
+      ]
+    },
+    {
+      "name": "SEA ___",
+      "level": 3,
+      "members": [
+        "CHANGE",
+        "CUCUMBER",
+        "LEGS",
+        "LION"
+      ]
+    }
+  ]
+}

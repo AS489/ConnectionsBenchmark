@@ -1,0 +1,47 @@
+{
+  "id": 435,
+  "date": "2024-08-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MUSIC GENRES",
+      "level": 0,
+      "members": [
+        "BLUES",
+        "COUNTRY",
+        "FOLK",
+        "ROCK"
+      ]
+    },
+    {
+      "name": "BRATWURST GO-WITHS",
+      "level": 1,
+      "members": [
+        "BRAT",
+        "BUN",
+        "MUSTARD",
+        "SAUERKRAUT"
+      ]
+    },
+    {
+      "name": "YOGA POSES",
+      "level": 2,
+      "members": [
+        "CHAIR",
+        "MOUNTAIN",
+        "TREE",
+        "WARRIOR"
+      ]
+    },
+    {
+      "name": "STARTING WITH PIXAR MOVIES",
+      "level": 3,
+      "members": [
+        "COCONUT",
+        "SOULMATE",
+        "UPDO",
+        "WALLET"
+      ]
+    }
+  ]
+}

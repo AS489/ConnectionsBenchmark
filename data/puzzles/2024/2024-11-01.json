@@ -1,0 +1,47 @@
+{
+  "id": 509,
+  "date": "2024-11-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PROGRESS SLOWLY",
+      "level": 0,
+      "members": [
+        "CRAWL",
+        "CREEP",
+        "DRAG",
+        "INCH"
+      ]
+    },
+    {
+      "name": "WAYS TO ORDER A BEER",
+      "level": 1,
+      "members": [
+        "BOTTLE",
+        "CAN",
+        "DRAFT",
+        "TAP"
+      ]
+    },
+    {
+      "name": "CHEESY CORN SNACK UNIT",
+      "level": 2,
+      "members": [
+        "BALL",
+        "CURL",
+        "DOODLE",
+        "PUFF"
+      ]
+    },
+    {
+      "name": "___ EFFECT",
+      "level": 3,
+      "members": [
+        "BUTTERFLY",
+        "DOMINO",
+        "HALO",
+        "PLACEBO"
+      ]
+    }
+  ]
+}

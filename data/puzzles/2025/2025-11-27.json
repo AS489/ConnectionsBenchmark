@@ -1,0 +1,47 @@
+{
+  "id": 899,
+  "date": "2025-11-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INUNDATION",
+      "level": null,
+      "members": [
+        "AVALANCHE",
+        "OUTPOURING",
+        "TIDAL WAVE",
+        "TORRENT"
+      ]
+    },
+    {
+      "name": "MAIN FOLDERS IN A COMPUTER",
+      "level": null,
+      "members": [
+        "DESKTOP",
+        "DOCUMENTS",
+        "DOWNLOADS",
+        "MUSIC"
+      ]
+    },
+    {
+      "name": "WOODWORKING TOOLS",
+      "level": null,
+      "members": [
+        "DRILLS",
+        "FILES",
+        "ROUTERS",
+        "SAWS"
+      ]
+    },
+    {
+      "name": "RHYMES FOR NEW YORK TIMES GAMES",
+      "level": null,
+      "members": [
+        "CONFECTIONS",
+        "GRANDS",
+        "HURDLE",
+        "SWELLING SEA"
+      ]
+    }
+  ]
+}

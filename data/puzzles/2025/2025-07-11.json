@@ -1,0 +1,47 @@
+{
+  "id": 761,
+  "date": "2025-07-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMPANIES THAT HAVE BECOME VERBS",
+      "level": 0,
+      "members": [
+        "GOOGLE",
+        "PHOTOSHOP",
+        "UBER",
+        "ZOOM"
+      ]
+    },
+    {
+      "name": "SILLY PERSON",
+      "level": 1,
+      "members": [
+        "DODO",
+        "GOOF",
+        "GOOSE",
+        "YAHOO"
+      ]
+    },
+    {
+      "name": "KINDS OF SONGS",
+      "level": 2,
+      "members": [
+        "FOLK",
+        "LOVE",
+        "SIREN",
+        "SWAN"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF SYNONYMS FOR “DESPICABLE”",
+      "level": 3,
+      "members": [
+        "FOWL",
+        "MIEN",
+        "OFFAL",
+        "VIAL"
+      ]
+    }
+  ]
+}

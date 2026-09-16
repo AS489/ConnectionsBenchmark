@@ -1,0 +1,47 @@
+{
+  "id": 649,
+  "date": "2025-03-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MILIEU",
+      "level": 0,
+      "members": [
+        "CIRCLE",
+        "SCENE",
+        "SPHERE",
+        "WORLD"
+      ]
+    },
+    {
+      "name": "LUMINARY",
+      "level": 1,
+      "members": [
+        "GREAT",
+        "ICON",
+        "LEGEND",
+        "LION"
+      ]
+    },
+    {
+      "name": "ARCHITECTURAL DRAWING TOOLS",
+      "level": 2,
+      "members": [
+        "COMPASS",
+        "RULER",
+        "STENCIL",
+        "T-SQUARE"
+      ]
+    },
+    {
+      "name": "BAR ___",
+      "level": 3,
+      "members": [
+        "CHART",
+        "EXAM",
+        "MITZVAH",
+        "SOAP"
+      ]
+    }
+  ]
+}

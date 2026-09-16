@@ -1,0 +1,47 @@
+{
+  "id": 1108,
+  "date": "2026-06-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HIGH-QUALITY",
+      "level": null,
+      "members": [
+        "CHOICE",
+        "FINE",
+        "PRIME",
+        "SELECT"
+      ]
+    },
+    {
+      "name": "SIGNALS TO COMMENCE",
+      "level": null,
+      "members": [
+        "BEGIN",
+        "GO",
+        "NOW",
+        "START"
+      ]
+    },
+    {
+      "name": "ACCESSORIES FOR A GUITARIST",
+      "level": null,
+      "members": [
+        "CAPO",
+        "PICK",
+        "SLIDE",
+        "STRAP"
+      ]
+    },
+    {
+      "name": "THEY HAVE BOARDS",
+      "level": null,
+      "members": [
+        "CHESS",
+        "CORPORATION",
+        "DARTS",
+        "SURFER"
+      ]
+    }
+  ]
+}

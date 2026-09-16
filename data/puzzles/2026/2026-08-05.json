@@ -1,0 +1,47 @@
+{
+  "id": 1146,
+  "date": "2026-08-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NAVIGATE",
+      "level": null,
+      "members": [
+        "DRIVE",
+        "MANEUVER",
+        "PILOT",
+        "STEER"
+      ]
+    },
+    {
+      "name": "JEANS BRANDS",
+      "level": null,
+      "members": [
+        "DIESEL",
+        "GAP",
+        "LUCKY",
+        "WRANGLER"
+      ]
+    },
+    {
+      "name": "HOUSE STYLES",
+      "level": null,
+      "members": [
+        "CAPE COD",
+        "MISSION",
+        "RANCH",
+        "TUDOR"
+      ]
+    },
+    {
+      "name": "WHAT \"STOCK\" MIGHT REFER TO",
+      "level": null,
+      "members": [
+        "BROTH",
+        "CATTLE",
+        "INVESTMENT",
+        "MERCHANDISE"
+      ]
+    }
+  ]
+}

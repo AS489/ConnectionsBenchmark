@@ -1,0 +1,47 @@
+{
+  "id": 530,
+  "date": "2024-11-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PUBLICITY",
+      "level": 0,
+      "members": [
+        "ATTENTION",
+        "COVERAGE",
+        "EXPOSURE",
+        "PRESS"
+      ]
+    },
+    {
+      "name": "POINT OF VIEW",
+      "level": 1,
+      "members": [
+        "ANGLE",
+        "LENS",
+        "PERSPECTIVE",
+        "POSITION"
+      ]
+    },
+    {
+      "name": "WORK COMMUNICATION PLATFORMS",
+      "level": 2,
+      "members": [
+        "MEET",
+        "SLACK",
+        "TEAMS",
+        "ZOOM"
+      ]
+    },
+    {
+      "name": "“___ ISLAND”",
+      "level": 3,
+      "members": [
+        "FANTASY",
+        "LOVE",
+        "SHUTTER",
+        "TREASURE"
+      ]
+    }
+  ]
+}

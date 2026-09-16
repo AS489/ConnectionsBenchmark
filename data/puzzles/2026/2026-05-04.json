@@ -1,0 +1,47 @@
+{
+  "id": 1054,
+  "date": "2026-05-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TENDER-HEARTED PERSON",
+      "level": null,
+      "members": [
+        "MARSHMALLOW",
+        "SOFTIE",
+        "SWEETHEART",
+        "TEDDY BEAR"
+      ]
+    },
+    {
+      "name": "PELLET-FILLED THINGS",
+      "level": null,
+      "members": [
+        "BEANIE BABY",
+        "DESICCANT PACKET",
+        "EYE PILLOW",
+        "HACKY SACK"
+      ]
+    },
+    {
+      "name": "THINGS WITH KNOBS",
+      "level": null,
+      "members": [
+        "CONTROL PANEL",
+        "ETCH A SKETCH",
+        "RADIO",
+        "STOVE"
+      ]
+    },
+    {
+      "name": "STARTING WITH FAMILIAR NAMES FOR KINDS OF DOGS",
+      "level": null,
+      "members": [
+        "CHOWDER",
+        "DOODLEBUG",
+        "LABUBU",
+        "PITTER-PATTER"
+      ]
+    }
+  ]
+}

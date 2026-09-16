@@ -1,0 +1,47 @@
+{
+  "id": 86,
+  "date": "2023-09-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INFORMATION DISPLAYS",
+      "level": 0,
+      "members": [
+        "CHART",
+        "DIAGRAM",
+        "GRAPH",
+        "MAP"
+      ]
+    },
+    {
+      "name": "ADDITIONAL BENEFIT",
+      "level": 1,
+      "members": [
+        "BONUS",
+        "EXTRA",
+        "ICING",
+        "PERK"
+      ]
+    },
+    {
+      "name": "THANKSGIVING FOOD",
+      "level": 2,
+      "members": [
+        "GRAVY",
+        "PIE",
+        "STUFFING",
+        "TURKEY"
+      ]
+    },
+    {
+      "name": "SONG TITLES WITH PARENTHESES",
+      "level": 3,
+      "members": [
+        "I RAN",
+        "ISTANBUL",
+        "MONTERO",
+        "SATISFACTION"
+      ]
+    }
+  ]
+}

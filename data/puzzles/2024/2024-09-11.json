@@ -1,0 +1,47 @@
+{
+  "id": 458,
+  "date": "2024-09-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LARGE AMOUNT OF MONEY",
+      "level": 0,
+      "members": [
+        "BUNDLE",
+        "FORTUNE",
+        "MINT",
+        "PILE"
+      ]
+    },
+    {
+      "name": "BITS OF WISDOM",
+      "level": 1,
+      "members": [
+        "KERNEL",
+        "NUGGET",
+        "PEARL",
+        "TIDBIT"
+      ]
+    },
+    {
+      "name": "FEATURED IN “JURASSIC PARK”",
+      "level": 2,
+      "members": [
+        "AMBER",
+        "DINOSAUR",
+        "PALEONTOLOGIST",
+        "MOSQUITO"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE PURPLE",
+      "level": 3,
+      "members": [
+        "AMETHYST",
+        "EGGPLANT",
+        "GRIMACE",
+        "LAVENDER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 119,
+  "date": "2023-10-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CELEBRATORY OCCASIONS",
+      "level": 0,
+      "members": [
+        "ANNIVERSARY",
+        "BIRTHDAY",
+        "SHOWER",
+        "WEDDING"
+      ]
+    },
+    {
+      "name": "PHONE CONNECTIVITY",
+      "level": 1,
+      "members": [
+        "BARS",
+        "RECEPTION",
+        "SERVICE",
+        "SIGNAL"
+      ]
+    },
+    {
+      "name": "CITIES AND TOWNS IN ENGLAND",
+      "level": 2,
+      "members": [
+        "BATH",
+        "DERBY",
+        "READING",
+        "SANDWICH"
+      ]
+    },
+    {
+      "name": "___ OPERA",
+      "level": 3,
+      "members": [
+        "COMIC",
+        "MET",
+        "ROCK",
+        "SOAP"
+      ]
+    }
+  ]
+}

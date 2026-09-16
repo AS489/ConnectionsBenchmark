@@ -1,0 +1,47 @@
+{
+  "id": 57,
+  "date": "2023-08-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MOVIE GENRES",
+      "level": 0,
+      "members": [
+        "HORROR",
+        "MUSICAL",
+        "ROMANCE",
+        "WESTERN"
+      ]
+    },
+    {
+      "name": "PATTERNS",
+      "level": 1,
+      "members": [
+        "HOUNDSTOOTH",
+        "PAISLEY",
+        "PLAID",
+        "STRIPES"
+      ]
+    },
+    {
+      "name": "SYNONYMS FOR FALSEHOOD",
+      "level": 2,
+      "members": [
+        "FIB",
+        "FICTION",
+        "LIE",
+        "TALE"
+      ]
+    },
+    {
+      "name": "CANDY PIECES",
+      "level": 3,
+      "members": [
+        "DOT",
+        "GOOBER",
+        "KISS",
+        "WHOPPER"
+      ]
+    }
+  ]
+}

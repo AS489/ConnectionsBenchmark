@@ -1,0 +1,47 @@
+{
+  "id": 461,
+  "date": "2024-09-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WINE BOTTLE INFO",
+      "level": 0,
+      "members": [
+        "GRAPE",
+        "REGION",
+        "VINTAGE",
+        "WINERY"
+      ]
+    },
+    {
+      "name": "CONSOLE INPUTS",
+      "level": 1,
+      "members": [
+        "BUTTON",
+        "KNOB",
+        "SLIDER",
+        "SWITCH"
+      ]
+    },
+    {
+      "name": "PREFIXES",
+      "level": 2,
+      "members": [
+        "PRO",
+        "RETRO",
+        "SUB",
+        "SUPER"
+      ]
+    },
+    {
+      "name": "___ KING",
+      "level": 3,
+      "members": [
+        "BURGER",
+        "CALIFORNIA",
+        "LION",
+        "PROM"
+      ]
+    }
+  ]
+}

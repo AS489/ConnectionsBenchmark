@@ -1,0 +1,47 @@
+{
+  "id": 1060,
+  "date": "2026-05-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MOVE STEALTHILY, WITH \"IN\"",
+      "level": null,
+      "members": [
+        "CREEP",
+        "SLIP",
+        "SNEAK",
+        "STEAL"
+      ]
+    },
+    {
+      "name": "KINDS OF SCHEMES",
+      "level": null,
+      "members": [
+        "COLOR",
+        "PONZI",
+        "PYRAMID",
+        "RHYME"
+      ]
+    },
+    {
+      "name": "DETECTIVE MOVIES",
+      "level": null,
+      "members": [
+        "CHINATOWN",
+        "KNIVES OUT",
+        "SEVEN",
+        "VERTIGO"
+      ]
+    },
+    {
+      "name": "BODY PARTS SURROUNDED BY TWO LETTERS",
+      "level": null,
+      "members": [
+        "ELEGY",
+        "KARMA",
+        "KEYED",
+        "SHANDY"
+      ]
+    }
+  ]
+}

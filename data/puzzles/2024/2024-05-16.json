@@ -1,0 +1,47 @@
+{
+  "id": 340,
+  "date": "2024-05-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PHOTO",
+      "level": 0,
+      "members": [
+        "PIC",
+        "SHOT",
+        "SNAP",
+        "STILL"
+      ]
+    },
+    {
+      "name": "ASSURE, AS A VICTORY",
+      "level": 1,
+      "members": [
+        "CINCH",
+        "ICE",
+        "LOCK",
+        "SECURE"
+      ]
+    },
+    {
+      "name": "MOVE IN AN EFFORTLESS WAY",
+      "level": 2,
+      "members": [
+        "BREEZE",
+        "COAST",
+        "GLIDE",
+        "SAIL"
+      ]
+    },
+    {
+      "name": "___ BLANKET",
+      "level": 3,
+      "members": [
+        "PICNIC",
+        "SECURITY",
+        "THROW",
+        "WET"
+      ]
+    }
+  ]
+}

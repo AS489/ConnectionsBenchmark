@@ -1,0 +1,47 @@
+{
+  "id": 148,
+  "date": "2023-11-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INVESTMENTS",
+      "level": 0,
+      "members": [
+        "BOND",
+        "CD",
+        "OPTION",
+        "STOCK"
+      ]
+    },
+    {
+      "name": "TERMS FOR RECORDS",
+      "level": 1,
+      "members": [
+        "LP",
+        "PLATTER",
+        "VINYL",
+        "WAX"
+      ]
+    },
+    {
+      "name": "CUBE-SHAPED",
+      "level": 2,
+      "members": [
+        "BOUILLON",
+        "DIE",
+        "ICE",
+        "SUGAR"
+      ]
+    },
+    {
+      "name": "WORDS THAT GO WITH “BONE”",
+      "level": 3,
+      "members": [
+        "FUNNY",
+        "HERRING",
+        "SOUP",
+        "WISH"
+      ]
+    }
+  ]
+}

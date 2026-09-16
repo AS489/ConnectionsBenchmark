@@ -1,0 +1,47 @@
+{
+  "id": 828,
+  "date": "2025-09-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KEEP TABS ON",
+      "level": 0,
+      "members": [
+        "FOLLOW",
+        "MONITOR",
+        "TRACK",
+        "WATCH"
+      ]
+    },
+    {
+      "name": "ONE IN A DOZEN",
+      "level": 1,
+      "members": [
+        "DONUT",
+        "JUROR",
+        "MONTH",
+        "ROSE"
+      ]
+    },
+    {
+      "name": "THINGS WITH INK",
+      "level": 2,
+      "members": [
+        "PEN",
+        "PRINTER",
+        "SQUID",
+        "TATTOO MACHINE"
+      ]
+    },
+    {
+      "name": "___ RABBIT",
+      "level": 3,
+      "members": [
+        "ROGER",
+        "TRIX",
+        "VELVETEEN",
+        "WHITE"
+      ]
+    }
+  ]
+}

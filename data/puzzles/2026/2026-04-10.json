@@ -1,0 +1,47 @@
+{
+  "id": 1030,
+  "date": "2026-04-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PEPPERS",
+      "level": null,
+      "members": [
+        "BELL PEPPER",
+        "CAROLINA REAPER",
+        "CHIPOTLE",
+        "PEPPERONCINO"
+      ]
+    },
+    {
+      "name": "THINGS THAT POP UP",
+      "level": null,
+      "members": [
+        "EJECTOR SEAT",
+        "JACK-IN-THE-BOX",
+        "POP-UP BOOK",
+        "TOASTER"
+      ]
+    },
+    {
+      "name": "DESCRIPTORS FOR SWISS CHEESE",
+      "level": null,
+      "members": [
+        "FIRM",
+        "HOLEY",
+        "NUTTY",
+        "SWISS"
+      ]
+    },
+    {
+      "name": "BLUE CHARACTERS",
+      "level": null,
+      "members": [
+        "BLUE",
+        "GENIE",
+        "GONZO",
+        "SONIC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 204,
+  "date": "2024-01-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GARDENING NOUNS/VERBS",
+      "level": 0,
+      "members": [
+        "PLANT",
+        "SEED",
+        "WATER",
+        "WEED"
+      ]
+    },
+    {
+      "name": "KINDS OF SALADS",
+      "level": 1,
+      "members": [
+        "CAESAR",
+        "GREEK",
+        "GREEN",
+        "WEDGE"
+      ]
+    },
+    {
+      "name": "CLASSIC GAME SHOWS, FAMILIARLY",
+      "level": 2,
+      "members": [
+        "FEUD",
+        "MILLIONAIRE",
+        "PYRAMID",
+        "WHEEL"
+      ]
+    },
+    {
+      "name": "W + VOWEL SOUND",
+      "level": 3,
+      "members": [
+        "WAY",
+        "WEE",
+        "WHY",
+        "WHOA"
+      ]
+    }
+  ]
+}

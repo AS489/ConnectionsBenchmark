@@ -1,0 +1,47 @@
+{
+  "id": 169,
+  "date": "2023-11-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CARRY A TUNE",
+      "level": 0,
+      "members": [
+        "HUM",
+        "SING",
+        "SCAT",
+        "WHISTLE"
+      ]
+    },
+    {
+      "name": "WHOLE AMOUNT",
+      "level": 1,
+      "members": [
+        "COUNT",
+        "GROSS",
+        "SUM",
+        "TOTAL"
+      ]
+    },
+    {
+      "name": "MOJITO INGREDIENTS",
+      "level": 2,
+      "members": [
+        "LIME",
+        "MINT",
+        "RUM",
+        "SODA"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE “STICKY”",
+      "level": 3,
+      "members": [
+        "GLUE",
+        "GUM",
+        "TAPE",
+        "STICK"
+      ]
+    }
+  ]
+}

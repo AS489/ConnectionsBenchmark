@@ -1,0 +1,47 @@
+{
+  "id": 1001,
+  "date": "2026-03-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STEAL",
+      "level": null,
+      "members": [
+        "LIFT",
+        "PALM",
+        "PINCH",
+        "POCKET"
+      ]
+    },
+    {
+      "name": "MAKE NICER, WITH \"UP\"",
+      "level": null,
+      "members": [
+        "DRESS",
+        "JAZZ",
+        "SPIFF",
+        "SPRUCE"
+      ]
+    },
+    {
+      "name": "KINDS OF CONES",
+      "level": null,
+      "members": [
+        "ICE CREAM",
+        "PINE",
+        "SNOW",
+        "TRAFFIC"
+      ]
+    },
+    {
+      "name": "PRONOUN HOMOPHONES",
+      "level": null,
+      "members": [
+        "HEE",
+        "MI",
+        "OUI",
+        "YEW"
+      ]
+    }
+  ]
+}

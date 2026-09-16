@@ -1,0 +1,47 @@
+{
+  "id": 342,
+  "date": "2024-05-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ANIMALS WHOSE NAMES ARE TWO ANIMALS",
+      "level": 0,
+      "members": [
+        "BULLDOG",
+        "CATFISH",
+        "HORSEFLY",
+        "TURTLEDOVE"
+      ]
+    },
+    {
+      "name": "SHARP TURNS",
+      "level": 1,
+      "members": [
+        "DOGLEG",
+        "HAIRPIN",
+        "SWITCHBACK",
+        "ZAG"
+      ]
+    },
+    {
+      "name": "CLASSIC PARTY GAMES",
+      "level": 2,
+      "members": [
+        "CATEGORIES",
+        "CHARADES",
+        "FISHBOWL",
+        "WEREWOLF"
+      ]
+    },
+    {
+      "name": "THINGS WITH SPRING/S",
+      "level": 3,
+      "members": [
+        "CLOCK",
+        "MATTRESS",
+        "MOUSETRAP",
+        "TRAMPOLINE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 318,
+  "date": "2024-04-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TACO TOPPINGS",
+      "level": 0,
+      "members": [
+        "CILANTRO",
+        "LIME",
+        "ONION",
+        "SALSA"
+      ]
+    },
+    {
+      "name": "METRIC PREFIXES",
+      "level": 1,
+      "members": [
+        "KILO",
+        "MEGA",
+        "MICRO",
+        "PICO"
+      ]
+    },
+    {
+      "name": "KINDS OF SKIRTS",
+      "level": 2,
+      "members": [
+        "MINI",
+        "PENCIL",
+        "POODLE",
+        "WRAP"
+      ]
+    },
+    {
+      "name": "WORDS WITH “HILL”",
+      "level": 3,
+      "members": [
+        "CAPITOL",
+        "FAITH",
+        "FOOT",
+        "MOLE"
+      ]
+    }
+  ]
+}

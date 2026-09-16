@@ -1,0 +1,47 @@
+{
+  "id": 724,
+  "date": "2025-06-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A SONG",
+      "level": 0,
+      "members": [
+        "BRIDGE",
+        "CHORUS",
+        "HOOK",
+        "REFRAIN"
+      ]
+    },
+    {
+      "name": "SUPPORT AUDIBLY",
+      "level": 1,
+      "members": [
+        "CHEER",
+        "CLAP",
+        "ROOT",
+        "WHISTLE"
+      ]
+    },
+    {
+      "name": "THINGS IN AN ENTRYWAY",
+      "level": 2,
+      "members": [
+        "BENCH",
+        "COAT RACK",
+        "CONSOLE",
+        "RUNNER"
+      ]
+    },
+    {
+      "name": "IMAGERY IN MAGRITTE PAINTINGS",
+      "level": 3,
+      "members": [
+        "APPLE",
+        "BOWLER",
+        "CLOUD",
+        "PIPE"
+      ]
+    }
+  ]
+}

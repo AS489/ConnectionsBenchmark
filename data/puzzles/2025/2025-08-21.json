@@ -1,0 +1,47 @@
+{
+  "id": 802,
+  "date": "2025-08-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BLUNDER",
+      "level": 0,
+      "members": [
+        "BOO-BOO",
+        "FLUB",
+        "GAFFE",
+        "NO-NO"
+      ]
+    },
+    {
+      "name": "LANDS OF THE IMAGINATION",
+      "level": 1,
+      "members": [
+        "DREAM",
+        "FANTASY",
+        "LA-LA",
+        "NEVER NEVER"
+      ]
+    },
+    {
+      "name": "THINGS WITH ANTENNA/E",
+      "level": 2,
+      "members": [
+        "INSECT",
+        "RADIO TOWER",
+        "SATELLITE DISH",
+        "TELETUBBY"
+      ]
+    },
+    {
+      "name": "___ DOODLE",
+      "level": 3,
+      "members": [
+        "CHEESE",
+        "DIPSY",
+        "GOOGLE",
+        "YANKEE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 639,
+  "date": "2025-03-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VARIATION FROM THE NORM",
+      "level": 0,
+      "members": [
+        "ALTERNATIVE",
+        "BREAK",
+        "CHANGE",
+        "DEPARTURE"
+      ]
+    },
+    {
+      "name": "THINGS THAT RING",
+      "level": 1,
+      "members": [
+        "ALARM",
+        "BELL",
+        "INTERCOM",
+        "PHONE"
+      ]
+    },
+    {
+      "name": "THINGS TRADITIONALLY MADE OF LEATHER",
+      "level": 2,
+      "members": [
+        "FOOTBALL",
+        "MOCCASINS",
+        "SADDLE",
+        "WALLET"
+      ]
+    },
+    {
+      "name": "SINGER-SONGWRITER PIANISTS",
+      "level": 3,
+      "members": [
+        "KEYS",
+        "KING",
+        "LEGEND",
+        "WONDER"
+      ]
+    }
+  ]
+}

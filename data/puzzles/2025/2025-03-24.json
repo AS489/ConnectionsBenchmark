@@ -1,0 +1,47 @@
+{
+  "id": 652,
+  "date": "2025-03-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BAD-SMELLING",
+      "level": 0,
+      "members": [
+        "FOUL",
+        "RANK",
+        "RIPE",
+        "SOUR"
+      ]
+    },
+    {
+      "name": "UNFLUCTUATING",
+      "level": 1,
+      "members": [
+        "CONSTANT",
+        "LEVEL",
+        "STABLE",
+        "UNIFORM"
+      ]
+    },
+    {
+      "name": "WHO VIDEO GAMES ARE FOR, PER ESRB RATINGS",
+      "level": 2,
+      "members": [
+        "ADULTS ONLY",
+        "EVERYONE",
+        "TEEN",
+        "MATURE"
+      ]
+    },
+    {
+      "name": "THINGS WITH LAYERS",
+      "level": 3,
+      "members": [
+        "EARTH",
+        "HENHOUSE",
+        "ONION",
+        "PHOTOSHOP"
+      ]
+    }
+  ]
+}

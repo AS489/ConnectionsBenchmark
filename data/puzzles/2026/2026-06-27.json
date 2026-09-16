@@ -1,0 +1,47 @@
+{
+  "id": 1107,
+  "date": "2026-06-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MONOPOLY SQUARES",
+      "level": null,
+      "members": [
+        "BOARDWALK",
+        "INCOME TAX",
+        "SHORT LINE",
+        "WATER WORKS"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF A FASHION SHOW",
+      "level": null,
+      "members": [
+        "CATWALK",
+        "COLLECTION",
+        "DESIGNER",
+        "MODEL"
+      ]
+    },
+    {
+      "name": "COMMONLY STRIPED THINGS",
+      "level": null,
+      "members": [
+        "BARBER POLE",
+        "BILLIARD BALL",
+        "CREDIT CARD",
+        "CROSSWALK"
+      ]
+    },
+    {
+      "name": "ENDING IN HORSE GAITS",
+      "level": null,
+      "members": [
+        "DECANTER",
+        "ENVELOPE",
+        "FIREWALK",
+        "FOXTROT"
+      ]
+    }
+  ]
+}

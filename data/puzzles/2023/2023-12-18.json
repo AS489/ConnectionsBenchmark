@@ -1,0 +1,47 @@
+{
+  "id": 190,
+  "date": "2023-12-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BRIEF MOMENT",
+      "level": 0,
+      "members": [
+        "FLASH",
+        "JIFFY",
+        "SECOND",
+        "WINK"
+      ]
+    },
+    {
+      "name": "PRIMARY",
+      "level": 1,
+      "members": [
+        "CHIEF",
+        "FIRST",
+        "MAIN",
+        "PRINCIPAL"
+      ]
+    },
+    {
+      "name": "AVENUES IN N.Y.C.",
+      "level": 2,
+      "members": [
+        "BROADWAY",
+        "FIFTH",
+        "MADISON",
+        "PARK"
+      ]
+    },
+    {
+      "name": "___ HOUR",
+      "level": 3,
+      "members": [
+        "AMATEUR",
+        "ELEVENTH",
+        "HAPPY",
+        "RUSH"
+      ]
+    }
+  ]
+}

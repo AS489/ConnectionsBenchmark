@@ -1,0 +1,47 @@
+{
+  "id": 665,
+  "date": "2025-04-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ALOOF",
+      "level": 0,
+      "members": [
+        "COOL",
+        "DISTANT",
+        "REMOTE",
+        "RESERVED"
+      ]
+    },
+    {
+      "name": "UTILITIES",
+      "level": 1,
+      "members": [
+        "CABLE",
+        "GAS",
+        "TRASH",
+        "WATER"
+      ]
+    },
+    {
+      "name": "WHAT AN ELECTROMETER MEASURES",
+      "level": 2,
+      "members": [
+        "CHARGE",
+        "CURRENT",
+        "RESISTANCE",
+        "VOLTAGE"
+      ]
+    },
+    {
+      "name": "___ JOINT",
+      "level": 3,
+      "members": [
+        "DOVETAIL",
+        "HIP",
+        "PIZZA",
+        "SPIKE LEE"
+      ]
+    }
+  ]
+}

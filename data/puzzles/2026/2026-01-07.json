@@ -1,0 +1,47 @@
+{
+  "id": 940,
+  "date": "2026-01-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DOPPELGÄNGER",
+      "level": null,
+      "members": [
+        "CLONE",
+        "DOUBLE",
+        "MIRROR",
+        "RINGER"
+      ]
+    },
+    {
+      "name": "PORTION",
+      "level": null,
+      "members": [
+        "CONCERN",
+        "INTEREST",
+        "SHARE",
+        "STAKE"
+      ]
+    },
+    {
+      "name": "COMMON FLAG SYMBOLS",
+      "level": null,
+      "members": [
+        "CRESCENT",
+        "CROSS",
+        "STAR",
+        "STRIPE"
+      ]
+    },
+    {
+      "name": "PRESSED USING A PRESS",
+      "level": null,
+      "members": [
+        "CIDER",
+        "GARLIC",
+        "TROUSERS",
+        "WINE"
+      ]
+    }
+  ]
+}

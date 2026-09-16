@@ -1,0 +1,47 @@
+{
+  "id": 131,
+  "date": "2023-10-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ANIMAL HOMES",
+      "level": 0,
+      "members": [
+        "DEN",
+        "HIVE",
+        "LAIR",
+        "NEST"
+      ]
+    },
+    {
+      "name": "VIRTUAL SPACES",
+      "level": 1,
+      "members": [
+        "CLOUD",
+        "METAVERSE",
+        "NET",
+        "WEB"
+      ]
+    },
+    {
+      "name": "EQUITABLE",
+      "level": 2,
+      "members": [
+        "EQUAL",
+        "EVEN",
+        "FAIR",
+        "JUST"
+      ]
+    },
+    {
+      "name": "___ BURGER",
+      "level": 3,
+      "members": [
+        "GOOD",
+        "IMPOSSIBLE",
+        "NOTHING",
+        "WARREN"
+      ]
+    }
+  ]
+}

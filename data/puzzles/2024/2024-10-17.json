@@ -1,0 +1,47 @@
+{
+  "id": 494,
+  "date": "2024-10-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GRASSY AREA",
+      "level": 0,
+      "members": [
+        "GREEN",
+        "LAWN",
+        "PARK",
+        "YARD"
+      ]
+    },
+    {
+      "name": "DEAL WITH",
+      "level": 1,
+      "members": [
+        "ADDRESS",
+        "ANSWER",
+        "FIELD",
+        "HANDLE"
+      ]
+    },
+    {
+      "name": "MOVIES WITH “S” REMOVED",
+      "level": 2,
+      "members": [
+        "CAR",
+        "GOODFELLA",
+        "JAW",
+        "SWINGER"
+      ]
+    },
+    {
+      "name": "___ LAW",
+      "level": 3,
+      "members": [
+        "CRIMINAL",
+        "HARVARD",
+        "LEMON",
+        "NATURAL"
+      ]
+    }
+  ]
+}

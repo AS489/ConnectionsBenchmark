@@ -1,0 +1,47 @@
+{
+  "id": 29,
+  "date": "2023-07-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WINGED INSECTS",
+      "level": 0,
+      "members": [
+        "FLY",
+        "GNAT",
+        "MOTH",
+        "WASP"
+      ]
+    },
+    {
+      "name": "ARITHMETIC OPERATIONS",
+      "level": 1,
+      "members": [
+        "ADD",
+        "DIVIDE",
+        "MULTIPLY",
+        "SUBTRACT"
+      ]
+    },
+    {
+      "name": "FISH",
+      "level": 2,
+      "members": [
+        "TANG",
+        "TETRA",
+        "SKATE",
+        "SOLE"
+      ]
+    },
+    {
+      "name": "___ CAT",
+      "level": 3,
+      "members": [
+        "ALLEY",
+        "COOL",
+        "COPY",
+        "LAP"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 710,
+  "date": "2025-05-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PROHIBIT, AS ENTRY",
+      "level": 0,
+      "members": [
+        "BAR",
+        "BLOCK",
+        "DENY",
+        "REFUSE"
+      ]
+    },
+    {
+      "name": "FOLDERS ON A MAC",
+      "level": 1,
+      "members": [
+        "DESKTOP",
+        "MUSIC",
+        "PICTURES",
+        "TRASH"
+      ]
+    },
+    {
+      "name": "MEDICINE FORMATS",
+      "level": 2,
+      "members": [
+        "CREAM",
+        "PATCH",
+        "SPRAY",
+        "TABLET"
+      ]
+    },
+    {
+      "name": "THINGS THAT OPEN LIKE A CLAM",
+      "level": 3,
+      "members": [
+        "CLAM",
+        "COMPACT",
+        "LAPTOP",
+        "WAFFLE IRON"
+      ]
+    }
+  ]
+}

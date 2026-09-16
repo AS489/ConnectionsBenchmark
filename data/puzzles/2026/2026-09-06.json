@@ -1,0 +1,47 @@
+{
+  "id": 1178,
+  "date": "2026-09-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNRESTRICTED PERMISSION",
+      "level": null,
+      "members": [
+        "BLANK CHECK",
+        "CARTE BLANCHE",
+        "FREE REIGN",
+        "FULL AUTHORITY"
+      ]
+    },
+    {
+      "name": "PLACES TO INSERT SOMETHING INTO ON A COMPUTER",
+      "level": null,
+      "members": [
+        "CARD SLOT",
+        "HEADPHONE JACK",
+        "OPTICAL DRIVE",
+        "USB PORT"
+      ]
+    },
+    {
+      "name": "ABBREVIATIONS FOLLOWED BY REDUNDANT WORD",
+      "level": null,
+      "members": [
+        "ATM MACHINE",
+        "LCD DISPLAY",
+        "PIN NUMBER",
+        "UPC CODE"
+      ]
+    },
+    {
+      "name": "ENDING WITH WAYS TO CARVE A SURFACE",
+      "level": null,
+      "members": [
+        "COURT SCRIBE",
+        "DIRECTOR'S CUT",
+        "PIZZA SLICE",
+        "SAT SCORE"
+      ]
+    }
+  ]
+}

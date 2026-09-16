@@ -1,0 +1,47 @@
+{
+  "id": 775,
+  "date": "2025-07-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HUSH-HUSH",
+      "level": 0,
+      "members": [
+        "MUM",
+        "PRIVATE",
+        "QUIET",
+        "SECRET"
+      ]
+    },
+    {
+      "name": "STATE ABBREVIATIONS",
+      "level": 1,
+      "members": [
+        "IN",
+        "MA",
+        "OH",
+        "OK"
+      ]
+    },
+    {
+      "name": "BASEBALL CALLS",
+      "level": 2,
+      "members": [
+        "BALL",
+        "FAIR",
+        "FOUL",
+        "OUT"
+      ]
+    },
+    {
+      "name": "QUEEN ___",
+      "level": 3,
+      "members": [
+        "BED",
+        "BEE",
+        "MARY",
+        "MOTHER"
+      ]
+    }
+  ]
+}

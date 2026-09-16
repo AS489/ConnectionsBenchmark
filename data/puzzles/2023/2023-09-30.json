@@ -1,0 +1,47 @@
+{
+  "id": 111,
+  "date": "2023-09-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLAYING CARD SUITS",
+      "level": 0,
+      "members": [
+        "CLUB",
+        "DIAMOND",
+        "HEART",
+        "SPADE"
+      ]
+    },
+    {
+      "name": "GOLF CLUBS",
+      "level": 1,
+      "members": [
+        "IRON",
+        "PUTTER",
+        "WEDGE",
+        "WOOD"
+      ]
+    },
+    {
+      "name": "YEARN",
+      "level": 2,
+      "members": [
+        "ACHE",
+        "LONG",
+        "PINE",
+        "THIRST"
+      ]
+    },
+    {
+      "name": "INSUFFICIENT",
+      "level": 3,
+      "members": [
+        "LOW",
+        "SHORT",
+        "SHY",
+        "WANTING"
+      ]
+    }
+  ]
+}

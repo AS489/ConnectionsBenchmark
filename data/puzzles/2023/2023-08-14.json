@@ -1,0 +1,47 @@
+{
+  "id": 64,
+  "date": "2023-08-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CLASSIC DOG NAMES",
+      "level": 0,
+      "members": [
+        "FIDO",
+        "LUCKY",
+        "ROVER",
+        "SPOT"
+      ]
+    },
+    {
+      "name": "PERCEIVE",
+      "level": 1,
+      "members": [
+        "CATCH",
+        "NOTICE",
+        "OBSERVE",
+        "SEE"
+      ]
+    },
+    {
+      "name": "FISHING TERMS",
+      "level": 2,
+      "members": [
+        "BAIT",
+        "CHUM",
+        "FLY",
+        "SINKER"
+      ]
+    },
+    {
+      "name": "T-___",
+      "level": 3,
+      "members": [
+        "BONE",
+        "REX",
+        "SHIRT",
+        "STORM"
+      ]
+    }
+  ]
+}

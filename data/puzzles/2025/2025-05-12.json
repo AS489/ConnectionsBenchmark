@@ -1,0 +1,47 @@
+{
+  "id": 701,
+  "date": "2025-05-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLACES TO FIND PAPER MONEY",
+      "level": 0,
+      "members": [
+        "ATM",
+        "CASH REGISTER",
+        "TIP JAR",
+        "WALLET"
+      ]
+    },
+    {
+      "name": "REBOUND",
+      "level": 1,
+      "members": [
+        "BANK",
+        "BOUNCE",
+        "CAROM",
+        "RICOCHET"
+      ]
+    },
+    {
+      "name": "THINGS TRACKED BY WEB ANALYTICS",
+      "level": 2,
+      "members": [
+        "CLICK",
+        "HIT",
+        "PAGE VIEW",
+        "VISIT"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN DO WITH YOUR LIPS",
+      "level": 3,
+      "members": [
+        "CURL",
+        "PUCKER",
+        "PURSE",
+        "SMACK"
+      ]
+    }
+  ]
+}

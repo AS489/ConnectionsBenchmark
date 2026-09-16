@@ -1,0 +1,47 @@
+{
+  "id": 462,
+  "date": "2024-09-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RESIDE",
+      "level": 0,
+      "members": [
+        "DWELL",
+        "INHABIT",
+        "LIVE",
+        "STAY"
+      ]
+    },
+    {
+      "name": "DECREASE",
+      "level": 1,
+      "members": [
+        "DECLINE",
+        "DROP",
+        "DWINDLE",
+        "EBB"
+      ]
+    },
+    {
+      "name": "DOOFUS",
+      "level": 2,
+      "members": [
+        "CLOWN",
+        "DWEEB",
+        "SAP",
+        "TURKEY"
+      ]
+    },
+    {
+      "name": "MEMBER OF A SEPTET",
+      "level": 3,
+      "members": [
+        "DWARF",
+        "SEA",
+        "SIN",
+        "WONDER"
+      ]
+    }
+  ]
+}

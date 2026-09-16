@@ -1,0 +1,47 @@
+{
+  "id": 1103,
+  "date": "2026-06-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DANCE STYLES",
+      "level": null,
+      "members": [
+        "FOXTROT",
+        "MODERN",
+        "SWING",
+        "TAP"
+      ]
+    },
+    {
+      "name": "IN A MONOPOLY BOX",
+      "level": null,
+      "members": [
+        "DEED",
+        "HOTEL",
+        "MONEY",
+        "TOKEN"
+      ]
+    },
+    {
+      "name": "CONTENT SORTING OPTIONS ONLINE",
+      "level": null,
+      "members": [
+        "FEATURED",
+        "POPULAR",
+        "RECENT",
+        "TRENDING"
+      ]
+    },
+    {
+      "name": "THINGS WITH MANTLES/MANTELS",
+      "level": null,
+      "members": [
+        "EARTH",
+        "EMPEROR",
+        "FIREPLACE",
+        "YANKEES"
+      ]
+    }
+  ]
+}

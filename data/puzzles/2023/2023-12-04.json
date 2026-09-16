@@ -1,0 +1,47 @@
+{
+  "id": 176,
+  "date": "2023-12-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNIT OF BREAD",
+      "level": 0,
+      "members": [
+        "BAGUETTE",
+        "BUN",
+        "LOAF",
+        "ROLL"
+      ]
+    },
+    {
+      "name": "ASSURE, AS A WIN",
+      "level": 1,
+      "members": [
+        "CLINCH",
+        "GUARANTEE",
+        "LOCK",
+        "SECURE"
+      ]
+    },
+    {
+      "name": "SMALL IMPERFECTION",
+      "level": 2,
+      "members": [
+        "CHIP",
+        "MARK",
+        "NICK",
+        "SCRATCH"
+      ]
+    },
+    {
+      "name": "HEAD OF ___",
+      "level": 3,
+      "members": [
+        "HAIR",
+        "LETTUCE",
+        "STATE",
+        "STEAM"
+      ]
+    }
+  ]
+}

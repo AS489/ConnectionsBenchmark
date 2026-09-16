@@ -1,0 +1,47 @@
+{
+  "id": 780,
+  "date": "2025-07-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INSTRUCT",
+      "level": 0,
+      "members": [
+        "COACH",
+        "DIRECT",
+        "GUIDE",
+        "TRAIN"
+      ]
+    },
+    {
+      "name": "MEANS",
+      "level": 1,
+      "members": [
+        "INSTRUMENT",
+        "MEDIUM",
+        "ORGAN",
+        "VEHICLE"
+      ]
+    },
+    {
+      "name": "STARTING WITH GREEK NUMERICAL PREFIXES",
+      "level": 2,
+      "members": [
+        "DIOXIDE",
+        "MONORAIL",
+        "TETRACYCLINE",
+        "TRIANGLE"
+      ]
+    },
+    {
+      "name": "ANAGRAMS OF MUSICAL INSTRUMENTS",
+      "level": 3,
+      "members": [
+        "ABUT",
+        "BULGE",
+        "GROAN",
+        "VOILA"
+      ]
+    }
+  ]
+}

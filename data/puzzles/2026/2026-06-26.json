@@ -1,0 +1,47 @@
+{
+  "id": 1106,
+  "date": "2026-06-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CRUNCHY SNACK ITEM",
+      "level": null,
+      "members": [
+        "CHIP",
+        "CRACKER",
+        "NUT",
+        "PRETZEL"
+      ]
+    },
+    {
+      "name": "VARIOUS AMOUNTS OF WOOD",
+      "level": null,
+      "members": [
+        "BOARD",
+        "LOG",
+        "SPLINTER",
+        "TREE"
+      ]
+    },
+    {
+      "name": "AREAS OF LOW GROUND",
+      "level": null,
+      "members": [
+        "DALE",
+        "DELL",
+        "GORGE",
+        "HOLLOW"
+      ]
+    },
+    {
+      "name": "COLORS PLUS A LETTER",
+      "level": null,
+      "members": [
+        "BRONZER",
+        "PINKY",
+        "REDO",
+        "TANG"
+      ]
+    }
+  ]
+}

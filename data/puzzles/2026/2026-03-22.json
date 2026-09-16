@@ -1,0 +1,47 @@
+{
+  "id": 1012,
+  "date": "2026-03-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OVERSEE",
+      "level": null,
+      "members": [
+        "CHAIR",
+        "HEAD",
+        "LEAD",
+        "RUN"
+      ]
+    },
+    {
+      "name": "PICTURE TAKEN FROM A FILM",
+      "level": null,
+      "members": [
+        "FRAME",
+        "IMAGE",
+        "SHOT",
+        "STILL"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF A WEIGHTLIFTING SETUP",
+      "level": null,
+      "members": [
+        "BAR",
+        "BENCH",
+        "RACK",
+        "WEIGHTS"
+      ]
+    },
+    {
+      "name": "___ SURF",
+      "level": null,
+      "members": [
+        "CHANNEL",
+        "COUCH",
+        "CROWD",
+        "KITE"
+      ]
+    }
+  ]
+}

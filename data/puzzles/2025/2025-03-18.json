@@ -1,0 +1,47 @@
+{
+  "id": 646,
+  "date": "2025-03-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXCEPTIONAL",
+      "level": 0,
+      "members": [
+        "REMARKABLE",
+        "SINGULAR",
+        "SPECIAL",
+        "UNIQUE"
+      ]
+    },
+    {
+      "name": "GERMAN WORDS",
+      "level": 1,
+      "members": [
+        "ANGST",
+        "DIE",
+        "KINDER",
+        "WURST"
+      ]
+    },
+    {
+      "name": "PLURAL ANIMALS IDENTICAL TO THEIR SINGULAR FORMS",
+      "level": 2,
+      "members": [
+        "DEER",
+        "SHEEP",
+        "SHRIMP",
+        "SQUID"
+      ]
+    },
+    {
+      "name": "PLURAL WORDS THAT ARE VERY DIFFERENT FROM THEIR SINGULAR FORMS",
+      "level": 3,
+      "members": [
+        "DICE",
+        "LICE",
+        "MICE",
+        "OXEN"
+      ]
+    }
+  ]
+}

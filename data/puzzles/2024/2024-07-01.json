@@ -1,0 +1,47 @@
+{
+  "id": 386,
+  "date": "2024-07-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SHOW THE WAY",
+      "level": 0,
+      "members": [
+        "DIRECT",
+        "GUIDE",
+        "LEAD",
+        "USHER"
+      ]
+    },
+    {
+      "name": "SCHEME",
+      "level": 1,
+      "members": [
+        "CON",
+        "HUSTLE",
+        "RACKET",
+        "STING"
+      ]
+    },
+    {
+      "name": "SEEN ON A U.S. DOLLAR BILL",
+      "level": 2,
+      "members": [
+        "EAGLE",
+        "PYRAMID",
+        "SEAL",
+        "WASHINGTON"
+      ]
+    },
+    {
+      "name": "FIRST WORDS OF CANADIAN PROVINCES/TERRITORIES",
+      "level": 3,
+      "members": [
+        "BRITISH",
+        "NORTHWEST",
+        "NOVA",
+        "PRINCE"
+      ]
+    }
+  ]
+}

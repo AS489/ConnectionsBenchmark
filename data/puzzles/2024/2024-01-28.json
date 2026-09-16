@@ -1,0 +1,47 @@
+{
+  "id": 231,
+  "date": "2024-01-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HIGHEST POINT",
+      "level": 0,
+      "members": [
+        "CREST",
+        "PEAK",
+        "SUMMIT",
+        "VERTEX"
+      ]
+    },
+    {
+      "name": "“CAN I GET YOUR ___?” (PHONE INFO REQUEST)",
+      "level": 1,
+      "members": [
+        "CELL",
+        "CONTACT",
+        "DIGITS",
+        "NUMBER"
+      ]
+    },
+    {
+      "name": "MODIFIERS MEANING “SMALL”",
+      "level": 2,
+      "members": [
+        "BABY",
+        "MINI",
+        "POCKET",
+        "TOY"
+      ]
+    },
+    {
+      "name": "INSIDE A SCRABBLE BOX",
+      "level": 3,
+      "members": [
+        "BAG",
+        "BOARD",
+        "RACKS",
+        "TILES"
+      ]
+    }
+  ]
+}

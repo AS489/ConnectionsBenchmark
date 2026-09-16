@@ -1,0 +1,47 @@
+{
+  "id": 272,
+  "date": "2024-03-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EAT VORACIOUSLY",
+      "level": 0,
+      "members": [
+        "DOWN",
+        "INHALE",
+        "SCARF",
+        "WOLF"
+      ]
+    },
+    {
+      "name": "AREAS OF ACADEMIC FOCUS",
+      "level": 1,
+      "members": [
+        "CONCENTRATION",
+        "DEGREE",
+        "MAJOR",
+        "MINOR"
+      ]
+    },
+    {
+      "name": "UNIVERSAL",
+      "level": 2,
+      "members": [
+        "BLANKET",
+        "BROAD",
+        "GENERAL",
+        "SWEEPING"
+      ]
+    },
+    {
+      "name": "SPACE ___",
+      "level": 3,
+      "members": [
+        "BAR",
+        "CADET",
+        "HEATER",
+        "STATION"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 233,
+  "date": "2024-01-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HIT HARD",
+      "level": 0,
+      "members": [
+        "BANG",
+        "HAMMER",
+        "POUND",
+        "SLAM"
+      ]
+    },
+    {
+      "name": "NEWSPAPER NAMES",
+      "level": 1,
+      "members": [
+        "CHRONICLE",
+        "HERALD",
+        "REGISTER",
+        "SUN"
+      ]
+    },
+    {
+      "name": "CRESCENT-SHAPED THINGS",
+      "level": 2,
+      "members": [
+        "BANANA",
+        "CROISSANT",
+        "MOON",
+        "SICKLE"
+      ]
+    },
+    {
+      "name": "POWER-UPS IN SUPER MARIO WORLD",
+      "level": 3,
+      "members": [
+        "FEATHER",
+        "FLOWER",
+        "MUSHROOM",
+        "STAR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 199,
+  "date": "2023-12-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INDICATION OF THINGS TO COME",
+      "level": 0,
+      "members": [
+        "MESSAGE",
+        "OMEN",
+        "SIGN",
+        "WARNING"
+      ]
+    },
+    {
+      "name": "NAME PREFIXES",
+      "level": 1,
+      "members": [
+        "GEN",
+        "MS",
+        "PROF",
+        "REV"
+      ]
+    },
+    {
+      "name": "ART MEDIUMS",
+      "level": 2,
+      "members": [
+        "CHARCOAL",
+        "INK",
+        "PAINT",
+        "PASTEL"
+      ]
+    },
+    {
+      "name": "___ PEPPER",
+      "level": 3,
+      "members": [
+        "BELL",
+        "BLACK",
+        "DR",
+        "GHOST"
+      ]
+    }
+  ]
+}

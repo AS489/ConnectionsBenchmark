@@ -1,0 +1,47 @@
+{
+  "id": 1086,
+  "date": "2026-06-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PILLAR",
+      "level": null,
+      "members": [
+        "POLE",
+        "POST",
+        "SHAFT",
+        "STAKE"
+      ]
+    },
+    {
+      "name": "INDICATE, AS EMOTIONS",
+      "level": null,
+      "members": [
+        "BETRAY",
+        "DISPLAY",
+        "EXPRESS",
+        "REGISTER"
+      ]
+    },
+    {
+      "name": "KINDS OF LIZARDS",
+      "level": null,
+      "members": [
+        "BASILISK",
+        "DRAGON",
+        "MONITOR",
+        "SKINK"
+      ]
+    },
+    {
+      "name": "___ TABLE",
+      "level": null,
+      "members": [
+        "DINNER",
+        "DRAFTING",
+        "ROUND",
+        "TIMES"
+      ]
+    }
+  ]
+}

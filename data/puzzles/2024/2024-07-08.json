@@ -1,0 +1,47 @@
+{
+  "id": 393,
+  "date": "2024-07-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BIT OF ADVICE",
+      "level": 0,
+      "members": [
+        "POINTER",
+        "SUGGESTION",
+        "TIP",
+        "TRICK"
+      ]
+    },
+    {
+      "name": "FORTITUDE",
+      "level": 1,
+      "members": [
+        "GRIT",
+        "RESOLVE",
+        "SPIRIT",
+        "WILL"
+      ]
+    },
+    {
+      "name": "SPEND TIME AT",
+      "level": 2,
+      "members": [
+        "FREQUENT",
+        "HAUNT",
+        "PATRONIZE",
+        "VISIT"
+      ]
+    },
+    {
+      "name": "WORDS ENDING IN NUMBERS",
+      "level": 3,
+      "members": [
+        "CANINE",
+        "FREIGHT",
+        "OFTEN",
+        "OZONE"
+      ]
+    }
+  ]
+}

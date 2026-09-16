@@ -1,0 +1,47 @@
+{
+  "id": 1032,
+  "date": "2026-04-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PANTS FEATURES",
+      "level": null,
+      "members": [
+        "BELT LOOP",
+        "CUFF",
+        "FLY",
+        "POCKET"
+      ]
+    },
+    {
+      "name": "PERSPECTIVE",
+      "level": null,
+      "members": [
+        "ANGLE",
+        "POSITION",
+        "STANCE",
+        "TAKE"
+      ]
+    },
+    {
+      "name": "EMIT",
+      "level": null,
+      "members": [
+        "CAST",
+        "PROJECT",
+        "RADIATE",
+        "SHED"
+      ]
+    },
+    {
+      "name": "___ DOLL",
+      "level": null,
+      "members": [
+        "PAPER",
+        "RAG",
+        "RUSSIAN",
+        "TROLL"
+      ]
+    }
+  ]
+}

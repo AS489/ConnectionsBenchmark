@@ -1,0 +1,47 @@
+{
+  "id": 468,
+  "date": "2024-09-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CLAIRVOYANT",
+      "level": 0,
+      "members": [
+        "MEDIUM",
+        "MYSTIC",
+        "ORACLE",
+        "PSYCHIC"
+      ]
+    },
+    {
+      "name": "SPECIAL EDITION ADJECTIVES",
+      "level": 1,
+      "members": [
+        "COLLECTIBLE",
+        "EXCLUSIVE",
+        "LIMITED",
+        "RARE"
+      ]
+    },
+    {
+      "name": "“GREAT JOB!”",
+      "level": 2,
+      "members": [
+        "IMPRESSIVE",
+        "NICE",
+        "PROPS",
+        "WELL DONE"
+      ]
+    },
+    {
+      "name": "EXTREMELY",
+      "level": 3,
+      "members": [
+        "AWFUL",
+        "BLOODY",
+        "REAL",
+        "WAY"
+      ]
+    }
+  ]
+}

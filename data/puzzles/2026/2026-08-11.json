@@ -1,0 +1,47 @@
+{
+  "id": 1152,
+  "date": "2026-08-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DOOMED",
+      "level": null,
+      "members": [
+        "DONE",
+        "SUNK",
+        "THROUGH",
+        "TOAST"
+      ]
+    },
+    {
+      "name": "BASIC CABLE CHANNELS",
+      "level": null,
+      "members": [
+        "BET",
+        "BRAVO",
+        "HISTORY",
+        "USA"
+      ]
+    },
+    {
+      "name": "WORDS IN AN AUCTIONEER'S CHANT",
+      "level": null,
+      "members": [
+        "GOING",
+        "ONCE",
+        "SOLD",
+        "TWICE"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF FACIAL FEATURES",
+      "level": null,
+      "members": [
+        "AYE",
+        "HARE",
+        "KNOWS",
+        "TUNG"
+      ]
+    }
+  ]
+}

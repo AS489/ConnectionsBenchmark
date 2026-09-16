@@ -1,0 +1,47 @@
+{
+  "id": 1142,
+  "date": "2026-08-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BEDDING",
+      "level": null,
+      "members": [
+        "COMFORTER",
+        "SHAM",
+        "SHEET",
+        "THROW"
+      ]
+    },
+    {
+      "name": "OSCAR-WINNING ACTORS SINCE 2010",
+      "level": null,
+      "members": [
+        "BALE",
+        "JORDAN",
+        "PHOENIX",
+        "WALTZ"
+      ]
+    },
+    {
+      "name": "PERFORM SOME HOLE MACHINING OPERATIONS",
+      "level": null,
+      "members": [
+        "BORE",
+        "COUNTERSINK",
+        "DRILL",
+        "REAM"
+      ]
+    },
+    {
+      "name": "STARTING WITH BREAD SHAPES",
+      "level": null,
+      "members": [
+        "BOULEVARD",
+        "BUNDLE",
+        "LOAFER",
+        "ROLLS-ROYCE"
+      ]
+    }
+  ]
+}

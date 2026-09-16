@@ -1,0 +1,47 @@
+{
+  "id": 717,
+  "date": "2025-05-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONNECT",
+      "level": 0,
+      "members": [
+        "BRIDGE",
+        "JOIN",
+        "LINK",
+        "UNITE"
+      ]
+    },
+    {
+      "name": "PARTS OF A BIKE",
+      "level": 1,
+      "members": [
+        "CHAIN",
+        "PEDAL",
+        "SADDLE",
+        "WHEEL"
+      ]
+    },
+    {
+      "name": "BEST PICTURE WINNERS SINCE 2000",
+      "level": 2,
+      "members": [
+        "CHICAGO",
+        "CRASH",
+        "GLADIATOR",
+        "MOONLIGHT"
+      ]
+    },
+    {
+      "name": "MUSIC GENRES PLUS A LETTER",
+      "level": 3,
+      "members": [
+        "BLUEST",
+        "POPE",
+        "ROCKY",
+        "SKAT"
+      ]
+    }
+  ]
+}

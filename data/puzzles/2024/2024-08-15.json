@@ -1,0 +1,47 @@
+{
+  "id": 431,
+  "date": "2024-08-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BREADTH",
+      "level": 0,
+      "members": [
+        "EXTENT",
+        "RANGE",
+        "REACH",
+        "SCOPE"
+      ]
+    },
+    {
+      "name": "OTHER HALF",
+      "level": 1,
+      "members": [
+        "COMPLEMENT",
+        "MATCH",
+        "MATE",
+        "PARTNER"
+      ]
+    },
+    {
+      "name": "BEERS, FAMILIARLY",
+      "level": 2,
+      "members": [
+        "BUD",
+        "NATTY",
+        "SIERRA",
+        "STELLA"
+      ]
+    },
+    {
+      "name": "WORDS AFTER “PAY”",
+      "level": 3,
+      "members": [
+        "CHECK",
+        "DIRT",
+        "PAL",
+        "PHONE"
+      ]
+    }
+  ]
+}

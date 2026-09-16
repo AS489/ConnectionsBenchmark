@@ -1,0 +1,47 @@
+{
+  "id": 49,
+  "date": "2023-07-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RELATIVES",
+      "level": 0,
+      "members": [
+        "AUNT",
+        "COUSIN",
+        "MOTHER",
+        "NEPHEW"
+      ]
+    },
+    {
+      "name": "SYNONYMS FOR OFFBEAT",
+      "level": 1,
+      "members": [
+        "DAFFY",
+        "KOOKY",
+        "QUIRKY",
+        "WACKY"
+      ]
+    },
+    {
+      "name": "DISNEY DUCKS",
+      "level": 2,
+      "members": [
+        "DAISY",
+        "DEWEY",
+        "DONALD",
+        "SCROOGE"
+      ]
+    },
+    {
+      "name": "___ CLOCK",
+      "level": 3,
+      "members": [
+        "ALARM",
+        "BIOLOGICAL",
+        "CUCKOO",
+        "GRANDFATHER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 625,
+  "date": "2025-02-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ENTHUSIASM",
+      "level": 0,
+      "members": [
+        "GUSTO",
+        "PASSION",
+        "RELISH",
+        "ZEST"
+      ]
+    },
+    {
+      "name": "“MANY” IN DIFFERENT LANGUAGES",
+      "level": 1,
+      "members": [
+        "BEAUCOUP",
+        "MOLTO",
+        "MUCHO",
+        "MULTI"
+      ]
+    },
+    {
+      "name": "RECTANGULAR PRISMS",
+      "level": 2,
+      "members": [
+        "BRICK",
+        "FISH TANK",
+        "MICROWAVE",
+        "SHOEBOX"
+      ]
+    },
+    {
+      "name": "RHYME WITH U.S. COINS",
+      "level": 3,
+      "members": [
+        "JENNY",
+        "LIME",
+        "MORTAR",
+        "PICKLE"
+      ]
+    }
+  ]
+}

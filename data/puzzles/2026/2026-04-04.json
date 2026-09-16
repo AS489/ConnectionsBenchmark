@@ -1,0 +1,47 @@
+{
+  "id": 1024,
+  "date": "2026-04-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "\"LET SLEEPING DOGS LIE\"",
+      "level": null,
+      "members": [
+        "DOGS",
+        "LET",
+        "LIE",
+        "SLEEPING"
+      ]
+    },
+    {
+      "name": "OBSCURE",
+      "level": null,
+      "members": [
+        "COVER",
+        "MASK",
+        "SCREEN",
+        "SHIELD"
+      ]
+    },
+    {
+      "name": "COASTAL LANDFORMS",
+      "level": null,
+      "members": [
+        "BLUFF",
+        "CAPE",
+        "POINT",
+        "SPIT"
+      ]
+    },
+    {
+      "name": "___ CAMP",
+      "level": null,
+      "members": [
+        "BAND",
+        "BASE",
+        "BOOT",
+        "SUMMER"
+      ]
+    }
+  ]
+}

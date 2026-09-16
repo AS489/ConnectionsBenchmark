@@ -1,0 +1,47 @@
+{
+  "id": 99,
+  "date": "2023-09-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INTELLIGENT",
+      "level": 0,
+      "members": [
+        "BRIGHT",
+        "CLEVER",
+        "QUICK",
+        "SHARP"
+      ]
+    },
+    {
+      "name": "AIRLINES",
+      "level": 1,
+      "members": [
+        "ALASKA",
+        "FRONTIER",
+        "SOUTHWEST",
+        "SPIRIT"
+      ]
+    },
+    {
+      "name": "WESTERN TROPES",
+      "level": 2,
+      "members": [
+        "COWBOY",
+        "DRIFTER",
+        "OUTLAW",
+        "SHERIFF"
+      ]
+    },
+    {
+      "name": "TV SHOW TITLE SURNAMES",
+      "level": 3,
+      "members": [
+        "LASSO",
+        "MARS",
+        "ROGERS",
+        "SMART"
+      ]
+    }
+  ]
+}

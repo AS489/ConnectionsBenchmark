@@ -1,0 +1,47 @@
+{
+  "id": 113,
+  "date": "2023-10-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WAYS TO SHOW RESPECT",
+      "level": 0,
+      "members": [
+        "BOW",
+        "KNEEL",
+        "SALUTE",
+        "STAND"
+      ]
+    },
+    {
+      "name": "IPHONE APPS",
+      "level": 1,
+      "members": [
+        "CLOCK",
+        "MAIL",
+        "MAPS",
+        "NOTES"
+      ]
+    },
+    {
+      "name": "ANIMAL COVERINGS",
+      "level": 2,
+      "members": [
+        "DOWN",
+        "FUR",
+        "SCALES",
+        "SHELL"
+      ]
+    },
+    {
+      "name": "“POINTERS”",
+      "level": 3,
+      "members": [
+        "ARROW",
+        "DOG",
+        "FINGER",
+        "HINT"
+      ]
+    }
+  ]
+}

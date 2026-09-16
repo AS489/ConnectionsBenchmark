@@ -1,0 +1,47 @@
+{
+  "id": 245,
+  "date": "2024-02-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MONOTONOUS SOUNDS",
+      "level": 0,
+      "members": [
+        "BUZZ",
+        "DRONE",
+        "HUM",
+        "PURR"
+      ]
+    },
+    {
+      "name": "BOATS",
+      "level": 1,
+      "members": [
+        "BARGE",
+        "DORY",
+        "SCOW",
+        "SLOOP"
+      ]
+    },
+    {
+      "name": "CAPTAINS",
+      "level": 2,
+      "members": [
+        "AMERICA",
+        "HOOK",
+        "MORGAN",
+        "NEMO"
+      ]
+    },
+    {
+      "name": "PREFIXES WITH -CRACY",
+      "level": 3,
+      "members": [
+        "AUTO",
+        "BUREAU",
+        "DEMO",
+        "PLUTO"
+      ]
+    }
+  ]
+}

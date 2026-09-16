@@ -1,0 +1,47 @@
+{
+  "id": 1069,
+  "date": "2026-05-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STOVE KNOB SETTINGS",
+      "level": null,
+      "members": [
+        "HIGH",
+        "MEDIUM",
+        "OFF",
+        "SIMMER"
+      ]
+    },
+    {
+      "name": "POTENCY",
+      "level": null,
+      "members": [
+        "CONCENTRATION",
+        "FORCE",
+        "INTENSITY",
+        "MIGHT"
+      ]
+    },
+    {
+      "name": "MUSIC THEORY CONCEPTS",
+      "level": null,
+      "members": [
+        "INTERVAL",
+        "KEY",
+        "MODE",
+        "SCALE"
+      ]
+    },
+    {
+      "name": "\"___ DAY\" MOVIES",
+      "level": null,
+      "members": [
+        "GROUNDHOG",
+        "INDEPENDENCE",
+        "THE LONGEST",
+        "TRAINING"
+      ]
+    }
+  ]
+}

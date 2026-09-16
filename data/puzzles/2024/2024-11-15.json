@@ -1,0 +1,47 @@
+{
+  "id": 523,
+  "date": "2024-11-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FISSURE",
+      "level": 0,
+      "members": [
+        "CRACK",
+        "HOLE",
+        "LEAK",
+        "PUNCTURE"
+      ]
+    },
+    {
+      "name": "ELEMENTS OF WRITING",
+      "level": 1,
+      "members": [
+        "LETTER",
+        "PHRASE",
+        "SENTENCE",
+        "WORD"
+      ]
+    },
+    {
+      "name": "INSTRUMENTS YOU BLOW INTO",
+      "level": 2,
+      "members": [
+        "JUG",
+        "PIPE",
+        "RECORDER",
+        "WHISTLE"
+      ]
+    },
+    {
+      "name": "___ OF TIME",
+      "level": 3,
+      "members": [
+        "NICK",
+        "PASSAGE",
+        "SANDS",
+        "WASTE"
+      ]
+    }
+  ]
+}

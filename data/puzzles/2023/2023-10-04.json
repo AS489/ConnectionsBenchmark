@@ -1,0 +1,47 @@
+{
+  "id": 115,
+  "date": "2023-10-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHRISTMAS-RELATED",
+      "level": 0,
+      "members": [
+        "MISTLETOE",
+        "REINDEER",
+        "SNOWMAN",
+        "STOCKING"
+      ]
+    },
+    {
+      "name": "MAKE PUBLIC",
+      "level": 1,
+      "members": [
+        "DISPLAY",
+        "EXHIBIT",
+        "PRESENT",
+        "SHOW"
+      ]
+    },
+    {
+      "name": "TORUS-SHAPED FOOD",
+      "level": 2,
+      "members": [
+        "BAGEL",
+        "CHEERIO",
+        "DONUT",
+        "LIFESAVER"
+      ]
+    },
+    {
+      "name": "THINGS WITH STRIPES",
+      "level": 3,
+      "members": [
+        "CANDY CANE",
+        "CROSSWALK",
+        "REFEREE",
+        "TIGER"
+      ]
+    }
+  ]
+}

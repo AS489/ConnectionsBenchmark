@@ -1,0 +1,47 @@
+{
+  "id": 45,
+  "date": "2023-07-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MODES OF TRANSPORTATION",
+      "level": 0,
+      "members": [
+        "BOAT",
+        "CAR",
+        "PLANE",
+        "TRAIN"
+      ]
+    },
+    {
+      "name": "NBA PLAYERS",
+      "level": 1,
+      "members": [
+        "KING",
+        "MAGIC",
+        "SUN",
+        "THUNDER"
+      ]
+    },
+    {
+      "name": "FAST FOOD CHAINS",
+      "level": 2,
+      "members": [
+        "CHECKERS",
+        "OUTBACK",
+        "SONIC",
+        "SUBWAY"
+      ]
+    },
+    {
+      "name": "BAND NAMES MINUS COLORS",
+      "level": 3,
+      "members": [
+        "DAY",
+        "FLOYD",
+        "SABBATH",
+        "STRIPES"
+      ]
+    }
+  ]
+}

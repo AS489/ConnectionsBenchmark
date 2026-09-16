@@ -1,0 +1,47 @@
+{
+  "id": 385,
+  "date": "2024-06-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OLD SAYING",
+      "level": 0,
+      "members": [
+        "ADAGE",
+        "CHESTNUT",
+        "MAXIM",
+        "SAW"
+      ]
+    },
+    {
+      "name": "GRILL FUEL SOURCES",
+      "level": 1,
+      "members": [
+        "CHARCOAL",
+        "ELECTRIC",
+        "GAS",
+        "WOOD"
+      ]
+    },
+    {
+      "name": "TREES",
+      "level": 2,
+      "members": [
+        "ASH",
+        "CHERRY",
+        "EBONY",
+        "GUM"
+      ]
+    },
+    {
+      "name": "HOT TUB COMPONENTS",
+      "level": 3,
+      "members": [
+        "FILTER",
+        "HEATER",
+        "JET",
+        "PUMP"
+      ]
+    }
+  ]
+}

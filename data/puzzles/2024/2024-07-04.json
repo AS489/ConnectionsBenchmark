@@ -1,0 +1,47 @@
+{
+  "id": 389,
+  "date": "2024-07-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ROMANTIC RAPPORT",
+      "level": 0,
+      "members": [
+        "ATTRACTION",
+        "CHEMISTRY",
+        "FIREWORKS",
+        "SPARKS"
+      ]
+    },
+    {
+      "name": "THINGS STORED BY A WEB BROWSER",
+      "level": 1,
+      "members": [
+        "CACHE",
+        "COOKIES",
+        "DATA",
+        "HISTORY"
+      ]
+    },
+    {
+      "name": "SINGLE ROTATION",
+      "level": 2,
+      "members": [
+        "CYCLE",
+        "LAP",
+        "TURN",
+        "REVOLUTION"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “BELL”",
+      "level": 3,
+      "members": [
+        "BAR",
+        "DINNER",
+        "LIBERTY",
+        "TINKER"
+      ]
+    }
+  ]
+}

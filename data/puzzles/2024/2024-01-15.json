@@ -1,0 +1,47 @@
+{
+  "id": 218,
+  "date": "2024-01-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LIST OF CANDIDATES",
+      "level": 0,
+      "members": [
+        "BALLOT",
+        "ROSTER",
+        "SLATE",
+        "TICKET"
+      ]
+    },
+    {
+      "name": "PROTECTIVE BARRIER",
+      "level": 1,
+      "members": [
+        "BUFFER",
+        "CUSHION",
+        "PAD",
+        "SHIELD"
+      ]
+    },
+    {
+      "name": "MEDICINE FORMATS",
+      "level": 2,
+      "members": [
+        "CAPSULE",
+        "CREAM",
+        "SYRUP",
+        "TABLET"
+      ]
+    },
+    {
+      "name": "PEA ___",
+      "level": 3,
+      "members": [
+        "COAT",
+        "GREEN",
+        "POD",
+        "SOUP"
+      ]
+    }
+  ]
+}

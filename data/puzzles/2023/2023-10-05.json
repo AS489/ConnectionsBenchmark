@@ -1,0 +1,47 @@
+{
+  "id": 116,
+  "date": "2023-10-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DIVISION",
+      "level": 0,
+      "members": [
+        "ARM",
+        "BRANCH",
+        "CHAPTER",
+        "WING"
+      ]
+    },
+    {
+      "name": "IMPERIAL UNITS",
+      "level": 1,
+      "members": [
+        "BUSHEL",
+        "PECK",
+        "STONE",
+        "TON"
+      ]
+    },
+    {
+      "name": "M.L.B. TEAM MEMBER",
+      "level": 2,
+      "members": [
+        "ANGEL",
+        "CUB",
+        "MET",
+        "RED"
+      ]
+    },
+    {
+      "name": "INSECT HOMOPHONES",
+      "level": 3,
+      "members": [
+        "AUNT",
+        "BEATLE",
+        "FLEE",
+        "NAT"
+      ]
+    }
+  ]
+}

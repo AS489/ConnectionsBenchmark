@@ -1,0 +1,47 @@
+{
+  "id": 565,
+  "date": "2024-12-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BREAKFAST SIDES",
+      "level": 0,
+      "members": [
+        "BACON",
+        "GRITS",
+        "HASH",
+        "TOAST"
+      ]
+    },
+    {
+      "name": "PUSHES, AS A BUTTON",
+      "level": 1,
+      "members": [
+        "CLICKS",
+        "HITS",
+        "PRESSES",
+        "TAPS"
+      ]
+    },
+    {
+      "name": "THEY HAVE A HORN",
+      "level": 2,
+      "members": [
+        "AFRICA",
+        "BUGLER",
+        "CAR",
+        "UNICORN"
+      ]
+    },
+    {
+      "name": "OSCAR-WINNING ACTORS",
+      "level": 3,
+      "members": [
+        "BRIDGES",
+        "IRONS",
+        "PHOENIX",
+        "WASHINGTON"
+      ]
+    }
+  ]
+}

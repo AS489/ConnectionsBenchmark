@@ -1,0 +1,47 @@
+{
+  "id": 197,
+  "date": "2023-12-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DARLING",
+      "level": 0,
+      "members": [
+        "BABY",
+        "BOO",
+        "DEAR",
+        "LOVE"
+      ]
+    },
+    {
+      "name": "BASIC GEOMETRIC OBJECTS",
+      "level": 1,
+      "members": [
+        "LINE",
+        "POINT",
+        "RAY",
+        "SEGMENT"
+      ]
+    },
+    {
+      "name": "OOMPH",
+      "level": 2,
+      "members": [
+        "ENERGY",
+        "FIRE",
+        "JUICE",
+        "ZIP"
+      ]
+    },
+    {
+      "name": "SECRET ___",
+      "level": 3,
+      "members": [
+        "AGENT",
+        "CODE",
+        "SANTA",
+        "SAUCE"
+      ]
+    }
+  ]
+}

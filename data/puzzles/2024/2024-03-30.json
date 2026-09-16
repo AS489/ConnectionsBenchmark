@@ -1,0 +1,47 @@
+{
+  "id": 293,
+  "date": "2024-03-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BREATHES HEAVILY",
+      "level": 0,
+      "members": [
+        "GASPS",
+        "HUFFS",
+        "PANTS",
+        "PUFFS"
+      ]
+    },
+    {
+      "name": "PRESERVES, AS MEAT",
+      "level": 1,
+      "members": [
+        "CANS",
+        "CURES",
+        "SALTS",
+        "SMOKES"
+      ]
+    },
+    {
+      "name": "PREDICAMENTS",
+      "level": 2,
+      "members": [
+        "BINDS",
+        "JAMS",
+        "PICKLES",
+        "SPOTS"
+      ]
+    },
+    {
+      "name": "THINGS IN “MY FAVORITE THINGS”",
+      "level": 3,
+      "members": [
+        "KETTLES",
+        "MITTENS",
+        "RAINDROPS",
+        "WHISKERS"
+      ]
+    }
+  ]
+}

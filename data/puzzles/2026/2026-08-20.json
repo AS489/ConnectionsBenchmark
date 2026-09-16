@@ -1,0 +1,47 @@
+{
+  "id": 1161,
+  "date": "2026-08-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF PIZZA",
+      "level": null,
+      "members": [
+        "DIAVOLA",
+        "HAWAIIAN",
+        "MEAT LOVERS",
+        "WHITE"
+      ]
+    },
+    {
+      "name": "KINDS OF NUMBERS",
+      "level": null,
+      "members": [
+        "ATOMIC",
+        "SERIAL",
+        "SOCIAL SECURITY",
+        "TELEPHONE"
+      ]
+    },
+    {
+      "name": "SIMILARLY SHAPED TYPOGRAPHICAL MARKS",
+      "level": null,
+      "members": [
+        "APOSTROPHE",
+        "CEDILLA",
+        "COMMA",
+        "OKINA"
+      ]
+    },
+    {
+      "name": "STARTING WITH CHINESE ZODIAC ANIMALS",
+      "level": null,
+      "members": [
+        "DRAGONFLY",
+        "OXFORD",
+        "PIGMENT",
+        "RATCHET"
+      ]
+    }
+  ]
+}

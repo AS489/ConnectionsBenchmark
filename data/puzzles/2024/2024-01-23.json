@@ -1,0 +1,47 @@
+{
+  "id": 226,
+  "date": "2024-01-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BRING INTO BEING",
+      "level": 0,
+      "members": [
+        "COIN",
+        "CREATE",
+        "DEVISE",
+        "INVENT"
+      ]
+    },
+    {
+      "name": "EXCELLENT",
+      "level": 1,
+      "members": [
+        "FINE",
+        "PRIME",
+        "QUALITY",
+        "STERLING"
+      ]
+    },
+    {
+      "name": "SYMBOLS ABOVE NUMBERS ON A KEYBOARD",
+      "level": 2,
+      "members": [
+        "AT",
+        "DOLLAR",
+        "PERCENT",
+        "POUND"
+      ]
+    },
+    {
+      "name": "PASS THE ___",
+      "level": 3,
+      "members": [
+        "BAR",
+        "BUCK",
+        "TIME",
+        "TORCH"
+      ]
+    }
+  ]
+}

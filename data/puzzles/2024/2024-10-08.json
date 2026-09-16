@@ -1,0 +1,47 @@
+{
+  "id": 485,
+  "date": "2024-10-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HALLOWEEN SYMBOLS",
+      "level": 0,
+      "members": [
+        "BAT",
+        "PUMPKIN",
+        "SPIDER",
+        "WITCH"
+      ]
+    },
+    {
+      "name": "PROHIBIT",
+      "level": 1,
+      "members": [
+        "BAN",
+        "BLOCK",
+        "DENY",
+        "FORBID"
+      ]
+    },
+    {
+      "name": "FOUND ON SHEET MUSIC",
+      "level": 2,
+      "members": [
+        "ACCIDENTAL",
+        "NOTE",
+        "REST",
+        "STAFF"
+      ]
+    },
+    {
+      "name": "CANDY ___",
+      "level": 3,
+      "members": [
+        "APPLE",
+        "BAR",
+        "CANE",
+        "CORN"
+      ]
+    }
+  ]
+}

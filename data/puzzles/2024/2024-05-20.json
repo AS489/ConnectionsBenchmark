@@ -1,0 +1,47 @@
+{
+  "id": 344,
+  "date": "2024-05-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SORCERER’S OUTPUT",
+      "level": 0,
+      "members": [
+        "CHARM",
+        "HEX",
+        "MAGIC",
+        "SPELL"
+      ]
+    },
+    {
+      "name": "ONE BEING MANIPULATED",
+      "level": 1,
+      "members": [
+        "INSTRUMENT",
+        "PAWN",
+        "PUPPET",
+        "TOOL"
+      ]
+    },
+    {
+      "name": "CLASSIC SUPERHERO WEAR",
+      "level": 2,
+      "members": [
+        "CAPE",
+        "MASK",
+        "TIGHTS",
+        "UNDERWEAR"
+      ]
+    },
+    {
+      "name": "ACTION MOVIE DIRECTORS",
+      "level": 3,
+      "members": [
+        "BAY",
+        "CARPENTER",
+        "SCOTT",
+        "WOO"
+      ]
+    }
+  ]
+}

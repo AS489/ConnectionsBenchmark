@@ -1,0 +1,47 @@
+{
+  "id": 417,
+  "date": "2024-08-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PROMOTE",
+      "level": 0,
+      "members": [
+        "HYPE",
+        "MARKET",
+        "PITCH",
+        "SELL"
+      ]
+    },
+    {
+      "name": "THROW",
+      "level": 1,
+      "members": [
+        "CAST",
+        "CHUCK",
+        "FLING",
+        "HURL"
+      ]
+    },
+    {
+      "name": "BOOKSTORE SECTIONS",
+      "level": 2,
+      "members": [
+        "FICTION",
+        "HUMOR",
+        "ROMANCE",
+        "TRAVEL"
+      ]
+    },
+    {
+      "name": "___ SOCKS",
+      "level": 3,
+      "members": [
+        "ANKLE",
+        "CREW",
+        "SWEAT",
+        "TUBE"
+      ]
+    }
+  ]
+}

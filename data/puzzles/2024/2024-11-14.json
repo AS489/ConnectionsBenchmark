@@ -1,0 +1,47 @@
+{
+  "id": 522,
+  "date": "2024-11-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DEPLETE",
+      "level": 0,
+      "members": [
+        "DRAIN",
+        "EMPTY",
+        "EXHAUST",
+        "SAP"
+      ]
+    },
+    {
+      "name": "PLAY MUSIC WITH PASSION",
+      "level": 1,
+      "members": [
+        "GROOVE",
+        "JAM",
+        "ROCK",
+        "SHRED"
+      ]
+    },
+    {
+      "name": "WORDS ON A RESTAURANT RECEIPT",
+      "level": 2,
+      "members": [
+        "TAX",
+        "TIP",
+        "TOTAL",
+        "SIGNATURE"
+      ]
+    },
+    {
+      "name": "FORMS OF SUGAR",
+      "level": 3,
+      "members": [
+        "CUBE",
+        "GRAIN",
+        "POWDER",
+        "SYRUP"
+      ]
+    }
+  ]
+}

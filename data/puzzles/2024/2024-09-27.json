@@ -1,0 +1,47 @@
+{
+  "id": 474,
+  "date": "2024-09-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AREA OF HIGH GROUND",
+      "level": 0,
+      "members": [
+        "BANK",
+        "DUNE",
+        "HILL",
+        "MOUND"
+      ]
+    },
+    {
+      "name": "SIGNIFICANCE",
+      "level": 1,
+      "members": [
+        "GRAVITY",
+        "IMPORT",
+        "SUBSTANCE",
+        "WEIGHT"
+      ]
+    },
+    {
+      "name": "ACTIONS IN FANTASY SPORTS",
+      "level": 2,
+      "members": [
+        "BENCH",
+        "DRAFT",
+        "START",
+        "TRADE"
+      ]
+    },
+    {
+      "name": "SCI-FI MOVIES, WITH “THE”",
+      "level": 3,
+      "members": [
+        "ABYSS",
+        "FLY",
+        "MATRIX",
+        "THING"
+      ]
+    }
+  ]
+}

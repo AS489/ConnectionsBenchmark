@@ -1,0 +1,47 @@
+{
+  "id": 1097,
+  "date": "2026-06-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ALCOVE",
+      "level": null,
+      "members": [
+        "CAVITY",
+        "NICHE",
+        "NOOK",
+        "RECESS"
+      ]
+    },
+    {
+      "name": "BODILY WORDS FOR ATTITUDE",
+      "level": null,
+      "members": [
+        "CHEEK",
+        "LIP",
+        "MOUTH",
+        "NERVE"
+      ]
+    },
+    {
+      "name": "FIGURES IN GREEK MYTH",
+      "level": null,
+      "members": [
+        "CALLIOPE",
+        "ECHO",
+        "IRIS",
+        "NEMESIS"
+      ]
+    },
+    {
+      "name": "STARTING WITH SYNONYMS FOR \"ILK\"",
+      "level": null,
+      "members": [
+        "CLASSIC",
+        "KINDLE",
+        "SORTIE",
+        "TYPEFACE"
+      ]
+    }
+  ]
+}

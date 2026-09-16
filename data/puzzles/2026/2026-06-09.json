@@ -1,0 +1,47 @@
+{
+  "id": 1089,
+  "date": "2026-06-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SYMBOLS OF INNOCENCE",
+      "level": null,
+      "members": [
+        "ANGEL",
+        "BABE",
+        "DOVE",
+        "LAMB"
+      ]
+    },
+    {
+      "name": "THINGS YOU'RE NOT SUPPOSED TO REVEAL",
+      "level": null,
+      "members": [
+        "PASSWORD",
+        "SECRET",
+        "SPOILER",
+        "SURPRISE"
+      ]
+    },
+    {
+      "name": "THINGS REPRESENTED IN SUPERSCRIPT",
+      "level": null,
+      "members": [
+        "ASTERISK",
+        "DEGREE",
+        "EXPONENT",
+        "TRADEMARK"
+      ]
+    },
+    {
+      "name": "SLANG FOR MUSICAL INSTRUMENTS",
+      "level": null,
+      "members": [
+        "AXE",
+        "BONE",
+        "KEYS",
+        "SKINS"
+      ]
+    }
+  ]
+}

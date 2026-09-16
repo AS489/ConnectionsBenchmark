@@ -1,0 +1,47 @@
+{
+  "id": 28,
+  "date": "2023-07-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SEVEN DWARFS",
+      "level": 0,
+      "members": [
+        "BASHFUL",
+        "DOC",
+        "GRUMPY",
+        "HAPPY"
+      ]
+    },
+    {
+      "name": "FILE EXTENSIONS",
+      "level": 1,
+      "members": [
+        "GIF",
+        "PDF",
+        "TIFF",
+        "ZIP"
+      ]
+    },
+    {
+      "name": "FLIGHTLESS BIRDS",
+      "level": 2,
+      "members": [
+        "EMU",
+        "KIWI",
+        "OSTRICH",
+        "PENGUIN"
+      ]
+    },
+    {
+      "name": "TROPICAL FRUITS",
+      "level": 3,
+      "members": [
+        "BANANA",
+        "COCONUT",
+        "MANGO",
+        "PINEAPPLE"
+      ]
+    }
+  ]
+}

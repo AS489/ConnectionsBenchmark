@@ -1,0 +1,47 @@
+{
+  "id": 48,
+  "date": "2023-07-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FABRICS",
+      "level": 0,
+      "members": [
+        "CORDUROY",
+        "DENIM",
+        "LINEN",
+        "TWEED"
+      ]
+    },
+    {
+      "name": "APPARITIONS",
+      "level": 1,
+      "members": [
+        "GHOST",
+        "PHANTOM",
+        "SPECTER",
+        "SPIRIT"
+      ]
+    },
+    {
+      "name": "SYNONYMS FOR BOTHER",
+      "level": 2,
+      "members": [
+        "NEEDLE",
+        "POKE",
+        "RIB",
+        "TEASE"
+      ]
+    },
+    {
+      "name": "DISNEY CHARACTERS",
+      "level": 3,
+      "members": [
+        "BEAST",
+        "GENIE",
+        "SCAR",
+        "STITCH"
+      ]
+    }
+  ]
+}

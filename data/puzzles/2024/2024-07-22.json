@@ -1,0 +1,47 @@
+{
+  "id": 407,
+  "date": "2024-07-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "REALM OF EXPERTISE",
+      "level": 0,
+      "members": [
+        "AREA",
+        "DOMAIN",
+        "FIELD",
+        "SPHERE"
+      ]
+    },
+    {
+      "name": "MUSICAL INSTRUMENTS",
+      "level": 1,
+      "members": [
+        "FIDDLE",
+        "HORN",
+        "RECORDER",
+        "TRIANGLE"
+      ]
+    },
+    {
+      "name": "USED TO REDIRECT TRAFFIC",
+      "level": 2,
+      "members": [
+        "BARRIER",
+        "CONE",
+        "FLAG",
+        "FLARE"
+      ]
+    },
+    {
+      "name": "FOOD ___",
+      "level": 3,
+      "members": [
+        "CHAIN",
+        "FIGHT",
+        "PROCESSOR",
+        "PYRAMID"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 406,
+  "date": "2024-07-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WAYS TO SUPPORT A CANDIDATE",
+      "level": 0,
+      "members": [
+        "CAMPAIGN",
+        "CANVASS",
+        "ORGANIZE",
+        "STUMP"
+      ]
+    },
+    {
+      "name": "CONSTITUTION",
+      "level": 1,
+      "members": [
+        "COMPOSITION",
+        "FABRIC",
+        "MAKEUP",
+        "STRUCTURE"
+      ]
+    },
+    {
+      "name": "CARPENTRY TOOLS",
+      "level": 2,
+      "members": [
+        "CLAMP",
+        "FILE",
+        "LEVEL",
+        "SAW"
+      ]
+    },
+    {
+      "name": "MATH ABBREVIATIONS",
+      "level": 3,
+      "members": [
+        "LOG",
+        "MAX",
+        "MOD",
+        "TAN"
+      ]
+    }
+  ]
+}

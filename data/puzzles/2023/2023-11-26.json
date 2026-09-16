@@ -1,0 +1,47 @@
+{
+  "id": 168,
+  "date": "2023-11-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MUNICIPALITIES",
+      "level": 0,
+      "members": [
+        "CITY",
+        "COUNTY",
+        "TOWN",
+        "VILLAGE"
+      ]
+    },
+    {
+      "name": "BLENDER BUTTONS",
+      "level": 1,
+      "members": [
+        "CHOP",
+        "GRIND",
+        "PULSE",
+        "PUREE"
+      ]
+    },
+    {
+      "name": "FINANCIAL TERMS",
+      "level": 2,
+      "members": [
+        "CAPITAL",
+        "EQUITY",
+        "INTEREST",
+        "STOCK"
+      ]
+    },
+    {
+      "name": "___ LEAGUE",
+      "level": 3,
+      "members": [
+        "IVY",
+        "JUSTICE",
+        "LITTLE",
+        "PREMIER"
+      ]
+    }
+  ]
+}

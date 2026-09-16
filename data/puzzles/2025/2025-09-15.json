@@ -1,0 +1,47 @@
+{
+  "id": 827,
+  "date": "2025-09-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FLOORING OPTIONS",
+      "level": 0,
+      "members": [
+        "CARPET",
+        "LAMINATE",
+        "TILE",
+        "WOOD"
+      ]
+    },
+    {
+      "name": "BEACHY AREA",
+      "level": 1,
+      "members": [
+        "BANK",
+        "COAST",
+        "SHORE",
+        "STRAND"
+      ]
+    },
+    {
+      "name": "ROMANTIC VIBE",
+      "level": 2,
+      "members": [
+        "CHEMISTRY",
+        "CONNECTION",
+        "FIREWORKS",
+        "SPARK"
+      ]
+    },
+    {
+      "name": "MEMBER OF A CLASSIC BACKING BAND",
+      "level": 3,
+      "members": [
+        "BANSHEE",
+        "HEARTBREAKER",
+        "PIP",
+        "WAILER"
+      ]
+    }
+  ]
+}

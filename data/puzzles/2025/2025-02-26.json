@@ -1,0 +1,47 @@
+{
+  "id": 626,
+  "date": "2025-02-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXPENDITURE",
+      "level": 0,
+      "members": [
+        "CHARGE",
+        "COST",
+        "PRICE",
+        "RATE"
+      ]
+    },
+    {
+      "name": "ONETIME",
+      "level": 1,
+      "members": [
+        "FORMER",
+        "LATE",
+        "PAST",
+        "PRIOR"
+      ]
+    },
+    {
+      "name": "MADE WITH HORIZONTAL LINES",
+      "level": 2,
+      "members": [
+        "DASH",
+        "HYPHEN",
+        "MINUS",
+        "UNDERSCORE"
+      ]
+    },
+    {
+      "name": "SIMPSON FAMILY MEMBERS WITH FIRST LETTER CHANGED",
+      "level": 3,
+      "members": [
+        "BAGGIE",
+        "BARGE",
+        "COMER",
+        "PISA"
+      ]
+    }
+  ]
+}

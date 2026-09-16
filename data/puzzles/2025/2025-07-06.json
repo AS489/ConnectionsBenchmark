@@ -1,0 +1,47 @@
+{
+  "id": 756,
+  "date": "2025-07-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FIRED OBJECTS",
+      "level": 0,
+      "members": [
+        "CERAMICS",
+        "CHINA",
+        "POTTERY",
+        "WARE"
+      ]
+    },
+    {
+      "name": "PARTICLE",
+      "level": 1,
+      "members": [
+        "CRUMB",
+        "GRAIN",
+        "MORSEL",
+        "SHRED"
+      ]
+    },
+    {
+      "name": "DRS",
+      "level": 2,
+      "members": [
+        "DRE",
+        "EVIL",
+        "PEPPER",
+        "SEUSS"
+      ]
+    },
+    {
+      "name": "ENDING WITH HOMOPHONES OF PARTS OF THE LEG",
+      "level": 3,
+      "members": [
+        "CRYPTO",
+        "DECAF",
+        "DISNEY",
+        "PRUSSIAN"
+      ]
+    }
+  ]
+}

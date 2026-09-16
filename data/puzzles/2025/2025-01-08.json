@@ -1,0 +1,47 @@
+{
+  "id": 577,
+  "date": "2025-01-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SECTION",
+      "level": 0,
+      "members": [
+        "BRANCH",
+        "DIVISION",
+        "LIMB",
+        "WING"
+      ]
+    },
+    {
+      "name": "ACCESSORIES FOR PLAYING AN INSTRUMENT",
+      "level": 1,
+      "members": [
+        "BOW",
+        "DRUMSTICK",
+        "MALLET",
+        "PICK"
+      ]
+    },
+    {
+      "name": "DISTINCTIVE FEATURES OF AN ELEPHANT",
+      "level": 2,
+      "members": [
+        "EAR",
+        "MEMORY",
+        "TRUNK",
+        "TUSK"
+      ]
+    },
+    {
+      "name": "WORDS MISSPELLED IN NU METAL BAND NAMES",
+      "level": 3,
+      "members": [
+        "BISCUIT",
+        "CORN",
+        "LINCOLN",
+        "STAINED"
+      ]
+    }
+  ]
+}

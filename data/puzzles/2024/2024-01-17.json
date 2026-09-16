@@ -1,0 +1,47 @@
+{
+  "id": 220,
+  "date": "2024-01-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DATA SET DATA",
+      "level": 0,
+      "members": [
+        "MEAN",
+        "MEDIAN",
+        "MODE",
+        "RANGE"
+      ]
+    },
+    {
+      "name": "CHEMISTRY TERMS",
+      "level": 1,
+      "members": [
+        "BASE",
+        "BOND",
+        "ELEMENT",
+        "SOLUTION"
+      ]
+    },
+    {
+      "name": "ADJECTIVE INTENSIFIERS",
+      "level": 2,
+      "members": [
+        "AWFUL",
+        "PRETTY",
+        "RATHER",
+        "REAL"
+      ]
+    },
+    {
+      "name": "RADIO HALL OF FAME MEMBERS",
+      "level": 3,
+      "members": [
+        "GLASS",
+        "GROSS",
+        "KING",
+        "STERN"
+      ]
+    }
+  ]
+}

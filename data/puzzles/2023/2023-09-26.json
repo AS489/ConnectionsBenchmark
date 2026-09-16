@@ -1,0 +1,47 @@
+{
+  "id": 107,
+  "date": "2023-09-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SNAKES",
+      "level": 0,
+      "members": [
+        "BOA",
+        "MAMBA",
+        "PYTHON",
+        "VIPER"
+      ]
+    },
+    {
+      "name": "LINGERIE",
+      "level": 1,
+      "members": [
+        "GARTER",
+        "SLIP",
+        "TEDDY",
+        "THONG"
+      ]
+    },
+    {
+      "name": "SUMMARY",
+      "level": 2,
+      "members": [
+        "ABSTRACT",
+        "BRIEF",
+        "DIGEST",
+        "RUNDOWN"
+      ]
+    },
+    {
+      "name": "FULL ___",
+      "level": 3,
+      "members": [
+        "CIRCLE",
+        "HOUSE",
+        "MONTY",
+        "MOON"
+      ]
+    }
+  ]
+}

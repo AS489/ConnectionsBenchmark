@@ -1,0 +1,47 @@
+{
+  "id": 87,
+  "date": "2023-09-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CREATURES IN FOLKLORE",
+      "level": 0,
+      "members": [
+        "GNOME",
+        "GOBLIN",
+        "OGRE",
+        "TROLL"
+      ]
+    },
+    {
+      "name": "FLOWER PARTS",
+      "level": 1,
+      "members": [
+        "BUD",
+        "LEAF",
+        "PETAL",
+        "STALK"
+      ]
+    },
+    {
+      "name": "ONE INVOLVED IN ESPIONAGE",
+      "level": 2,
+      "members": [
+        "AGENT",
+        "MOLE",
+        "PLANT",
+        "SPY"
+      ]
+    },
+    {
+      "name": "CHINESE ZODIAC ANIMALS",
+      "level": 3,
+      "members": [
+        "DRAGON",
+        "HORSE",
+        "RABBIT",
+        "TIGER"
+      ]
+    }
+  ]
+}

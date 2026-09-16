@@ -1,0 +1,47 @@
+{
+  "id": 601,
+  "date": "2025-02-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TINT",
+      "level": 0,
+      "members": [
+        "HUE",
+        "SHADE",
+        "TINGE",
+        "TONE"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF A MYSTERY",
+      "level": 1,
+      "members": [
+        "ALIBI",
+        "CLUE",
+        "DETECTIVE",
+        "SUSPECT"
+      ]
+    },
+    {
+      "name": "TAKE ISSUE WITH",
+      "level": 2,
+      "members": [
+        "CONTEST",
+        "CHALLENGE",
+        "DISPUTE",
+        "QUESTION"
+      ]
+    },
+    {
+      "name": "STRIKE A ___",
+      "level": 3,
+      "members": [
+        "CHORD",
+        "DEAL",
+        "MATCH",
+        "POSE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 89,
+  "date": "2023-09-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INHERENT NATURE",
+      "level": 0,
+      "members": [
+        "ESSENCE",
+        "HEART",
+        "SPIRIT",
+        "SOUL"
+      ]
+    },
+    {
+      "name": "FERMENTED ALCOHOLIC BEVERAGES",
+      "level": 1,
+      "members": [
+        "CIDER",
+        "PORT",
+        "SAKE",
+        "STOUT"
+      ]
+    },
+    {
+      "name": "PIXAR MOVIES",
+      "level": 2,
+      "members": [
+        "BRAVE",
+        "CARS",
+        "COCO",
+        "UP"
+      ]
+    },
+    {
+      "name": "___ TAPE",
+      "level": 3,
+      "members": [
+        "DEMO",
+        "RED",
+        "SCOTCH",
+        "TICKER"
+      ]
+    }
+  ]
+}

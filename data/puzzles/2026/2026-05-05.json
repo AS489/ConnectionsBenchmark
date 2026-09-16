@@ -1,0 +1,47 @@
+{
+  "id": 1055,
+  "date": "2026-05-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GLIMMER",
+      "level": null,
+      "members": [
+        "FLICKER",
+        "HINT",
+        "SUGGESTION",
+        "WHIFF"
+      ]
+    },
+    {
+      "name": "INVOLUNTARY ACTIONS",
+      "level": null,
+      "members": [
+        "BLINK",
+        "HICCUP",
+        "SHIVER",
+        "SNEEZE"
+      ]
+    },
+    {
+      "name": "KINDS OF KNOTS",
+      "level": null,
+      "members": [
+        "BEND",
+        "BOWLINE",
+        "HITCH",
+        "SHEEPSHANK"
+      ]
+    },
+    {
+      "name": "STARTING WITH UNITS IN COMPETITIONS",
+      "level": null,
+      "members": [
+        "GAMELAN",
+        "MATCHSTICK",
+        "POINTER",
+        "SETBACK"
+      ]
+    }
+  ]
+}

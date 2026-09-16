@@ -1,0 +1,47 @@
+{
+  "id": 287,
+  "date": "2024-03-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "YELLOW-BROWN SHADES",
+      "level": 0,
+      "members": [
+        "BEIGE",
+        "CAMEL",
+        "KHAKI",
+        "TAN"
+      ]
+    },
+    {
+      "name": "FAIL TO ATTEND",
+      "level": 1,
+      "members": [
+        "CUT",
+        "DITCH",
+        "MISS",
+        "SKIP"
+      ]
+    },
+    {
+      "name": "DECISIVE VICTORY",
+      "level": 2,
+      "members": [
+        "BLOWOUT",
+        "ROMP",
+        "ROUT",
+        "SWEEP"
+      ]
+    },
+    {
+      "name": "___ WHEEL",
+      "level": 3,
+      "members": [
+        "CHEESE",
+        "COLOR",
+        "HAMSTER",
+        "PRAYER"
+      ]
+    }
+  ]
+}

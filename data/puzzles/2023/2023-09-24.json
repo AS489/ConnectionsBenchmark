@@ -1,0 +1,47 @@
+{
+  "id": 105,
+  "date": "2023-09-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KITCHEN UTENSILS",
+      "level": 0,
+      "members": [
+        "GRATER",
+        "LADLE",
+        "PEELER",
+        "WHISK"
+      ]
+    },
+    {
+      "name": "VERTEBRATES",
+      "level": 1,
+      "members": [
+        "BIRD",
+        "FISH",
+        "MAMMAL",
+        "REPTILE"
+      ]
+    },
+    {
+      "name": "SUPER MARIO-RELATED",
+      "level": 2,
+      "members": [
+        "DINOSAUR",
+        "MUSHROOM",
+        "PLUMBER",
+        "PRINCESS"
+      ]
+    },
+    {
+      "name": "SITCOM FAMILIES",
+      "level": 3,
+      "members": [
+        "BUNKER",
+        "CLEAVER",
+        "PARTRIDGE",
+        "TANNER"
+      ]
+    }
+  ]
+}

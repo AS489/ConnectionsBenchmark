@@ -1,0 +1,47 @@
+{
+  "id": 803,
+  "date": "2025-08-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "U.S. PRESIDENTS",
+      "level": 0,
+      "members": [
+        "ADAMS",
+        "FORD",
+        "GRANT",
+        "WASHINGTON"
+      ]
+    },
+    {
+      "name": "ACTORS WHOSE LAST NAMES ARE ALSO VERBS",
+      "level": 1,
+      "members": [
+        "CHEVY CHASE",
+        "CHRISTOPH WALTZ",
+        "GEOFFREY RUSH",
+        "TOM CRUISE"
+      ]
+    },
+    {
+      "name": "KINDS OF POKER",
+      "level": 2,
+      "members": [
+        "DRAW",
+        "OMAHA",
+        "STRIP",
+        "STUD"
+      ]
+    },
+    {
+      "name": "PROPER NOUNS AFTER GERUNDS IN '90S MOVIE TITLES",
+      "level": 3,
+      "members": [
+        "AMY",
+        "JOHN MALKOVICH",
+        "LAS VEGAS",
+        "PRIVATE RYAN"
+      ]
+    }
+  ]
+}

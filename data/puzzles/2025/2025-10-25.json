@@ -1,0 +1,47 @@
+{
+  "id": 867,
+  "date": "2025-10-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SWINDLE",
+      "level": null,
+      "members": [
+        "FLEECE",
+        "HOSE",
+        "HUSTLE",
+        "SHAFT"
+      ]
+    },
+    {
+      "name": "DIGITAL WATCH FEATURES",
+      "level": null,
+      "members": [
+        "ALARM",
+        "DATE",
+        "LIGHT",
+        "STOPWATCH"
+      ]
+    },
+    {
+      "name": "CONFER",
+      "level": null,
+      "members": [
+        "ACCORD",
+        "AWARD",
+        "GRANT",
+        "VEST"
+      ]
+    },
+    {
+      "name": "BEST ACTOR-WINNING BIOPICS",
+      "level": null,
+      "members": [
+        "CAPOTE",
+        "LINCOLN",
+        "MILK",
+        "RAY"
+      ]
+    }
+  ]
+}

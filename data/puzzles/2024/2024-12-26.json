@@ -1,0 +1,47 @@
+{
+  "id": 564,
+  "date": "2024-12-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "APPROXIMATELY",
+      "level": 0,
+      "members": [
+        "ABOUT",
+        "AROUND",
+        "LIKE",
+        "ROUGHLY"
+      ]
+    },
+    {
+      "name": "TREES",
+      "level": 1,
+      "members": [
+        "ELDER",
+        "PALM",
+        "PINE",
+        "SPRUCE"
+      ]
+    },
+    {
+      "name": "SIZABLE, AS AN AMOUNT",
+      "level": 2,
+      "members": [
+        "HANDSOME",
+        "HEALTHY",
+        "RESPECTABLE",
+        "TIDY"
+      ]
+    },
+    {
+      "name": "U.S. STATE ABBREVIATIONS, PER AP STYLE GUIDE",
+      "level": 3,
+      "members": [
+        "ALA",
+        "ARK",
+        "MISS",
+        "ORE"
+      ]
+    }
+  ]
+}

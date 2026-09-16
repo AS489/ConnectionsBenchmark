@@ -1,0 +1,47 @@
+{
+  "id": 282,
+  "date": "2024-03-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MOVIE SUMMARY INFO",
+      "level": 0,
+      "members": [
+        "CAST",
+        "GENRE",
+        "PLOT",
+        "TITLE"
+      ]
+    },
+    {
+      "name": "PRETENSE",
+      "level": 1,
+      "members": [
+        "AFFECT",
+        "AIRS",
+        "CHARADE",
+        "FRONT"
+      ]
+    },
+    {
+      "name": "FAMOUS GUITARISTS",
+      "level": 2,
+      "members": [
+        "BERRY",
+        "KING",
+        "PAGE",
+        "WATERS"
+      ]
+    },
+    {
+      "name": "SECOND ___",
+      "level": 3,
+      "members": [
+        "FIDDLE",
+        "GUESS",
+        "NATURE",
+        "WIND"
+      ]
+    }
+  ]
+}

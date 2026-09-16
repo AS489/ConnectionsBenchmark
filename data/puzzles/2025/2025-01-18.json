@@ -1,0 +1,47 @@
+{
+  "id": 587,
+  "date": "2025-01-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DESIRE",
+      "level": 0,
+      "members": [
+        "DRIVE",
+        "IMPULSE",
+        "ITCH",
+        "URGE"
+      ]
+    },
+    {
+      "name": "BARB",
+      "level": 1,
+      "members": [
+        "SPINE",
+        "SPUR",
+        "STICKER",
+        "THORN"
+      ]
+    },
+    {
+      "name": "INFO ON A RECORD",
+      "level": 2,
+      "members": [
+        "ALBUM",
+        "ARTIST",
+        "LABEL",
+        "TRACK"
+      ]
+    },
+    {
+      "name": "TURN THE ___",
+      "level": 3,
+      "members": [
+        "CORNER",
+        "PAGE",
+        "TABLES",
+        "TIDE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 229,
+  "date": "2024-01-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BASEBALL EQUIPMENT",
+      "level": 0,
+      "members": [
+        "BALL",
+        "BASE",
+        "BAT",
+        "GLOVE"
+      ]
+    },
+    {
+      "name": "HARD HIT",
+      "level": 1,
+      "members": [
+        "BLOW",
+        "LICK",
+        "SOCK",
+        "STRIKE"
+      ]
+    },
+    {
+      "name": "ORIGINAL MONOPOLY TOKENS",
+      "level": 2,
+      "members": [
+        "BOOT",
+        "IRON",
+        "THIMBLE",
+        "TOP HAT"
+      ]
+    },
+    {
+      "name": "___ BUNNY",
+      "level": 3,
+      "members": [
+        "BAD",
+        "BUGS",
+        "DUST",
+        "HONEY"
+      ]
+    }
+  ]
+}

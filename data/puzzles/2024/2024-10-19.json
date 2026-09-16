@@ -1,0 +1,47 @@
+{
+  "id": 496,
+  "date": "2024-10-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BRING ABOUT",
+      "level": 0,
+      "members": [
+        "GENERATE",
+        "INSPIRE",
+        "PROMPT",
+        "PROVOKE"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE OFTEN SCENTED",
+      "level": 1,
+      "members": [
+        "CANDLE",
+        "INCENSE",
+        "LOTION",
+        "SOAP"
+      ]
+    },
+    {
+      "name": "THINGS THAT MIGHT STING",
+      "level": 2,
+      "members": [
+        "INSULT",
+        "JELLYFISH",
+        "NETTLE",
+        "WASP"
+      ]
+    },
+    {
+      "name": "VIDEO GAME FRANCHISES",
+      "level": 3,
+      "members": [
+        "CIVILIZATION",
+        "HALO",
+        "MADDEN",
+        "METROID"
+      ]
+    }
+  ]
+}

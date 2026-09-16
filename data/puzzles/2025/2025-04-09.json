@@ -1,0 +1,47 @@
+{
+  "id": 668,
+  "date": "2025-04-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ROUND THREE-DIMENSIONAL OBJECTS",
+      "level": 0,
+      "members": [
+        "BALL",
+        "GLOBE",
+        "ORB",
+        "SPHERE"
+      ]
+    },
+    {
+      "name": "PUNCH",
+      "level": 1,
+      "members": [
+        "POP",
+        "POUND",
+        "SLUG",
+        "SOCK"
+      ]
+    },
+    {
+      "name": "ANIMALS IN THE WITCHES' BREW IN “MACBETH”",
+      "level": 2,
+      "members": [
+        "BAT",
+        "DOG",
+        "FROG",
+        "NEWT"
+      ]
+    },
+    {
+      "name": "FOX___",
+      "level": 3,
+      "members": [
+        "HOLE",
+        "HOUND",
+        "GLOVE",
+        "TROT"
+      ]
+    }
+  ]
+}

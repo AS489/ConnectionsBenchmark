@@ -1,0 +1,47 @@
+{
+  "id": 102,
+  "date": "2023-09-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RESTAURANT WORKERS",
+      "level": 0,
+      "members": [
+        "BARTENDER",
+        "CHEF",
+        "HOST",
+        "SERVER"
+      ]
+    },
+    {
+      "name": "MOTOR VEHICLES",
+      "level": 1,
+      "members": [
+        "BUS",
+        "CAR",
+        "MOTORCYCLE",
+        "TRUCK"
+      ]
+    },
+    {
+      "name": "MUPPETS",
+      "level": 2,
+      "members": [
+        "ANIMAL",
+        "BEAKER",
+        "GONZO",
+        "SCOOTER"
+      ]
+    },
+    {
+      "name": "HAND- AND FOOT-RELATED SLANG",
+      "level": 3,
+      "members": [
+        "DIGIT",
+        "DOG",
+        "MITT",
+        "PIGGY"
+      ]
+    }
+  ]
+}

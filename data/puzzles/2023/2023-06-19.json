@@ -1,0 +1,47 @@
+{
+  "id": 8,
+  "date": "2023-06-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BOARD GAMES",
+      "level": 0,
+      "members": [
+        "BACKGAMMON",
+        "CHECKERS",
+        "CHESS",
+        "GO"
+      ]
+    },
+    {
+      "name": "MATTRESS SIZES",
+      "level": 1,
+      "members": [
+        "FULL",
+        "KING",
+        "QUEEN",
+        "TWIN"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE RED",
+      "level": 2,
+      "members": [
+        "CHERRY",
+        "FIRE TRUCK",
+        "RUBY",
+        "STOP SIGN"
+      ]
+    },
+    {
+      "name": "THINGS WITH KEYS",
+      "level": 3,
+      "members": [
+        "CRYPTOGRAPHY",
+        "FLORIDA",
+        "LOCKSMITH",
+        "PIANO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 257,
+  "date": "2024-02-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PROCESSION",
+      "level": 0,
+      "members": [
+        "CARAVAN",
+        "FLEET",
+        "PARADE",
+        "TRAIN"
+      ]
+    },
+    {
+      "name": "SHADES OF GREEN",
+      "level": 1,
+      "members": [
+        "OLIVE",
+        "FOREST",
+        "LIME",
+        "MINT"
+      ]
+    },
+    {
+      "name": "WHAT “BLUE” MIGHT MEAN",
+      "level": 2,
+      "members": [
+        "DEMOCRATIC",
+        "EROTIC",
+        "NOBLE",
+        "SAD"
+      ]
+    },
+    {
+      "name": "THINGS WITH SPINES",
+      "level": 3,
+      "members": [
+        "BOOK",
+        "CACTUS",
+        "HEDGEHOG",
+        "SKELETON"
+      ]
+    }
+  ]
+}

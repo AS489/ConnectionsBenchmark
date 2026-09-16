@@ -1,0 +1,47 @@
+{
+  "id": 505,
+  "date": "2024-10-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AUDIO APPS",
+      "level": 0,
+      "members": [
+        "AUDIBLE",
+        "PANDORA",
+        "SHAZAM",
+        "TIDAL"
+      ]
+    },
+    {
+      "name": "INDICATE",
+      "level": 1,
+      "members": [
+        "MEAN",
+        "SIGNIFY",
+        "SPELL",
+        "SUGGEST"
+      ]
+    },
+    {
+      "name": "CHURCH OF ENGLAND WEDDING VOW VERBS",
+      "level": 2,
+      "members": [
+        "CHERISH",
+        "HAVE",
+        "HOLD",
+        "LOVE"
+      ]
+    },
+    {
+      "name": "MAGIC WORDS",
+      "level": 3,
+      "members": [
+        "ABRACADABRA",
+        "PLEASE",
+        "PRESTO",
+        "THANK YOU"
+      ]
+    }
+  ]
+}

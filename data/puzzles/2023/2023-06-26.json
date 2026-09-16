@@ -1,0 +1,47 @@
+{
+  "id": 15,
+  "date": "2023-06-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BIRD SOUNDS",
+      "level": 0,
+      "members": [
+        "CAW",
+        "CHIRP",
+        "CLUCK",
+        "TWEET"
+      ]
+    },
+    {
+      "name": "COLORS",
+      "level": 1,
+      "members": [
+        "BROWN",
+        "PINK",
+        "TURQUOISE",
+        "VIOLET"
+      ]
+    },
+    {
+      "name": "FISHING GEAR",
+      "level": 2,
+      "members": [
+        "LURE",
+        "REEL",
+        "ROD",
+        "TACKLE"
+      ]
+    },
+    {
+      "name": "FICTIONAL PIRATES",
+      "level": 3,
+      "members": [
+        "HOOK",
+        "JONES",
+        "SILVER",
+        "SPARROW"
+      ]
+    }
+  ]
+}

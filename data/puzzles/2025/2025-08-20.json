@@ -1,0 +1,47 @@
+{
+  "id": 801,
+  "date": "2025-08-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BLACK-AND-WHITE THINGS",
+      "level": 0,
+      "members": [
+        "DOMINO",
+        "PIANO KEYS",
+        "YIN-YANG SYMBOL",
+        "ZEBRA"
+      ]
+    },
+    {
+      "name": "PAIRS OF RODS",
+      "level": 1,
+      "members": [
+        "CHOPSTICKS",
+        "CLAVES",
+        "KNITTING NEEDLES",
+        "SKI POLES"
+      ]
+    },
+    {
+      "name": "THINGS THAT ROTATE ABOUT A VERTICAL AXIS",
+      "level": 2,
+      "members": [
+        "BARBER POLE",
+        "CAROUSEL",
+        "CEILING FAN",
+        "LAZY SUSAN"
+      ]
+    },
+    {
+      "name": "RODS THAT CURVE AT ONE END",
+      "level": 3,
+      "members": [
+        "CANDY CANE",
+        "CROCHET HOOK",
+        "CROOK",
+        "CROWBAR"
+      ]
+    }
+  ]
+}

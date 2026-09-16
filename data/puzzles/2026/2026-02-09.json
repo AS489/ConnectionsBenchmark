@@ -1,0 +1,47 @@
+{
+  "id": 972,
+  "date": "2026-02-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "USED IN WEAVING",
+      "level": null,
+      "members": [
+        "LOOM",
+        "NEEDLE",
+        "SCISSORS",
+        "YARN"
+      ]
+    },
+    {
+      "name": "METHOD",
+      "level": null,
+      "members": [
+        "APPROACH",
+        "MANNER",
+        "STYLE",
+        "WAY"
+      ]
+    },
+    {
+      "name": "KINDS OF PAYMENT FOR AN AUTHOR",
+      "level": null,
+      "members": [
+        "ADVANCE",
+        "BONUS",
+        "FEE",
+        "ROYALTY"
+      ]
+    },
+    {
+      "name": "DRAW ___",
+      "level": null,
+      "members": [
+        "NEAR",
+        "POKER",
+        "STRAWS",
+        "THE LINE"
+      ]
+    }
+  ]
+}

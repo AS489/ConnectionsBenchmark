@@ -1,0 +1,47 @@
+{
+  "id": 271,
+  "date": "2024-03-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS TO SEW",
+      "level": 0,
+      "members": [
+        "DART",
+        "HEM",
+        "PLEAT",
+        "SEAM"
+      ]
+    },
+    {
+      "name": "WAYS TO PRESERVE FOOD",
+      "level": 1,
+      "members": [
+        "CAN",
+        "CURE",
+        "DRY",
+        "FREEZE"
+      ]
+    },
+    {
+      "name": "SHARP QUALITY",
+      "level": 2,
+      "members": [
+        "BITE",
+        "EDGE",
+        "PUNCH",
+        "SPICE"
+      ]
+    },
+    {
+      "name": "BIRDS MINUS LAST LETTER",
+      "level": 3,
+      "members": [
+        "CONDO",
+        "HAW",
+        "HERO",
+        "LOO"
+      ]
+    }
+  ]
+}

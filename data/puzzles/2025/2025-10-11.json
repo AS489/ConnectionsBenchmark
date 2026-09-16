@@ -1,0 +1,47 @@
+{
+  "id": 853,
+  "date": "2025-10-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EQUIPMENT",
+      "level": null,
+      "members": [
+        "GEAR",
+        "KIT",
+        "STUFF",
+        "TACKLE"
+      ]
+    },
+    {
+      "name": "DRESS IN",
+      "level": null,
+      "members": [
+        "DON",
+        "PUT ON",
+        "SPORT",
+        "WEAR"
+      ]
+    },
+    {
+      "name": "STREET SUFFIXES",
+      "level": null,
+      "members": [
+        "ALLEY",
+        "COURT",
+        "LANE",
+        "WAY"
+      ]
+    },
+    {
+      "name": "NICKNAMES THAT HAVE OTHER MEANINGS",
+      "level": null,
+      "members": [
+        "BILL",
+        "BOB",
+        "PAT",
+        "TOM"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 419,
+  "date": "2024-08-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BIT OF EXCITEMENT",
+      "level": 0,
+      "members": [
+        "HIGH",
+        "KICK",
+        "RUSH",
+        "THRILL"
+      ]
+    },
+    {
+      "name": "TOLERATE",
+      "level": 1,
+      "members": [
+        "BEAR",
+        "STAND",
+        "STOMACH",
+        "TAKE"
+      ]
+    },
+    {
+      "name": "NONSENSE",
+      "level": 2,
+      "members": [
+        "BALONEY",
+        "BULL",
+        "BUNK",
+        "TRIPE"
+      ]
+    },
+    {
+      "name": "THINGS TO CLICK",
+      "level": 3,
+      "members": [
+        "HEELS",
+        "MOUSE",
+        "REMOTE",
+        "TONGUE"
+      ]
+    }
+  ]
+}

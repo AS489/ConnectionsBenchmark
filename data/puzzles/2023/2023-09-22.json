@@ -1,0 +1,47 @@
+{
+  "id": 103,
+  "date": "2023-09-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SODA FOUNTAIN ORDERS",
+      "level": 0,
+      "members": [
+        "FLOAT",
+        "MALT",
+        "SHAKE",
+        "SUNDAE"
+      ]
+    },
+    {
+      "name": "SET, AS PLANS",
+      "level": 1,
+      "members": [
+        "CONCRETE",
+        "FIRM",
+        "SOLID",
+        "TANGIBLE"
+      ]
+    },
+    {
+      "name": "M. NIGHT SHYAMALAN MOVIES",
+      "level": 2,
+      "members": [
+        "GLASS",
+        "OLD",
+        "SIGNS",
+        "SPLIT"
+      ]
+    },
+    {
+      "name": "___BOARD",
+      "level": 3,
+      "members": [
+        "DASH",
+        "HOVER",
+        "KEY",
+        "STAR"
+      ]
+    }
+  ]
+}

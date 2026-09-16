@@ -1,0 +1,47 @@
+{
+  "id": 104,
+  "date": "2023-09-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ROBUST",
+      "level": 0,
+      "members": [
+        "FIT",
+        "HEALTHY",
+        "SOUND",
+        "STRONG"
+      ]
+    },
+    {
+      "name": "DECLINE",
+      "level": 1,
+      "members": [
+        "DIP",
+        "DROP",
+        "FALL",
+        "SINK"
+      ]
+    },
+    {
+      "name": "WATER SOURCES",
+      "level": 2,
+      "members": [
+        "FOUNTAIN",
+        "SPRING",
+        "TAP",
+        "WELL"
+      ]
+    },
+    {
+      "name": "WOMEN SINGERS",
+      "level": 3,
+      "members": [
+        "KEYS",
+        "NICKS",
+        "SUMMER",
+        "SWIFT"
+      ]
+    }
+  ]
+}

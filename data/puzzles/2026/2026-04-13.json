@@ -1,0 +1,47 @@
+{
+  "id": 1033,
+  "date": "2026-04-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SEEN OUTSIDE A THEATER",
+      "level": null,
+      "members": [
+        "BOX OFFICE",
+        "MARQUEE",
+        "TICKET LINE",
+        "VELVET ROPE"
+      ]
+    },
+    {
+      "name": "ACCESSORIES FOR A MAGICIAN",
+      "level": null,
+      "members": [
+        "CAPE",
+        "HANDKERCHIEF",
+        "MAGIC WAND",
+        "RABBIT"
+      ]
+    },
+    {
+      "name": "TV SHOW TITLE SURNAMES",
+      "level": null,
+      "members": [
+        "HOUSE",
+        "LASSO",
+        "MONTANA",
+        "SOPRANO"
+      ]
+    },
+    {
+      "name": "THEY HAVE CAPS",
+      "level": null,
+      "members": [
+        "BASEBALL PLAYER",
+        "CAMERA LENS",
+        "MUSHROOM",
+        "PEN"
+      ]
+    }
+  ]
+}

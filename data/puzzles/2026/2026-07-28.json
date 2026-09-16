@@ -1,0 +1,47 @@
+{
+  "id": 1138,
+  "date": "2026-07-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMMAND",
+      "level": null,
+      "members": [
+        "CAPTAIN",
+        "DIRECT",
+        "HEAD",
+        "LEAD"
+      ]
+    },
+    {
+      "name": "HOW DO YOU LIKE THEM APPLES",
+      "level": null,
+      "members": [
+        "EMPIRE",
+        "FUJI",
+        "GALA",
+        "HONEYCRISP"
+      ]
+    },
+    {
+      "name": "SHOE BRANDS STARTING WITH \"C\"",
+      "level": null,
+      "members": [
+        "CAMPER",
+        "CLARKS",
+        "CONVERSE",
+        "CROCS"
+      ]
+    },
+    {
+      "name": "STARTING WITH PALINDROMIC NAMES",
+      "level": null,
+      "members": [
+        "ANNAPOLIS",
+        "BOBSLED",
+        "EVEREST",
+        "OTTOMAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 616,
+  "date": "2025-02-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GLIMMER",
+      "level": 0,
+      "members": [
+        "HINT",
+        "SUGGESTION",
+        "TOUCH",
+        "TRACE"
+      ]
+    },
+    {
+      "name": "CORRESPOND WELL WITH",
+      "level": 1,
+      "members": [
+        "COMPLEMENT",
+        "FIT",
+        "MATCH",
+        "SUIT"
+      ]
+    },
+    {
+      "name": "FAMOUS PUPPETS",
+      "level": 2,
+      "members": [
+        "LAMB CHOP",
+        "OSCAR",
+        "PUNCH",
+        "TRIUMPH"
+      ]
+    },
+    {
+      "name": "DOG BREEDS MINUS “ER” SOUND",
+      "level": 3,
+      "members": [
+        "BOX",
+        "POINT",
+        "RETRIEVE",
+        "SET"
+      ]
+    }
+  ]
+}

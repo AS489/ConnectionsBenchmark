@@ -1,0 +1,47 @@
+{
+  "id": 501,
+  "date": "2024-10-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LINEUP",
+      "level": 0,
+      "members": [
+        "BILL",
+        "PROGRAM",
+        "SCHEDULE",
+        "SLATE"
+      ]
+    },
+    {
+      "name": "NYT OFFERINGS",
+      "level": 1,
+      "members": [
+        "AUDIO",
+        "COOKING",
+        "GAMES",
+        "NEWS"
+      ]
+    },
+    {
+      "name": "THINGS MADE BY FOLDING PAPER",
+      "level": 2,
+      "members": [
+        "AIRPLANE",
+        "CRANE",
+        "FAN",
+        "FORTUNE TELLER"
+      ]
+    },
+    {
+      "name": "FRENCH WORDS",
+      "level": 3,
+      "members": [
+        "ADIEU",
+        "BELLE",
+        "PAIN",
+        "TEMPS"
+      ]
+    }
+  ]
+}

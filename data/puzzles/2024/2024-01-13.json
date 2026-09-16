@@ -1,0 +1,47 @@
+{
+  "id": 216,
+  "date": "2024-01-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CREDENTIALS FOR ENTRY",
+      "level": 0,
+      "members": [
+        "BADGE",
+        "INVITE",
+        "PASS",
+        "TICKET"
+      ]
+    },
+    {
+      "name": "PRESIDE OVER",
+      "level": 1,
+      "members": [
+        "CHAIR",
+        "DIRECT",
+        "LEAD",
+        "RUN"
+      ]
+    },
+    {
+      "name": "AMERICAN FOOTBALL POSITIONS",
+      "level": 2,
+      "members": [
+        "CENTER",
+        "END",
+        "SAFETY",
+        "TACKLE"
+      ]
+    },
+    {
+      "name": "POSTPONE",
+      "level": 3,
+      "members": [
+        "HOLD",
+        "PUNT",
+        "STALL",
+        "TABLE"
+      ]
+    }
+  ]
+}

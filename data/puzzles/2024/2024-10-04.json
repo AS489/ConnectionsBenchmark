@@ -1,0 +1,47 @@
+{
+  "id": 481,
+  "date": "2024-10-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONCAVITY",
+      "level": 0,
+      "members": [
+        "DENT",
+        "DIMPLE",
+        "DING",
+        "DIVOT"
+      ]
+    },
+    {
+      "name": "SMALL AMOUNT",
+      "level": 1,
+      "members": [
+        "DAB",
+        "DASH",
+        "DOLLOP",
+        "DROP"
+      ]
+    },
+    {
+      "name": "DISNEY CHARACTERS",
+      "level": 2,
+      "members": [
+        "DAISY",
+        "DALE",
+        "DOC",
+        "DORY"
+      ]
+    },
+    {
+      "name": "___ DATE",
+      "level": 3,
+      "members": [
+        "DELIVERY",
+        "DINNER",
+        "DREAM",
+        "DUE"
+      ]
+    }
+  ]
+}

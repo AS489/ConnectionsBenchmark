@@ -1,0 +1,47 @@
+{
+  "id": 98,
+  "date": "2023-09-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FRUITS",
+      "level": 0,
+      "members": [
+        "APRICOT",
+        "FIG",
+        "GRAPE",
+        "LIME"
+      ]
+    },
+    {
+      "name": "LUXURIOUS",
+      "level": 1,
+      "members": [
+        "DELUXE",
+        "GRAND",
+        "LAVISH",
+        "OPULENT"
+      ]
+    },
+    {
+      "name": "BEST ACTRESS OSCAR WINNERS",
+      "level": 2,
+      "members": [
+        "BERRY",
+        "FOSTER",
+        "STONE",
+        "SWANK"
+      ]
+    },
+    {
+      "name": "WHAT “GREEN” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "ENVIOUS",
+        "FRESH",
+        "NAIVE",
+        "UNWELL"
+      ]
+    }
+  ]
+}

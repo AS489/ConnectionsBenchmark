@@ -1,0 +1,47 @@
+{
+  "id": 412,
+  "date": "2024-07-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OFF-TOPIC REMARKS",
+      "level": 0,
+      "members": [
+        "ASIDE",
+        "DETOUR",
+        "DIGRESSION",
+        "TANGENT"
+      ]
+    },
+    {
+      "name": "CREATE, AS RESULTS",
+      "level": 1,
+      "members": [
+        "BEAR",
+        "GENERATE",
+        "PRODUCE",
+        "YIELD"
+      ]
+    },
+    {
+      "name": "HOTTIE",
+      "level": 2,
+      "members": [
+        "BABE",
+        "FOX",
+        "SNACK",
+        "TEN"
+      ]
+    },
+    {
+      "name": "WORDS REPRESENTED BY THE LETTER \"R\"",
+      "level": 3,
+      "members": [
+        "ARE",
+        "RADIUS",
+        "REVERSE",
+        "RIGHT"
+      ]
+    }
+  ]
+}

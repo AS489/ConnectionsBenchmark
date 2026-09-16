@@ -1,0 +1,47 @@
+{
+  "id": 400,
+  "date": "2024-07-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "REGARD AS TRUE",
+      "level": 0,
+      "members": [
+        "ACCEPT",
+        "BELIEVE",
+        "BUY",
+        "TRUST"
+      ]
+    },
+    {
+      "name": "FACADE",
+      "level": 1,
+      "members": [
+        "BLUFF",
+        "FRONT",
+        "SHAM",
+        "SHOW"
+      ]
+    },
+    {
+      "name": "WAYS TO SECURE A TV",
+      "level": 2,
+      "members": [
+        "BASE",
+        "BRACKET",
+        "MOUNT",
+        "STAND"
+      ]
+    },
+    {
+      "name": "LIQUOR BOTTLE SIZES",
+      "level": 3,
+      "members": [
+        "FIFTH",
+        "HANDLE",
+        "LITER",
+        "PINT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 768,
+  "date": "2025-07-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SEQUENCE",
+      "level": 0,
+      "members": [
+        "RUN",
+        "SERIES",
+        "STREAK",
+        "STRING"
+      ]
+    },
+    {
+      "name": "PICK UP ON",
+      "level": 1,
+      "members": [
+        "CATCH",
+        "NOTE",
+        "SEE",
+        "SPOT"
+      ]
+    },
+    {
+      "name": "YOGA BACKBENDS",
+      "level": 2,
+      "members": [
+        "BRIDGE",
+        "COBRA",
+        "COW",
+        "WHEEL"
+      ]
+    },
+    {
+      "name": "ELECTRIC ___",
+      "level": 3,
+      "members": [
+        "BLANKET",
+        "EEL",
+        "GUITAR",
+        "SLIDE"
+      ]
+    }
+  ]
+}

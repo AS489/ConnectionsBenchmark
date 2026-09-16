@@ -1,0 +1,47 @@
+{
+  "id": 621,
+  "date": "2025-02-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WAY OF SOLVING A PROBLEM",
+      "level": 0,
+      "members": [
+        "ANSWER",
+        "FIX",
+        "REMEDY",
+        "SOLUTION"
+      ]
+    },
+    {
+      "name": "COLLECT, AS FROM AN ORCHARD",
+      "level": 1,
+      "members": [
+        "GATHER",
+        "HARVEST",
+        "PICK",
+        "REAP"
+      ]
+    },
+    {
+      "name": "PHOTOSHOP TOOLS",
+      "level": 2,
+      "members": [
+        "ERASER",
+        "EYEDROPPER",
+        "LASSO",
+        "MAGIC WAND"
+      ]
+    },
+    {
+      "name": "OBJECTS THAT MAY BE RIGHT- OR LEFT-HANDED",
+      "level": 3,
+      "members": [
+        "BASEBALL GLOVE",
+        "CAN OPENER",
+        "GOLF CLUB",
+        "GUITAR"
+      ]
+    }
+  ]
+}

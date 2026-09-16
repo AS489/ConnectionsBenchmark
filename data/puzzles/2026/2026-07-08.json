@@ -1,0 +1,47 @@
+{
+  "id": 1118,
+  "date": "2026-07-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CUT INTO THIN PIECES",
+      "level": null,
+      "members": [
+        "GRATE",
+        "PLANE",
+        "SHAVE",
+        "SLIVER"
+      ]
+    },
+    {
+      "name": "MOTIF",
+      "level": null,
+      "members": [
+        "DRIFT",
+        "PLOT",
+        "THEME",
+        "THREAD"
+      ]
+    },
+    {
+      "name": "GUITAR-PLAYING TECHNIQUES",
+      "level": null,
+      "members": [
+        "PICK",
+        "PLUCK",
+        "STRUM",
+        "TAP"
+      ]
+    },
+    {
+      "name": "HOUSE OF ___",
+      "level": null,
+      "members": [
+        "CARDS",
+        "LORDS",
+        "WAX",
+        "WORSHIP"
+      ]
+    }
+  ]
+}

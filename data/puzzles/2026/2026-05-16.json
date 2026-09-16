@@ -1,0 +1,47 @@
+{
+  "id": 1065,
+  "date": "2026-05-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GLASSWARE",
+      "level": null,
+      "members": [
+        "COUPE",
+        "FLUTE",
+        "STEIN",
+        "TUMBLER"
+      ]
+    },
+    {
+      "name": "MESS AROUND (WITH)",
+      "level": null,
+      "members": [
+        "FIDDLE",
+        "MESS",
+        "PLAY",
+        "TINKER"
+      ]
+    },
+    {
+      "name": "MUSIC PERFORMANCE DIRECTIONS",
+      "level": null,
+      "members": [
+        "ALLEGRO",
+        "FORTE",
+        "LARGO",
+        "PIANO"
+      ]
+    },
+    {
+      "name": "ENDING IN SYNONYMS FOR \"ASAP\"",
+      "level": null,
+      "members": [
+        "BASSOON",
+        "BELFAST",
+        "NESQUICK",
+        "THERMOSTAT"
+      ]
+    }
+  ]
+}

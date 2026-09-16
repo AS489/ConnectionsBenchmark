@@ -1,0 +1,47 @@
+{
+  "id": 95,
+  "date": "2023-09-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EYE PARTS",
+      "level": 0,
+      "members": [
+        "IRIS",
+        "LENS",
+        "PUPIL",
+        "RETINA"
+      ]
+    },
+    {
+      "name": "COUNTERFEIT",
+      "level": 1,
+      "members": [
+        "BOGUS",
+        "FAKE",
+        "PHONY",
+        "SHAM"
+      ]
+    },
+    {
+      "name": "RADIO LINGO",
+      "level": 2,
+      "members": [
+        "COPY",
+        "OUT",
+        "OVER",
+        "ROGER"
+      ]
+    },
+    {
+      "name": "SONGS THAT ARE NAMES",
+      "level": 3,
+      "members": [
+        "ALEJANDRO",
+        "LOLA",
+        "MICHELLE",
+        "STAN"
+      ]
+    }
+  ]
+}

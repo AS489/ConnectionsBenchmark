@@ -1,0 +1,47 @@
+{
+  "id": 546,
+  "date": "2024-12-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PUNCH",
+      "level": 0,
+      "members": [
+        "BELT",
+        "BLOW",
+        "SOCK",
+        "SLUG"
+      ]
+    },
+    {
+      "name": "CRAM",
+      "level": 1,
+      "members": [
+        "SANDWICH",
+        "SHOEHORN",
+        "SQUEEZE",
+        "WEDGE"
+      ]
+    },
+    {
+      "name": "COMPANIES NAMED AFTER ANIMALS",
+      "level": 2,
+      "members": [
+        "CATERPILLAR",
+        "DOVE",
+        "GREYHOUND",
+        "PUMA"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF MUSIC GENRES",
+      "level": 3,
+      "members": [
+        "INDY",
+        "METTLE",
+        "SEOUL",
+        "WRAP"
+      ]
+    }
+  ]
+}

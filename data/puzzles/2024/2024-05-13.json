@@ -1,0 +1,47 @@
+{
+  "id": 337,
+  "date": "2024-05-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FASHION DESIGNER'S OUTPUT",
+      "level": 0,
+      "members": [
+        "BRAND",
+        "COLLECTION",
+        "LABEL",
+        "LINE"
+      ]
+    },
+    {
+      "name": "PLAYGROUND VERBS",
+      "level": 1,
+      "members": [
+        "DODGE",
+        "HIDE",
+        "HOP",
+        "TAG"
+      ]
+    },
+    {
+      "name": "LOONEY TUNES FIGURES",
+      "level": 2,
+      "members": [
+        "BUNNY",
+        "DUCK",
+        "MARTIAN",
+        "PIG"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF MUSICALS",
+      "level": 3,
+      "members": [
+        "GREECE",
+        "HARE",
+        "KATZ",
+        "MAIM"
+      ]
+    }
+  ]
+}

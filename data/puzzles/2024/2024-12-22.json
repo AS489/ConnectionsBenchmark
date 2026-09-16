@@ -1,0 +1,47 @@
+{
+  "id": 560,
+  "date": "2024-12-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SLANG FOR HEAD",
+      "level": 0,
+      "members": [
+        "COCONUT",
+        "CROWN",
+        "DOME",
+        "SKULL"
+      ]
+    },
+    {
+      "name": "PALINDROMES",
+      "level": 1,
+      "members": [
+        "ABBA",
+        "KAYAK",
+        "NUN",
+        "STATS"
+      ]
+    },
+    {
+      "name": "POLICE PROCEDURALS",
+      "level": 2,
+      "members": [
+        "BONES",
+        "ELEMENTARY",
+        "KOJAK",
+        "MONK"
+      ]
+    },
+    {
+      "name": "FIRST IN A COMEDY DUO",
+      "level": 3,
+      "members": [
+        "ABBOTT",
+        "FRY",
+        "KEY",
+        "LAUREL"
+      ]
+    }
+  ]
+}

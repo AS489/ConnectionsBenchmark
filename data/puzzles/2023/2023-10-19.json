@@ -1,0 +1,47 @@
+{
+  "id": 130,
+  "date": "2023-10-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FALSIFY",
+      "level": 0,
+      "members": [
+        "FABRICATE",
+        "FAKE",
+        "FIX",
+        "FORGE"
+      ]
+    },
+    {
+      "name": "MILD OATHS",
+      "level": 1,
+      "members": [
+        "FIDDLESTICKS",
+        "FIE",
+        "FRICK",
+        "FUDGE"
+      ]
+    },
+    {
+      "name": "TV SHOWS",
+      "level": 2,
+      "members": [
+        "FARGO",
+        "FIREFLY",
+        "FLEABAG",
+        "FLIPPER"
+      ]
+    },
+    {
+      "name": "FAST ___",
+      "level": 3,
+      "members": [
+        "FASHION",
+        "FOOD",
+        "FORWARD",
+        "FRIENDS"
+      ]
+    }
+  ]
+}

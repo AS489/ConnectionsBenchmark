@@ -1,0 +1,47 @@
+{
+  "id": 371,
+  "date": "2024-06-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CURRENT SITUATION",
+      "level": 0,
+      "members": [
+        "CONDITION",
+        "FORM",
+        "SHAPE",
+        "STATE"
+      ]
+    },
+    {
+      "name": "REMOTE RURAL AREA",
+      "level": 1,
+      "members": [
+        "BUSH",
+        "COUNTRY",
+        "STICKS",
+        "WOODS"
+      ]
+    },
+    {
+      "name": "CLASSIC LAWN ORNAMENTS",
+      "level": 2,
+      "members": [
+        "FLAMINGO",
+        "FOUNTAIN",
+        "GNOME",
+        "PINWHEEL"
+      ]
+    },
+    {
+      "name": "___ TALE",
+      "level": 3,
+      "members": [
+        "FAIRY",
+        "FISH",
+        "FOLK",
+        "TALL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1151,
+  "date": "2026-08-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HAPHAZARDLY",
+      "level": null,
+      "members": [
+        "ANY OLD HOW",
+        "AT RANDOM",
+        "HELTER-SKELTER",
+        "WILLY-NILLY"
+      ]
+    },
+    {
+      "name": "WAYS TO RECEIVE EVENT TICKETS",
+      "level": null,
+      "members": [
+        "MAIL DELIVERY",
+        "MOBILE TICKET",
+        "PRINT-AT-HOME",
+        "WILL CALL"
+      ]
+    },
+    {
+      "name": "SECTIONS ON AN INVOICE",
+      "level": null,
+      "members": [
+        "BALANCE DUE",
+        "BILL TO",
+        "ORDER NUMBER",
+        "UNIT PRICE"
+      ]
+    },
+    {
+      "name": "FAMOUS GOATEES",
+      "level": null,
+      "members": [
+        "BILLY GOAT",
+        "COLONEL SANDERS",
+        "DOCTOR STRANGE",
+        "THE DEVIL"
+      ]
+    }
+  ]
+}

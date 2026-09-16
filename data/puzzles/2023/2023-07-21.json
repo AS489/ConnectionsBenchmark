@@ -1,0 +1,47 @@
+{
+  "id": 40,
+  "date": "2023-07-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WOODWINDS",
+      "level": 0,
+      "members": [
+        "BASSOON",
+        "CLARINET",
+        "FLUTE",
+        "OBOE"
+      ]
+    },
+    {
+      "name": "COVERINGS",
+      "level": 1,
+      "members": [
+        "CAP",
+        "COVER",
+        "LID",
+        "TOP"
+      ]
+    },
+    {
+      "name": "SUNGLASSES",
+      "level": 2,
+      "members": [
+        "AVIATOR",
+        "CAT EYE",
+        "WAYFARER",
+        "WRAPAROUND"
+      ]
+    },
+    {
+      "name": "SEALS",
+      "level": 3,
+      "members": [
+        "HARBOR",
+        "HARP",
+        "HOODED",
+        "MONK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 627,
+  "date": "2025-02-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONTACT VIA TELEPHONE",
+      "level": 0,
+      "members": [
+        "CALL",
+        "DIAL",
+        "PHONE",
+        "RING"
+      ]
+    },
+    {
+      "name": "PARTS OF A CAR",
+      "level": 1,
+      "members": [
+        "BELT",
+        "HORN",
+        "MIRROR",
+        "WHEEL"
+      ]
+    },
+    {
+      "name": "LEVELS OF BIOLOGICAL ORGANIZATION",
+      "level": 2,
+      "members": [
+        "ATOM",
+        "CELL",
+        "ORGAN",
+        "TISSUE"
+      ]
+    },
+    {
+      "name": "ENDING WITH UNITS OF MEASURE",
+      "level": 3,
+      "members": [
+        "BIGFOOT",
+        "COMPOUND",
+        "INSTAGRAM",
+        "THERMOMETER"
+      ]
+    }
+  ]
+}

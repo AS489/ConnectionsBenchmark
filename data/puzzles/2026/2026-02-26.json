@@ -1,0 +1,47 @@
+{
+  "id": 989,
+  "date": "2026-02-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PIVOTAL POINT",
+      "level": null,
+      "members": [
+        "CROSSROADS",
+        "LANDMARK",
+        "MILESTONE",
+        "WATERSHED"
+      ]
+    },
+    {
+      "name": "GREEN THINGS",
+      "level": null,
+      "members": [
+        "GRASSHOPPER",
+        "SHAMROCK",
+        "STATUE OF LIBERTY",
+        "WASABI"
+      ]
+    },
+    {
+      "name": "ELEMENTS OF JOKE-TELLING",
+      "level": null,
+      "members": [
+        "CALLBACK",
+        "PUNCHLINE",
+        "SETUP",
+        "TIMING"
+      ]
+    },
+    {
+      "name": "\"___ PLEASE\"",
+      "level": null,
+      "members": [
+        "ATTENTION",
+        "CHECK",
+        "DRUMROLL",
+        "PRETTY"
+      ]
+    }
+  ]
+}

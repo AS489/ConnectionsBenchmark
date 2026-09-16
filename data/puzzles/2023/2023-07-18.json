@@ -1,0 +1,47 @@
+{
+  "id": 37,
+  "date": "2023-07-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MARINE MAMMALS",
+      "level": 0,
+      "members": [
+        "DOLPHIN",
+        "MANATEE",
+        "OTTER",
+        "SEAL"
+      ]
+    },
+    {
+      "name": "BIKE PARTS",
+      "level": 1,
+      "members": [
+        "BRAKE",
+        "CHAIN",
+        "SADDLE",
+        "SPOKE"
+      ]
+    },
+    {
+      "name": "SYNONYMS FOR SELL",
+      "level": 2,
+      "members": [
+        "HAWK",
+        "MOVE",
+        "PEDDLE",
+        "VEND"
+      ]
+    },
+    {
+      "name": "COUNTRIES WHEN “A” IS ADDED",
+      "level": 3,
+      "members": [
+        "CHIN",
+        "CUB",
+        "MALT",
+        "TONG"
+      ]
+    }
+  ]
+}

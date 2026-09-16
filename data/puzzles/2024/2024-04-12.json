@@ -1,0 +1,47 @@
+{
+  "id": 306,
+  "date": "2024-04-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ORDERLY",
+      "level": 0,
+      "members": [
+        "CLEAN",
+        "NEAT",
+        "TIDY",
+        "TRIM"
+      ]
+    },
+    {
+      "name": "AUGMENTATIVE PREFIXES",
+      "level": 1,
+      "members": [
+        "HYPER",
+        "SUPER",
+        "UBER",
+        "ULTRA"
+      ]
+    },
+    {
+      "name": "BECOME LARGER",
+      "level": 2,
+      "members": [
+        "BALLOON",
+        "MUSHROOM",
+        "SNOWBALL",
+        "SWELL"
+      ]
+    },
+    {
+      "name": "ITEMS IN CLASSIC KIDS’ GAMES",
+      "level": 3,
+      "members": [
+        "DOMINO",
+        "JACK",
+        "MARBLE",
+        "STICK"
+      ]
+    }
+  ]
+}

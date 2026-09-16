@@ -1,0 +1,47 @@
+{
+  "id": 998,
+  "date": "2026-03-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CITIES",
+      "level": null,
+      "members": [
+        "LIMA",
+        "NICE",
+        "OSAKA",
+        "PHOENIX"
+      ]
+    },
+    {
+      "name": "PALINDROMES",
+      "level": null,
+      "members": [
+        "EYE",
+        "REFER",
+        "ROTATOR",
+        "SELES"
+      ]
+    },
+    {
+      "name": "HORROR MOVIES MINUS \"S\"",
+      "level": null,
+      "members": [
+        "GREMLIN",
+        "JAW",
+        "SINNER",
+        "TREMOR"
+      ]
+    },
+    {
+      "name": "STARTING WITH SLANG FOR ZERO",
+      "level": null,
+      "members": [
+        "JACKET",
+        "NADAL",
+        "SQUATTER",
+        "ZIPPER"
+      ]
+    }
+  ]
+}

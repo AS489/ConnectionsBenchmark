@@ -1,0 +1,47 @@
+{
+  "id": 852,
+  "date": "2025-10-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SIGNIFICANT",
+      "level": null,
+      "members": [
+        "BIG",
+        "IMPORTANT",
+        "MAJOR",
+        "SERIOUS"
+      ]
+    },
+    {
+      "name": "ONE IN A SEPTET",
+      "level": null,
+      "members": [
+        "CONTINENT",
+        "DEADLY SIN",
+        "SISTER",
+        "WONDER"
+      ]
+    },
+    {
+      "name": "TAROT CARDS, WITH \"THE\"",
+      "level": null,
+      "members": [
+        "DEVIL",
+        "LOVERS",
+        "MAGICIAN",
+        "STAR"
+      ]
+    },
+    {
+      "name": "___ EYE",
+      "level": null,
+      "members": [
+        "EVIL",
+        "MAGIC",
+        "NAKED",
+        "THIRD"
+      ]
+    }
+  ]
+}

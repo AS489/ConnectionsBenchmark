@@ -1,0 +1,47 @@
+{
+  "id": 757,
+  "date": "2025-07-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INFORMANT",
+      "level": 0,
+      "members": [
+        "CANARY",
+        "LEAK",
+        "RAT",
+        "SOURCE"
+      ]
+    },
+    {
+      "name": "BIG IMPRESSION",
+      "level": 1,
+      "members": [
+        "FOOTPRINT",
+        "IMPACT",
+        "MARK",
+        "SPLASH"
+      ]
+    },
+    {
+      "name": "BASKETBALL MOVES",
+      "level": 2,
+      "members": [
+        "BLOCK",
+        "DRIBBLE",
+        "PASS",
+        "SHOOT"
+      ]
+    },
+    {
+      "name": "TOP ___",
+      "level": 3,
+      "members": [
+        "BANANA",
+        "DOG",
+        "HAT",
+        "SECRET"
+      ]
+    }
+  ]
+}

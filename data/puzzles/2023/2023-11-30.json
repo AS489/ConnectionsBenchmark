@@ -1,0 +1,47 @@
+{
+  "id": 172,
+  "date": "2023-11-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AVOID",
+      "level": 0,
+      "members": [
+        "DODGE",
+        "DUCK",
+        "ESCAPE",
+        "SKIRT"
+      ]
+    },
+    {
+      "name": "HITCHCOCK MOVIES",
+      "level": 1,
+      "members": [
+        "BIRDS",
+        "NOTORIOUS",
+        "REBECCA",
+        "ROPE"
+      ]
+    },
+    {
+      "name": "SIDEKICKS",
+      "level": 2,
+      "members": [
+        "GOOSE",
+        "HOBBES",
+        "ROBIN",
+        "WATSON"
+      ]
+    },
+    {
+      "name": "___ CHEESE",
+      "level": 3,
+      "members": [
+        "COTTAGE",
+        "CREAM",
+        "SAY",
+        "STRING"
+      ]
+    }
+  ]
+}

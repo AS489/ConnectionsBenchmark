@@ -1,0 +1,47 @@
+{
+  "id": 772,
+  "date": "2025-07-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SASSINESS",
+      "level": 0,
+      "members": [
+        "ATTITUDE",
+        "CHEEK",
+        "LIP",
+        "MOUTH"
+      ]
+    },
+    {
+      "name": "MITIGATE",
+      "level": 1,
+      "members": [
+        "CUSHION",
+        "DAMPEN",
+        "SOFTEN",
+        "TEMPER"
+      ]
+    },
+    {
+      "name": "PATTERNS",
+      "level": 2,
+      "members": [
+        "CAMO",
+        "CHECKERS",
+        "HONEYCOMB",
+        "STRIPES"
+      ]
+    },
+    {
+      "name": "___ PIE",
+      "level": 3,
+      "members": [
+        "CHESS",
+        "CUTIE",
+        "HUMBLE",
+        "WHOOPIE"
+      ]
+    }
+  ]
+}

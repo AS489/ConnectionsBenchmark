@@ -1,0 +1,47 @@
+{
+  "id": 305,
+  "date": "2024-04-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HAIRCUTS, WITH “CUT”",
+      "level": 0,
+      "members": [
+        "BOWL",
+        "BUZZ",
+        "CREW",
+        "PIXIE"
+      ]
+    },
+    {
+      "name": "MEASURING INSTRUMENTS",
+      "level": 1,
+      "members": [
+        "COMPASS",
+        "RULER",
+        "SCALE",
+        "WATCH"
+      ]
+    },
+    {
+      "name": "WATER AND GAS CONDUITS",
+      "level": 2,
+      "members": [
+        "CHANNEL",
+        "LINE",
+        "MAIN",
+        "PIPE"
+      ]
+    },
+    {
+      "name": "FAST FOOD MASCOTS",
+      "level": 3,
+      "members": [
+        "CLOWN",
+        "COLONEL",
+        "KING",
+        "MERMAID"
+      ]
+    }
+  ]
+}

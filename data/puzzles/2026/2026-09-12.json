@@ -1,0 +1,47 @@
+{
+  "id": 1184,
+  "date": "2026-09-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WAYS TO PERSONALIZE A CAR",
+      "level": null,
+      "members": [
+        "BUMPER STICKER",
+        "FUZZY DICE",
+        "HOOD ORNAMENT",
+        "VANITY PLATE"
+      ]
+    },
+    {
+      "name": "PEOPLE IN AN ONLINE FORUM",
+      "level": null,
+      "members": [
+        "LURKER",
+        "POSTER",
+        "SPAMMER",
+        "TROLL"
+      ]
+    },
+    {
+      "name": "THINGS THAT BLINK",
+      "level": null,
+      "members": [
+        "CURSOR",
+        "EYELIDS",
+        "SMOKE DETECTOR",
+        "TURN SIGNAL"
+      ]
+    },
+    {
+      "name": "___ ALERT",
+      "level": null,
+      "members": [
+        "NERD",
+        "RED",
+        "SPOILER",
+        "WEATHER"
+      ]
+    }
+  ]
+}

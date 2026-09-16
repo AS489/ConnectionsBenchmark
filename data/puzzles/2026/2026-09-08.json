@@ -1,0 +1,47 @@
+{
+  "id": 1180,
+  "date": "2026-09-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CLASSIC AMERICAN PERFORMANCE CARS",
+      "level": null,
+      "members": [
+        "CORVETTE",
+        "FIREBIRD",
+        "MUSTANG",
+        "VIPER"
+      ]
+    },
+    {
+      "name": "FEATURES OF A MIME COSTUME",
+      "level": null,
+      "members": [
+        "BERET",
+        "GLOVES",
+        "STRIPES",
+        "SUSPENDERS"
+      ]
+    },
+    {
+      "name": "___ HEART",
+      "level": null,
+      "members": [
+        "ARTICHOKE",
+        "PURPLE",
+        "SACRED",
+        "TAKE TO"
+      ]
+    },
+    {
+      "name": "CANDY BARS PLUS A LETTER",
+      "level": null,
+      "members": [
+        "DOVES",
+        "MARSH",
+        "SKORT",
+        "TWIXT"
+      ]
+    }
+  ]
+}

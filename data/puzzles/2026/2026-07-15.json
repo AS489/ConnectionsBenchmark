@@ -1,0 +1,47 @@
+{
+  "id": 1125,
+  "date": "2026-07-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TERMS FOR THE LEGAL SYSTEM",
+      "level": null,
+      "members": [
+        "BAR",
+        "BENCH",
+        "COURT",
+        "TRIBUNAL"
+      ]
+    },
+    {
+      "name": "THINGS WITH LACES",
+      "level": null,
+      "members": [
+        "BASEBALL GLOVE",
+        "CORSET",
+        "FOOTBALL",
+        "SHOE"
+      ]
+    },
+    {
+      "name": "KINDS OF SPORTS",
+      "level": null,
+      "members": [
+        "EXTREME",
+        "MOTOR",
+        "RACKET",
+        "WATER"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE \"ROOM\" TO INDICATE EXTRA SPACE",
+      "level": null,
+      "members": [
+        "BREATHING",
+        "ELBOW",
+        "HEAD",
+        "WIGGLE"
+      ]
+    }
+  ]
+}

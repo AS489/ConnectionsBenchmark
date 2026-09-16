@@ -1,0 +1,47 @@
+{
+  "id": 1082,
+  "date": "2026-06-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CLANDESTINE",
+      "level": null,
+      "members": [
+        "CLOAK-AND-DAGGER",
+        "COVERT",
+        "HUSH-HUSH",
+        "TOP SECRET"
+      ]
+    },
+    {
+      "name": "BRITISH POTATO DISHES",
+      "level": null,
+      "members": [
+        "BUBBLE AND SQUEAK",
+        "CHIPS",
+        "JACKET POTATO",
+        "MASH"
+      ]
+    },
+    {
+      "name": "HERALDIC ACHIEVEMENTS",
+      "level": null,
+      "members": [
+        "COAT OF ARMS",
+        "CREST",
+        "HELMET",
+        "SHIELD"
+      ]
+    },
+    {
+      "name": "ENDING IN MODAL AUXILIARY VERBS",
+      "level": null,
+      "members": [
+        "CAPE MAY",
+        "FREE WILL",
+        "GRAPE MUST",
+        "TIN CAN"
+      ]
+    }
+  ]
+}

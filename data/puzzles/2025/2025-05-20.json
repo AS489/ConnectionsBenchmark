@@ -1,0 +1,47 @@
+{
+  "id": 709,
+  "date": "2025-05-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ACCOUNT BOOK",
+      "level": 0,
+      "members": [
+        "LEDGER",
+        "LOG",
+        "RECORD",
+        "REGISTER"
+      ]
+    },
+    {
+      "name": "SEEN IN A BARN",
+      "level": 1,
+      "members": [
+        "BALE",
+        "HORSE",
+        "PITCHFORK",
+        "TROUGH"
+      ]
+    },
+    {
+      "name": "DETECTIVES OF KID-LIT",
+      "level": 2,
+      "members": [
+        "BROWN",
+        "DREW",
+        "HARDY",
+        "HOLMES"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “BED”",
+      "level": 3,
+      "members": [
+        "CANOPY",
+        "DAY",
+        "MURPHY",
+        "WATER"
+      ]
+    }
+  ]
+}

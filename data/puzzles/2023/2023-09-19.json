@@ -1,0 +1,47 @@
+{
+  "id": 100,
+  "date": "2023-09-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WEB BROWSER-RELATED",
+      "level": 0,
+      "members": [
+        "BOOKMARK",
+        "HISTORY",
+        "TAB",
+        "WINDOW"
+      ]
+    },
+    {
+      "name": "SHIRT FEATURES",
+      "level": 1,
+      "members": [
+        "BUTTON",
+        "COLLAR",
+        "CUFF",
+        "POCKET"
+      ]
+    },
+    {
+      "name": "CONNECTION",
+      "level": 2,
+      "members": [
+        "BOND",
+        "LINK",
+        "RELATION",
+        "TIE"
+      ]
+    },
+    {
+      "name": "DIRTY ___",
+      "level": 3,
+      "members": [
+        "DOZEN",
+        "JOKE",
+        "LAUNDRY",
+        "MARTINI"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 332,
+  "date": "2024-05-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SHADES OF RED",
+      "level": 0,
+      "members": [
+        "BRICK",
+        "CHERRY",
+        "ROSE",
+        "RUBY"
+      ]
+    },
+    {
+      "name": "LITTLE BIT OF A BEVERAGE",
+      "level": 1,
+      "members": [
+        "DROP",
+        "SPLASH",
+        "SPOT",
+        "SPRINKLE"
+      ]
+    },
+    {
+      "name": "CHOICEST",
+      "level": 2,
+      "members": [
+        "BEST",
+        "CREAM",
+        "PICK",
+        "TOP"
+      ]
+    },
+    {
+      "name": "___ BATH",
+      "level": 3,
+      "members": [
+        "BIRD",
+        "BUBBLE",
+        "MUD",
+        "SPONGE"
+      ]
+    }
+  ]
+}

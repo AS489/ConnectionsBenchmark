@@ -1,0 +1,47 @@
+{
+  "id": 26,
+  "date": "2023-07-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EUROPEAN COUNTRIES",
+      "level": 0,
+      "members": [
+        "DENMARK",
+        "GREECE",
+        "POLAND",
+        "PORTUGAL"
+      ]
+    },
+    {
+      "name": "SYNONYMS FOR IMITATE",
+      "level": 1,
+      "members": [
+        "COPY",
+        "ECHO",
+        "MIMIC",
+        "PARROT"
+      ]
+    },
+    {
+      "name": "TOMS",
+      "level": 2,
+      "members": [
+        "CRUISE",
+        "HOLLAND",
+        "PETTY",
+        "WAITS"
+      ]
+    },
+    {
+      "name": "WORDS SPELLED WITH ROMAN NUMERALS",
+      "level": 3,
+      "members": [
+        "DILL",
+        "LIVID",
+        "MILD",
+        "MIX"
+      ]
+    }
+  ]
+}

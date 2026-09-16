@@ -1,0 +1,47 @@
+{
+  "id": 936,
+  "date": "2026-01-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ARMY RANKS",
+      "level": null,
+      "members": [
+        "CAPTAIN",
+        "GENERAL",
+        "MAJOR",
+        "PRIVATE"
+      ]
+    },
+    {
+      "name": "LEGWEAR IN THE SINGULAR",
+      "level": null,
+      "members": [
+        "JEAN",
+        "JOGGER",
+        "OVERALL",
+        "SLACK"
+      ]
+    },
+    {
+      "name": "RIHANNA #1 HITS",
+      "level": null,
+      "members": [
+        "DIAMONDS",
+        "SOS",
+        "UMBRELLA",
+        "WORK"
+      ]
+    },
+    {
+      "name": "WET ___",
+      "level": null,
+      "members": [
+        "BAR",
+        "BLANKET",
+        "NURSE",
+        "WILLY"
+      ]
+    }
+  ]
+}

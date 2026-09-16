@@ -1,0 +1,47 @@
+{
+  "id": 684,
+  "date": "2025-04-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GUM FLAVORS",
+      "level": 0,
+      "members": [
+        "BUBBLEGUM",
+        "CINNAMON",
+        "MENTHOL",
+        "WINTERGREEN"
+      ]
+    },
+    {
+      "name": "STARTING POINT",
+      "level": 1,
+      "members": [
+        "CATALYST",
+        "LAUNCHPAD",
+        "SPARK",
+        "SPRINGBOARD"
+      ]
+    },
+    {
+      "name": "GREAT AMERICAN SONGBOOK SONGS",
+      "level": 2,
+      "members": [
+        "AUTUMN LEAVES",
+        "SUMMERTIME",
+        "UNFORGETTABLE",
+        "WITCHCRAFT"
+      ]
+    },
+    {
+      "name": "___ TUBE",
+      "level": 3,
+      "members": [
+        "FALLOPIAN",
+        "INNER",
+        "TEST",
+        "VACUUM"
+      ]
+    }
+  ]
+}

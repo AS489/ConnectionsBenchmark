@@ -1,0 +1,47 @@
+{
+  "id": 142,
+  "date": "2023-10-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FLOWERS",
+      "level": 0,
+      "members": [
+        "DAISY",
+        "ROSE",
+        "TULIP",
+        "VIOLET"
+      ]
+    },
+    {
+      "name": "SEEN ON A FARM",
+      "level": 1,
+      "members": [
+        "BARN",
+        "CHICKEN",
+        "FARMER",
+        "TRACTOR"
+      ]
+    },
+    {
+      "name": "HORROR DIRECTORS",
+      "level": 2,
+      "members": [
+        "ASTER",
+        "CARPENTER",
+        "CRAVEN",
+        "WAN"
+      ]
+    },
+    {
+      "name": "___ JACKET",
+      "level": 3,
+      "members": [
+        "DUST",
+        "LIFE",
+        "SPORTS",
+        "YELLOW"
+      ]
+    }
+  ]
+}

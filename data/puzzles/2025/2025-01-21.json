@@ -1,0 +1,47 @@
+{
+  "id": 590,
+  "date": "2025-01-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PUTDOWN",
+      "level": 0,
+      "members": [
+        "BARB",
+        "CRACK",
+        "DIG",
+        "SLIGHT"
+      ]
+    },
+    {
+      "name": "SMALL LIKENESS",
+      "level": 1,
+      "members": [
+        "DOLL",
+        "FIGURE",
+        "MINIATURE",
+        "MODEL"
+      ]
+    },
+    {
+      "name": "USED TO CLEAR SNOW",
+      "level": 2,
+      "members": [
+        "PLOW",
+        "SALT",
+        "SAND",
+        "SHOVEL"
+      ]
+    },
+    {
+      "name": "DOCTORS IN POP CULTURE",
+      "level": 3,
+      "members": [
+        "NO",
+        "OCTOPUS",
+        "PEPPER",
+        "WHO"
+      ]
+    }
+  ]
+}

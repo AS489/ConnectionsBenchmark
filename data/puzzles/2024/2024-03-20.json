@@ -1,0 +1,47 @@
+{
+  "id": 283,
+  "date": "2024-03-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SEEN AT A SPORTS STADIUM",
+      "level": 0,
+      "members": [
+        "ASTROTURF",
+        "JUMBOTRON",
+        "SCOREBOARD",
+        "SKYBOX"
+      ]
+    },
+    {
+      "name": "CAMERA BRANDS",
+      "level": 1,
+      "members": [
+        "FUJIFILM",
+        "HASSELBLAD",
+        "OLYMPUS",
+        "POLAROID"
+      ]
+    },
+    {
+      "name": "ITALIAN DEMONYMS",
+      "level": 2,
+      "members": [
+        "BOLOGNESE",
+        "NEAPOLITAN",
+        "PARMESAN",
+        "VENETIAN"
+      ]
+    },
+    {
+      "name": "STARTING WITH ROCK BANDS",
+      "level": 3,
+      "members": [
+        "CREAMSICLE",
+        "JOURNEYMAN",
+        "KISSCAM",
+        "RUSHMORE"
+      ]
+    }
+  ]
+}

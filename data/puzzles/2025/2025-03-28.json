@@ -1,0 +1,47 @@
+{
+  "id": 656,
+  "date": "2025-03-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HURL",
+      "level": 0,
+      "members": [
+        "CHUCK",
+        "PELT",
+        "PITCH",
+        "SLING"
+      ]
+    },
+    {
+      "name": "BE ON BOTH SIDES OF",
+      "level": 1,
+      "members": [
+        "BOOKEND",
+        "BRACKET",
+        "FLANK",
+        "SURROUND"
+      ]
+    },
+    {
+      "name": "PARTS OF A CLASSIC GIRL SCOUT UNIFORM",
+      "level": 2,
+      "members": [
+        "BADGE",
+        "BERET",
+        "SASH",
+        "SKIRT"
+      ]
+    },
+    {
+      "name": "___ HALL",
+      "level": 3,
+      "members": [
+        "BINGO",
+        "CITY",
+        "MONTY",
+        "STUDY"
+      ]
+    }
+  ]
+}

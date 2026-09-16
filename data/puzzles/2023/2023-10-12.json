@@ -1,0 +1,47 @@
+{
+  "id": 123,
+  "date": "2023-10-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONCEAL",
+      "level": 0,
+      "members": [
+        "BLOCK",
+        "COVER",
+        "HIDE",
+        "MASK"
+      ]
+    },
+    {
+      "name": "PARTS OF A WATCH",
+      "level": 1,
+      "members": [
+        "CROWN",
+        "DIAL",
+        "HAND",
+        "STRAP"
+      ]
+    },
+    {
+      "name": "WONDER WOMAN’S COSTUME",
+      "level": 2,
+      "members": [
+        "LASSO",
+        "SHIELD",
+        "SWORD",
+        "TIARA"
+      ]
+    },
+    {
+      "name": "THINGS THAT CAN RUN",
+      "level": 3,
+      "members": [
+        "CANDIDATE",
+        "FAUCET",
+        "MASCARA",
+        "NOSE"
+      ]
+    }
+  ]
+}

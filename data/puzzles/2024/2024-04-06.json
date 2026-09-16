@@ -1,0 +1,47 @@
+{
+  "id": 300,
+  "date": "2024-04-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INTRINSIC MOTIVATORS",
+      "level": 0,
+      "members": [
+        "DESIRE",
+        "DRIVE",
+        "RESOLVE",
+        "WILL"
+      ]
+    },
+    {
+      "name": "SUMMER GEAR",
+      "level": 1,
+      "members": [
+        "HAT",
+        "SHORTS",
+        "SUNGLASSES",
+        "TEE"
+      ]
+    },
+    {
+      "name": "COLLECTION",
+      "level": 2,
+      "members": [
+        "ARRAY",
+        "BATTERY",
+        "SET",
+        "SERIES"
+      ]
+    },
+    {
+      "name": "HORSE___",
+      "level": 3,
+      "members": [
+        "FLY",
+        "POWER",
+        "RADISH",
+        "SHOE"
+      ]
+    }
+  ]
+}

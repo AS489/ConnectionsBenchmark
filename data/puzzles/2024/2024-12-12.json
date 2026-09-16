@@ -1,0 +1,47 @@
+{
+  "id": 550,
+  "date": "2024-12-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS THAT SOUND LIKE \"T\"",
+      "level": 0,
+      "members": [
+        "TEA",
+        "TEE (GOLF)",
+        "TEE (SHIRT)",
+        "TI (MUSICAL NOTE)"
+      ]
+    },
+    {
+      "name": "OBJECTS WITH TEETH",
+      "level": 1,
+      "members": [
+        "COMB",
+        "GEAR",
+        "SAW",
+        "ZIPPER"
+      ]
+    },
+    {
+      "name": "MILD OATHS",
+      "level": 2,
+      "members": [
+        "FUDGE",
+        "GEEZ",
+        "NUTS",
+        "RATS"
+      ]
+    },
+    {
+      "name": "PARTS OF A RIVER",
+      "level": 3,
+      "members": [
+        "BANK",
+        "BED",
+        "DELTA",
+        "MOUTH"
+      ]
+    }
+  ]
+}

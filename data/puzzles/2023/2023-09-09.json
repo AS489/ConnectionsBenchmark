@@ -1,0 +1,47 @@
+{
+  "id": 90,
+  "date": "2023-09-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BASEBALL CALLS",
+      "level": 0,
+      "members": [
+        "BALL",
+        "OUT",
+        "SAFE",
+        "STRIKE"
+      ]
+    },
+    {
+      "name": "HEAT SOURCES",
+      "level": 1,
+      "members": [
+        "FORGE",
+        "FURNACE",
+        "KILN",
+        "OVEN"
+      ]
+    },
+    {
+      "name": "FISH THAT ARE VERBS",
+      "level": 2,
+      "members": [
+        "CARP",
+        "CATFISH",
+        "FLOUNDER",
+        "SMELT"
+      ]
+    },
+    {
+      "name": "SILENT “L”",
+      "level": 3,
+      "members": [
+        "COLONEL",
+        "SALMON",
+        "WALK",
+        "YOLK"
+      ]
+    }
+  ]
+}

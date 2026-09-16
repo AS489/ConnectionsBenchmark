@@ -1,0 +1,47 @@
+{
+  "id": 938,
+  "date": "2026-01-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS YOU CAN DO ON SOCIAL MEDIA",
+      "level": null,
+      "members": [
+        "COMMENT",
+        "LIKE",
+        "LURK",
+        "POST"
+      ]
+    },
+    {
+      "name": "FURTHEST POINT",
+      "level": null,
+      "members": [
+        "END",
+        "EXTREME",
+        "OPPOSITE",
+        "POLE"
+      ]
+    },
+    {
+      "name": "ART MOVEMENTS, WITH \"-ISM\"",
+      "level": null,
+      "members": [
+        "BRUTAL",
+        "IMPRESSION",
+        "MANNER",
+        "REAL"
+      ]
+    },
+    {
+      "name": "WHAT \"V\" MIGHT MEAN",
+      "level": null,
+      "members": [
+        "FIVE",
+        "VERSUS",
+        "VERY",
+        "VOLT"
+      ]
+    }
+  ]
+}

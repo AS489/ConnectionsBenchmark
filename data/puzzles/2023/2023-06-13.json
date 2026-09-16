@@ -1,0 +1,47 @@
+{
+  "id": 2,
+  "date": "2023-06-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOOTWEAR",
+      "level": 0,
+      "members": [
+        "BOOT",
+        "LOAFER",
+        "PUMP",
+        "SNEAKER"
+      ]
+    },
+    {
+      "name": "UNITS OF LENGTH",
+      "level": 1,
+      "members": [
+        "FOOT",
+        "LEAGUE",
+        "MILE",
+        "YARD"
+      ]
+    },
+    {
+      "name": "MAGAZINES",
+      "level": 2,
+      "members": [
+        "ESSENCE",
+        "PEOPLE",
+        "TIME",
+        "US"
+      ]
+    },
+    {
+      "name": "LETTER HOMOPHONES",
+      "level": 3,
+      "members": [
+        "ARE",
+        "QUEUE",
+        "SEA",
+        "WHY"
+      ]
+    }
+  ]
+}

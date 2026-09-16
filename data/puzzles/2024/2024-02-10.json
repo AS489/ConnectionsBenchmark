@@ -1,0 +1,47 @@
+{
+  "id": 244,
+  "date": "2024-02-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STOOL PIGEON",
+      "level": 0,
+      "members": [
+        "CANARY",
+        "FINK",
+        "RAT",
+        "SNITCH"
+      ]
+    },
+    {
+      "name": "CRAM INTO A TIGHT SPACE",
+      "level": 1,
+      "members": [
+        "JAM",
+        "PACK",
+        "SQUEEZE",
+        "STUFF"
+      ]
+    },
+    {
+      "name": "YOGA POSES",
+      "level": 2,
+      "members": [
+        "CAT",
+        "COW",
+        "MOUNTAIN",
+        "TRIANGLE"
+      ]
+    },
+    {
+      "name": "___FLY",
+      "level": 3,
+      "members": [
+        "BUTTER",
+        "DRAGON",
+        "FIRE",
+        "HORSE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 70,
+  "date": "2023-08-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CAMPING SUPPLIES",
+      "level": 0,
+      "members": [
+        "COOLER",
+        "LANTERN",
+        "SLEEPING BAG",
+        "TENT"
+      ]
+    },
+    {
+      "name": "INSULT",
+      "level": 1,
+      "members": [
+        "BARB",
+        "DIG",
+        "DISS",
+        "JAB"
+      ]
+    },
+    {
+      "name": "TINY",
+      "level": 2,
+      "members": [
+        "MINUTE",
+        "SLIGHT",
+        "SMALL",
+        "WEE"
+      ]
+    },
+    {
+      "name": "HAPPY ___",
+      "level": 3,
+      "members": [
+        "CAMPER",
+        "HOUR",
+        "MEAL",
+        "MEDIUM"
+      ]
+    }
+  ]
+}

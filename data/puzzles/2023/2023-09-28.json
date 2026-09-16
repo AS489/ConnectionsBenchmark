@@ -1,0 +1,47 @@
+{
+  "id": 109,
+  "date": "2023-09-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "REFLECT LIGHT",
+      "level": 0,
+      "members": [
+        "FLASH",
+        "GLEAM",
+        "GLITTER",
+        "SPARKLE"
+      ]
+    },
+    {
+      "name": "WAYS TO GATHER FOOD",
+      "level": 1,
+      "members": [
+        "FISH",
+        "FORAGE",
+        "HUNT",
+        "TRAP"
+      ]
+    },
+    {
+      "name": "RAP SUBGENRES",
+      "level": 2,
+      "members": [
+        "BOUNCE",
+        "CRUNK",
+        "DRILL",
+        "GRIME"
+      ]
+    },
+    {
+      "name": "LIGHT ___",
+      "level": 3,
+      "members": [
+        "BEER",
+        "BULB",
+        "RAIL",
+        "YEAR"
+      ]
+    }
+  ]
+}

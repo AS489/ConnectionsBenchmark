@@ -1,0 +1,47 @@
+{
+  "id": 631,
+  "date": "2025-03-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BE AT LEISURE",
+      "level": 0,
+      "members": [
+        "CHILL",
+        "LOAF",
+        "LOUNGE",
+        "REST"
+      ]
+    },
+    {
+      "name": "FORMATS OF GOLD",
+      "level": 1,
+      "members": [
+        "BAR",
+        "COIN",
+        "LEAF",
+        "NUGGET"
+      ]
+    },
+    {
+      "name": "CYLINDER OF MATERIAL",
+      "level": 2,
+      "members": [
+        "BOLT",
+        "REEL",
+        "ROLL",
+        "SCROLL"
+      ]
+    },
+    {
+      "name": "SEEN IN “THE FLINTSTONES”",
+      "level": 3,
+      "members": [
+        "BONE",
+        "CLUB",
+        "DINOSAUR",
+        "RUBBLE"
+      ]
+    }
+  ]
+}

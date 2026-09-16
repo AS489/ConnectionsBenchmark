@@ -1,0 +1,47 @@
+{
+  "id": 669,
+  "date": "2025-04-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SHADES OF YELLOW",
+      "level": 0,
+      "members": [
+        "CANARY",
+        "GOLD",
+        "LEMON",
+        "MUSTARD"
+      ]
+    },
+    {
+      "name": "SUPPLY",
+      "level": 1,
+      "members": [
+        "MINE",
+        "RESERVE",
+        "STORE",
+        "WELL"
+      ]
+    },
+    {
+      "name": "ANTI-SPIRIT OF CHRISTMAS",
+      "level": 2,
+      "members": [
+        "BAH",
+        "COAL",
+        "GRINCH",
+        "NAUGHTY"
+      ]
+    },
+    {
+      "name": "SPANISH WORDS",
+      "level": 3,
+      "members": [
+        "ELLA",
+        "GUSTO",
+        "MAYO",
+        "SOY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 553,
+  "date": "2024-12-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPICES",
+      "level": 0,
+      "members": [
+        "CLOVE",
+        "MACE",
+        "NUTMEG",
+        "PEPPER"
+      ]
+    },
+    {
+      "name": "PERFORM POORLY",
+      "level": 1,
+      "members": [
+        "FLAIL",
+        "FLOP",
+        "FLOUNDER",
+        "TANK"
+      ]
+    },
+    {
+      "name": "SKIM THROUGH, AS PAGES",
+      "level": 2,
+      "members": [
+        "FLIP",
+        "LEAF",
+        "RIFFLE",
+        "THUMB"
+      ]
+    },
+    {
+      "name": "POP SINGERS MINUS “S”",
+      "level": 3,
+      "members": [
+        "KEY",
+        "MAR",
+        "SPEAR",
+        "STYLE"
+      ]
+    }
+  ]
+}

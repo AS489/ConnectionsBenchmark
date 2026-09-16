@@ -1,0 +1,47 @@
+{
+  "id": 967,
+  "date": "2026-02-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CUT INTO PIECES",
+      "level": null,
+      "members": [
+        "CUBE",
+        "DICE",
+        "HASH",
+        "MINCE"
+      ]
+    },
+    {
+      "name": "PROVIDE WITH A PLACE TO STAY",
+      "level": null,
+      "members": [
+        "BOARD",
+        "HOUSE",
+        "LODGE",
+        "QUARTER"
+      ]
+    },
+    {
+      "name": "KINDS OF GOLF CLUBS",
+      "level": null,
+      "members": [
+        "IRON",
+        "PUTTER",
+        "WEDGE",
+        "WOOD"
+      ]
+    },
+    {
+      "name": "MEMORY ___",
+      "level": null,
+      "members": [
+        "CARD",
+        "FOAM",
+        "HOLE",
+        "LANE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 387,
+  "date": "2024-07-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PACK (AWAY) FOR FUTURE USE",
+      "level": 0,
+      "members": [
+        "SQUIRREL",
+        "STASH",
+        "STORE",
+        "STOW"
+      ]
+    },
+    {
+      "name": "ADJECTIVES FOR ASSETS",
+      "level": 1,
+      "members": [
+        "FIXED",
+        "FROZEN",
+        "LIQUID",
+        "TOXIC"
+      ]
+    },
+    {
+      "name": "LATIN WORDS",
+      "level": 2,
+      "members": [
+        "CAVEAT",
+        "ERGO",
+        "QUID",
+        "VOX"
+      ]
+    },
+    {
+      "name": "___ GAME",
+      "level": 3,
+      "members": [
+        "ARCADE",
+        "BLAME",
+        "NUMBERS",
+        "SQUID"
+      ]
+    }
+  ]
+}

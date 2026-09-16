@@ -1,0 +1,47 @@
+{
+  "id": 1160,
+  "date": "2026-08-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PIECE OF CAKE",
+      "level": null,
+      "members": [
+        "BREEZE",
+        "CINCH",
+        "PICNIC",
+        "SNAP"
+      ]
+    },
+    {
+      "name": "CONCEAL",
+      "level": null,
+      "members": [
+        "BLANKET",
+        "HIDE",
+        "MASK",
+        "OBSCURE"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE \"BALL\" IN SPORT NAMES",
+      "level": null,
+      "members": [
+        "BASE",
+        "BASKET",
+        "FOOT",
+        "PICKLE"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF CGI-ANIMATED FILMS",
+      "level": null,
+      "members": [
+        "ANTS",
+        "COCOA",
+        "RHEO",
+        "SEOUL"
+      ]
+    }
+  ]
+}

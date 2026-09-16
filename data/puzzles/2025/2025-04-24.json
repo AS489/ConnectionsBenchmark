@@ -1,0 +1,47 @@
+{
+  "id": 683,
+  "date": "2025-04-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS THAT ARE WHITE",
+      "level": 0,
+      "members": [
+        "BABY POWDER",
+        "MILK",
+        "POLAR BEAR",
+        "SNOW"
+      ]
+    },
+    {
+      "name": "KINDS OF LETTUCE",
+      "level": 1,
+      "members": [
+        "BUTTER",
+        "ICEBERG",
+        "LEAF",
+        "ROMAINE"
+      ]
+    },
+    {
+      "name": "“BATMAN” VILLAINS",
+      "level": 2,
+      "members": [
+        "BANE",
+        "JOKER",
+        "PENGUIN",
+        "SCARECROW"
+      ]
+    },
+    {
+      "name": "THEY HAVE LITERAL/IDIOMATIC EARS",
+      "level": 3,
+      "members": [
+        "CORNFIELD",
+        "MUSICIANS",
+        "PITCHERS",
+        "WALLS"
+      ]
+    }
+  ]
+}

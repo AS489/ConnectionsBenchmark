@@ -1,0 +1,47 @@
+{
+  "id": 613,
+  "date": "2025-02-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TEMPLATE",
+      "level": 0,
+      "members": [
+        "BLUEPRINT",
+        "GUIDE",
+        "MODEL",
+        "MOLD"
+      ]
+    },
+    {
+      "name": "DEMONSTRATION, AS OF APPRECIATION",
+      "level": 1,
+      "members": [
+        "EXPRESSION",
+        "GESTURE",
+        "SYMBOL",
+        "TOKEN"
+      ]
+    },
+    {
+      "name": "MODAL VERBS",
+      "level": 2,
+      "members": [
+        "CAN",
+        "MIGHT",
+        "MUST",
+        "WILL"
+      ]
+    },
+    {
+      "name": "___ TRIP",
+      "level": 3,
+      "members": [
+        "EGO",
+        "GUILT",
+        "HEAD",
+        "POWER"
+      ]
+    }
+  ]
+}

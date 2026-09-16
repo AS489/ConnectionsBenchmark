@@ -1,0 +1,47 @@
+{
+  "id": 558,
+  "date": "2024-12-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONCOCTION",
+      "level": 0,
+      "members": [
+        "COCKTAIL",
+        "COMPOUND",
+        "MIXTURE",
+        "SOLUTION"
+      ]
+    },
+    {
+      "name": "TYPES OF SENTENCES",
+      "level": 1,
+      "members": [
+        "COMMAND",
+        "EXCLAMATION",
+        "QUESTION",
+        "STATEMENT"
+      ]
+    },
+    {
+      "name": "KINDS OF BROS",
+      "level": 2,
+      "members": [
+        "CRYPTO",
+        "FINANCE",
+        "PHARMA",
+        "TECH"
+      ]
+    },
+    {
+      "name": "COMPLAINT HOMOPHONES",
+      "level": 3,
+      "members": [
+        "GROWN",
+        "MOWN",
+        "WHALE",
+        "WINE"
+      ]
+    }
+  ]
+}

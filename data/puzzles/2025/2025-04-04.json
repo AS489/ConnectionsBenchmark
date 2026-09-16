@@ -1,0 +1,47 @@
+{
+  "id": 663,
+  "date": "2025-04-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WHAT’S LEFTOVER",
+      "level": 0,
+      "members": [
+        "BALANCE",
+        "DIFFERENCE",
+        "REMAINDER",
+        "REST"
+      ]
+    },
+    {
+      "name": "CAR TRIP",
+      "level": 1,
+      "members": [
+        "CRUISE",
+        "DRIVE",
+        "RIDE",
+        "SPIN"
+      ]
+    },
+    {
+      "name": "BASEBALL VENUES",
+      "level": 2,
+      "members": [
+        "DIAMOND",
+        "FIELD",
+        "PARK",
+        "STADIUM"
+      ]
+    },
+    {
+      "name": "COMPANIES WITH “E” REMOVED",
+      "level": 3,
+      "members": [
+        "BAY",
+        "HARMONY",
+        "INK",
+        "TRADE"
+      ]
+    }
+  ]
+}

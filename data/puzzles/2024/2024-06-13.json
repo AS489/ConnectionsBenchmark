@@ -1,0 +1,47 @@
+{
+  "id": 368,
+  "date": "2024-06-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ENJOY",
+      "level": 0,
+      "members": [
+        "APPRECIATE",
+        "DIG",
+        "FANCY",
+        "LIKE"
+      ]
+    },
+    {
+      "name": "BLOCKBUSTER",
+      "level": 1,
+      "members": [
+        "HIT",
+        "SENSATION",
+        "SMASH",
+        "SUCCESS"
+      ]
+    },
+    {
+      "name": "CAMPAIGN SWAG",
+      "level": 2,
+      "members": [
+        "BUTTON",
+        "HAT",
+        "SHIRT",
+        "STICKER"
+      ]
+    },
+    {
+      "name": "WORDS AFTER “COPY”",
+      "level": 3,
+      "members": [
+        "CAT",
+        "EDITOR",
+        "PASTE",
+        "THAT"
+      ]
+    }
+  ]
+}

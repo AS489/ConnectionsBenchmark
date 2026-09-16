@@ -1,0 +1,47 @@
+{
+  "id": 961,
+  "date": "2026-01-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "IMITATION",
+      "level": null,
+      "members": [
+        "DUMMY",
+        "MOCK",
+        "PRETEND",
+        "SHAM"
+      ]
+    },
+    {
+      "name": "CLEANING SUPPLIES",
+      "level": null,
+      "members": [
+        "BUCKET",
+        "GLOVES",
+        "RAG",
+        "SOAP"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF A RECORD PLAYER",
+      "level": null,
+      "members": [
+        "MOTOR",
+        "NEEDLE",
+        "PLATTER",
+        "TONEARM"
+      ]
+    },
+    {
+      "name": "SPARE ___",
+      "level": null,
+      "members": [
+        "ME",
+        "RIB",
+        "TIME",
+        "TIRE"
+      ]
+    }
+  ]
+}

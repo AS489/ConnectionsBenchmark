@@ -1,0 +1,47 @@
+{
+  "id": 892,
+  "date": "2025-11-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ADHERE",
+      "level": null,
+      "members": [
+        "FIX",
+        "PASTE",
+        "PLASTER",
+        "STICK"
+      ]
+    },
+    {
+      "name": "GRAZE",
+      "level": null,
+      "members": [
+        "BRUSH",
+        "KISS",
+        "SKIM",
+        "STROKE"
+      ]
+    },
+    {
+      "name": "PARTS OF A TOOTH",
+      "level": null,
+      "members": [
+        "CROWN",
+        "ENAMEL",
+        "PULP",
+        "ROOT"
+      ]
+    },
+    {
+      "name": "WORDS THAT SOUND LIKE TWO LETTERS",
+      "level": null,
+      "members": [
+        "ANY",
+        "ARTY",
+        "DECAY",
+        "ESSAY"
+      ]
+    }
+  ]
+}

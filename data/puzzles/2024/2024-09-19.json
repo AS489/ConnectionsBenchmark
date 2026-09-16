@@ -1,0 +1,47 @@
+{
+  "id": 466,
+  "date": "2024-09-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PREFIX MEANING “VERY”",
+      "level": 0,
+      "members": [
+        "EXTRA",
+        "HYPER",
+        "OVER",
+        "SUPER"
+      ]
+    },
+    {
+      "name": "KINDS OF PARTIES",
+      "level": 1,
+      "members": [
+        "BIRTHDAY",
+        "COCKTAIL",
+        "DINNER",
+        "SURPRISE"
+      ]
+    },
+    {
+      "name": "PBS SHOWS",
+      "level": 2,
+      "members": [
+        "FRONTLINE",
+        "NATURE",
+        "NOVA",
+        "MASTERPIECE"
+      ]
+    },
+    {
+      "name": "PLACES IN FRANCE",
+      "level": 3,
+      "members": [
+        "ANGERS",
+        "CHAMPAGNE",
+        "NICE",
+        "REUNION"
+      ]
+    }
+  ]
+}

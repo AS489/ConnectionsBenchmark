@@ -1,0 +1,47 @@
+{
+  "id": 252,
+  "date": "2024-02-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EAT A LITTLE",
+      "level": 0,
+      "members": [
+        "GRAZE",
+        "NIBBLE",
+        "PECK",
+        "SNACK"
+      ]
+    },
+    {
+      "name": "PURSUE",
+      "level": 1,
+      "members": [
+        "HUNT",
+        "TRACK",
+        "TRAIL",
+        "STALK"
+      ]
+    },
+    {
+      "name": "INGREDIENTS IN MINESTRONE",
+      "level": 2,
+      "members": [
+        "BEANS",
+        "PASTA",
+        "STOCK",
+        "VEGETABLES"
+      ]
+    },
+    {
+      "name": "___CAST",
+      "level": 3,
+      "members": [
+        "BROAD",
+        "FORE",
+        "POD",
+        "TYPE"
+      ]
+    }
+  ]
+}

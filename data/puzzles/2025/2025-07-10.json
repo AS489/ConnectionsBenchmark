@@ -1,0 +1,47 @@
+{
+  "id": 760,
+  "date": "2025-07-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A WHEEL",
+      "level": 0,
+      "members": [
+        "HUB",
+        "RIM",
+        "SPOKE",
+        "TIRE"
+      ]
+    },
+    {
+      "name": "MILITARY CLOTHING DESCRIPTORS",
+      "level": 1,
+      "members": [
+        "CAMO",
+        "DRAB",
+        "FATIGUE",
+        "KHAKI"
+      ]
+    },
+    {
+      "name": "USED IN VENTILATION",
+      "level": 2,
+      "members": [
+        "DUCT",
+        "EXHAUST",
+        "HOSE",
+        "PIPE"
+      ]
+    },
+    {
+      "name": "FAIL TO TAKE ADVANTAGE OF, AS AN OPPORTUNITY",
+      "level": 3,
+      "members": [
+        "BLOW",
+        "LOSE",
+        "MISS",
+        "WASTE"
+      ]
+    }
+  ]
+}

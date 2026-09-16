@@ -1,0 +1,47 @@
+{
+  "id": 101,
+  "date": "2023-09-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "REPLACEMENT",
+      "level": 0,
+      "members": [
+        "BACKUP",
+        "COPY",
+        "EXTRA",
+        "SPARE"
+      ]
+    },
+    {
+      "name": "BOWLING",
+      "level": 1,
+      "members": [
+        "ALLEY",
+        "BALL",
+        "LANE",
+        "PIN"
+      ]
+    },
+    {
+      "name": "COMMON SWAG ITEMS",
+      "level": 2,
+      "members": [
+        "MUG",
+        "PEN",
+        "TEE",
+        "TOTE"
+      ]
+    },
+    {
+      "name": "NUMBER HOMOPHONES",
+      "level": 3,
+      "members": [
+        "ATE",
+        "FOR",
+        "TOO",
+        "WON"
+      ]
+    }
+  ]
+}

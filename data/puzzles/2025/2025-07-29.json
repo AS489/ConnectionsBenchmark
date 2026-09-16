@@ -1,0 +1,47 @@
+{
+  "id": 779,
+  "date": "2025-07-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DISCOUNT",
+      "level": 0,
+      "members": [
+        "DEAL",
+        "PROMOTION",
+        "SALE",
+        "SPECIAL"
+      ]
+    },
+    {
+      "name": "IRRITATE",
+      "level": 1,
+      "members": [
+        "BUG",
+        "NETTLE",
+        "RUFFLE",
+        "STEAM"
+      ]
+    },
+    {
+      "name": "POKER ACTIONS",
+      "level": 2,
+      "members": [
+        "CALL",
+        "CHECK",
+        "FOLD",
+        "RAISE"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN PUMP",
+      "level": 3,
+      "members": [
+        "BRAKES",
+        "FIST",
+        "GAS",
+        "IRON"
+      ]
+    }
+  ]
+}

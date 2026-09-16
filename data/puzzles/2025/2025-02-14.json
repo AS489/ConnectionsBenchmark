@@ -1,0 +1,47 @@
+{
+  "id": 614,
+  "date": "2025-02-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MOLLYCODDLE",
+      "level": 0,
+      "members": [
+        "BABY",
+        "HUMOR",
+        "INDULGE",
+        "PAMPER"
+      ]
+    },
+    {
+      "name": "THINGS A RATTLESNAKE DOES",
+      "level": 1,
+      "members": [
+        "HISS",
+        "RATTLE",
+        "SHED",
+        "SLITHER"
+      ]
+    },
+    {
+      "name": "WORDS SAID TO AN UNSUSPECTING PERSON",
+      "level": 2,
+      "members": [
+        "BOO",
+        "GOTCHA",
+        "GUESS WHO",
+        "SURPRISE"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF BODIES OF WATER",
+      "level": 3,
+      "members": [
+        "BAE",
+        "CREAK",
+        "SEE",
+        "STRAIGHT"
+      ]
+    }
+  ]
+}

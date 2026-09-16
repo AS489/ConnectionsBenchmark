@@ -1,0 +1,47 @@
+{
+  "id": 945,
+  "date": "2026-01-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LIVING ROOM FURNITURE",
+      "level": null,
+      "members": [
+        "ARMCHAIR",
+        "BOOKCASE",
+        "CONSOLE",
+        "FOOTSTOOL"
+      ]
+    },
+    {
+      "name": "EXPERIENCE LEVELS",
+      "level": null,
+      "members": [
+        "EXPERT",
+        "INTERMEDIATE",
+        "NOVICE",
+        "PROFICIENT"
+      ]
+    },
+    {
+      "name": "PROMISE",
+      "level": null,
+      "members": [
+        "AGREEMENT",
+        "COMPACT",
+        "HANDSHAKE",
+        "UNDERSTANDING"
+      ]
+    },
+    {
+      "name": "ENDING IN U.S. COINS",
+      "level": null,
+      "members": [
+        "CEFTAZIDIME",
+        "HEADQUARTER",
+        "MONEYPENNY",
+        "PUMPERNICKEL"
+      ]
+    }
+  ]
+}

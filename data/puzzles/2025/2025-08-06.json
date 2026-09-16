@@ -1,0 +1,47 @@
+{
+  "id": 787,
+  "date": "2025-08-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ACCESSORY WITH A POINTY FASTENER",
+      "level": 0,
+      "members": [
+        "BADGE",
+        "BROOCH",
+        "BUTTON",
+        "PIN"
+      ]
+    },
+    {
+      "name": "TEASE",
+      "level": 1,
+      "members": [
+        "BAIT",
+        "NEEDLE",
+        "RAG",
+        "RIB"
+      ]
+    },
+    {
+      "name": "BOXING PUNCHES",
+      "level": 2,
+      "members": [
+        "CROSS",
+        "HOOK",
+        "JAB",
+        "UPPERCUT"
+      ]
+    },
+    {
+      "name": "MUSCLE NICKNAMES PLUS “S”",
+      "level": 3,
+      "members": [
+        "SHAMMY",
+        "SPEC",
+        "SQUAD",
+        "STRAP"
+      ]
+    }
+  ]
+}

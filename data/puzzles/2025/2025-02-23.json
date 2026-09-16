@@ -1,0 +1,47 @@
+{
+  "id": 623,
+  "date": "2025-02-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RUB TOGETHER",
+      "level": 0,
+      "members": [
+        "GNASH",
+        "GRATE",
+        "GRIND",
+        "SCRAPE"
+      ]
+    },
+    {
+      "name": "WAYS TO PRESERVE FOOD",
+      "level": 1,
+      "members": [
+        "CAN",
+        "FERMENT",
+        "FREEZE",
+        "PICKLE"
+      ]
+    },
+    {
+      "name": "BREAKFAST CONDIMENTS",
+      "level": 2,
+      "members": [
+        "BUTTER",
+        "HOT SAUCE",
+        "JAM",
+        "SYRUP"
+      ]
+    },
+    {
+      "name": "PROVERBIAL THINGS THAT ARE SPILLED",
+      "level": 3,
+      "members": [
+        "BEANS",
+        "GUTS",
+        "MILK",
+        "TEA"
+      ]
+    }
+  ]
+}

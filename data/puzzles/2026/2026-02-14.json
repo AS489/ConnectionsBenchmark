@@ -1,0 +1,47 @@
+{
+  "id": 977,
+  "date": "2026-02-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UPTICK",
+      "level": null,
+      "members": [
+        "HIKE",
+        "JUMP",
+        "RISE",
+        "SPIKE"
+      ]
+    },
+    {
+      "name": "PROTUBERANCE",
+      "level": null,
+      "members": [
+        "BUMP",
+        "HUMP",
+        "LUMP",
+        "MOUND"
+      ]
+    },
+    {
+      "name": "TOM HANKS ROLES",
+      "level": null,
+      "members": [
+        "GUMP",
+        "PHILLIPS",
+        "SULLY",
+        "WOODY"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE \"MINT\"",
+      "level": null,
+      "members": [
+        "BREATH",
+        "JUNIOR",
+        "PEPPER",
+        "SPEAR"
+      ]
+    }
+  ]
+}

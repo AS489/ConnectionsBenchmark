@@ -1,0 +1,47 @@
+{
+  "id": 950,
+  "date": "2026-01-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPREAD OVER",
+      "level": null,
+      "members": [
+        "BLANKET",
+        "COAT",
+        "COVER",
+        "PLASTER"
+      ]
+    },
+    {
+      "name": "THROW",
+      "level": null,
+      "members": [
+        "CAST",
+        "HURL",
+        "PELT",
+        "SLING"
+      ]
+    },
+    {
+      "name": "ANAGRAMS",
+      "level": null,
+      "members": [
+        "INKS",
+        "KINS",
+        "SINK",
+        "SKIN"
+      ]
+    },
+    {
+      "name": "FIRST WORDS OF KIDS' GAMES",
+      "level": null,
+      "members": [
+        "CAPTURE",
+        "HIDE",
+        "RED",
+        "SIMON"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 609,
+  "date": "2025-02-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MASSIVE",
+      "level": 0,
+      "members": [
+        "GIANT",
+        "JUMBO",
+        "MONSTER",
+        "SUPER"
+      ]
+    },
+    {
+      "name": "USED WHEN SERVING SOUP",
+      "level": 1,
+      "members": [
+        "BOWL",
+        "LADLE",
+        "POT",
+        "SPOON"
+      ]
+    },
+    {
+      "name": "SOMEBODY",
+      "level": 2,
+      "members": [
+        "CHARACTER",
+        "INDIVIDUAL",
+        "PARTY",
+        "PERSON"
+      ]
+    },
+    {
+      "name": "SCI-FI FRANCHISES",
+      "level": 3,
+      "members": [
+        "ALIEN",
+        "AVATAR",
+        "DUNE",
+        "TRON"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 471,
+  "date": "2024-09-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INSPIRED",
+      "level": 0,
+      "members": [
+        "CREATIVE",
+        "FRESH",
+        "NOVEL",
+        "ORIGINAL"
+      ]
+    },
+    {
+      "name": "PROCURE IN ADVANCE",
+      "level": 1,
+      "members": [
+        "BOOK",
+        "CHARTER",
+        "RESERVE",
+        "SECURE"
+      ]
+    },
+    {
+      "name": "BIT OF PARTY DECORATION",
+      "level": 2,
+      "members": [
+        "BALLOON",
+        "BANNER",
+        "CONFETTI",
+        "GARLAND"
+      ]
+    },
+    {
+      "name": "ONLINE PERSONALITY",
+      "level": 3,
+      "members": [
+        "AMBASSADOR",
+        "INFLUENCER",
+        "MODEL",
+        "STREAMER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 946,
+  "date": "2026-01-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PRESENT GO-WITHS",
+      "level": null,
+      "members": [
+        "BOW",
+        "CARD",
+        "GIFT WRAP",
+        "RIBBON"
+      ]
+    },
+    {
+      "name": "JOSTLE",
+      "level": null,
+      "members": [
+        "ELBOW",
+        "PRESS",
+        "SHOULDER",
+        "SHOVE"
+      ]
+    },
+    {
+      "name": "ACCESSORIES FOR MR. MONOPOLY",
+      "level": null,
+      "members": [
+        "BOWTIE",
+        "CANE",
+        "MONEYBAG",
+        "TOP HAT"
+      ]
+    },
+    {
+      "name": "PARTS OF THE FOOT PLUS STARTING LETTER",
+      "level": null,
+      "members": [
+        "OTOE",
+        "PARCH",
+        "RANKLE",
+        "WHEEL"
+      ]
+    }
+  ]
+}

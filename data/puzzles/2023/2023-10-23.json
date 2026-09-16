@@ -1,0 +1,47 @@
+{
+  "id": 134,
+  "date": "2023-10-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CELL PHONE MODES",
+      "level": 0,
+      "members": [
+        "FOCUS",
+        "RING",
+        "SILENT",
+        "VIBRATE"
+      ]
+    },
+    {
+      "name": "IMPEL",
+      "level": 1,
+      "members": [
+        "DRIVE",
+        "INSPIRE",
+        "MOTIVATE",
+        "SPUR"
+      ]
+    },
+    {
+      "name": "ROMANTIC BEGINNINGS",
+      "level": 2,
+      "members": [
+        "CONNECTION",
+        "FEELINGS",
+        "SPARK",
+        "VIBE"
+      ]
+    },
+    {
+      "name": "HARD ___",
+      "level": 3,
+      "members": [
+        "CANDY",
+        "COPY",
+        "KNOCKS",
+        "SELTZER"
+      ]
+    }
+  ]
+}

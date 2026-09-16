@@ -1,0 +1,47 @@
+{
+  "id": 516,
+  "date": "2024-11-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ESCAPADE",
+      "level": 0,
+      "members": [
+        "ANTIC",
+        "CAPER",
+        "EXPLOIT",
+        "STUNT"
+      ]
+    },
+    {
+      "name": "KINDS OF PICKLES",
+      "level": 1,
+      "members": [
+        "DILL",
+        "KOSHER",
+        "SOUR",
+        "SWEET"
+      ]
+    },
+    {
+      "name": "RISQUÉ",
+      "level": 2,
+      "members": [
+        "ADULT",
+        "BLUE",
+        "SPICY",
+        "SUGGESTIVE"
+      ]
+    },
+    {
+      "name": "CUT THE ___",
+      "level": 3,
+      "members": [
+        "CHEESE",
+        "CORD",
+        "DECK",
+        "MUSTARD"
+      ]
+    }
+  ]
+}

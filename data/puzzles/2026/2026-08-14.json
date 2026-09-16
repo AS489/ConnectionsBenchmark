@@ -1,0 +1,47 @@
+{
+  "id": 1155,
+  "date": "2026-08-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BLACK-AND-YELLOW",
+      "level": null,
+      "members": [
+        "BUMBLEBEE",
+        "CAUTION TAPE",
+        "CHARLIE BROWN",
+        "WOLVERINE"
+      ]
+    },
+    {
+      "name": "PLACES WHERE EVERYONE THINKS THE SAME WAYS",
+      "level": null,
+      "members": [
+        "BUBBLE",
+        "ECHO CHAMBER",
+        "HIVEMIND",
+        "SILO"
+      ]
+    },
+    {
+      "name": "COMIC BOOK ARTIST'S TOOLS",
+      "level": null,
+      "members": [
+        "BRISTOL BOARD",
+        "DIP PEN",
+        "INDIA INK",
+        "STRAIGHTEDGE"
+      ]
+    },
+    {
+      "name": "TRIANGLE LOGOS",
+      "level": null,
+      "members": [
+        "BASS ALE",
+        "CITGO",
+        "DELTA AIRLINES",
+        "GOOGLE DRIVE"
+      ]
+    }
+  ]
+}

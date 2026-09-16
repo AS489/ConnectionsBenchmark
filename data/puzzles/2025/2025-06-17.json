@@ -1,0 +1,47 @@
+{
+  "id": 737,
+  "date": "2025-06-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS TO BOOK FOR A VACATION",
+      "level": 0,
+      "members": [
+        "CAR",
+        "FLIGHT",
+        "HOTEL",
+        "TOUR"
+      ]
+    },
+    {
+      "name": "METTLE",
+      "level": 1,
+      "members": [
+        "FIGHT",
+        "GRIT",
+        "RESOLVE",
+        "SPIRIT"
+      ]
+    },
+    {
+      "name": "BAD THINGS FOR A WEBSITE TO DO",
+      "level": 2,
+      "members": [
+        "FREEZE",
+        "GLITCH",
+        "TIMEOUT",
+        "QUIT"
+      ]
+    },
+    {
+      "name": "FIGURES IN CLASSIC DISNEY ANIMATED FILMS",
+      "level": 3,
+      "members": [
+        "ELEPHANT",
+        "FAWN",
+        "MARIONETTE",
+        "MOUSE"
+      ]
+    }
+  ]
+}

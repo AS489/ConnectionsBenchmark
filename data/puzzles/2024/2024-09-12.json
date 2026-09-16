@@ -1,0 +1,47 @@
+{
+  "id": 459,
+  "date": "2024-09-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MARK ONLINE FOR LATER",
+      "level": 0,
+      "members": [
+        "BOOKMARK",
+        "FAVORITE",
+        "LIKE",
+        "SAVE"
+      ]
+    },
+    {
+      "name": "BEHALF",
+      "level": 1,
+      "members": [
+        "ADVANTAGE",
+        "BENEFIT",
+        "INTEREST",
+        "SAKE"
+      ]
+    },
+    {
+      "name": "NBA LEGENDS, FAMILIARLY",
+      "level": 2,
+      "members": [
+        "BIRD",
+        "CURRY",
+        "KOBE",
+        "MAGIC"
+      ]
+    },
+    {
+      "name": "ENDING WITH GREEK LETTERS",
+      "level": 3,
+      "members": [
+        "BIOTA",
+        "FETA",
+        "MOCHI",
+        "PEPSI"
+      ]
+    }
+  ]
+}

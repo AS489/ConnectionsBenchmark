@@ -1,0 +1,47 @@
+{
+  "id": 817,
+  "date": "2025-09-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PIQUANCY",
+      "level": 0,
+      "members": [
+        "KICK",
+        "PUNCH",
+        "ZEST",
+        "ZING"
+      ]
+    },
+    {
+      "name": "AVAILABLE",
+      "level": 1,
+      "members": [
+        "FREE",
+        "SINGLE",
+        "SOLO",
+        "STAG"
+      ]
+    },
+    {
+      "name": "MALE ANIMALS",
+      "level": 2,
+      "members": [
+        "BILLY",
+        "BUCK",
+        "JACK",
+        "RAM"
+      ]
+    },
+    {
+      "name": "CHINESE DYNASTIES",
+      "level": 3,
+      "members": [
+        "HAN",
+        "MING",
+        "SONG",
+        "TANG"
+      ]
+    }
+  ]
+}

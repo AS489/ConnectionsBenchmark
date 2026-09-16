@@ -1,0 +1,47 @@
+{
+  "id": 1000,
+  "date": "2026-03-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COOK WITH DRY HEAT",
+      "level": null,
+      "members": [
+        "BROWN",
+        "ROAST",
+        "SEAR",
+        "TOAST"
+      ]
+    },
+    {
+      "name": "FAMILIAL NICKNAMES",
+      "level": null,
+      "members": [
+        "CUZ",
+        "GRAM",
+        "POP",
+        "UNC"
+      ]
+    },
+    {
+      "name": "U.S. STATE ABBREVIATIONS",
+      "level": null,
+      "members": [
+        "MASS",
+        "MISS",
+        "PENN",
+        "WASH"
+      ]
+    },
+    {
+      "name": "PUNCH",
+      "level": null,
+      "members": [
+        "BOX",
+        "DUKE",
+        "SLUG",
+        "SOCK"
+      ]
+    }
+  ]
+}

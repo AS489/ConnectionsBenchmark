@@ -1,0 +1,47 @@
+{
+  "id": 1051,
+  "date": "2026-05-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MAKE GLOSSY",
+      "level": null,
+      "members": [
+        "BUFF",
+        "POLISH",
+        "SHINE",
+        "WAX"
+      ]
+    },
+    {
+      "name": "TRANSLUSCENT GOLDEN THINGS",
+      "level": null,
+      "members": [
+        "ALE",
+        "AMBER",
+        "CITRINE",
+        "HONEY"
+      ]
+    },
+    {
+      "name": "FEATURES OF A BIRD'S HEAD",
+      "level": null,
+      "members": [
+        "BEAK",
+        "COMB",
+        "CREST",
+        "WATTLE"
+      ]
+    },
+    {
+      "name": "NUMBERS WITH FIRST LETTER CHANGED",
+      "level": null,
+      "members": [
+        "HIVE",
+        "MIX",
+        "POUR",
+        "WIGHT"
+      ]
+    }
+  ]
+}

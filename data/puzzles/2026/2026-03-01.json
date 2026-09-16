@@ -1,0 +1,47 @@
+{
+  "id": 992,
+  "date": "2026-03-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LITTLE BITE",
+      "level": null,
+      "members": [
+        "CANAPÉ",
+        "FINGER FOOD",
+        "HORS D'OEUVRE",
+        "TAPA"
+      ]
+    },
+    {
+      "name": "CONSTRUCTION EQUIPMENT",
+      "level": null,
+      "members": [
+        "HARD HAT",
+        "LADDER",
+        "NAIL GUN",
+        "TOOL BELT"
+      ]
+    },
+    {
+      "name": "VACATION EMOJI",
+      "level": null,
+      "members": [
+        "AIRPLANE",
+        "LUGGAGE",
+        "PALM TREE",
+        "SMILING FACE WITH SUNGLASSES"
+      ]
+    },
+    {
+      "name": "THINGS YOU DON'T EAT THAT END IN FOODS",
+      "level": null,
+      "members": [
+        "COPYPASTA",
+        "JOHANNESBURGER",
+        "KNUCKLE SANDWICH",
+        "LICORICE PIZZA"
+      ]
+    }
+  ]
+}

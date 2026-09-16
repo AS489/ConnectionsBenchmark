@@ -1,0 +1,47 @@
+{
+  "id": 679,
+  "date": "2025-04-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GLIMPSE",
+      "level": 0,
+      "members": [
+        "GANDER",
+        "GLANCE",
+        "LOOK",
+        "PEEP"
+      ]
+    },
+    {
+      "name": "NEEDS FOR TIE-DYEING A SHIRT",
+      "level": 1,
+      "members": [
+        "BASIN",
+        "DYE",
+        "RUBBER BANDS",
+        "SHIRT"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN CRACK",
+      "level": 2,
+      "members": [
+        "CODE",
+        "EGG",
+        "JOKE",
+        "WHIP"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “HOP”",
+      "level": 3,
+      "members": [
+        "BAR",
+        "BUNNY",
+        "HIP",
+        "SOCK"
+      ]
+    }
+  ]
+}

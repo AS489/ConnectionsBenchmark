@@ -1,0 +1,47 @@
+{
+  "id": 874,
+  "date": "2025-11-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GOODS TO BE TRANSPORTED",
+      "level": null,
+      "members": [
+        "CARGO",
+        "FREIGHT",
+        "HAUL",
+        "LOAD"
+      ]
+    },
+    {
+      "name": "LIGHT BROWN SHADES",
+      "level": null,
+      "members": [
+        "CAMEL",
+        "FAWN",
+        "KHAKI",
+        "TAN"
+      ]
+    },
+    {
+      "name": "SHOW SIGNS OF PHYSICAL EXERTION",
+      "level": null,
+      "members": [
+        "CRAMP",
+        "PANT",
+        "REDDEN",
+        "SWEAT"
+      ]
+    },
+    {
+      "name": "STARTS OF ZODIAC SIGNS",
+      "level": null,
+      "members": [
+        "AQUA",
+        "CAPRI",
+        "GEM",
+        "SAG"
+      ]
+    }
+  ]
+}

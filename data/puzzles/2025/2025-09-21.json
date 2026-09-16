@@ -1,0 +1,47 @@
+{
+  "id": 833,
+  "date": "2025-09-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TOUCHSCREEN GESTURES",
+      "level": null,
+      "members": [
+        "PINCH",
+        "SCROLL",
+        "SWIPE",
+        "TAP"
+      ]
+    },
+    {
+      "name": "RELAX",
+      "level": null,
+      "members": [
+        "CHILL",
+        "LOAF",
+        "LOUNGE",
+        "VEG"
+      ]
+    },
+    {
+      "name": "RESTAURANT SEATING OPTIONS",
+      "level": null,
+      "members": [
+        "BAR",
+        "BOOTH",
+        "COUNTER",
+        "TABLE"
+      ]
+    },
+    {
+      "name": "VEGETABLES WITH FIRST LETTER REMOVED",
+      "level": null,
+      "members": [
+        "ALE",
+        "EEK",
+        "HIVE",
+        "QUASH"
+      ]
+    }
+  ]
+}

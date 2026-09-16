@@ -1,0 +1,47 @@
+{
+  "id": 713,
+  "date": "2025-05-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BABY GEAR",
+      "level": 0,
+      "members": [
+        "BIB",
+        "BOTTLE",
+        "MONITOR",
+        "STROLLER"
+      ]
+    },
+    {
+      "name": "KINDS OF PANTS MINUS \"S\"",
+      "level": 1,
+      "members": [
+        "CAPRI",
+        "JEAN",
+        "JOGGER",
+        "SLACK"
+      ]
+    },
+    {
+      "name": "NEW YORK SPORTS TEAM MEMBERS",
+      "level": 2,
+      "members": [
+        "JET",
+        "MET",
+        "NET",
+        "RANGER"
+      ]
+    },
+    {
+      "name": "BLACK WOMEN AUTHORS",
+      "level": 3,
+      "members": [
+        "BUTLER",
+        "GAY",
+        "HOOKS",
+        "WALKER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 900,
+  "date": "2025-11-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FITTING",
+      "level": null,
+      "members": [
+        "FAIR",
+        "JUST",
+        "PROPER",
+        "RIGHT"
+      ]
+    },
+    {
+      "name": "ACHIEVE VICTORY OVER",
+      "level": null,
+      "members": [
+        "BEAT",
+        "BEST",
+        "TAKE",
+        "WORST"
+      ]
+    },
+    {
+      "name": "PARTS OF AN ELECTRIC GUITAR",
+      "level": null,
+      "members": [
+        "FRET",
+        "PEG",
+        "PICKUP",
+        "STRING"
+      ]
+    },
+    {
+      "name": "PHONETIC ELEMENTS OF SPEECH",
+      "level": null,
+      "members": [
+        "INTONATION",
+        "LOUDNESS",
+        "RHYTHM",
+        "STRESS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 503,
+  "date": "2024-10-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FLUSTER",
+      "level": 0,
+      "members": [
+        "FAZE",
+        "RATTLE",
+        "RUFFLE",
+        "THROW"
+      ]
+    },
+    {
+      "name": "SERIES OF MESSAGES",
+      "level": 1,
+      "members": [
+        "CHAIN",
+        "CHAT",
+        "CONVERSATION",
+        "THREAD"
+      ]
+    },
+    {
+      "name": "PLACES TO LIE/SIT THAT MOVE",
+      "level": 2,
+      "members": [
+        "CRADLE",
+        "HAMMOCK",
+        "ROCKER",
+        "SWING"
+      ]
+    },
+    {
+      "name": "CYLINDER-SHAPED THINGS",
+      "level": 3,
+      "members": [
+        "CAN",
+        "ROLLER",
+        "SILO",
+        "SPOOL"
+      ]
+    }
+  ]
+}

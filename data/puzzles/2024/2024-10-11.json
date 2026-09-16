@@ -1,0 +1,47 @@
+{
+  "id": 488,
+  "date": "2024-10-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHERISH",
+      "level": 0,
+      "members": [
+        "RELISH",
+        "SAVOR",
+        "TREASURE",
+        "VALUE"
+      ]
+    },
+    {
+      "name": "QUICK JUMP IN THE POOL",
+      "level": 1,
+      "members": [
+        "DIP",
+        "DIVE",
+        "SPLASH",
+        "SWIM"
+      ]
+    },
+    {
+      "name": "ADDITIONAL BENEFIT",
+      "level": 2,
+      "members": [
+        "BONUS",
+        "EXTRA",
+        "FROSTING",
+        "GRAVY"
+      ]
+    },
+    {
+      "name": "BRASHNESS",
+      "level": 3,
+      "members": [
+        "BRASS",
+        "CHEEK",
+        "NERVE",
+        "SAUCE"
+      ]
+    }
+  ]
+}

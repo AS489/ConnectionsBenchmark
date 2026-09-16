@@ -1,0 +1,47 @@
+{
+  "id": 581,
+  "date": "2025-01-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FABRICATION",
+      "level": 0,
+      "members": [
+        "FAIRY TALE",
+        "FANTASY",
+        "FICTION",
+        "INVENTION"
+      ]
+    },
+    {
+      "name": "WOO",
+      "level": 1,
+      "members": [
+        "CHARM",
+        "COURT",
+        "PURSUE",
+        "ROMANCE"
+      ]
+    },
+    {
+      "name": "CLASSIC ATARI GAMES",
+      "level": 2,
+      "members": [
+        "ASTEROIDS",
+        "BREAKOUT",
+        "CENTIPEDE",
+        "DEFENDER"
+      ]
+    },
+    {
+      "name": "THINGS FEATURING TAILS",
+      "level": 3,
+      "members": [
+        "COIN TOSS",
+        "COMETS",
+        "DRESS COAT",
+        "SONIC THE HEDGEHOG"
+      ]
+    }
+  ]
+}

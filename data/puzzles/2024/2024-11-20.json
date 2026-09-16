@@ -1,0 +1,47 @@
+{
+  "id": 528,
+  "date": "2024-11-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SOUND LIKE A DOG",
+      "level": 0,
+      "members": [
+        "BARK",
+        "BAY",
+        "HOWL",
+        "SNARL"
+      ]
+    },
+    {
+      "name": "BROADCAST, AS ONLINE MEDIA",
+      "level": 1,
+      "members": [
+        "AIR",
+        "PLAY",
+        "RUN",
+        "STREAM"
+      ]
+    },
+    {
+      "name": "COCKTAIL-MAKING VERBS",
+      "level": 2,
+      "members": [
+        "GARNISH",
+        "MUDDLE",
+        "STIR",
+        "STRAIN"
+      ]
+    },
+    {
+      "name": "ORGANIZATIONAL STRUCTURES, METAPHORICALLY",
+      "level": 3,
+      "members": [
+        "CHAIN",
+        "LADDER",
+        "PYRAMID",
+        "TREE"
+      ]
+    }
+  ]
+}

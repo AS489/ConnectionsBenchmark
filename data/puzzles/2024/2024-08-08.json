@@ -1,0 +1,47 @@
+{
+  "id": 424,
+  "date": "2024-08-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPLASHY WAYS TO ENTER A POOL",
+      "level": 0,
+      "members": [
+        "BACKFLIP",
+        "BELLYFLOP",
+        "CANNONBALL",
+        "JACKKNIFE"
+      ]
+    },
+    {
+      "name": "REITERATE",
+      "level": 1,
+      "members": [
+        "ECHO",
+        "PARROT",
+        "REPEAT",
+        "QUOTE"
+      ]
+    },
+    {
+      "name": "MAINSTAY",
+      "level": 2,
+      "members": [
+        "ANCHOR",
+        "BACKBONE",
+        "CORNERSTONE",
+        "PILLAR"
+      ]
+    },
+    {
+      "name": "___ RADIO",
+      "level": 3,
+      "members": [
+        "HAM",
+        "PIRATE",
+        "SATELLITE",
+        "TALK"
+      ]
+    }
+  ]
+}

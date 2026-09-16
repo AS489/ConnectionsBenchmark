@@ -1,0 +1,47 @@
+{
+  "id": 68,
+  "date": "2023-08-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNITS OF VOLUME",
+      "level": 0,
+      "members": [
+        "CUP",
+        "GALLON",
+        "PINT",
+        "QUART"
+      ]
+    },
+    {
+      "name": "EXTREMELY",
+      "level": 1,
+      "members": [
+        "AWFUL",
+        "QUITE",
+        "SUPER",
+        "VERY"
+      ]
+    },
+    {
+      "name": "WORLD CURRENCIES",
+      "level": 2,
+      "members": [
+        "RAND",
+        "REAL",
+        "STERLING",
+        "WON"
+      ]
+    },
+    {
+      "name": "___ CAKE",
+      "level": 3,
+      "members": [
+        "CARROT",
+        "COFFEE",
+        "POUND",
+        "SPONGE"
+      ]
+    }
+  ]
+}

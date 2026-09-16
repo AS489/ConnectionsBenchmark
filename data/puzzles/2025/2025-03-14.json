@@ -1,0 +1,47 @@
+{
+  "id": 642,
+  "date": "2025-03-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "IMPOSE, AS A PENALTY",
+      "level": 0,
+      "members": [
+        "ASSESS",
+        "CHARGE",
+        "FINE",
+        "LEVY"
+      ]
+    },
+    {
+      "name": "CHECKOUT LINE IMPULSE BUYS",
+      "level": 1,
+      "members": [
+        "CANDY",
+        "CHAPSTICK",
+        "CHARGING CABLE",
+        "MAGAZINE"
+      ]
+    },
+    {
+      "name": "MOVIES OF VARIOUS LENGTHS",
+      "level": 2,
+      "members": [
+        "EPIC",
+        "FEATURE",
+        "FILM SERIES",
+        "SHORT"
+      ]
+    },
+    {
+      "name": "___ ROAD",
+      "level": 3,
+      "members": [
+        "DIRT",
+        "HIGH",
+        "ROCKY",
+        "SILK"
+      ]
+    }
+  ]
+}

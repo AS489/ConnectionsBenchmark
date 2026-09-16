@@ -1,0 +1,47 @@
+{
+  "id": 21,
+  "date": "2023-07-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MUSIC GENRES",
+      "level": 0,
+      "members": [
+        "JAZZ",
+        "POP",
+        "PUNK",
+        "RAP"
+      ]
+    },
+    {
+      "name": "WEB BROWSERS",
+      "level": 1,
+      "members": [
+        "CHROME",
+        "EDGE",
+        "OPERA",
+        "SAFARI"
+      ]
+    },
+    {
+      "name": "“LITTLE WOMEN” SISTERS",
+      "level": 2,
+      "members": [
+        "AMY",
+        "BETH",
+        "JO",
+        "MEG"
+      ]
+    },
+    {
+      "name": "LIL ___ RAPPERS",
+      "level": 3,
+      "members": [
+        "BABY",
+        "JON",
+        "KIM",
+        "WAYNE"
+      ]
+    }
+  ]
+}

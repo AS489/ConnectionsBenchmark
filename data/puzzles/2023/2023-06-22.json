@@ -1,0 +1,47 @@
+{
+  "id": 11,
+  "date": "2023-06-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SPICES BEGINNING WITH “C”",
+      "level": 0,
+      "members": [
+        "CARDAMOM",
+        "CLOVE",
+        "CORIANDER",
+        "CUMIN"
+      ]
+    },
+    {
+      "name": "TERMS OF ENDEARMENT",
+      "level": 1,
+      "members": [
+        "BOO",
+        "HONEY",
+        "SUGAR",
+        "SWEETIE"
+      ]
+    },
+    {
+      "name": "THINGS WITH WINGS",
+      "level": 2,
+      "members": [
+        "AIRPLANE",
+        "ANGEL",
+        "BIRD",
+        "PEGASUS"
+      ]
+    },
+    {
+      "name": "SPICE GIRLS",
+      "level": 3,
+      "members": [
+        "BABY",
+        "GINGER",
+        "POSH",
+        "SCARY"
+      ]
+    }
+  ]
+}

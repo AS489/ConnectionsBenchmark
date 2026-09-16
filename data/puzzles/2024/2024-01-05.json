@@ -1,0 +1,47 @@
+{
+  "id": 208,
+  "date": "2024-01-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLAYFULLY BOTHER",
+      "level": 0,
+      "members": [
+        "JOSH",
+        "KID",
+        "RIB",
+        "TEASE"
+      ]
+    },
+    {
+      "name": "APEX",
+      "level": 1,
+      "members": [
+        "HEIGHT",
+        "MAX",
+        "PEAK",
+        "TOP"
+      ]
+    },
+    {
+      "name": "WORDS FOR SPECIFIC QUANTITIES",
+      "level": 2,
+      "members": [
+        "DOZEN",
+        "GROSS",
+        "PAIR",
+        "SCORE"
+      ]
+    },
+    {
+      "name": "WHAT “X” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "ADULT",
+        "KISS",
+        "TEN",
+        "TIMES"
+      ]
+    }
+  ]
+}

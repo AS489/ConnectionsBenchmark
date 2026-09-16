@@ -1,0 +1,47 @@
+{
+  "id": 620,
+  "date": "2025-02-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ALERT",
+      "level": 0,
+      "members": [
+        "ALARM",
+        "FLARE",
+        "SIGNAL",
+        "SOS"
+      ]
+    },
+    {
+      "name": "SPEND THE NIGHT (AT)",
+      "level": 1,
+      "members": [
+        "BUNK",
+        "CRASH",
+        "SLEEP",
+        "STAY"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH EARLY MORNING",
+      "level": 2,
+      "members": [
+        "DEW",
+        "ROOSTER",
+        "SUNRISE",
+        "WORM"
+      ]
+    },
+    {
+      "name": "COOKIE CUTTER SHAPES IN “SQUID GAME”",
+      "level": 3,
+      "members": [
+        "CIRCLE",
+        "STAR",
+        "TRIANGLE",
+        "UMBRELLA"
+      ]
+    }
+  ]
+}

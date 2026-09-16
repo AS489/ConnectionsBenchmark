@@ -1,0 +1,47 @@
+{
+  "id": 1174,
+  "date": "2026-09-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FLABBERGAST",
+      "level": null,
+      "members": [
+        "DAZZLE",
+        "FLOOR",
+        "STUN",
+        "WOW"
+      ]
+    },
+    {
+      "name": "THINGS IN A VIOLIN CASE",
+      "level": null,
+      "members": [
+        "BOW",
+        "MUTE",
+        "ROSIN",
+        "SHOULDER REST"
+      ]
+    },
+    {
+      "name": "___ DOGS (THAT ARE DOGS)",
+      "level": null,
+      "members": [
+        "HUNTING",
+        "RESCUE",
+        "SAUSAGE",
+        "SHEEP"
+      ]
+    },
+    {
+      "name": "___ DOGS (THAT AREN'T DOGS)",
+      "level": null,
+      "members": [
+        "CORN",
+        "PRAIRIE",
+        "SALTY",
+        "TOP"
+      ]
+    }
+  ]
+}

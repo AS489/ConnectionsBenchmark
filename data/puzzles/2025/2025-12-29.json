@@ -1,0 +1,47 @@
+{
+  "id": 931,
+  "date": "2025-12-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TENDENCY",
+      "level": null,
+      "members": [
+        "COURSE",
+        "DIRECTION",
+        "TIDE",
+        "TREND"
+      ]
+    },
+    {
+      "name": "BIOLOGICAL STRUCTURES",
+      "level": null,
+      "members": [
+        "CELL",
+        "GENE",
+        "PROTEIN",
+        "TISSUE"
+      ]
+    },
+    {
+      "name": "SUMMER OLYMPIC EVENTS",
+      "level": null,
+      "members": [
+        "ATHLETICS",
+        "EQUESTRIAN",
+        "SWIMMING",
+        "TRIATHLON"
+      ]
+    },
+    {
+      "name": "CAR BRAND HOMOPHONES",
+      "level": null,
+      "members": [
+        "INFINITY",
+        "MINNIE",
+        "OPAL",
+        "OUTIE"
+      ]
+    }
+  ]
+}

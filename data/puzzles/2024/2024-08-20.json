@@ -1,0 +1,47 @@
+{
+  "id": 436,
+  "date": "2024-08-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RUSH OF WIND",
+      "level": 0,
+      "members": [
+        "BLOW",
+        "DRAFT",
+        "GUST",
+        "PUFF"
+      ]
+    },
+    {
+      "name": "ROTATE",
+      "level": 1,
+      "members": [
+        "CRANK",
+        "REEL",
+        "TURN",
+        "WIND"
+      ]
+    },
+    {
+      "name": "ZODIAC SYMBOLS",
+      "level": 2,
+      "members": [
+        "BULL",
+        "CRAB",
+        "LION",
+        "RAM"
+      ]
+    },
+    {
+      "name": "DR. SEUSS TITLE FIGURES",
+      "level": 3,
+      "members": [
+        "CAT",
+        "GRINCH",
+        "POP",
+        "TURTLE"
+      ]
+    }
+  ]
+}

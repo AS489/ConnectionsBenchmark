@@ -1,0 +1,47 @@
+{
+  "id": 702,
+  "date": "2025-05-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLACES TO SHOP",
+      "level": 0,
+      "members": [
+        "BAZAAR",
+        "FAIR",
+        "MARKET",
+        "OUTLET"
+      ]
+    },
+    {
+      "name": "KINDS OF PIZZA",
+      "level": 1,
+      "members": [
+        "HAWAIIAN",
+        "PLAIN",
+        "SUPREME",
+        "VEGGIE"
+      ]
+    },
+    {
+      "name": "ENDING WITH COLORS",
+      "level": 2,
+      "members": [
+        "EVERGREEN",
+        "INFRARED",
+        "MARIGOLD",
+        "QUICKSILVER"
+      ]
+    },
+    {
+      "name": "___ CLEANER",
+      "level": 3,
+      "members": [
+        "BATHROOM",
+        "DRY",
+        "PIPE",
+        "VACUUM"
+      ]
+    }
+  ]
+}

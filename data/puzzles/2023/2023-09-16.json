@@ -1,0 +1,47 @@
+{
+  "id": 97,
+  "date": "2023-09-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FAIRY TALE FIGURES",
+      "level": 0,
+      "members": [
+        "GIANT",
+        "PRINCESS",
+        "WITCH",
+        "WOLF"
+      ]
+    },
+    {
+      "name": "CHESS TERMS",
+      "level": 1,
+      "members": [
+        "BISHOP",
+        "MATE",
+        "GAMBIT",
+        "QUEEN"
+      ]
+    },
+    {
+      "name": "“PEANUTS” CHARACTERS",
+      "level": 2,
+      "members": [
+        "CHARLIE",
+        "PEPPERMINT PATTY",
+        "PIGPEN",
+        "WOODSTOCK"
+      ]
+    },
+    {
+      "name": "I LOVE ___",
+      "level": 3,
+      "members": [
+        "LUCY",
+        "NEW YORK",
+        "ROCK 'N ROLL",
+        "YOU"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 214,
+  "date": "2024-01-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STATES OF MATTER",
+      "level": 0,
+      "members": [
+        "GAS",
+        "LIQUID",
+        "PLASMA",
+        "SOLID"
+      ]
+    },
+    {
+      "name": "ALL-TIMER",
+      "level": 1,
+      "members": [
+        "GREAT",
+        "HERO",
+        "ICON",
+        "LEGEND"
+      ]
+    },
+    {
+      "name": "“PH” WORDS THAT ALSO WORK WITH “F”",
+      "level": 2,
+      "members": [
+        "PHAT",
+        "PHEW",
+        "PHILLY",
+        "PHISH"
+      ]
+    },
+    {
+      "name": "___ PITCH",
+      "level": 3,
+      "members": [
+        "ELEVATOR",
+        "FEVER",
+        "PERFECT",
+        "SALES"
+      ]
+    }
+  ]
+}

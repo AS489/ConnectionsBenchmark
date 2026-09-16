@@ -1,0 +1,47 @@
+{
+  "id": 872,
+  "date": "2025-10-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TERMS OF ENDEARMENT",
+      "level": null,
+      "members": [
+        "ANGEL",
+        "LOVE",
+        "PUMPKIN",
+        "SUGAR"
+      ]
+    },
+    {
+      "name": "FICTION GENRES",
+      "level": null,
+      "members": [
+        "FANTASY",
+        "HORROR",
+        "MYSTERY",
+        "ROMANCE"
+      ]
+    },
+    {
+      "name": "COLLECTIVE NOUNS FOR BIRDS",
+      "level": null,
+      "members": [
+        "CHARM",
+        "GAGGLE",
+        "MURDER",
+        "PARLIAMENT"
+      ]
+    },
+    {
+      "name": "PEOPLE WHOSE FIRST NAMES ARE U.S. CITIES",
+      "level": null,
+      "members": [
+        "BLOOM",
+        "BUTLER",
+        "GUTHRIE",
+        "LEVY"
+      ]
+    }
+  ]
+}

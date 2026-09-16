@@ -1,0 +1,47 @@
+{
+  "id": 830,
+  "date": "2025-09-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INTO IT",
+      "level": 0,
+      "members": [
+        "DOWN",
+        "EAGER",
+        "GAME",
+        "WILLING"
+      ]
+    },
+    {
+      "name": "FURNISH",
+      "level": 1,
+      "members": [
+        "EQUIP",
+        "OUTFIT",
+        "PREPARE",
+        "READY"
+      ]
+    },
+    {
+      "name": "ORGS WITH STARS IN THEIR LOGOS",
+      "level": 2,
+      "members": [
+        "NASA",
+        "N.F.L.",
+        "PARAMOUNT",
+        "SUBARU"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF GENESIS FIGURES",
+      "level": 3,
+      "members": [
+        "ABLE",
+        "CANE",
+        "EAVE",
+        "NOAA"
+      ]
+    }
+  ]
+}

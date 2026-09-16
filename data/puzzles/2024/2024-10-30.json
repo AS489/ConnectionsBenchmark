@@ -1,0 +1,47 @@
+{
+  "id": 507,
+  "date": "2024-10-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UPSWING",
+      "level": 0,
+      "members": [
+        "BOOM",
+        "RISE",
+        "SPIKE",
+        "SURGE"
+      ]
+    },
+    {
+      "name": "THINGS WITH WHEELS",
+      "level": 1,
+      "members": [
+        "DOLLY",
+        "ROLLERBLADE",
+        "SKATEBOARD",
+        "WAGON"
+      ]
+    },
+    {
+      "name": "KINDS OF TAPE",
+      "level": 2,
+      "members": [
+        "DUCT",
+        "ELECTRICAL",
+        "GAFFER",
+        "PACKING"
+      ]
+    },
+    {
+      "name": "RETAIL CHAINS WITH A LETTER CHANGED",
+      "level": 3,
+      "members": [
+        "BEST BOY",
+        "IDEA",
+        "KRONER",
+        "STABLES"
+      ]
+    }
+  ]
+}

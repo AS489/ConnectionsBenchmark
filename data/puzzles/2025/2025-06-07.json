@@ -1,0 +1,47 @@
+{
+  "id": 727,
+  "date": "2025-06-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TIPS FOR WORKING OUT SAFELY",
+      "level": 0,
+      "members": [
+        "BREATHE",
+        "HYDRATE",
+        "REST",
+        "STRETCH"
+      ]
+    },
+    {
+      "name": "ESTABLISH",
+      "level": 1,
+      "members": [
+        "FOUND",
+        "INSTITUTE",
+        "LAUNCH",
+        "START"
+      ]
+    },
+    {
+      "name": "DITTY",
+      "level": 2,
+      "members": [
+        "AIR",
+        "NUMBER",
+        "SONG",
+        "STRAIN"
+      ]
+    },
+    {
+      "name": "SPRING ___",
+      "level": 3,
+      "members": [
+        "CHICKEN",
+        "EQUINOX",
+        "FLING",
+        "ONION"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 925,
+  "date": "2025-12-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VULNERABILITY",
+      "level": null,
+      "members": [
+        "ACHILLES’ HEEL",
+        "DOWNFALL",
+        "KRYPTONITE",
+        "SOFT SPOT"
+      ]
+    },
+    {
+      "name": "FREUDIAN CONCEPTS",
+      "level": null,
+      "members": [
+        "FIXATION",
+        "OEDIPUS COMPLEX",
+        "SUPEREGO",
+        "UNCONSCIOUS"
+      ]
+    },
+    {
+      "name": "CHARACTERS IN CAPES",
+      "level": null,
+      "members": [
+        "DARTH VADER",
+        "DRACULA",
+        "LITTLE RED RIDING HOOD",
+        "SUPERMAN"
+      ]
+    },
+    {
+      "name": "STARTING WITH SLANG FOR SAUSAGE",
+      "level": null,
+      "members": [
+        "BRATZ",
+        "DOGMA",
+        "FRANKENSTEIN",
+        "LINKLATER"
+      ]
+    }
+  ]
+}

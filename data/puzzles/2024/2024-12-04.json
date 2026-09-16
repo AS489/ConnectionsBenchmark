@@ -1,0 +1,47 @@
+{
+  "id": 542,
+  "date": "2024-12-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STEER",
+      "level": 0,
+      "members": [
+        "DIRECT",
+        "GUIDE",
+        "LEAD",
+        "SHEPHERD"
+      ]
+    },
+    {
+      "name": "THINGS WITH NEEDLE/S",
+      "level": 1,
+      "members": [
+        "COMPASS",
+        "PINE TREE",
+        "SEWING KIT",
+        "TURNTABLE"
+      ]
+    },
+    {
+      "name": "FIGURES IN GREEK MYTH",
+      "level": 2,
+      "members": [
+        "ATLAS",
+        "ECHO",
+        "HELEN",
+        "PAN"
+      ]
+    },
+    {
+      "name": "STARTING WITH SYNONYMS FOR LAVATORY",
+      "level": 3,
+      "members": [
+        "CANDLE",
+        "LOOFAH",
+        "JOHNSON",
+        "TOILETRIES"
+      ]
+    }
+  ]
+}

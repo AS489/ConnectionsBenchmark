@@ -1,0 +1,47 @@
+{
+  "id": 823,
+  "date": "2025-09-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BLEMISH",
+      "level": 0,
+      "members": [
+        "DENT",
+        "DING",
+        "MAR",
+        "SCRATCH"
+      ]
+    },
+    {
+      "name": "BEHEMOTH",
+      "level": 1,
+      "members": [
+        "COLOSSUS",
+        "MAMMOTH",
+        "WHALE",
+        "WHOPPER"
+      ]
+    },
+    {
+      "name": "RUDE THINGS TO DO",
+      "level": 2,
+      "members": [
+        "POINT",
+        "SNICKER",
+        "STARE",
+        "WHISPER"
+      ]
+    },
+    {
+      "name": "ON A BASEBALL FIELD",
+      "level": 3,
+      "members": [
+        "BASE",
+        "BOX",
+        "MOUND",
+        "PLATE"
+      ]
+    }
+  ]
+}

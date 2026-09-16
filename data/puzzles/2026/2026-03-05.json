@@ -1,0 +1,47 @@
+{
+  "id": 996,
+  "date": "2026-03-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BITS OF HARDWARE",
+      "level": null,
+      "members": [
+        "BOLT",
+        "NUT",
+        "SCREW",
+        "WASHER"
+      ]
+    },
+    {
+      "name": "PLACES WHERE IDEAS ARE DEVELOPED",
+      "level": null,
+      "members": [
+        "INCUBATOR",
+        "LAB",
+        "SANDBOX",
+        "TEST BED"
+      ]
+    },
+    {
+      "name": "GO BACK AND FORTH",
+      "level": null,
+      "members": [
+        "ALTERNATE",
+        "SEESAW",
+        "SWITCH",
+        "TOGGLE"
+      ]
+    },
+    {
+      "name": "WHAT \"SUB\" MIGHT REFER TO",
+      "level": null,
+      "members": [
+        "BELOW",
+        "HERO",
+        "REPLACEMENT",
+        "SUBMARINE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1068,
+  "date": "2026-05-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS BABIES DO",
+      "level": null,
+      "members": [
+        "BABBLE",
+        "CRY",
+        "NURSE",
+        "TEETHE"
+      ]
+    },
+    {
+      "name": "MODIFY DECEPTIVELY",
+      "level": null,
+      "members": [
+        "ALTER",
+        "COOK",
+        "DOCTOR",
+        "FUDGE"
+      ]
+    },
+    {
+      "name": "JUDY BLUME BOOKS",
+      "level": null,
+      "members": [
+        "BLUBBER",
+        "DEENIE",
+        "FOREVER",
+        "SUPERFUDGE"
+      ]
+    },
+    {
+      "name": "FISH MINUS A LETTER",
+      "level": null,
+      "members": [
+        "FOUNDER",
+        "SALON",
+        "SURGEON",
+        "TROT"
+      ]
+    }
+  ]
+}

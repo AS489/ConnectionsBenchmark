@@ -1,0 +1,47 @@
+{
+  "id": 700,
+  "date": "2025-05-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MAKE HAPPY",
+      "level": 0,
+      "members": [
+        "DELIGHT",
+        "PLEASE",
+        "SUIT",
+        "TICKLE"
+      ]
+    },
+    {
+      "name": "EVADE",
+      "level": 1,
+      "members": [
+        "DODGE",
+        "DUCK",
+        "SHAKE",
+        "SKIRT"
+      ]
+    },
+    {
+      "name": "COMMON VIDEO GAME FEATURES",
+      "level": 2,
+      "members": [
+        "BOSS",
+        "LEVEL",
+        "HEALTH",
+        "POWER-UP"
+      ]
+    },
+    {
+      "name": "MOTHER ___",
+      "level": 3,
+      "members": [
+        "EARTH",
+        "GOOSE",
+        "MAY I",
+        "SUPERIOR"
+      ]
+    }
+  ]
+}

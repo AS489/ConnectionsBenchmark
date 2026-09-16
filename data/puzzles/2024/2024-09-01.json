@@ -1,0 +1,47 @@
+{
+  "id": 448,
+  "date": "2024-09-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COOK IN A PAN",
+      "level": 0,
+      "members": [
+        "BROWN",
+        "CHAR",
+        "GRILL",
+        "SEAR"
+      ]
+    },
+    {
+      "name": "PARTS OF THE EAR",
+      "level": 1,
+      "members": [
+        "ANVIL",
+        "CANAL",
+        "DRUM",
+        "HAMMER"
+      ]
+    },
+    {
+      "name": "SHADES OF BLACK",
+      "level": 2,
+      "members": [
+        "CHARCOAL",
+        "JET",
+        "RAVEN",
+        "SABLE"
+      ]
+    },
+    {
+      "name": "WHERE YOU MIGHT FIND “A DRIVER”",
+      "level": 3,
+      "members": [
+        "GOLF BAG",
+        "LIMOUSINE",
+        "MOVIE SET",
+        "TOOLBOX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 821,
+  "date": "2025-09-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FINISHED",
+      "level": 0,
+      "members": [
+        "COMPLETE",
+        "DONE",
+        "OVER",
+        "THROUGH"
+      ]
+    },
+    {
+      "name": "THINGS WITH SHELLS",
+      "level": 1,
+      "members": [
+        "EGG",
+        "HARD TACO",
+        "M&M",
+        "SNAIL"
+      ]
+    },
+    {
+      "name": "SWIG",
+      "level": 2,
+      "members": [
+        "BELT",
+        "GULP",
+        "SHOT",
+        "SLUG"
+      ]
+    },
+    {
+      "name": "___DOG",
+      "level": 3,
+      "members": [
+        "BULL",
+        "LAP",
+        "UNDER",
+        "WATCH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 858,
+  "date": "2025-10-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FRUIT DESSERTS",
+      "level": null,
+      "members": [
+        "COBBLER",
+        "CRISP",
+        "CRUMBLE",
+        "TART"
+      ]
+    },
+    {
+      "name": "CRABBY",
+      "level": null,
+      "members": [
+        "CROSS",
+        "PRICKLY",
+        "SORE",
+        "SOUR"
+      ]
+    },
+    {
+      "name": "FISH",
+      "level": null,
+      "members": [
+        "CHAR",
+        "FLUKE",
+        "PIKE",
+        "SKATE"
+      ]
+    },
+    {
+      "name": "BANANA ___",
+      "level": null,
+      "members": [
+        "BOAT",
+        "BREAD",
+        "SLUG",
+        "SPLIT"
+      ]
+    }
+  ]
+}

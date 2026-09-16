@@ -1,0 +1,47 @@
+{
+  "id": 800,
+  "date": "2025-08-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "QUITE THE TALKER",
+      "level": 0,
+      "members": [
+        "BLABBERMOUTH",
+        "CHATTERBOX",
+        "PRATTLER",
+        "WINDBAG"
+      ]
+    },
+    {
+      "name": "FORTIFIED WINES",
+      "level": 1,
+      "members": [
+        "MARSALA",
+        "PORT",
+        "SHERRY",
+        "VERMOUTH"
+      ]
+    },
+    {
+      "name": "___ ROCK",
+      "level": 2,
+      "members": [
+        "CLASSIC",
+        "LITTLE",
+        "PLYMOUTH",
+        "THE"
+      ]
+    },
+    {
+      "name": "STARTING WITH WAYS TO MOVE QUICKLY",
+      "level": 3,
+      "members": [
+        "DARTMOUTH",
+        "DASHBOARD",
+        "FLYWHEEL",
+        "RUSHMORE"
+      ]
+    }
+  ]
+}

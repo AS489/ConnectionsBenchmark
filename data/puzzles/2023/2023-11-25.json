@@ -1,0 +1,47 @@
+{
+  "id": 167,
+  "date": "2023-11-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SECLUDED",
+      "level": 0,
+      "members": [
+        "HIDDEN",
+        "PRIVATE",
+        "REMOTE",
+        "SECRET"
+      ]
+    },
+    {
+      "name": "AGGREGATE SIZE",
+      "level": 1,
+      "members": [
+        "AMOUNT",
+        "NUMBER",
+        "QUANTITY",
+        "VOLUME"
+      ]
+    },
+    {
+      "name": "BODIES OF WATER",
+      "level": 2,
+      "members": [
+        "CANAL",
+        "CHANNEL",
+        "SOUND",
+        "STRAIT"
+      ]
+    },
+    {
+      "name": "READS THE SAME ROTATED 180°",
+      "level": 3,
+      "members": [
+        "96",
+        "MOW",
+        "NOON",
+        "SIS"
+      ]
+    }
+  ]
+}

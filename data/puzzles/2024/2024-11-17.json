@@ -1,0 +1,47 @@
+{
+  "id": 525,
+  "date": "2024-11-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ALLIANCE",
+      "level": 0,
+      "members": [
+        "ASSOCIATION",
+        "GUILD",
+        "LEAGUE",
+        "UNION"
+      ]
+    },
+    {
+      "name": "CLOSE-FITTING",
+      "level": 1,
+      "members": [
+        "CLINGY",
+        "SLEEK",
+        "SLINKY",
+        "SNUG"
+      ]
+    },
+    {
+      "name": "OCCASIONS WHEN ONE MIGHT KNEEL",
+      "level": 2,
+      "members": [
+        "APOLOGY",
+        "DUBBING",
+        "PRAYER",
+        "PROPOSAL"
+      ]
+    },
+    {
+      "name": "WHAT AN APOSTROPHE MIGHT INDICATE",
+      "level": 3,
+      "members": [
+        "CONTRACTION",
+        "FOOT",
+        "POSSESSIVE",
+        "QUOTATION"
+      ]
+    }
+  ]
+}

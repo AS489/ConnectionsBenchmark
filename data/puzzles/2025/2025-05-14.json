@@ -1,0 +1,47 @@
+{
+  "id": 703,
+  "date": "2025-05-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ABSORB USING CAPILLARY ACTION",
+      "level": 0,
+      "members": [
+        "DRAW",
+        "PULL",
+        "SUCK",
+        "WICK"
+      ]
+    },
+    {
+      "name": "GREEK PREFIXES",
+      "level": 1,
+      "members": [
+        "HYPER",
+        "KILO",
+        "META",
+        "NEO"
+      ]
+    },
+    {
+      "name": "TITULAR TALKING ANIMALS OF FILM",
+      "level": 2,
+      "members": [
+        "BABE",
+        "BOLT",
+        "DUMBO",
+        "TED"
+      ]
+    },
+    {
+      "name": "STARTING WITH SILENT LETTERS",
+      "level": 3,
+      "members": [
+        "GNOME",
+        "KNEE",
+        "MNEMONIC",
+        "PSYCHE"
+      ]
+    }
+  ]
+}

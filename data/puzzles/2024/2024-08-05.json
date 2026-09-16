@@ -1,0 +1,47 @@
+{
+  "id": 421,
+  "date": "2024-08-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SURVIVE",
+      "level": 0,
+      "members": [
+        "GET BY",
+        "HACK IT",
+        "MAKE DO",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "KINDS OF GREETING CARDS",
+      "level": 1,
+      "members": [
+        "BIRTHDAY",
+        "CONGRATULATIONS",
+        "GET WELL",
+        "THANK YOU"
+      ]
+    },
+    {
+      "name": "ARE WE CLEAR?",
+      "level": 2,
+      "members": [
+        "CAPISCE",
+        "GET IT",
+        "SEE",
+        "UNDERSTAND"
+      ]
+    },
+    {
+      "name": "WORDS AFTER “EYE”",
+      "level": 3,
+      "members": [
+        "CANDY",
+        "CONTACT",
+        "SHADOW",
+        "WITNESS"
+      ]
+    }
+  ]
+}

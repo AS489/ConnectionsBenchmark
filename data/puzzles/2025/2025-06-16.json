@@ -1,0 +1,47 @@
+{
+  "id": 736,
+  "date": "2025-06-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXPRESSIONLESS",
+      "level": 0,
+      "members": [
+        "BLANK",
+        "FLAT",
+        "INANIMATE",
+        "WOODEN"
+      ]
+    },
+    {
+      "name": "DRAPERY HANGING ITEMS",
+      "level": 1,
+      "members": [
+        "BRACKET",
+        "CURTAIN",
+        "HOOK",
+        "ROD"
+      ]
+    },
+    {
+      "name": "WHAT A DRINK IS SERVED WITH",
+      "level": 2,
+      "members": [
+        "COASTER",
+        "GARNISH",
+        "GLASS",
+        "STRAW"
+      ]
+    },
+    {
+      "name": "STARTING WITH METHODS OF TRANSPORTATION",
+      "level": 3,
+      "members": [
+        "BUSBOY",
+        "CARBON",
+        "SHIPSHAPE",
+        "TRAINEE"
+      ]
+    }
+  ]
+}

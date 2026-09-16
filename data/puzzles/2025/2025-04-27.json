@@ -1,0 +1,47 @@
+{
+  "id": 686,
+  "date": "2025-04-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CALCULATOR BUTTONS",
+      "level": 0,
+      "members": [
+        "EQUALS",
+        "MINUS",
+        "PERCENT",
+        "TIMES"
+      ]
+    },
+    {
+      "name": "AMOUNTS OF HAIR",
+      "level": 1,
+      "members": [
+        "LOCK",
+        "SHOCK",
+        "THATCH",
+        "TUFT"
+      ]
+    },
+    {
+      "name": "SALTY SNACK UNIT",
+      "level": 2,
+      "members": [
+        "COMBO",
+        "GOLDFISH",
+        "RUFFLE",
+        "TAKI"
+      ]
+    },
+    {
+      "name": "SWEDISH ___",
+      "level": 3,
+      "members": [
+        "CHEF",
+        "FISH",
+        "MASSAGE",
+        "MEATBALL"
+      ]
+    }
+  ]
+}

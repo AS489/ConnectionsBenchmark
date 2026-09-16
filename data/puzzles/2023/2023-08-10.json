@@ -1,0 +1,47 @@
+{
+  "id": 60,
+  "date": "2023-08-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HORROR FRANCHISES",
+      "level": 0,
+      "members": [
+        "PURGE",
+        "RING",
+        "SAW",
+        "SCREAM"
+      ]
+    },
+    {
+      "name": "SPORTS VENUES",
+      "level": 1,
+      "members": [
+        "COURT",
+        "DIAMOND",
+        "FIELD",
+        "RINK"
+      ]
+    },
+    {
+      "name": "MAKE HAPPY",
+      "level": 2,
+      "members": [
+        "CHARM",
+        "DELIGHT",
+        "PLEASE",
+        "TICKLE"
+      ]
+    },
+    {
+      "name": "JEWELRY",
+      "level": 3,
+      "members": [
+        "ANKLET",
+        "BANGLE",
+        "BROOCH",
+        "PENDANT"
+      ]
+    }
+  ]
+}

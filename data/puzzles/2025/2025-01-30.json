@@ -1,0 +1,47 @@
+{
+  "id": 599,
+  "date": "2025-01-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INTANGIBLE QUALITY",
+      "level": 0,
+      "members": [
+        "AIR",
+        "AURA",
+        "HALO",
+        "VIBE"
+      ]
+    },
+    {
+      "name": "GAME DAY FARE",
+      "level": 1,
+      "members": [
+        "BEER",
+        "DIP",
+        "PIZZA",
+        "WINGS"
+      ]
+    },
+    {
+      "name": "KEEP GOING ON ABOUT, WITH “ON”",
+      "level": 2,
+      "members": [
+        "DWELL",
+        "HARP",
+        "INSIST",
+        "LINGER"
+      ]
+    },
+    {
+      "name": "STARTING WITH EUROPEAN CAPITALS",
+      "level": 3,
+      "members": [
+        "BERNIE",
+        "PARISH",
+        "RIGATONI",
+        "ROMEO"
+      ]
+    }
+  ]
+}

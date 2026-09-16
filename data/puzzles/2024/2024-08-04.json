@@ -1,0 +1,47 @@
+{
+  "id": 420,
+  "date": "2024-08-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KIDDO",
+      "level": 0,
+      "members": [
+        "BUDDY",
+        "CHAMP",
+        "SPORT",
+        "TIGER"
+      ]
+    },
+    {
+      "name": "UP FOR IT",
+      "level": 1,
+      "members": [
+        "AMENABLE",
+        "DOWN",
+        "GAME",
+        "WILLING"
+      ]
+    },
+    {
+      "name": "BEGINNING WITH DOUBLE LETTERS",
+      "level": 2,
+      "members": [
+        "AARDVARK",
+        "EERIE",
+        "LLAMA",
+        "OOZE"
+      ]
+    },
+    {
+      "name": "NICKNAMES FOR THE SEA, WITH “THE”",
+      "level": 3,
+      "members": [
+        "BLUE",
+        "BRINY",
+        "DEEP",
+        "DRINK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 604,
+  "date": "2025-02-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONSERVE",
+      "level": 0,
+      "members": [
+        "KEEP",
+        "PRESERVE",
+        "SAVE",
+        "STORE"
+      ]
+    },
+    {
+      "name": "SMOOTH USING FRICTION",
+      "level": 1,
+      "members": [
+        "BUFF",
+        "FILE",
+        "GRIND",
+        "SAND"
+      ]
+    },
+    {
+      "name": "SPORTS GAMBLING TERMS",
+      "level": 2,
+      "members": [
+        "FAVORITE",
+        "PARLAY",
+        "SPREAD",
+        "UNDER"
+      ]
+    },
+    {
+      "name": "WORDS BEFORE “FINGERS”",
+      "level": 3,
+      "members": [
+        "BUTTER",
+        "CHICKEN",
+        "LADY",
+        "STICKY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 173,
+  "date": "2023-12-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLACES TO SHOP",
+      "level": 0,
+      "members": [
+        "MALL",
+        "MARKET",
+        "OUTLET",
+        "STORE"
+      ]
+    },
+    {
+      "name": "WAYS TO REMOVE HAIR",
+      "level": 1,
+      "members": [
+        "SHAVE",
+        "THREAD",
+        "TWEEZE",
+        "WAX"
+      ]
+    },
+    {
+      "name": "PORTION OF PROFIT",
+      "level": 2,
+      "members": [
+        "CUT",
+        "PIECE",
+        "SHARE",
+        "TAKE"
+      ]
+    },
+    {
+      "name": "KINDS OF WRENCHES",
+      "level": 3,
+      "members": [
+        "ALLEN",
+        "CRESCENT",
+        "MONKEY",
+        "SOCKET"
+      ]
+    }
+  ]
+}

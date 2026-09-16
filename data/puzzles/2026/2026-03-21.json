@@ -1,0 +1,47 @@
+{
+  "id": 1011,
+  "date": "2026-03-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DIRECT",
+      "level": null,
+      "members": [
+        "BLUNT",
+        "FRANK",
+        "PLAIN",
+        "STRAIGHT"
+      ]
+    },
+    {
+      "name": "TARGET",
+      "level": null,
+      "members": [
+        "GOAL",
+        "MARK",
+        "OBJECT",
+        "POINT"
+      ]
+    },
+    {
+      "name": "CHECKERS TERMS",
+      "level": null,
+      "members": [
+        "CAPTURE",
+        "CROWN",
+        "JUMP",
+        "KING"
+      ]
+    },
+    {
+      "name": "20TH CENTURY AMERICAN POETS",
+      "level": null,
+      "members": [
+        "BISHOP",
+        "FROST",
+        "POUND",
+        "RICH"
+      ]
+    }
+  ]
+}

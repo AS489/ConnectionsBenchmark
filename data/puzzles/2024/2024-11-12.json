@@ -1,0 +1,47 @@
+{
+  "id": 520,
+  "date": "2024-11-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMPLAIN",
+      "level": 0,
+      "members": [
+        "BELLYACHE",
+        "CARP",
+        "CRAB",
+        "GRUMBLE"
+      ]
+    },
+    {
+      "name": "VEGETABLE UNITS",
+      "level": 1,
+      "members": [
+        "CLOVE",
+        "FLORET",
+        "SPEAR",
+        "STALK"
+      ]
+    },
+    {
+      "name": "LAPTOP SPECS",
+      "level": 2,
+      "members": [
+        "RAM",
+        "RESOLUTION",
+        "SPEED",
+        "STORAGE"
+      ]
+    },
+    {
+      "name": "FEATURES OF JUSTICE PERSONIFIED",
+      "level": 3,
+      "members": [
+        "BLINDFOLD",
+        "ROBE",
+        "SCALES",
+        "SWORD"
+      ]
+    }
+  ]
+}

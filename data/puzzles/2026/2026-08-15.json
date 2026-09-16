@@ -1,0 +1,47 @@
+{
+  "id": 1156,
+  "date": "2026-08-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXHAUSTED",
+      "level": null,
+      "members": [
+        "BEAT",
+        "FRIED",
+        "SPENT",
+        "WORN OUT"
+      ]
+    },
+    {
+      "name": "SEGMENT",
+      "level": null,
+      "members": [
+        "LEG",
+        "PHASE",
+        "STAGE",
+        "STRETCH"
+      ]
+    },
+    {
+      "name": "ENDING IN UNITS OF LENGTH",
+      "level": null,
+      "members": [
+        "CHAMOMILE",
+        "GRINCH",
+        "HOTFOOT",
+        "LANYARD"
+      ]
+    },
+    {
+      "name": "ENDING IN SYNONYMS FOR FOLLOW SECRETLY",
+      "level": null,
+      "members": [
+        "BEANSTALK",
+        "EYESHADOW",
+        "HIGHTAIL",
+        "SOUNDTRACK"
+      ]
+    }
+  ]
+}

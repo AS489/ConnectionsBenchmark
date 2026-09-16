@@ -1,0 +1,47 @@
+{
+  "id": 753,
+  "date": "2025-07-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CORRESPONDENCE",
+      "level": 0,
+      "members": [
+        "CONTACT",
+        "DEALINGS",
+        "EXCHANGE",
+        "INTERACTION"
+      ]
+    },
+    {
+      "name": "AIRPORT BOARD INFO",
+      "level": 1,
+      "members": [
+        "ARRIVAL",
+        "DESTINATION",
+        "FLIGHT",
+        "GATE"
+      ]
+    },
+    {
+      "name": "PRO ATHLETE DATA",
+      "level": 2,
+      "members": [
+        "COLLEGE",
+        "NUMBER",
+        "POSITION",
+        "TEAM"
+      ]
+    },
+    {
+      "name": "FARMERS’ THINGS",
+      "level": 3,
+      "members": [
+        "ALMANAC",
+        "INSURANCE",
+        "MARKET",
+        "TAN"
+      ]
+    }
+  ]
+}

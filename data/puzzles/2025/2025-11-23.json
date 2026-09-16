@@ -1,0 +1,47 @@
+{
+  "id": 895,
+  "date": "2025-11-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LENIENT",
+      "level": null,
+      "members": [
+        "EASY",
+        "LAX",
+        "LOOSE",
+        "SLACK"
+      ]
+    },
+    {
+      "name": "ANIMAL HOMES",
+      "level": null,
+      "members": [
+        "BURROW",
+        "DEN",
+        "LODGE",
+        "WARREN"
+      ]
+    },
+    {
+      "name": "OLIVER STONE MOVIES",
+      "level": null,
+      "members": [
+        "JFK",
+        "NIXON",
+        "PLATOON",
+        "WALL STREET"
+      ]
+    },
+    {
+      "name": "SECOND WORDS IN TITLES OF ABBA HITS",
+      "level": null,
+      "members": [
+        "GIMME",
+        "MIA",
+        "QUEEN",
+        "TROUPER"
+      ]
+    }
+  ]
+}

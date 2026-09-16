@@ -1,0 +1,47 @@
+{
+  "id": 657,
+  "date": "2025-03-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MATERIALS ASSOCIATED WITH FANCY DINING",
+      "level": 0,
+      "members": [
+        "CHINA",
+        "CRYSTAL",
+        "LINEN",
+        "SILVER"
+      ]
+    },
+    {
+      "name": "KINDS OF SHORTS",
+      "level": 1,
+      "members": [
+        "BERMUDA",
+        "BIKE",
+        "BOXER",
+        "CARGO"
+      ]
+    },
+    {
+      "name": "NOUNS IN A FAMOUS PALINDROME",
+      "level": 2,
+      "members": [
+        "CANAL",
+        "MAN",
+        "PANAMA",
+        "PLAN"
+      ]
+    },
+    {
+      "name": "MOVIES FROM 1985",
+      "level": 3,
+      "members": [
+        "BRAZIL",
+        "CLUE",
+        "COMMANDO",
+        "WITNESS"
+      ]
+    }
+  ]
+}

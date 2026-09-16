@@ -1,0 +1,47 @@
+{
+  "id": 434,
+  "date": "2024-08-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ALARM CLOCK BUTTONS",
+      "level": 0,
+      "members": [
+        "ALARM",
+        "HOUR",
+        "SNOOZE",
+        "TIME SET"
+      ]
+    },
+    {
+      "name": "“HERE’S A THOUGHT ...”",
+      "level": 1,
+      "members": [
+        "PERHAPS",
+        "SAY",
+        "SUPPOSE",
+        "WHAT IF"
+      ]
+    },
+    {
+      "name": "CANDY PIECES",
+      "level": 2,
+      "members": [
+        "KISS",
+        "NERD",
+        "RUNT",
+        "WHOPPER"
+      ]
+    },
+    {
+      "name": "SEVEN DWARFS MINUS LAST LETTER",
+      "level": 3,
+      "members": [
+        "DO",
+        "DOPE",
+        "GRUMP",
+        "SLEEP"
+      ]
+    }
+  ]
+}

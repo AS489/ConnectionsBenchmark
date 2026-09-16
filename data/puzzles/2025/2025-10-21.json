@@ -1,0 +1,47 @@
+{
+  "id": 863,
+  "date": "2025-10-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLAYING CARDS",
+      "level": null,
+      "members": [
+        "ACES",
+        "JACKS",
+        "KINGS",
+        "QUEENS"
+      ]
+    },
+    {
+      "name": "TAKES ON",
+      "level": null,
+      "members": [
+        "ADDRESSES",
+        "DOES",
+        "HANDLES",
+        "TACKLES"
+      ]
+    },
+    {
+      "name": "N.B.A. TEAMS",
+      "level": null,
+      "members": [
+        "BUCKS",
+        "BULLS",
+        "HORNETS",
+        "SPURS"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN CONTROL WITH REMOTES",
+      "level": null,
+      "members": [
+        "DRONES",
+        "GARAGE DOORS",
+        "TELEVISIONS",
+        "WIIS"
+      ]
+    }
+  ]
+}

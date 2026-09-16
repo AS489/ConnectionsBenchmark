@@ -1,0 +1,47 @@
+{
+  "id": 881,
+  "date": "2025-11-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PERSONAL GROOMING ITEMS",
+      "level": null,
+      "members": [
+        "BRUSH",
+        "MIRROR",
+        "NAIL FILE",
+        "TWEEZERS"
+      ]
+    },
+    {
+      "name": "PACKED",
+      "level": null,
+      "members": [
+        "COMPACT",
+        "DENSE",
+        "THICK",
+        "TIGHT"
+      ]
+    },
+    {
+      "name": "PONDER",
+      "level": null,
+      "members": [
+        "DELIBERATE",
+        "MUSE",
+        "NOODLE",
+        "REFLECT"
+      ]
+    },
+    {
+      "name": "STARTING WITH BIRD HOMOPHONES",
+      "level": null,
+      "members": [
+        "CRANIUM",
+        "CRONUT",
+        "LUNAR",
+        "PUFNSTUF"
+      ]
+    }
+  ]
+}

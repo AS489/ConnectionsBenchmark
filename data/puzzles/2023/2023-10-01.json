@@ -1,0 +1,47 @@
+{
+  "id": 112,
+  "date": "2023-10-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COFFEE COUNTER ITEMS",
+      "level": 0,
+      "members": [
+        "CUP",
+        "LID",
+        "STIRRER",
+        "STRAW"
+      ]
+    },
+    {
+      "name": "NOCTURNAL ANIMALS",
+      "level": 1,
+      "members": [
+        "BAT",
+        "MOTH",
+        "OWL",
+        "WOLF"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE RED",
+      "level": 2,
+      "members": [
+        "BEET",
+        "BRICK",
+        "CARDINAL",
+        "POPPY"
+      ]
+    },
+    {
+      "name": "___ FIGURE",
+      "level": 3,
+      "members": [
+        "ACTION",
+        "BALLPARK",
+        "GO",
+        "STICK"
+      ]
+    }
+  ]
+}

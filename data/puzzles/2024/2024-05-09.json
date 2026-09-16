@@ -1,0 +1,47 @@
+{
+  "id": 333,
+  "date": "2024-05-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONTAINER CLOSURES",
+      "level": 0,
+      "members": [
+        "CAP",
+        "CORK",
+        "LID",
+        "TAB"
+      ]
+    },
+    {
+      "name": "DURATION",
+      "level": 1,
+      "members": [
+        "PERIOD",
+        "SPELL",
+        "STRETCH",
+        "TIME"
+      ]
+    },
+    {
+      "name": "REGULATE",
+      "level": 2,
+      "members": [
+        "CHECK",
+        "CONTAIN",
+        "CURB",
+        "LIMIT"
+      ]
+    },
+    {
+      "name": "TRADEMARKS OF A PLATYPUS",
+      "level": 3,
+      "members": [
+        "BILL",
+        "EGG",
+        "FUR",
+        "VENOM"
+      ]
+    }
+  ]
+}

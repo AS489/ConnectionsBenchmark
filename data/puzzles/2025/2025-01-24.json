@@ -1,0 +1,47 @@
+{
+  "id": 593,
+  "date": "2025-01-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONTEMPLATE",
+      "level": 0,
+      "members": [
+        "BROOD",
+        "MUSE",
+        "PONDER",
+        "REFLECT"
+      ]
+    },
+    {
+      "name": "RUDE THINGS TO DO",
+      "level": 1,
+      "members": [
+        "INTERRUPT",
+        "LITTER",
+        "POINT",
+        "STARE"
+      ]
+    },
+    {
+      "name": "VOCATION",
+      "level": 2,
+      "members": [
+        "CRAFT",
+        "LINE",
+        "TRADE",
+        "WORK"
+      ]
+    },
+    {
+      "name": "___ PATCH",
+      "level": 3,
+      "members": [
+        "CABBAGE",
+        "NICOTINE",
+        "ROUGH",
+        "SOUL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 427,
+  "date": "2024-08-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LARGE BOAT",
+      "level": 0,
+      "members": [
+        "BARGE",
+        "CRAFT",
+        "SHIP",
+        "VESSEL"
+      ]
+    },
+    {
+      "name": "ALL-TIME GREAT",
+      "level": 1,
+      "members": [
+        "BEST",
+        "CHAMP",
+        "GOAT",
+        "LEGEND"
+      ]
+    },
+    {
+      "name": "REGARDING",
+      "level": 2,
+      "members": [
+        "ABOUT",
+        "CONCERNING",
+        "ON",
+        "TOWARD"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF BODY FEATURES",
+      "level": 3,
+      "members": [
+        "HARE",
+        "I",
+        "MUSSEL",
+        "NAVAL"
+      ]
+    }
+  ]
+}

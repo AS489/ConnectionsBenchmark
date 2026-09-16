@@ -1,0 +1,47 @@
+{
+  "id": 114,
+  "date": "2023-10-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LONG-HAIRED ANIMALS",
+      "level": 0,
+      "members": [
+        "AFGHAN",
+        "ALPACA",
+        "ANGORA",
+        "YAK"
+      ]
+    },
+    {
+      "name": "PRATTLE ON",
+      "level": 1,
+      "members": [
+        "BLATHER",
+        "CHAT",
+        "JABBER",
+        "GAB"
+      ]
+    },
+    {
+      "name": "SNEAKER BRANDS",
+      "level": 2,
+      "members": [
+        "CONVERSE",
+        "JORDAN",
+        "PUMA",
+        "VANS"
+      ]
+    },
+    {
+      "name": "___ BALLOON",
+      "level": 3,
+      "members": [
+        "LEAD",
+        "SPEECH",
+        "TRIAL",
+        "WATER"
+      ]
+    }
+  ]
+}

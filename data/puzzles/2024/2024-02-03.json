@@ -1,0 +1,47 @@
+{
+  "id": 237,
+  "date": "2024-02-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMMERCIAL ORGANIZATION",
+      "level": 0,
+      "members": [
+        "AGENCY",
+        "COMPANY",
+        "ENTERPRISE",
+        "FIRM"
+      ]
+    },
+    {
+      "name": "FARM FIXTURES",
+      "level": 1,
+      "members": [
+        "COOP",
+        "PEN",
+        "STABLE",
+        "STY"
+      ]
+    },
+    {
+      "name": "CLASSIC DOG NAMES",
+      "level": 2,
+      "members": [
+        "FLUFFY",
+        "REX",
+        "ROVER",
+        "SPOT"
+      ]
+    },
+    {
+      "name": "COLORS MINUS THEIR FIRST LETTERS",
+      "level": 3,
+      "members": [
+        "INK",
+        "LACK",
+        "OLD",
+        "RANGE"
+      ]
+    }
+  ]
+}

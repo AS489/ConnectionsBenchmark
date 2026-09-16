@@ -1,0 +1,47 @@
+{
+  "id": 534,
+  "date": "2024-11-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GOOD THINGS TO GET AT WORK",
+      "level": 0,
+      "members": [
+        "BONUS",
+        "EQUITY",
+        "PROMOTION",
+        "RAISE"
+      ]
+    },
+    {
+      "name": "DISREGARD",
+      "level": 1,
+      "members": [
+        "DISCOUNT",
+        "FORGET",
+        "IGNORE",
+        "OVERLOOK"
+      ]
+    },
+    {
+      "name": "KINDS OF CRACKERS",
+      "level": 2,
+      "members": [
+        "ANIMAL",
+        "CLUB",
+        "GOLDFISH",
+        "RITZ"
+      ]
+    },
+    {
+      "name": "FEATURED IN “ELOISE”",
+      "level": 3,
+      "members": [
+        "ELOISE",
+        "PLAZA",
+        "PUG",
+        "TURTLE"
+      ]
+    }
+  ]
+}

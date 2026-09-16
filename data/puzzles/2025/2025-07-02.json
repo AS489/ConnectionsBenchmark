@@ -1,0 +1,47 @@
+{
+  "id": 752,
+  "date": "2025-07-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KNOCKOFF",
+      "level": 0,
+      "members": [
+        "BOOTLEG",
+        "COPY",
+        "FAKE",
+        "REPLICA"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH FREUD",
+      "level": 1,
+      "members": [
+        "DREAMS",
+        "ID",
+        "OEDIPUS",
+        "SLIP"
+      ]
+    },
+    {
+      "name": "WORDS AFTER “T-”",
+      "level": 2,
+      "members": [
+        "MOBILE",
+        "PAIN",
+        "REX",
+        "SHIRT"
+      ]
+    },
+    {
+      "name": "STARTING WITH HIGH SCHOOL/COLLEGE ABBREVIATIONS",
+      "level": 3,
+      "members": [
+        "FRESHWATER",
+        "JUNIPER",
+        "SENECA",
+        "SOPHOCLES"
+      ]
+    }
+  ]
+}

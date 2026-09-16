@@ -1,0 +1,47 @@
+{
+  "id": 572,
+  "date": "2025-01-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A FOOT",
+      "level": 0,
+      "members": [
+        "ARCH",
+        "BALL",
+        "HEEL",
+        "SOLE"
+      ]
+    },
+    {
+      "name": "ONE DOLLAR",
+      "level": 1,
+      "members": [
+        "BUCK",
+        "CLAM",
+        "SINGLE",
+        "SMACKER"
+      ]
+    },
+    {
+      "name": "KINDS OF MUSHROOMS",
+      "level": 2,
+      "members": [
+        "BUTTON",
+        "MOREL",
+        "OYSTER",
+        "TRUMPET"
+      ]
+    },
+    {
+      "name": "POT___",
+      "level": 3,
+      "members": [
+        "BELLY",
+        "HOLE",
+        "LUCK",
+        "STICKER"
+      ]
+    }
+  ]
+}

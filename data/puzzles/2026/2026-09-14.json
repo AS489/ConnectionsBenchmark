@@ -1,0 +1,47 @@
+{
+  "id": 1186,
+  "date": "2026-09-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WATERBIRDS",
+      "level": null,
+      "members": [
+        "COOT",
+        "GOOSE",
+        "LOON",
+        "TEAL"
+      ]
+    },
+    {
+      "name": "INFORMANT",
+      "level": null,
+      "members": [
+        "CANARY",
+        "RAT",
+        "SNITCH",
+        "STOOLIE"
+      ]
+    },
+    {
+      "name": "COMMON SINGLE-USE PLASTIC ITEMS",
+      "level": null,
+      "members": [
+        "BAG",
+        "CUTLERY",
+        "STIRRER",
+        "STRAW"
+      ]
+    },
+    {
+      "name": "___GRASS",
+      "level": null,
+      "members": [
+        "BLUE",
+        "CRAB",
+        "LEMON",
+        "WHEAT"
+      ]
+    }
+  ]
+}

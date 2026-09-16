@@ -1,0 +1,47 @@
+{
+  "id": 696,
+  "date": "2025-05-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GET BETTER, AS A BROKEN BONE",
+      "level": 0,
+      "members": [
+        "HEAL",
+        "KNIT",
+        "MEND",
+        "RECOVER"
+      ]
+    },
+    {
+      "name": "NOT INCLUDING",
+      "level": 1,
+      "members": [
+        "BESIDES",
+        "BUT",
+        "EXCEPT",
+        "SAVE"
+      ]
+    },
+    {
+      "name": "TAROT MINOR ARCANA SUITS",
+      "level": 2,
+      "members": [
+        "CUPS",
+        "PENTACLES",
+        "SWORDS",
+        "WANDS"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF GEMSTONES",
+      "level": 3,
+      "members": [
+        "CHORAL",
+        "OPEL",
+        "PURL",
+        "QUARTS"
+      ]
+    }
+  ]
+}

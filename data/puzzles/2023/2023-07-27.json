@@ -1,0 +1,47 @@
+{
+  "id": 46,
+  "date": "2023-07-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MOVIE TITLE CITIES",
+      "level": 0,
+      "members": [
+        "CHICAGO",
+        "MUNICH",
+        "PHILADELPHIA",
+        "RIO"
+      ]
+    },
+    {
+      "name": "FASHION MAGAZINES",
+      "level": 1,
+      "members": [
+        "ALLURE",
+        "ELLE",
+        "GLAMOUR",
+        "W"
+      ]
+    },
+    {
+      "name": "STORMS",
+      "level": 2,
+      "members": [
+        "BLIZZARD",
+        "CYCLONE",
+        "SQUALL",
+        "TORNADO"
+      ]
+    },
+    {
+      "name": "COCKTAILS",
+      "level": 3,
+      "members": [
+        "COSMOPOLITAN",
+        "HURRICANE",
+        "MANHATTAN",
+        "SCREWDRIVER"
+      ]
+    }
+  ]
+}

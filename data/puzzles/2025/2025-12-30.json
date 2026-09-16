@@ -1,0 +1,47 @@
+{
+  "id": 932,
+  "date": "2025-12-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INTENTION",
+      "level": null,
+      "members": [
+        "AIM",
+        "GOAL",
+        "OBJECT",
+        "POINT"
+      ]
+    },
+    {
+      "name": "MEASURING DEVICES",
+      "level": null,
+      "members": [
+        "CLOCK",
+        "COMPASS",
+        "RULER",
+        "SCALE"
+      ]
+    },
+    {
+      "name": "PARTS OF A FLIGHT",
+      "level": null,
+      "members": [
+        "CLIMB",
+        "TAKEOFF",
+        "TAXI",
+        "TOUCHDOWN"
+      ]
+    },
+    {
+      "name": "BIKE ACCESSORIES",
+      "level": null,
+      "members": [
+        "BASKET",
+        "BELL",
+        "RACK",
+        "REFLECTOR"
+      ]
+    }
+  ]
+}

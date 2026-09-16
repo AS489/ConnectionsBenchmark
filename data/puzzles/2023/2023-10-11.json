@@ -1,0 +1,47 @@
+{
+  "id": 122,
+  "date": "2023-10-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FILM SET DIRECTIVES",
+      "level": 0,
+      "members": [
+        "ACTION",
+        "CAMERA",
+        "CUT",
+        "LIGHTS"
+      ]
+    },
+    {
+      "name": "CONDITIONAL WORDS",
+      "level": 1,
+      "members": [
+        "CAN",
+        "COULD",
+        "MAY",
+        "MIGHT"
+      ]
+    },
+    {
+      "name": "FOREMOST",
+      "level": 2,
+      "members": [
+        "HEAD",
+        "LEAD",
+        "PRIME",
+        "TOP"
+      ]
+    },
+    {
+      "name": "___ PAPER",
+      "level": 3,
+      "members": [
+        "BUTCHER",
+        "SCRAP",
+        "TOILET",
+        "WAX"
+      ]
+    }
+  ]
+}

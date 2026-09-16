@@ -1,0 +1,47 @@
+{
+  "id": 645,
+  "date": "2025-03-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FILAMENT",
+      "level": 0,
+      "members": [
+        "FIBER",
+        "STRAND",
+        "STRING",
+        "THREAD"
+      ]
+    },
+    {
+      "name": "UNINHIBITEDNESS",
+      "level": 1,
+      "members": [
+        "ABANDON",
+        "FREEDOM",
+        "SPONTANEITY",
+        "UNRESTRAINT"
+      ]
+    },
+    {
+      "name": "KINDS OF TRUCKS",
+      "level": 2,
+      "members": [
+        "DUMP",
+        "GARBAGE",
+        "MONSTER",
+        "PICKUP"
+      ]
+    },
+    {
+      "name": "BANDS MINUS THE NUMBER FIVE",
+      "level": 3,
+      "members": [
+        "BEN FOLDS",
+        "JACKSON",
+        "MAROON",
+        "MC"
+      ]
+    }
+  ]
+}

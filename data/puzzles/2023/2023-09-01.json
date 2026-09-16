@@ -1,0 +1,47 @@
+{
+  "id": 82,
+  "date": "2023-09-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DRINK VESSELS",
+      "level": 0,
+      "members": [
+        "GOBLET",
+        "SNIFTER",
+        "TUMBLER",
+        "STEIN"
+      ]
+    },
+    {
+      "name": "WOODWINDS",
+      "level": 1,
+      "members": [
+        "CLARINET",
+        "FLUTE",
+        "OBOE",
+        "SAXOPHONE"
+      ]
+    },
+    {
+      "name": "AMERICAN POETS",
+      "level": 2,
+      "members": [
+        "BISHOP",
+        "FROST",
+        "OLDS",
+        "POUND"
+      ]
+    },
+    {
+      "name": "CONSECUTIVE DOUBLE LETTERS",
+      "level": 3,
+      "members": [
+        "BALLOON",
+        "BASSOON",
+        "COFFEE",
+        "FRICASSEE"
+      ]
+    }
+  ]
+}

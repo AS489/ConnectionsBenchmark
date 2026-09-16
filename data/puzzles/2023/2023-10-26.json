@@ -1,0 +1,47 @@
+{
+  "id": 137,
+  "date": "2023-10-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INCREASE",
+      "level": 0,
+      "members": [
+        "BUILD",
+        "GROW",
+        "SWELL",
+        "MOUNT"
+      ]
+    },
+    {
+      "name": "EXCELLENT, IN OLD SLANG",
+      "level": 1,
+      "members": [
+        "ACES",
+        "KEEN",
+        "NEATO",
+        "NIFTY"
+      ]
+    },
+    {
+      "name": "FINE BUBBLES",
+      "level": 2,
+      "members": [
+        "FOAM",
+        "FROTH",
+        "HEAD",
+        "LATHER"
+      ]
+    },
+    {
+      "name": "SPHERICAL THINGS",
+      "level": 3,
+      "members": [
+        "BUBBLE",
+        "GLOBE",
+        "MARBLE",
+        "PEARL"
+      ]
+    }
+  ]
+}

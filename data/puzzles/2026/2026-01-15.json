@@ -1,0 +1,47 @@
+{
+  "id": 948,
+  "date": "2026-01-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GARDENING TOOLS",
+      "level": null,
+      "members": [
+        "HOSE",
+        "RAKE",
+        "SHOVEL",
+        "SPADE"
+      ]
+    },
+    {
+      "name": "UNMOVING",
+      "level": null,
+      "members": [
+        "FROZEN",
+        "STATIC",
+        "STATIONARY",
+        "STILL"
+      ]
+    },
+    {
+      "name": "THINGS THAT COME IN FLAKES",
+      "level": null,
+      "members": [
+        "CEREAL",
+        "DANDRUFF",
+        "SALT",
+        "SNOW"
+      ]
+    },
+    {
+      "name": "WORDS FORMED BY TWO MEN’S NAMES",
+      "level": null,
+      "members": [
+        "JACKAL",
+        "LEVITATE",
+        "MELTED",
+        "PATRON"
+      ]
+    }
+  ]
+}

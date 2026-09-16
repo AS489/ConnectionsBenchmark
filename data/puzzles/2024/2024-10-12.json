@@ -1,0 +1,47 @@
+{
+  "id": 489,
+  "date": "2024-10-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DRAPED ACCESSORIES",
+      "level": 0,
+      "members": [
+        "SCARF",
+        "SHAWL",
+        "STOLE",
+        "WRAP"
+      ]
+    },
+    {
+      "name": "TOLERATE",
+      "level": 1,
+      "members": [
+        "BEAR",
+        "STAND",
+        "SWALLOW",
+        "TAKE"
+      ]
+    },
+    {
+      "name": "BIRD ONOMATOPOEIA",
+      "level": 2,
+      "members": [
+        "COO",
+        "GOBBLE",
+        "HONK",
+        "HOOT"
+      ]
+    },
+    {
+      "name": "STARTS OF CELL PHONE MAKERS",
+      "level": 3,
+      "members": [
+        "APP",
+        "GOO",
+        "MOTOR",
+        "SAM"
+      ]
+    }
+  ]
+}

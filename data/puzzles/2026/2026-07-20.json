@@ -1,0 +1,47 @@
+{
+  "id": 1130,
+  "date": "2026-07-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ANNOUNCE",
+      "level": null,
+      "members": [
+        "BLARE",
+        "HERALD",
+        "SOUND",
+        "TRUMPET"
+      ]
+    },
+    {
+      "name": "THINGS TO CLICK",
+      "level": null,
+      "members": [
+        "BUTTON",
+        "ICON",
+        "LINK",
+        "MENU"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH PEARLS",
+      "level": null,
+      "members": [
+        "BUBBLE TEA",
+        "OYSTER",
+        "SWINE",
+        "WISDOM"
+      ]
+    },
+    {
+      "name": "STARTING WITH ALCOHOLIC BEVERAGES",
+      "level": null,
+      "members": [
+        "ALEXA",
+        "MEADOW",
+        "PORTOBELLO",
+        "SAKES"
+      ]
+    }
+  ]
+}

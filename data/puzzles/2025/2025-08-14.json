@@ -1,0 +1,47 @@
+{
+  "id": 795,
+  "date": "2025-08-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DERRIERE",
+      "level": 0,
+      "members": [
+        "BACKSIDE",
+        "CABOOSE",
+        "SEAT",
+        "TAIL"
+      ]
+    },
+    {
+      "name": "USED TO HIT A BALL IN SPORTS",
+      "level": 1,
+      "members": [
+        "BAT",
+        "MALLET",
+        "RACKET",
+        "STICK"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF A BRIDE’S ENSEMBLE",
+      "level": 2,
+      "members": [
+        "BOUQUET",
+        "BUSTLE",
+        "TRAIN",
+        "VEIL"
+      ]
+    },
+    {
+      "name": "RHYMING COMPOUND WORDS",
+      "level": 3,
+      "members": [
+        "BACKPACK",
+        "COOKBOOK",
+        "HUBBUB",
+        "NITWIT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 735,
+  "date": "2025-06-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SLANG FOR COFFEE",
+      "level": 0,
+      "members": [
+        "BREW",
+        "JAVA",
+        "MUD",
+        "ROCKET FUEL"
+      ]
+    },
+    {
+      "name": "\"AW, HECK!\"",
+      "level": 1,
+      "members": [
+        "BLAST",
+        "CRUD",
+        "CURSES",
+        "FUDGE"
+      ]
+    },
+    {
+      "name": "CONSIDERATIONS FOR MOVIE RATINGS",
+      "level": 2,
+      "members": [
+        "ACTION",
+        "LANGUAGE",
+        "NUDITY",
+        "SMOKING"
+      ]
+    },
+    {
+      "name": "WHAT “POP” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "BURST",
+        "FATHER",
+        "POPULAR",
+        "SODA"
+      ]
+    }
+  ]
+}

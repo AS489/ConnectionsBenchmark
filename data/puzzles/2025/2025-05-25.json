@@ -1,0 +1,47 @@
+{
+  "id": 714,
+  "date": "2025-05-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLAYING CARDS",
+      "level": 0,
+      "members": [
+        "ACE",
+        "JACK",
+        "KING",
+        "QUEEN"
+      ]
+    },
+    {
+      "name": "DOPPELGÄNGER",
+      "level": 1,
+      "members": [
+        "CLONE",
+        "DOUBLE",
+        "RINGER",
+        "TWIN"
+      ]
+    },
+    {
+      "name": "EAR PIERCING SITES",
+      "level": 2,
+      "members": [
+        "CONCH",
+        "HELIX",
+        "LOBE",
+        "ROOK"
+      ]
+    },
+    {
+      "name": "___ MAIL",
+      "level": 3,
+      "members": [
+        "CHAIN",
+        "ELECTRONIC",
+        "JUNK",
+        "SNAIL"
+      ]
+    }
+  ]
+}

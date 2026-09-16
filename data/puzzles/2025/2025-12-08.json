@@ -1,0 +1,47 @@
+{
+  "id": 910,
+  "date": "2025-12-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GOAD, WITH \"ON\"",
+      "level": null,
+      "members": [
+        "EGG",
+        "PUSH",
+        "SPUR",
+        "URGE"
+      ]
+    },
+    {
+      "name": "FAMOUS STREETS IN LOS ANGELES",
+      "level": null,
+      "members": [
+        "MULHOLLAND",
+        "RODEO",
+        "SUNSET",
+        "VINE"
+      ]
+    },
+    {
+      "name": "MEMBER OF A DALLAS PRO SPORTS TEAM",
+      "level": null,
+      "members": [
+        "COWBOY",
+        "MAVERICK",
+        "STAR",
+        "WING"
+      ]
+    },
+    {
+      "name": "EUROPEAN CAPITALS MINUS SECOND-TO-LAST LETTER",
+      "level": null,
+      "members": [
+        "MINK",
+        "PARS",
+        "ROE",
+        "SOFA"
+      ]
+    }
+  ]
+}

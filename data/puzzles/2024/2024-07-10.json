@@ -1,0 +1,47 @@
+{
+  "id": 395,
+  "date": "2024-07-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FUTURE LIKELIHOOD",
+      "level": 0,
+      "members": [
+        "CHANCE",
+        "FORECAST",
+        "OUTLOOK",
+        "PROSPECT"
+      ]
+    },
+    {
+      "name": "BACK TALK",
+      "level": 1,
+      "members": [
+        "ATTITUDE",
+        "CHEEK",
+        "LIP",
+        "SASS"
+      ]
+    },
+    {
+      "name": "FISH",
+      "level": 2,
+      "members": [
+        "BASS",
+        "FLUKE",
+        "PERCH",
+        "PIKE"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF EYEGLASSES",
+      "level": 3,
+      "members": [
+        "BRIDGE",
+        "LENS",
+        "RIM",
+        "TEMPLE"
+      ]
+    }
+  ]
+}

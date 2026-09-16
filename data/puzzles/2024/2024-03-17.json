@@ -1,0 +1,47 @@
+{
+  "id": 280,
+  "date": "2024-03-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOOLISHNESS",
+      "level": 0,
+      "members": [
+        "ABSURDITY",
+        "FOLLY",
+        "MADNESS",
+        "NONSENSE"
+      ]
+    },
+    {
+      "name": "MOVE FORWARD",
+      "level": 1,
+      "members": [
+        "ADVANCE",
+        "MARCH",
+        "PROGRESS",
+        "PUSH"
+      ]
+    },
+    {
+      "name": "THINGS THAT MIGHT STINK",
+      "level": 2,
+      "members": [
+        "CHEESE",
+        "FEET",
+        "GARBAGE",
+        "SKUNK"
+      ]
+    },
+    {
+      "name": "WORDS AFTER “DEEP”",
+      "level": 3,
+      "members": [
+        "CUT",
+        "FAKE",
+        "FREEZE",
+        "SIX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 232,
+  "date": "2024-01-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DO SOME MARKETING FOR",
+      "level": 0,
+      "members": [
+        "PITCH",
+        "PLUG",
+        "PROMOTE",
+        "PUSH"
+      ]
+    },
+    {
+      "name": "ROMANTIC TWOSOME",
+      "level": 1,
+      "members": [
+        "COUPLE",
+        "ITEM",
+        "PAIR",
+        "THING"
+      ]
+    },
+    {
+      "name": "TENNIS SCORING TERMS",
+      "level": 2,
+      "members": [
+        "AD",
+        "ALL",
+        "DEUCE",
+        "LOVE"
+      ]
+    },
+    {
+      "name": "WORDS WITH “FRUIT”",
+      "level": 3,
+      "members": [
+        "BREAD",
+        "DRAGON",
+        "JACK",
+        "PASSION"
+      ]
+    }
+  ]
+}

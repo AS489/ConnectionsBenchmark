@@ -1,0 +1,3 @@
+```
+{"reasoning": "kettle", "guess": ["HANDLE", "LID", "SPOUT", "WHISTLE"]}
+```

@@ -1,0 +1,47 @@
+{
+  "id": 555,
+  "date": "2024-12-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INTREPIDITY",
+      "level": 0,
+      "members": [
+        "GRIT",
+        "HEART",
+        "NERVE",
+        "PLUCK"
+      ]
+    },
+    {
+      "name": "ROAD",
+      "level": 1,
+      "members": [
+        "ARTERY",
+        "AVENUE",
+        "DRAG",
+        "DRIVE"
+      ]
+    },
+    {
+      "name": "KINDS OF PAPER",
+      "level": 2,
+      "members": [
+        "CONSTRUCTION",
+        "GRAPH",
+        "TISSUE",
+        "WAX"
+      ]
+    },
+    {
+      "name": "KINDS OF TENNIS COURTS",
+      "level": 3,
+      "members": [
+        "CARPET",
+        "CLAY",
+        "GRASS",
+        "HARD"
+      ]
+    }
+  ]
+}

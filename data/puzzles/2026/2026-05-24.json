@@ -1,0 +1,47 @@
+{
+  "id": 1073,
+  "date": "2026-05-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FARM FIXTURES",
+      "level": null,
+      "members": [
+        "COOP",
+        "PEN",
+        "SHED",
+        "STABLE"
+      ]
+    },
+    {
+      "name": "LABOR PROTEST ACTIONS",
+      "level": null,
+      "members": [
+        "MARCH",
+        "PICKET",
+        "RALLY",
+        "STRIKE"
+      ]
+    },
+    {
+      "name": "OBJECTS USED IN RITUAL PERFORMANCES",
+      "level": null,
+      "members": [
+        "DRUM",
+        "MASK",
+        "RATTLE",
+        "STAFF"
+      ]
+    },
+    {
+      "name": "POSSESSIVE ADJECTIVES PLUS A LETTER",
+      "level": null,
+      "members": [
+        "HERB",
+        "HISS",
+        "ITSY",
+        "MYA"
+      ]
+    }
+  ]
+}

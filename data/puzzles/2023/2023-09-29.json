@@ -1,0 +1,47 @@
+{
+  "id": 110,
+  "date": "2023-09-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VERY IMPORTANT",
+      "level": 0,
+      "members": [
+        "CENTRAL",
+        "CRITICAL",
+        "KEY",
+        "VITAL"
+      ]
+    },
+    {
+      "name": "RECYCLING CATEGORIES",
+      "level": 1,
+      "members": [
+        "GLASS",
+        "METAL",
+        "PAPER",
+        "PLASTIC"
+      ]
+    },
+    {
+      "name": "HUDSONS",
+      "level": 2,
+      "members": [
+        "HENRY",
+        "JENNIFER",
+        "KATE",
+        "ROCK"
+      ]
+    },
+    {
+      "name": "WHAT “BEAT” MAY MEAN",
+      "level": 3,
+      "members": [
+        "ASSIGNMENT",
+        "DEFEAT",
+        "TEMPO",
+        "TIRED"
+      ]
+    }
+  ]
+}

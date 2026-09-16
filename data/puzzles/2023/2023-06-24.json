@@ -1,0 +1,47 @@
+{
+  "id": 13,
+  "date": "2023-06-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "AIRLINES",
+      "level": 0,
+      "members": [
+        "FRONTIER",
+        "SPIRIT",
+        "UNITED",
+        "VIRGIN"
+      ]
+    },
+    {
+      "name": "GREEK LETTERS",
+      "level": 1,
+      "members": [
+        "BETA",
+        "CHI",
+        "DELTA",
+        "IOTA"
+      ]
+    },
+    {
+      "name": "SILENT “G”",
+      "level": 2,
+      "members": [
+        "GNAT",
+        "GNAW",
+        "GNOCCHI",
+        "GNOME"
+      ]
+    },
+    {
+      "name": "HOMOPHONES",
+      "level": 3,
+      "members": [
+        "GNU",
+        "KNEW",
+        "NEW",
+        "NU"
+      ]
+    }
+  ]
+}

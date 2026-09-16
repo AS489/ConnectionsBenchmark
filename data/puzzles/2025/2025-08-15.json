@@ -1,0 +1,47 @@
+{
+  "id": 796,
+  "date": "2025-08-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "POULTRY CUTS",
+      "level": 0,
+      "members": [
+        "BREAST",
+        "TENDER",
+        "THIGH",
+        "WING"
+      ]
+    },
+    {
+      "name": "HANDLE, AS A BILL",
+      "level": 1,
+      "members": [
+        "FOOT",
+        "PAY",
+        "SETTLE",
+        "TAKE CARE OF"
+      ]
+    },
+    {
+      "name": "SPLENDID",
+      "level": 2,
+      "members": [
+        "BRILLIANT",
+        "CAPITAL",
+        "FINE",
+        "GRAND"
+      ]
+    },
+    {
+      "name": "STARTS OF CULINARY NUTS",
+      "level": 3,
+      "members": [
+        "CASH",
+        "HAZE",
+        "MAC",
+        "PEC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 949,
+  "date": "2026-01-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF HATS",
+      "level": null,
+      "members": [
+        "DERBY",
+        "FEDORA",
+        "PANAMA",
+        "PORKPIE"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF A KID’S BEDTIME ROUTINE",
+      "level": null,
+      "members": [
+        "BATH",
+        "BRUSHING",
+        "PAJAMAS",
+        "STORY"
+      ]
+    },
+    {
+      "name": "MUSICAL ACTS WITH \"A\" AS THE ONLY VOWEL",
+      "level": null,
+      "members": [
+        "ALABAMA",
+        "BANANARAMA",
+        "KANSAS",
+        "SANTANA"
+      ]
+    },
+    {
+      "name": "GRAND ___",
+      "level": null,
+      "members": [
+        "BAHAMA",
+        "CANYON",
+        "SLAM",
+        "PIANO"
+      ]
+    }
+  ]
+}

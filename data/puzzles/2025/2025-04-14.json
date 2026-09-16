@@ -1,0 +1,47 @@
+{
+  "id": 673,
+  "date": "2025-04-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RESTRICT",
+      "level": 0,
+      "members": [
+        "BLOCK",
+        "CHECK",
+        "DAM",
+        "STOP"
+      ]
+    },
+    {
+      "name": "TICKETED EVENTS",
+      "level": 1,
+      "members": [
+        "CONCERT",
+        "GAME",
+        "MOVIE",
+        "PLAY"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH THE GAME THE OREGON TRAIL",
+      "level": 2,
+      "members": [
+        "DYSENTERY",
+        "FORD",
+        "HUNT",
+        "OXEN"
+      ]
+    },
+    {
+      "name": "WHAT “FORD” MIGHT REFER TO",
+      "level": 3,
+      "members": [
+        "ACTOR",
+        "CAR",
+        "DIRECTOR",
+        "PRESIDENT"
+      ]
+    }
+  ]
+}

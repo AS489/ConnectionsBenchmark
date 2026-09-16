@@ -1,0 +1,47 @@
+{
+  "id": 839,
+  "date": "2025-09-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LOVING",
+      "level": null,
+      "members": [
+        "KIND",
+        "SWEET",
+        "TENDER",
+        "WARM"
+      ]
+    },
+    {
+      "name": "APPENDAGES",
+      "level": null,
+      "members": [
+        "ARM",
+        "FIN",
+        "FLIPPER",
+        "WING"
+      ]
+    },
+    {
+      "name": "POPCORN-MAKING METHODS",
+      "level": null,
+      "members": [
+        "KETTLE",
+        "MICROWAVE",
+        "POPPER",
+        "STOVETOP"
+      ]
+    },
+    {
+      "name": "SQUANDER, WITH “AWAY”",
+      "level": null,
+      "members": [
+        "FIDDLE",
+        "FRITTER",
+        "THROW",
+        "TRIFLE"
+      ]
+    }
+  ]
+}

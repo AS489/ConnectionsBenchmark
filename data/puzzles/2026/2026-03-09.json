@@ -1,0 +1,47 @@
+{
+  "id": 999,
+  "date": "2026-03-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STARTING WITH THE SAME SOUND, SPELLED DIFFERENTLY",
+      "level": null,
+      "members": [
+        "WAREHOUSE",
+        "WEARABLE",
+        "WEREWOLF",
+        "WHEREFORE"
+      ]
+    },
+    {
+      "name": "METAPHORS FOR PUBLIC SCRUTINY",
+      "level": null,
+      "members": [
+        "FISHBOWL",
+        "HOT SEAT",
+        "MICROSCOPE",
+        "SPOTLIGHT"
+      ]
+    },
+    {
+      "name": "MUPPETS",
+      "level": null,
+      "members": [
+        "ANIMAL",
+        "BEAKER",
+        "FOZZIE",
+        "GONZO"
+      ]
+    },
+    {
+      "name": "THEY FEATURE A BOSS",
+      "level": null,
+      "members": [
+        "COMPANY",
+        "E STREET BAND",
+        "MAFIA",
+        "VIDEO GAME"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 31,
+  "date": "2023-07-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "VEGETABLES THAT ARE ALSO FRUITS",
+      "level": 0,
+      "members": [
+        "CUCUMBER",
+        "EGGPLANT",
+        "PEPPER",
+        "TOMATO"
+      ]
+    },
+    {
+      "name": "3-D SHAPES",
+      "level": 1,
+      "members": [
+        "CONE",
+        "CUBE",
+        "PYRAMID",
+        "SPHERE"
+      ]
+    },
+    {
+      "name": "WORDS WITH “i”",
+      "level": 2,
+      "members": [
+        "MAC",
+        "PAD",
+        "PHONE",
+        "POD"
+      ]
+    },
+    {
+      "name": "WORDS WITH TWO PRONUNCIATIONS",
+      "level": 3,
+      "members": [
+        "JOB",
+        "LIMA",
+        "MOBILE",
+        "POLISH"
+      ]
+    }
+  ]
+}

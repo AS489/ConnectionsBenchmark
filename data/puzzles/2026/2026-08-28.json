@@ -1,0 +1,47 @@
+{
+  "id": 1169,
+  "date": "2026-08-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BEDTIME PARTING WORDS",
+      "level": null,
+      "members": [
+        "NIGHT",
+        "REST EASY",
+        "SLEEP TIGHT",
+        "SWEET DREAMS"
+      ]
+    },
+    {
+      "name": "PALINDROMES",
+      "level": null,
+      "members": [
+        "MOM",
+        "NOON",
+        "SIS",
+        "TOP SPOT"
+      ]
+    },
+    {
+      "name": "MODERN ADD-ONS/COMBINING FORMS",
+      "level": null,
+      "members": [
+        "BRO",
+        "CODED",
+        "ERA",
+        "MAXXING"
+      ]
+    },
+    {
+      "name": "TOP OF THE ___",
+      "level": null,
+      "members": [
+        "HOUR",
+        "LINE",
+        "MORNING",
+        "POPS"
+      ]
+    }
+  ]
+}

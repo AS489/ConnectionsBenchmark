@@ -1,0 +1,47 @@
+{
+  "id": 1078,
+  "date": "2026-05-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OCEANS",
+      "level": null,
+      "members": [
+        "ARCTIC",
+        "ATLANTIC",
+        "PACIFIC",
+        "SOUTHERN"
+      ]
+    },
+    {
+      "name": "SOURCES OF DISTINCTIVE SMELLS",
+      "level": null,
+      "members": [
+        "AMMONIA",
+        "BO",
+        "DURIAN",
+        "WET DOG"
+      ]
+    },
+    {
+      "name": "KINDS OF ROOMS IN A MANSION",
+      "level": null,
+      "members": [
+        "BILLIARD",
+        "DRAWING",
+        "POWDER",
+        "READING"
+      ]
+    },
+    {
+      "name": "WHAT \"PA\" MIGHT REFER TO",
+      "level": null,
+      "members": [
+        "FATHER",
+        "PENNSYLVANIA",
+        "PROTACTINIUM",
+        "PUBLIC ADDRESS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 927,
+  "date": "2025-12-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ORNATE, AS PROSE",
+      "level": null,
+      "members": [
+        "EXCESSIVE",
+        "FLOWERY",
+        "MELODRAMATIC",
+        "PURPLE"
+      ]
+    },
+    {
+      "name": "CREATE",
+      "level": null,
+      "members": [
+        "COIN",
+        "HATCH",
+        "FASHION",
+        "MAKE UP"
+      ]
+    },
+    {
+      "name": "THINGS WITH STEMS",
+      "level": null,
+      "members": [
+        "CHERRY",
+        "FLOWER",
+        "MUSICAL NOTE",
+        "WINE GLASS"
+      ]
+    },
+    {
+      "name": "COMPRISED OF SOLFEGE (DO-RE-MI)",
+      "level": null,
+      "members": [
+        "LAREDO",
+        "MIRE",
+        "RETIRE",
+        "SOLTI"
+      ]
+    }
+  ]
+}

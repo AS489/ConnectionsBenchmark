@@ -1,0 +1,47 @@
+{
+  "id": 324,
+  "date": "2024-04-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DIPPING SAUCES",
+      "level": 0,
+      "members": [
+        "AIOLI",
+        "BARBECUE",
+        "MARINARA",
+        "RANCH"
+      ]
+    },
+    {
+      "name": "INTERROGATE",
+      "level": 1,
+      "members": [
+        "EXAMINE",
+        "GRILL",
+        "PROBE",
+        "QUESTION"
+      ]
+    },
+    {
+      "name": "TRANSACTION RECORD",
+      "level": 2,
+      "members": [
+        "BILL",
+        "INVOICE",
+        "RECEIPT",
+        "STATEMENT"
+      ]
+    },
+    {
+      "name": "WHAT “STOCK” MIGHT MEAN",
+      "level": 3,
+      "members": [
+        "ANCESTRY",
+        "BROTH",
+        "CATTLE",
+        "MERCHANDISE"
+      ]
+    }
+  ]
+}

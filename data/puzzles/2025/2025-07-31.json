@@ -1,0 +1,47 @@
+{
+  "id": 781,
+  "date": "2025-07-31",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FIRST ___",
+      "level": 0,
+      "members": [
+        "AID",
+        "LADY",
+        "NATIONS",
+        "RESPONDER"
+      ]
+    },
+    {
+      "name": "SECOND ___",
+      "level": 1,
+      "members": [
+        "COMING",
+        "FIDDLE",
+        "GUESS",
+        "NATURE"
+      ]
+    },
+    {
+      "name": "THIRD ___",
+      "level": 2,
+      "members": [
+        "EYE",
+        "PARTY",
+        "RAIL",
+        "ROCK"
+      ]
+    },
+    {
+      "name": "LAST ___",
+      "level": 3,
+      "members": [
+        "LAUGH",
+        "RESORT",
+        "STRAW",
+        "SUPPER"
+      ]
+    }
+  ]
+}

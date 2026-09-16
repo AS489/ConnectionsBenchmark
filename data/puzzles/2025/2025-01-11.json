@@ -1,0 +1,47 @@
+{
+  "id": 580,
+  "date": "2025-01-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DISPLAY OF ROWS AND COLUMNS",
+      "level": 0,
+      "members": [
+        "ARRAY",
+        "GRID",
+        "MATRIX",
+        "TABLE"
+      ]
+    },
+    {
+      "name": "THINGS TO DO AT A WORK EVENT",
+      "level": 1,
+      "members": [
+        "CIRCULATE",
+        "CONVERSE",
+        "MINGLE",
+        "NETWORK"
+      ]
+    },
+    {
+      "name": "OLYMPIC EVENTS SINCE 2000",
+      "level": 2,
+      "members": [
+        "BREAKING",
+        "SURFING",
+        "TAEKWONDO",
+        "TRAMPOLINE"
+      ]
+    },
+    {
+      "name": "___ COURT",
+      "level": 3,
+      "members": [
+        "FOOD",
+        "KANGAROO",
+        "SUPREME",
+        "TENNIS"
+      ]
+    }
+  ]
+}

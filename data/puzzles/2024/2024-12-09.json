@@ -1,0 +1,47 @@
+{
+  "id": 547,
+  "date": "2024-12-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DELIBERATION",
+      "level": 0,
+      "members": [
+        "CONSIDERATION",
+        "REFLECTION",
+        "SCRUTINY",
+        "THOUGHT"
+      ]
+    },
+    {
+      "name": "USED IN STARTING A FIRE",
+      "level": 1,
+      "members": [
+        "FLINT",
+        "LIGHTER",
+        "MAGNIFYING GLASS",
+        "MATCHES"
+      ]
+    },
+    {
+      "name": "USED TO VIEW A BIOLOGICAL SAMPLE",
+      "level": 2,
+      "members": [
+        "MICROSCOPE",
+        "SLIDE",
+        "SPECIMEN",
+        "STAIN"
+      ]
+    },
+    {
+      "name": "WORDS AFTER “X”",
+      "level": 3,
+      "members": [
+        "FACTOR",
+        "FILES",
+        "GAMES",
+        "RAY"
+      ]
+    }
+  ]
+}

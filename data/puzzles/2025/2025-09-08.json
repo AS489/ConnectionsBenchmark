@@ -1,0 +1,47 @@
+{
+  "id": 820,
+  "date": "2025-09-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "NONSENSE",
+      "level": 0,
+      "members": [
+        "BALONEY",
+        "BULL",
+        "BUNK",
+        "RUBBISH"
+      ]
+    },
+    {
+      "name": "INCREASE, WITH \"UP\"",
+      "level": 1,
+      "members": [
+        "CRANK",
+        "HIKE",
+        "JACK",
+        "RAISE"
+      ]
+    },
+    {
+      "name": "FICTIONAL SPIES",
+      "level": 2,
+      "members": [
+        "ARCHER",
+        "HUNT",
+        "PEEL",
+        "POWERS"
+      ]
+    },
+    {
+      "name": "CAT___",
+      "level": 3,
+      "members": [
+        "FISH",
+        "NAP",
+        "TAIL",
+        "WALK"
+      ]
+    }
+  ]
+}

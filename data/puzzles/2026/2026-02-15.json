@@ -1,0 +1,47 @@
+{
+  "id": 978,
+  "date": "2026-02-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "REFERENCE BOOKS",
+      "level": null,
+      "members": [
+        "ATLAS",
+        "DICTIONARY",
+        "ENCYCLOPEDIA",
+        "THESAURUS"
+      ]
+    },
+    {
+      "name": "SOMETHING THAT BRINGS BACK MEMORIES",
+      "level": null,
+      "members": [
+        "ECHO",
+        "REMINDER",
+        "TRACE",
+        "VESTIGE"
+      ]
+    },
+    {
+      "name": "KINDS OF COMPLEXES",
+      "level": null,
+      "members": [
+        "ELECTRA",
+        "INFERIORITY",
+        "OEDIPUS",
+        "SUPERIORITY"
+      ]
+    },
+    {
+      "name": "STARTING WITH WAYS TO REACH SOMEONE VIA PHONE",
+      "level": null,
+      "members": [
+        "BUZZARD",
+        "CALLIOPE",
+        "DIALECT",
+        "RINGMASTER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 674,
+  "date": "2025-04-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DESIST",
+      "level": 0,
+      "members": [
+        "ABSTAIN",
+        "AVOID",
+        "CEASE",
+        "REFRAIN"
+      ]
+    },
+    {
+      "name": "CARD GAMES",
+      "level": 1,
+      "members": [
+        "BRIDGE",
+        "HEARTS",
+        "SPEED",
+        "SPOONS"
+      ]
+    },
+    {
+      "name": "ELEMENTS OF GREEK DRAMA",
+      "level": 2,
+      "members": [
+        "CHORUS",
+        "HERO",
+        "HUBRIS",
+        "TRAGEDY"
+      ]
+    },
+    {
+      "name": "SECOND WORDS OF “PETER PAN” CHARACTERS",
+      "level": 3,
+      "members": [
+        "BELL",
+        "DARLING",
+        "HOOK",
+        "PAN"
+      ]
+    }
+  ]
+}

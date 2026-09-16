@@ -1,0 +1,47 @@
+{
+  "id": 213,
+  "date": "2024-01-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BIT OF MAGIC",
+      "level": 0,
+      "members": [
+        "CHARM",
+        "CURSE",
+        "HEX",
+        "SPELL"
+      ]
+    },
+    {
+      "name": "FOUND AROUND A FIREPLACE",
+      "level": 1,
+      "members": [
+        "FLUE",
+        "GRATE",
+        "LOG",
+        "POKER"
+      ]
+    },
+    {
+      "name": "THINGS SEEN AT A CASINO",
+      "level": 2,
+      "members": [
+        "CARDS",
+        "CHIPS",
+        "DICE",
+        "SLOTS"
+      ]
+    },
+    {
+      "name": "WAYS TO PREPARE CHEESE",
+      "level": 3,
+      "members": [
+        "CRUMBLE",
+        "MELT",
+        "SHRED",
+        "SLICE"
+      ]
+    }
+  ]
+}

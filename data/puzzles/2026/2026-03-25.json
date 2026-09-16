@@ -1,0 +1,47 @@
+{
+  "id": 1015,
+  "date": "2026-03-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OBFUSCATE",
+      "level": null,
+      "members": [
+        "BLUR",
+        "CLOUD",
+        "MUDDY",
+        "OBSCURE"
+      ]
+    },
+    {
+      "name": "MAGAZINES",
+      "level": null,
+      "members": [
+        "FORTUNE",
+        "PEOPLE",
+        "SPIN",
+        "TIME"
+      ]
+    },
+    {
+      "name": "PAYMENT METHODS",
+      "level": null,
+      "members": [
+        "CASH",
+        "CHARGE",
+        "CHECK",
+        "WIRE"
+      ]
+    },
+    {
+      "name": "UNITS OF VOLUME WITH LAST LETTER CHANGED",
+      "level": null,
+      "members": [
+        "CUR",
+        "GALLOP",
+        "PING",
+        "QUARK"
+      ]
+    }
+  ]
+}

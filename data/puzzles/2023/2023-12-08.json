@@ -1,0 +1,47 @@
+{
+  "id": 180,
+  "date": "2023-12-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DECLINE",
+      "level": 0,
+      "members": [
+        "EBB",
+        "FADE",
+        "FLAG",
+        "WANE"
+      ]
+    },
+    {
+      "name": "ABSOLUTE",
+      "level": 1,
+      "members": [
+        "PURE",
+        "SHEER",
+        "TOTAL",
+        "UTTER"
+      ]
+    },
+    {
+      "name": "EXPRESS",
+      "level": 2,
+      "members": [
+        "AIR",
+        "SPEAK",
+        "STATE",
+        "VOICE"
+      ]
+    },
+    {
+      "name": "SUPERHERO LAST NAMES",
+      "level": 3,
+      "members": [
+        "BANNER",
+        "PRINCE",
+        "STARK",
+        "WAYNE"
+      ]
+    }
+  ]
+}

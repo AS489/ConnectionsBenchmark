@@ -1,0 +1,47 @@
+{
+  "id": 442,
+  "date": "2024-08-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "OFFICIAL SANCTIONING",
+      "level": 0,
+      "members": [
+        "APPROVAL",
+        "BLESSING",
+        "CONSENT",
+        "SUPPORT"
+      ]
+    },
+    {
+      "name": "TORUS-SHAPED THINGS",
+      "level": 1,
+      "members": [
+        "BAGEL",
+        "LIFESAVER",
+        "TIRE",
+        "WREATH"
+      ]
+    },
+    {
+      "name": "BAD GOLF SHOTS",
+      "level": 2,
+      "members": [
+        "HOOK",
+        "SHANK",
+        "SLICE",
+        "WHIFF"
+      ]
+    },
+    {
+      "name": "FOOTWEAR MINUS “ER” SOUND",
+      "level": 3,
+      "members": [
+        "LOAF",
+        "SLIP",
+        "SNEAK",
+        "WADE"
+      ]
+    }
+  ]
+}

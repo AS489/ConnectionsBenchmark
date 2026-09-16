@@ -1,0 +1,47 @@
+{
+  "id": 1066,
+  "date": "2026-05-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONDUIT",
+      "level": null,
+      "members": [
+        "DUCT",
+        "LINE",
+        "MAIN",
+        "PIPE"
+      ]
+    },
+    {
+      "name": "SWINDLE",
+      "level": null,
+      "members": [
+        "FLEECE",
+        "HOSE",
+        "SQUEEZE",
+        "STIFF"
+      ]
+    },
+    {
+      "name": "TEA-MAKING VERBS",
+      "level": null,
+      "members": [
+        "BOIL",
+        "POUR",
+        "STEEP",
+        "STRAIN"
+      ]
+    },
+    {
+      "name": "\"SCHOOL\" MODIFIERS",
+      "level": null,
+      "members": [
+        "GRADE",
+        "GRAMMAR",
+        "HIGH",
+        "PRIMARY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 745,
+  "date": "2025-06-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF CHEESES",
+      "level": 0,
+      "members": [
+        "BLUE",
+        "GOAT",
+        "JACK",
+        "SWISS"
+      ]
+    },
+    {
+      "name": "BEVERAGE SELF-SERVICE ITEMS",
+      "level": 1,
+      "members": [
+        "CUP",
+        "LID",
+        "NAPKIN",
+        "STRAW"
+      ]
+    },
+    {
+      "name": "WOODWORKING HAND TOOLS",
+      "level": 2,
+      "members": [
+        "CHISEL",
+        "PLANE",
+        "RASP",
+        "SAW"
+      ]
+    },
+    {
+      "name": "BIRDS MINUS LAST LETTER",
+      "level": 3,
+      "members": [
+        "CRAN",
+        "FLAMING",
+        "HERO",
+        "RAVE"
+      ]
+    }
+  ]
+}

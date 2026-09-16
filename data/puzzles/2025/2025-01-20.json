@@ -1,0 +1,47 @@
+{
+  "id": 589,
+  "date": "2025-01-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TAKE ON, AS A RESPONSIBILITY",
+      "level": 0,
+      "members": [
+        "ASSUME",
+        "BEAR",
+        "HANDLE",
+        "SHOULDER"
+      ]
+    },
+    {
+      "name": "CORNERS",
+      "level": 1,
+      "members": [
+        "ANGLE",
+        "BEND",
+        "CROOK",
+        "ELBOW"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH POPEYE",
+      "level": 2,
+      "members": [
+        "ANCHOR",
+        "FOREARM",
+        "PIPE",
+        "SPINACH"
+      ]
+    },
+    {
+      "name": "___ SHEET",
+      "level": 3,
+      "members": [
+        "BALANCE",
+        "CHEAT",
+        "COOKIE",
+        "FITTED"
+      ]
+    }
+  ]
+}

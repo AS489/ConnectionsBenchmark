@@ -1,0 +1,47 @@
+{
+  "id": 329,
+  "date": "2024-05-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SOMETHING GAINED FROM HARD WORK",
+      "level": 0,
+      "members": [
+        "BENEFIT",
+        "FRUIT",
+        "RETURN",
+        "REWARD"
+      ]
+    },
+    {
+      "name": "KINDS OF BAGELS",
+      "level": 1,
+      "members": [
+        "EGG",
+        "EVERYTHING",
+        "PLAIN",
+        "POPPY"
+      ]
+    },
+    {
+      "name": "CONTRIBUTE TO A MOVIE",
+      "level": 2,
+      "members": [
+        "ACT",
+        "DIRECT",
+        "PRODUCE",
+        "WRITE"
+      ]
+    },
+    {
+      "name": "STARTS OF MONSTERS",
+      "level": 3,
+      "members": [
+        "FRANK",
+        "MUM",
+        "VAMP",
+        "WERE"
+      ]
+    }
+  ]
+}

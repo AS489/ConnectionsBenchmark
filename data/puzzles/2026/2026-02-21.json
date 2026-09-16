@@ -1,0 +1,47 @@
+{
+  "id": 984,
+  "date": "2026-02-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXPERIENCE",
+      "level": null,
+      "members": [
+        "BACKGROUND",
+        "HISTORY",
+        "LIFE",
+        "PAST"
+      ]
+    },
+    {
+      "name": "ATTENDANCE STATUS",
+      "level": null,
+      "members": [
+        "ABSENT",
+        "EXCUSED",
+        "LATE",
+        "PRESENT"
+      ]
+    },
+    {
+      "name": "COMMENTARY ABOUT YOUR CONNECTIONS RESULTS",
+      "level": null,
+      "members": [
+        "GREAT",
+        "PERFECT",
+        "PHEW",
+        "SOLID"
+      ]
+    },
+    {
+      "name": "CAR BRANDS PLUS TWO LETTERS",
+      "level": null,
+      "members": [
+        "AUDITS",
+        "DODGERS",
+        "INFINITIVE",
+        "MINION"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 171,
+  "date": "2023-11-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOOT PARTS",
+      "level": 0,
+      "members": [
+        "ARCH",
+        "BALL",
+        "SOLE",
+        "TOE"
+      ]
+    },
+    {
+      "name": "MUSICAL INSTRUMENTS",
+      "level": 1,
+      "members": [
+        "BASS",
+        "HARP",
+        "HORN",
+        "ORGAN"
+      ]
+    },
+    {
+      "name": "DOG COMMANDS",
+      "level": 2,
+      "members": [
+        "COME",
+        "DOWN",
+        "SIT",
+        "STAY"
+      ]
+    },
+    {
+      "name": "BADDIE",
+      "level": 3,
+      "members": [
+        "DOG",
+        "HEEL",
+        "JERK",
+        "SNAKE"
+      ]
+    }
+  ]
+}

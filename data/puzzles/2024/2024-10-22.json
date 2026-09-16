@@ -1,0 +1,47 @@
+{
+  "id": 499,
+  "date": "2024-10-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BRAND-NAME",
+      "level": 0,
+      "members": [
+        "DESIGNER",
+        "HAUTE",
+        "HIGH-END",
+        "LUXURY"
+      ]
+    },
+    {
+      "name": "DEVISE",
+      "level": 1,
+      "members": [
+        "CONCOCT",
+        "ENGINEER",
+        "HATCH",
+        "MASTERMIND"
+      ]
+    },
+    {
+      "name": "NASA SPACECRAFT",
+      "level": 2,
+      "members": [
+        "GALILEO",
+        "PIONEER",
+        "VIKING",
+        "VOYAGER"
+      ]
+    },
+    {
+      "name": "GAMES WHERE YOU SAY THE GAME’S NAME",
+      "level": 3,
+      "members": [
+        "BINGO",
+        "MARCO POLO",
+        "TAG",
+        "UNO"
+      ]
+    }
+  ]
+}

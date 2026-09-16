@@ -1,0 +1,47 @@
+{
+  "id": 973,
+  "date": "2026-02-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EXHIBITION",
+      "level": null,
+      "members": [
+        "CONVENTION",
+        "EXPOSITION",
+        "FAIR",
+        "SHOW"
+      ]
+    },
+    {
+      "name": "WORDS SPELLING OUT INITIALISMS",
+      "level": null,
+      "members": [
+        "DEEJAY",
+        "EMCEE",
+        "KAYO",
+        "OKAY"
+      ]
+    },
+    {
+      "name": "DVD BONUS FEATURES",
+      "level": null,
+      "members": [
+        "COMMENTARY",
+        "INTERVIEW",
+        "OUTTAKES",
+        "TRAILER"
+      ]
+    },
+    {
+      "name": "STARTING WITH PARTS OF A WHEEL",
+      "level": null,
+      "members": [
+        "HUBBUB",
+        "RIMSHOT",
+        "SPOKESPERSON",
+        "TIRESOME"
+      ]
+    }
+  ]
+}

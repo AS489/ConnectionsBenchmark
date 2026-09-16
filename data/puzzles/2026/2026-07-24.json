@@ -1,0 +1,47 @@
+{
+  "id": 1134,
+  "date": "2026-07-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "TALK AT LENGTH",
+      "level": null,
+      "members": [
+        "BABBLE",
+        "DRONE",
+        "RAMBLE",
+        "YAK"
+      ]
+    },
+    {
+      "name": "OUTCOMES FOR A BATTER",
+      "level": null,
+      "members": [
+        "HOME RUN",
+        "SINGLE",
+        "STRIKEOUT",
+        "WALK"
+      ]
+    },
+    {
+      "name": "BRING TO MIND, AS A MEMORY",
+      "level": null,
+      "members": [
+        "JOG",
+        "PROMPT",
+        "REFRESH",
+        "SPARK"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF RELIGIOUS ROLES",
+      "level": null,
+      "members": [
+        "CANTER",
+        "FRYER",
+        "LLAMA",
+        "NONE"
+      ]
+    }
+  ]
+}

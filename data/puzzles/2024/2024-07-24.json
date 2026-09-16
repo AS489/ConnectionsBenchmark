@@ -1,0 +1,47 @@
+{
+  "id": 409,
+  "date": "2024-07-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "JOKE AROUND WITH",
+      "level": 0,
+      "members": [
+        "KID",
+        "RAZZ",
+        "RIB",
+        "TEASE"
+      ]
+    },
+    {
+      "name": "POULTRY CUTS",
+      "level": 1,
+      "members": [
+        "BREAST",
+        "TENDER",
+        "THIGH",
+        "WING"
+      ]
+    },
+    {
+      "name": "BABY ANIMALS",
+      "level": 2,
+      "members": [
+        "CALF",
+        "CUB",
+        "FAWN",
+        "KIT"
+      ]
+    },
+    {
+      "name": "PUSH THROUGH A CROWD",
+      "level": 3,
+      "members": [
+        "BARGE",
+        "JOSTLE",
+        "MUSCLE",
+        "SHOULDER"
+      ]
+    }
+  ]
+}

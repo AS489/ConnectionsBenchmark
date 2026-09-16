@@ -1,0 +1,47 @@
+{
+  "id": 302,
+  "date": "2024-04-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BRIEF MOMENT",
+      "level": 0,
+      "members": [
+        "FLASH",
+        "HEARTBEAT",
+        "JIFF",
+        "WINK"
+      ]
+    },
+    {
+      "name": "DISPUTE",
+      "level": 1,
+      "members": [
+        "CLASH",
+        "SCRAP",
+        "TANGLE",
+        "TIFF"
+      ]
+    },
+    {
+      "name": "SLANG FOR ZERO",
+      "level": 2,
+      "members": [
+        "JACK",
+        "LOVE",
+        "SQUAT",
+        "ZIP"
+      ]
+    },
+    {
+      "name": "ACCESSORIES FOR MR. PEANUT",
+      "level": 3,
+      "members": [
+        "CANE",
+        "MONOCLE",
+        "SPAT",
+        "TOP HAT"
+      ]
+    }
+  ]
+}

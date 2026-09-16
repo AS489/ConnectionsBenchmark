@@ -1,0 +1,47 @@
+{
+  "id": 423,
+  "date": "2024-08-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CRAM",
+      "level": 0,
+      "members": [
+        "JAM",
+        "PACK",
+        "RAM",
+        "STUFF"
+      ]
+    },
+    {
+      "name": "RESTAURANT JOBS",
+      "level": 1,
+      "members": [
+        "COOK",
+        "DISHWASHER",
+        "HOST",
+        "SERVER"
+      ]
+    },
+    {
+      "name": "ELECTROMAGNETIC SPECTRUM",
+      "level": 2,
+      "members": [
+        "MICROWAVE",
+        "RADIO",
+        "VISIBLE",
+        "X-RAY"
+      ]
+    },
+    {
+      "name": "THINGS WITH BITS",
+      "level": 3,
+      "members": [
+        "BRIDLE",
+        "BYTE",
+        "COMEDIAN",
+        "DRILL"
+      ]
+    }
+  ]
+}

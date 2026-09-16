@@ -1,0 +1,47 @@
+{
+  "id": 721,
+  "date": "2025-06-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LOCAL WATERING HOLE",
+      "level": 0,
+      "members": [
+        "DIVE",
+        "ESTABLISHMENT",
+        "HAUNT",
+        "JOINT"
+      ]
+    },
+    {
+      "name": "COMPETE IN A MODERN PENTATHLON",
+      "level": 1,
+      "members": [
+        "FENCE",
+        "RIDE",
+        "SHOOT",
+        "SWIM"
+      ]
+    },
+    {
+      "name": "ENSURE, AS A VICTORY",
+      "level": 2,
+      "members": [
+        "CINCH",
+        "GUARANTEE",
+        "ICE",
+        "LOCK"
+      ]
+    },
+    {
+      "name": "___ FUND",
+      "level": 3,
+      "members": [
+        "HEDGE",
+        "MUTUAL",
+        "SLUSH",
+        "TRUST"
+      ]
+    }
+  ]
+}

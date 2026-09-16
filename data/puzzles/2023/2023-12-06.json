@@ -1,0 +1,47 @@
+{
+  "id": 178,
+  "date": "2023-12-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOUND ON SHEET MUSIC",
+      "level": 0,
+      "members": [
+        "CLEF",
+        "NOTE",
+        "REST",
+        "STAFF"
+      ]
+    },
+    {
+      "name": "ZODIAC SYMBOLS",
+      "level": 1,
+      "members": [
+        "BULL",
+        "CRAB",
+        "SCALES",
+        "TWINS"
+      ]
+    },
+    {
+      "name": "RECORD LABELS",
+      "level": 2,
+      "members": [
+        "CAPITOL",
+        "COLUMBIA",
+        "VIRGIN",
+        "ISLAND"
+      ]
+    },
+    {
+      "name": "ZODIAC SIGN BEGINNINGS",
+      "level": 3,
+      "members": [
+        "CAN",
+        "GEM",
+        "LIB",
+        "TAU"
+      ]
+    }
+  ]
+}

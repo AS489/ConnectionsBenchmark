@@ -1,0 +1,47 @@
+{
+  "id": 816,
+  "date": "2025-09-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WHAT YOU MIGHT SEE ON A CHRISTMAS TREE",
+      "level": 0,
+      "members": [
+        "ANGEL",
+        "CANDY CANE",
+        "STRING LIGHTS",
+        "TINSEL"
+      ]
+    },
+    {
+      "name": "CLEAN UP, AS A PHOTOGRAPH",
+      "level": 1,
+      "members": [
+        "AIRBRUSH",
+        "FIX",
+        "PHOTOSHOP",
+        "TOUCH UP"
+      ]
+    },
+    {
+      "name": "FRENCH FOOD WORDS",
+      "level": 2,
+      "members": [
+        "CORNICHON",
+        "PAIN",
+        "PAMPLEMOUSSE",
+        "VINAIGRETTE"
+      ]
+    },
+    {
+      "name": "THINGS WITH CELLS",
+      "level": 3,
+      "members": [
+        "HONEYCOMB",
+        "ORGANISM",
+        "SOLAR PANEL",
+        "SPREADSHEET"
+      ]
+    }
+  ]
+}

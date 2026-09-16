@@ -1,0 +1,47 @@
+{
+  "id": 194,
+  "date": "2023-12-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CLASSIC HALLOWEEN COSTUMES",
+      "level": 0,
+      "members": [
+        "ANGEL",
+        "CLOWN",
+        "PIRATE",
+        "WITCH"
+      ]
+    },
+    {
+      "name": "BEE CREATIONS",
+      "level": 1,
+      "members": [
+        "COMB",
+        "HIVE",
+        "HONEY",
+        "WAX"
+      ]
+    },
+    {
+      "name": "INTERVAL OF TIME",
+      "level": 2,
+      "members": [
+        "PERIOD",
+        "SPELL",
+        "STRETCH",
+        "WHILE"
+      ]
+    },
+    {
+      "name": "ANIMAL HOMOPHONES",
+      "level": 3,
+      "members": [
+        "DEAR",
+        "HAIR",
+        "HOARSE",
+        "WAIL"
+      ]
+    }
+  ]
+}

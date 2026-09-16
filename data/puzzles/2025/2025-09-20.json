@@ -1,0 +1,47 @@
+{
+  "id": 832,
+  "date": "2025-09-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CAR BRANDS",
+      "level": null,
+      "members": [
+        "DODGE",
+        "FORD",
+        "LINCOLN",
+        "RAM"
+      ]
+    },
+    {
+      "name": "BIT OF SPORTS BAR FARE",
+      "level": null,
+      "members": [
+        "CHIP",
+        "DIP",
+        "FRY",
+        "WING"
+      ]
+    },
+    {
+      "name": "N.H.L. TEAM MEMBER",
+      "level": null,
+      "members": [
+        "DUCK",
+        "FLYER",
+        "SENATOR",
+        "STAR"
+      ]
+    },
+    {
+      "name": "SKY___",
+      "level": null,
+      "members": [
+        "DIVE",
+        "LARK",
+        "ROCKET",
+        "SCRAPER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1035,
+  "date": "2026-04-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "GRADUATION GEAR",
+      "level": null,
+      "members": [
+        "CAP",
+        "DIPLOMA",
+        "GOWN",
+        "TASSEL"
+      ]
+    },
+    {
+      "name": "TEDIOUS UNDERTAKING",
+      "level": null,
+      "members": [
+        "CHORE",
+        "GRIND",
+        "HASSLE",
+        "TRIAL"
+      ]
+    },
+    {
+      "name": "OVERSIMPLISTIC",
+      "level": null,
+      "members": [
+        "FACILE",
+        "FLIP",
+        "SHALLOW",
+        "TRITE"
+      ]
+    },
+    {
+      "name": "SHAPES OF CHESS PIECES",
+      "level": null,
+      "members": [
+        "CASTLE",
+        "CROWN",
+        "HORSE",
+        "MITER"
+      ]
+    }
+  ]
+}

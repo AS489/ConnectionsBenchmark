@@ -1,0 +1,47 @@
+{
+  "id": 804,
+  "date": "2025-08-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LIQUIDS YOU PUT INTO CARS",
+      "level": 0,
+      "members": [
+        "BRAKE FLUID",
+        "COOLANT",
+        "FUEL",
+        "OIL"
+      ]
+    },
+    {
+      "name": "ARENA",
+      "level": 1,
+      "members": [
+        "BOWL",
+        "COLISEUM",
+        "HIPPODROME",
+        "STADIUM"
+      ]
+    },
+    {
+      "name": "SKULDUGGERY",
+      "level": 2,
+      "members": [
+        "CHICANERY",
+        "DECEIT",
+        "LEGERDEMAIN",
+        "SUBTERFUGE"
+      ]
+    },
+    {
+      "name": "MODERN INVENTIONS",
+      "level": 3,
+      "members": [
+        "CRYPTO",
+        "PODCAST",
+        "SMARTWATCH",
+        "VAPE"
+      ]
+    }
+  ]
+}

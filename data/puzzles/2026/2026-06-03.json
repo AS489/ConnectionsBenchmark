@@ -1,0 +1,47 @@
+{
+  "id": 1083,
+  "date": "2026-06-03",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF RICE",
+      "level": null,
+      "members": [
+        "BROWN",
+        "JASMINE",
+        "STICKY",
+        "SUSHI"
+      ]
+    },
+    {
+      "name": "GUMMY BEAR DESCRIPTORS",
+      "level": null,
+      "members": [
+        "COLORFUL",
+        "GUMMY",
+        "SUGARY",
+        "URSINE"
+      ]
+    },
+    {
+      "name": "SAVORY STUFFED PASTRIES",
+      "level": null,
+      "members": [
+        "EMPANADA",
+        "FATAYER",
+        "PASTY",
+        "SAMOSA"
+      ]
+    },
+    {
+      "name": "DISNEY PRINCESSES MINUS LAST LETTER",
+      "level": null,
+      "members": [
+        "ARIE",
+        "BELL",
+        "MOAN",
+        "RAY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1039,
+  "date": "2026-04-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CHEEKY",
+      "level": null,
+      "members": [
+        "ARCH",
+        "FRESH",
+        "SASSY",
+        "WISE"
+      ]
+    },
+    {
+      "name": "DRESS MEASUREMENTS",
+      "level": null,
+      "members": [
+        "BUST",
+        "HIPS",
+        "LENGTH",
+        "WAIST"
+      ]
+    },
+    {
+      "name": "CARDS IN TEXAS HOLD 'EM",
+      "level": null,
+      "members": [
+        "FLOP",
+        "HOLE",
+        "RIVER",
+        "TURN"
+      ]
+    },
+    {
+      "name": "LAST WORDS OF CANDY BRANDS IN THE SINGULAR",
+      "level": null,
+      "members": [
+        "CAP",
+        "DUD",
+        "KID",
+        "MINT"
+      ]
+    }
+  ]
+}

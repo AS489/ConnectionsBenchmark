@@ -1,0 +1,47 @@
+{
+  "id": 791,
+  "date": "2025-08-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "INFLUENCE",
+      "level": 0,
+      "members": [
+        "JUICE",
+        "PULL",
+        "SWAY",
+        "WEIGHT"
+      ]
+    },
+    {
+      "name": "AMASS",
+      "level": 1,
+      "members": [
+        "CLUSTER",
+        "COLLECT",
+        "CONCENTRATE",
+        "GROUP"
+      ]
+    },
+    {
+      "name": "KINDS OF FICTION",
+      "level": 2,
+      "members": [
+        "FAN",
+        "HISTORICAL",
+        "PULP",
+        "SCIENCE"
+      ]
+    },
+    {
+      "name": "STARTING WITH MATH AND SCIENCE CLASSES, FOR SHORT",
+      "level": 3,
+      "members": [
+        "BIOPIC",
+        "CALCIUM",
+        "CHEMISE",
+        "TRIGLYCERIDE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 794,
+  "date": "2025-08-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CAPTIVATE",
+      "level": 0,
+      "members": [
+        "CHARM",
+        "ENTRANCE",
+        "RIVET",
+        "THRILL"
+      ]
+    },
+    {
+      "name": "EXCERPT",
+      "level": 1,
+      "members": [
+        "CLIP",
+        "EXTRACT",
+        "PASSAGE",
+        "QUOTE"
+      ]
+    },
+    {
+      "name": "MEMBER OF A GIRL GROUP",
+      "level": 2,
+      "members": [
+        "BANGLE",
+        "CHICK",
+        "GO-GO",
+        "SUPREME"
+      ]
+    },
+    {
+      "name": "STAR___",
+      "level": 3,
+      "members": [
+        "BOARD",
+        "FISH",
+        "GATE",
+        "STRUCK"
+      ]
+    }
+  ]
+}

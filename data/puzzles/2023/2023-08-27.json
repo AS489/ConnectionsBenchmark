@@ -1,0 +1,47 @@
+{
+  "id": 77,
+  "date": "2023-08-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PIECES OF CHICKEN",
+      "level": 0,
+      "members": [
+        "BREAST",
+        "DRUMSTICK",
+        "TENDER",
+        "WING"
+      ]
+    },
+    {
+      "name": "GOLF TERMS",
+      "level": 1,
+      "members": [
+        "DRIVER",
+        "EAGLE",
+        "HOLE",
+        "STROKE"
+      ]
+    },
+    {
+      "name": "DRUM SET COMPONENTS",
+      "level": 2,
+      "members": [
+        "CYMBAL",
+        "KICK",
+        "SNARE",
+        "TOM"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH “CRAWL”",
+      "level": 3,
+      "members": [
+        "INFANT",
+        "PUB",
+        "SWIMMING",
+        "TICKER"
+      ]
+    }
+  ]
+}

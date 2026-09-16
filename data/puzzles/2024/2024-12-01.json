@@ -1,0 +1,47 @@
+{
+  "id": 539,
+  "date": "2024-12-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SANCTUARY",
+      "level": 0,
+      "members": [
+        "HAVEN",
+        "PORT",
+        "RETREAT",
+        "SHELTER"
+      ]
+    },
+    {
+      "name": "FOOTBALL GEAR",
+      "level": 1,
+      "members": [
+        "CLEATS",
+        "HELMET",
+        "JERSEY",
+        "PADS"
+      ]
+    },
+    {
+      "name": "CANDY NAMES",
+      "level": 2,
+      "members": [
+        "CHARMS",
+        "KINDER",
+        "WONKA",
+        "YORK"
+      ]
+    },
+    {
+      "name": "“FREE ___”",
+      "level": 3,
+      "members": [
+        "BIRD",
+        "FALLIN’",
+        "SOLO",
+        "WILLY"
+      ]
+    }
+  ]
+}
