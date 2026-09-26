@@ -13,11 +13,12 @@ BOARD = CORPUS["board"]
 @pytest.mark.parametrize("case", CORPUS["cases"], ids=lambda c: c["file"])
 def test_corpus(case):
     text = (FIXTURES / "parse" / case["file"]).read_text()
+    board = case.get("board", BOARD)
     if case.get("error"):
         with pytest.raises(ParseError):
-            parse_guess(text, BOARD)
+            parse_guess(text, board)
     else:
-        assert list(parse_guess(text, BOARD)) == case["expected"]
+        assert list(parse_guess(text, board)) == case["expected"]
 
 
 def test_every_fixture_file_has_a_case():

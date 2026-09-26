@@ -21,7 +21,13 @@ from pathlib import Path
 
 from .game import GameState, InvalidGuess, Status, make_seed
 from .parse import ParseError, extract_reasoning, parse_guess
-from .prompts import SYSTEM_PROMPT, feedback_message, opening_message, retry_message
+from .prompts import (
+    SYSTEM_PROMPT,
+    TRUNCATED_REASON,
+    feedback_message,
+    opening_message,
+    retry_message,
+)
 from .provider import ModelConfig, Provider, ProviderError, redact
 from .puzzles import Puzzle
 from .scoring import RUN_SCHEMA_VERSION, score_game
@@ -129,10 +135,14 @@ def play(
                     words = parse_guess(text, game.remaining_words)
                 except ParseError as e:
                     game.record_invalid_response()
-                    entry["error"] = e.reason
+                    # Truncation is a distinct failure from a malformed guess, and
+                    # feeding back the wrong one derails the next turn.
+                    reason = TRUNCATED_REASON if resp.finish_reason == "length" else e.reason
+                    entry["error"] = reason
+                    entry["truncated"] = resp.finish_reason == "length"
                     if game.status.terminal:
                         break
-                    messages.append({"role": "user", "content": retry_message(e.reason)})
+                    messages.append({"role": "user", "content": retry_message(reason)})
                     continue
                 try:
                     result = game.guess(words)

@@ -112,3 +112,27 @@ def test_write_record_idempotent(tmp_path, puzzle):
     assert write_record(root, rec) is None
     assert write_record(root, rec, force=True) == p
     assert run_path(root, "2026-09-15", "m", attempt=2).name == "m__a2.json"
+
+
+def test_truncated_response_gets_truncation_feedback_not_a_word_error(puzzle):
+    """A reasoning model that runs out of tokens mid-thought must be told *that*,
+    not that some word it never guessed isn't on the board. Regression from a real
+    nvidia/nemotron-3-super-120b run on 2026-09-26 that forfeited with 9 invalids."""
+    from connbench.prompts import TRUNCATED_REASON
+    from connbench.provider import ProviderResponse
+
+    class Rambler:
+        name = "rambler"
+
+        def complete(self, messages, cfg):
+            return ProviderResponse(
+                text="We need to find groups of 4. Let's see: STARCH, maybe GUM, or",
+                finish_reason="length",
+            )
+
+    rec = play(puzzle, CFG, Rambler())
+    assert rec["status"] == "forfeit"
+    first = rec["turns"][0]["responses"][0]
+    assert first["truncated"] is True
+    assert first["error"] == TRUNCATED_REASON
+    assert "not a word on the board" not in first["error"]

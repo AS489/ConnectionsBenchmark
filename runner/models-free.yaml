@@ -1,0 +1,29 @@
+# Free-tier roster, used to shake out the system without spending anything.
+# Deliberately mixes models that DO support strict response_format with ones that
+# DON'T — the latter exercise parse.py's tolerant fallback, which is the riskier
+# code path and the one most worth testing before paying for anything.
+#
+# Not a serious benchmark roster: see models.yaml for that.
+
+defaults:
+  temperature: 0
+  max_tokens: 32000
+  attempts_per_day: 1
+  max_cost_usd_per_run: 0.01   # free models report 0; this is a tripwire, not a budget
+
+models:
+  # --- strict json_schema supported: tests the compliant path
+  - slug: free__nemotron-3-super-120b
+    openrouter_id: nvidia/nemotron-3-super-120b-a12b:free
+    json_schema: true
+  - slug: free__gemma-4-31b
+    openrouter_id: google/gemma-4-31b-it:free
+    json_schema: true
+
+  # --- no schema support: forces parse.py to do the work
+  - slug: free__nemotron-3-ultra-550b
+    openrouter_id: nvidia/nemotron-3-ultra-550b-a55b:free
+    json_schema: false
+  - slug: free__qwen3.8-27b
+    openrouter_id: qwen/qwen3.8-27b:free
+    json_schema: false

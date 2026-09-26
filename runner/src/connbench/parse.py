@@ -86,8 +86,14 @@ def _as_word_list(value) -> list[str] | None:
     return None
 
 
-def extract_guess_strings(text: str) -> list[str]:
-    """Pull the raw guess strings out of a response, before board matching."""
+def extract_guess_strings(text: str, board: Iterable[str] | None = None) -> list[str]:
+    """Pull the raw guess strings out of a response, before board matching.
+
+    ``board`` enables the last-resort prose scan. That tier is only safe when it can
+    verify its work: a reasoning model's prose is full of comma-separated lists, and
+    without checking the candidates against the board we happily "extract" a guess
+    from a sentence and then report a baffling error the model cannot act on.
+    """
     body = _strip_fences(text)
 
     for value in _json_candidates(body):
@@ -108,13 +114,22 @@ def extract_guess_strings(text: str) -> list[str]:
                 return words
 
     # Last resort: a labelled line like "Guess: A, B, C, D" or a bare comma list.
-    lines = [ln.strip() for ln in body.splitlines() if ln.strip()]
-    for ln in reversed(lines):
-        ln = re.sub(r"^[-*\d.)\s]*", "", ln)
-        ln = re.sub(r"^(final\s+)?(guess|answer|group|words)\s*[:=-]\s*", "", ln, flags=re.I)
-        parts = [p.strip(" \"'[]()") for p in _SPLIT_RE.split(ln) if p.strip(" \"'[]()")]
-        if len(parts) == 4:
-            return parts
+    # Only accepted when every part resolves to a board word — see the docstring.
+    if board is not None:
+        board = tuple(board)
+        lines = [ln.strip() for ln in body.splitlines() if ln.strip()]
+        for ln in reversed(lines):
+            ln = re.sub(r"^[-*\d.)\s]*", "", ln)
+            ln = re.sub(r"^(final\s+)?(guess|answer|group|words)\s*[:=-]\s*", "", ln, flags=re.I)
+            parts = [p.strip(" \"'[]()") for p in _SPLIT_RE.split(ln) if p.strip(" \"'[]()")]
+            if len(parts) != 4:
+                continue
+            try:
+                matched = [match_word(p, board) for p in parts]
+            except ParseError:
+                continue
+            if len(set(matched)) == 4:
+                return parts
 
     raise ParseError("no JSON object with a 4-word \"guess\" array was found")
 
@@ -165,7 +180,7 @@ def _similar(a: str, b: str) -> float:
 def parse_guess(text: str, board: Iterable[str]) -> tuple[str, str, str, str]:
     """Parse a response into exactly four distinct canonical board words."""
     board = tuple(canonical(b) for b in board)
-    raw_words = extract_guess_strings(text)
+    raw_words = extract_guess_strings(text, board)
     if len(raw_words) != 4:
         raise ParseError(f"a guess must contain exactly 4 words, got {len(raw_words)}")
     matched = tuple(match_word(w, board) for w in raw_words)

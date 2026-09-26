@@ -83,6 +83,16 @@ def feedback_message(game: GameState, result: GuessResult) -> str:
     )
 
 
+# A reasoning model that exhausts its token budget mid-thought returns prose and
+# finish_reason="length". Telling it "X is not a word on the board" is actively
+# misleading — it never got as far as guessing. Name the real problem instead.
+TRUNCATED_REASON = (
+    "your response was cut off before you produced a JSON object — you reached the "
+    "token limit while still reasoning. Think in far fewer words and emit the JSON "
+    "object first"
+)
+
+
 def retry_message(reason: str) -> str:
     return (
         f"Your response could not be used: {reason}\n\n"
