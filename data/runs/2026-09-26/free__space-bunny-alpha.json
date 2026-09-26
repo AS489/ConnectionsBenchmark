@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-26",
+  "puzzle_id": 1198,
+  "model": "free__space-bunny-alpha",
+  "openrouter_id": "stealth/space-bunny-alpha",
+  "resolved_model": "stealth/space-bunny-alpha",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-26|free__space-bunny-alpha|1",
+  "board": [
+    "GRAIN",
+    "MOUTHWASH",
+    "PRESS",
+    "MINT",
+    "BEANS",
+    "CUSTOMER",
+    "KNOTS",
+    "CAT",
+    "SPRAY",
+    "CUCUMBER",
+    "STARCH",
+    "RINGS",
+    "FOLD",
+    "WASH",
+    "BURL",
+    "GUM"
+  ],
+  "started_at": "2026-09-26T20:23:17+00:00",
+  "finished_at": "2026-09-26T20:24:18+00:00",
+  "error": null,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 0,
+  "guesses_made": 4,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "BREATH FRESHENERS": 1,
+    "FEATURES OF WOOD": 2,
+    "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY": 3,
+    "\"COOL\" THINGS, IN EXPRESSIONS": 4
+  },
+  "usage": {
+    "prompt_tokens": 2639,
+    "completion_tokens": 4495,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 60105,
+    "requests": 4
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These four are all associated with oral care or fresh breath: mouthwash, mint, gum, and spray.\",\"guess\":[\"MOUTHWASH\",\"MINT\",\"GUM\",\"SPRAY\"]}",
+          "reasoning": "These four are all associated with oral care or fresh breath: mouthwash, mint, gum, and spray.",
+          "latency_ms": 30849,
+          "prompt_tokens": 476,
+          "completion_tokens": 2622,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "MOUTHWASH",
+        "MINT",
+        "GUM",
+        "SPRAY"
+      ],
+      "group": "BREATH FRESHENERS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These are all characteristic patterns or features found in wood: grain, knots, growth rings, and burls.\",\"guess\":[\"GRAIN\",\"KNOTS\",\"RINGS\",\"BURL\"]}",
+          "reasoning": "These are all characteristic patterns or features found in wood: grain, knots, growth rings, and burls.",
+          "latency_ms": 12182,
+          "prompt_tokens": 608,
+          "completion_tokens": 912,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "GRAIN",
+        "KNOTS",
+        "RINGS",
+        "BURL"
+      ],
+      "group": "FEATURES OF WOOD",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"WASH, PRESS, FOLD, and STARCH are all steps or products used in laundry care.\",\"guess\":[\"WASH\",\"PRESS\",\"FOLD\",\"STARCH\"]}",
+          "reasoning": "WASH, PRESS, FOLD, and STARCH are all steps or products used in laundry care.",
+          "latency_ms": 11057,
+          "prompt_tokens": 723,
+          "completion_tokens": 649,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "WASH",
+        "PRESS",
+        "FOLD",
+        "STARCH"
+      ],
+      "group": "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"This is the remaining set of four words.\",\"guess\":[\"BEANS\",\"CUSTOMER\",\"CAT\",\"CUCUMBER\"]}",
+          "reasoning": "This is the remaining set of four words.",
+          "latency_ms": 6017,
+          "prompt_tokens": 832,
+          "completion_tokens": 312,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "BEANS",
+        "CUSTOMER",
+        "CAT",
+        "CUCUMBER"
+      ],
+      "group": "\"COOL\" THINGS, IN EXPRESSIONS",
+      "mistakes_after": 0
+    }
+  ]
+}
