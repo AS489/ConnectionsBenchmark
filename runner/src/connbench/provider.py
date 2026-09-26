@@ -214,9 +214,10 @@ class OpenRouterProvider:
 
     api_key: str | None = None
     transport: Transport = _urllib_transport
-    timeout: float = 180.0
-    max_retries: int = 4
+    timeout: float = 600.0      # free-tier models queue behind paying traffic
+    max_retries: int = 6
     backoff_base: float = 2.0
+    backoff_cap: float = 120.0  # 2,4,8,16,32,64 -> ~2 min of patience before giving up
     sleep: Callable[[float], None] = time.sleep
     name: str = field(default="openrouter", init=False)
 
@@ -294,7 +295,7 @@ class OpenRouterProvider:
 
     def _wait(self, attempt: int) -> None:
         if attempt < self.max_retries:
-            self.sleep(min(self.backoff_base ** attempt, 30.0))
+            self.sleep(min(self.backoff_base ** attempt, self.backoff_cap))
 
     @staticmethod
     def _parse_success(body: dict, latency_ms: int) -> ProviderResponse:

@@ -1,30 +1,69 @@
-# Free-tier roster, used to shake out the system without spending anything.
-# Deliberately mixes models that DO support strict response_format with ones that
-# DON'T — the latter exercise parse.py's tolerant fallback, which is the riskier
-# code path and the one most worth testing before paying for anything.
+# Free-tier roster — every free text model OpenRouter offers that can plausibly
+# play the game. Generated 2026-09-26; regenerate with scripts/gen_free_roster.py.
 #
-# Not a serious benchmark roster: see models.yaml for that.
+# Excluded by design: lyria-* (music generation), nemotron-3.5-content-safety
+# (a classifier), and openrouter/free (a ROUTER — it resolves to a different
+# model per call, which breaks the snapshot pinning the benchmark depends on).
+#
+# Token budgets: see the header of models.yaml. Time is generation-bound, so
+# `reasoning` is the lever, not max_tokens.
 
 defaults:
   temperature: 0
   reasoning: { max_tokens: 6000 }
   max_tokens: 8000
   attempts_per_day: 1
-  max_cost_usd_per_run: 0.01   # free models report 0; this is a tripwire, not a budget
+  max_cost_usd_per_run: 0.01   # free models report 0; a tripwire, not a budget
 
 models:
-  # --- strict json_schema supported: tests the compliant path
-  - slug: free__nemotron-3-super-120b
-    openrouter_id: nvidia/nemotron-3-super-120b-a12b:free
+  - slug: free__north-mini-code
+    openrouter_id: cohere/north-mini-code:free
+    json_schema: false
+  - slug: free__dots-3-note-preview
+    openrouter_id: dots-studio/dots-3-note-preview:free
     json_schema: true
-  - slug: free__gemma-4-31b
+  - slug: free__gemma-4-26b-a4b-it
+    openrouter_id: google/gemma-4-26b-a4b-it:free
+    json_schema: true
+  - slug: free__gemma-4-31b-it
     openrouter_id: google/gemma-4-31b-it:free
     json_schema: true
-
-  # --- no schema support: forces parse.py to do the work
-  - slug: free__nemotron-3-ultra-550b
+  - slug: free__ling-3-0-flash-fin
+    openrouter_id: inclusionai/ling-3.0-flash-fin:free
+    json_schema: false
+  - slug: free__ling-3-0-flash-sante
+    openrouter_id: inclusionai/ling-3.0-flash-sante:free
+    json_schema: false
+  - slug: free__lfm-2-5-2-6b
+    openrouter_id: liquid/lfm-2.5-2.6b:free
+    json_schema: true
+  - slug: free__nemotron-3-nano-omni-30b-a3b-reasoning
+    openrouter_id: nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free
+    json_schema: false
+  - slug: free__nemotron-3-super-120b-a12b
+    openrouter_id: nvidia/nemotron-3-super-120b-a12b:free
+    json_schema: true
+  - slug: free__nemotron-3-ultra-550b-a55b
     openrouter_id: nvidia/nemotron-3-ultra-550b-a55b:free
     json_schema: false
-  - slug: free__qwen3.8-27b
+  - slug: free__nemotron-3-5-lightning
+    openrouter_id: nvidia/nemotron-3.5-lightning:free
+    json_schema: false
+  - slug: free__laguna-s-2-1
+    openrouter_id: poolside/laguna-s-2.1:free
+    json_schema: false
+  - slug: free__laguna-xs-2-1
+    openrouter_id: poolside/laguna-xs-2.1:free
+    json_schema: false
+  - slug: free__qwen3-8-27b
     openrouter_id: qwen/qwen3.8-27b:free
+    json_schema: false
+  - slug: free__space-bunny-alpha
+    openrouter_id: stealth/space-bunny-alpha
+    json_schema: true
+  - slug: free__inkling-small
+    openrouter_id: thinkingmachines/inkling-small:free
+    json_schema: false
+  - slug: free__inkling
+    openrouter_id: thinkingmachines/inkling:free
     json_schema: false
