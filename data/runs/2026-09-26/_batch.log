@@ -26,3 +26,7 @@ forfeit  free__ling-3-0-flash-sante a1  groups=1 mistakes=2 invalid=10 cost=$0.0
 [7/17] start  free__lfm-2-5-2-6b  20:14:21
 ERROR: gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day free__lfm-2-5-2-6b a1  groups=0 mistakes=1 invalid=1 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-26/free__lfm-2-5-2-6b.json
 [7/17] done   free__lfm-2-5-2-6b in 89s
+[7/17] committed free__lfm-2-5-2-6b
+[8/17] start  free__nemotron-3-nano-omni-30b-a3b-reasoning  20:15:50
+ERROR: gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day free__nemotron-3-nano-omni-30b-a3b-reasoning a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-26/free__nemotron-3-nano-omni-30b-a3b-reasoning.json
+[8/17] done   free__nemotron-3-nano-omni-30b-a3b-reasoning in 64s
