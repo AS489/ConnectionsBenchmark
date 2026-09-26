@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-26",
+  "puzzle_id": 1198,
+  "model": "free__dots-3-note-preview",
+  "openrouter_id": "dots-studio/dots-3-note-preview:free",
+  "resolved_model": "dots-studio/dots-3-note-preview:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-26|free__dots-3-note-preview|1",
+  "board": [
+    "CUSTOMER",
+    "CAT",
+    "FOLD",
+    "STARCH",
+    "MOUTHWASH",
+    "BURL",
+    "GRAIN",
+    "WASH",
+    "BEANS",
+    "RINGS",
+    "GUM",
+    "KNOTS",
+    "SPRAY",
+    "MINT",
+    "CUCUMBER",
+    "PRESS"
+  ],
+  "started_at": "2026-09-26T20:04:07+00:00",
+  "finished_at": "2026-09-26T20:05:00+00:00",
+  "error": null,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 0,
+  "guesses_made": 4,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "BREATH FRESHENERS": 1,
+    "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY": 2,
+    "FEATURES OF WOOD": 3,
+    "\"COOL\" THINGS, IN EXPRESSIONS": 4
+  },
+  "usage": {
+    "prompt_tokens": 2318,
+    "completion_tokens": 4593,
+    "reasoning_tokens": 3564,
+    "cost_usd": 0.0,
+    "latency_ms": 52821,
+    "requests": 4
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"guess\": [\"GUM\", \"MINT\", \"MOUTHWASH\", \"SPRAY\"], \"reasoning\": \"The 16 words can be categorized into four groups: 1) Breath fresheners: GUM, MINT, MOUTHWASH, SPRAY; 2) Laundry actions: FOLD, PRESS, STARCH, WASH; 3) Wood features: BURL, GRAIN, KNOTS, RINGS; 4) 'Cool' phrases: BEANS, CAT, CUCUMBER, CUSTOMER.\"}",
+          "reasoning": "The 16 words can be categorized into four groups: 1) Breath fresheners: GUM, MINT, MOUTHWASH, SPRAY; 2) Laundry actions: FOLD, PRESS, STARCH, WASH; 3) Wood features: BURL, GRAIN, KNOTS, RINGS; 4) 'Cool' phrases: BEANS, CAT, CUCUMBER, CUSTOMER.",
+          "latency_ms": 31148,
+          "prompt_tokens": 338,
+          "completion_tokens": 2858,
+          "reasoning_tokens": 2115,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "GUM",
+        "MINT",
+        "MOUTHWASH",
+        "SPRAY"
+      ],
+      "group": "BREATH FRESHENERS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"guess\": [\"FOLD\", \"PRESS\", \"STARCH\", \"WASH\"], \"reasoning\": \"These four words are all actions related to laundry: folding, pressing, starching, and washing.\"}",
+          "reasoning": "These four words are all actions related to laundry: folding, pressing, starching, and washing.",
+          "latency_ms": 5858,
+          "prompt_tokens": 539,
+          "completion_tokens": 463,
+          "reasoning_tokens": 339,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "FOLD",
+        "PRESS",
+        "STARCH",
+        "WASH"
+      ],
+      "group": "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"guess\": [\"BURL\", \"GRAIN\", \"KNOTS\", \"RINGS\"], \"reasoning\": \"These words are all features or characteristics of wood: burl is a growth on trees, grain refers to the texture, knots are imperfections, and rings are annual growth rings.\"}",
+          "reasoning": "These words are all features or characteristics of wood: burl is a growth on trees, grain refers to the texture, knots are imperfections, and rings are annual growth rings.",
+          "latency_ms": 11159,
+          "prompt_tokens": 661,
+          "completion_tokens": 931,
+          "reasoning_tokens": 861,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "BURL",
+        "GRAIN",
+        "KNOTS",
+        "RINGS"
+      ],
+      "group": "FEATURES OF WOOD",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"guess\": [\"CUSTOMER\", \"CAT\", \"BEANS\", \"CUCUMBER\"], \"reasoning\": \"The remaining words all complete the phrase 'cool ___' or contain 'cool': 'cool customer', 'cool cat', 'cool beans', and 'cool as a cucumber'.\"}",
+          "reasoning": "The remaining words all complete the phrase 'cool ___' or contain 'cool': 'cool customer', 'cool cat', 'cool beans', and 'cool as a cucumber'.",
+          "latency_ms": 4656,
+          "prompt_tokens": 780,
+          "completion_tokens": 341,
+          "reasoning_tokens": 249,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "CUSTOMER",
+        "CAT",
+        "BEANS",
+        "CUCUMBER"
+      ],
+      "group": "\"COOL\" THINGS, IN EXPRESSIONS",
+      "mistakes_after": 0
+    }
+  ]
+}
