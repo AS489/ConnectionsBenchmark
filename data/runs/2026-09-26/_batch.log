@@ -66,3 +66,5 @@ ERROR: HTTP 403: thinkingmachines/inkling-small:free is only available on agenti
 [17/17] start  free__inkling  20:24:18
 ERROR: HTTP 403: thinkingmachines/inkling:free is only available on agentic harnesses. Try plugging it into a coding agent or productivity app listed on https://openrouter.ai/apps free__inkling a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-26/free__inkling.json
 [17/17] done   free__inkling in 0s
+[17/17] committed free__inkling
+=== batch finished 2026-09-26T20:24:18Z
