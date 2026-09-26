@@ -58,3 +58,7 @@ ERROR: gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-
 [15/17] start  free__space-bunny-alpha  20:23:17
 win      free__space-bunny-alpha a1  groups=4 mistakes=0 invalid=0 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-26/free__space-bunny-alpha.json
 [15/17] done   free__space-bunny-alpha in 61s
+[15/17] committed free__space-bunny-alpha
+[16/17] start  free__inkling-small  20:24:18
+ERROR: HTTP 403: thinkingmachines/inkling-small:free is only available on agentic harnesses. Try plugging it into a coding agent or productivity app listed on https://openrouter.ai/apps free__inkling-small a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-26/free__inkling-small.json
+[16/17] done   free__inkling-small in 0s
