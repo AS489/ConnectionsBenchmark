@@ -1,0 +1,47 @@
+{
+  "id": 1197,
+  "date": "2026-09-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "LUXE",
+      "level": null,
+      "members": [
+        "BOUGIE",
+        "FANCY",
+        "POSH",
+        "SWANK"
+      ]
+    },
+    {
+      "name": "PARTS OF A MECHANICAL CLOCK",
+      "level": null,
+      "members": [
+        "ESCAPEMENT",
+        "PENDULUM",
+        "RATCHET",
+        "SPRING"
+      ]
+    },
+    {
+      "name": "FAMOUS DANS",
+      "level": null,
+      "members": [
+        "AYKROYD",
+        "LEVY",
+        "RATHER",
+        "SAVAGE"
+      ]
+    },
+    {
+      "name": "TAXONOMIC RANKS PLUS A LETTER",
+      "level": null,
+      "members": [
+        "BORDER",
+        "CLASSY",
+        "FOAMILY",
+        "GENIUS"
+      ]
+    }
+  ]
+}

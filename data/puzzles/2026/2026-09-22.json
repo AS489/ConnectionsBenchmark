@@ -1,0 +1,47 @@
+{
+  "id": 1194,
+  "date": "2026-09-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DEMONSTRATIVES",
+      "level": null,
+      "members": [
+        "THAT",
+        "THESE",
+        "THIS",
+        "THOSE"
+      ]
+    },
+    {
+      "name": "EMBELLISHMENT",
+      "level": null,
+      "members": [
+        "ACCENT",
+        "DETAIL",
+        "FLOURISH",
+        "TOUCH"
+      ]
+    },
+    {
+      "name": "OPTIONS ON A MULTIPLE CHOICE SURVEY",
+      "level": null,
+      "members": [
+        "AGREE",
+        "DISAGREE",
+        "NEUTRAL",
+        "OTHER"
+      ]
+    },
+    {
+      "name": "BEVERAGES WITH ACUTE ACCENTS REMOVED",
+      "level": null,
+      "members": [
+        "CAFE",
+        "PATRON",
+        "ROSE",
+        "THE"
+      ]
+    }
+  ]
+}

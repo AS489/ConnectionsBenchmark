@@ -1,0 +1,47 @@
+{
+  "id": 1189,
+  "date": "2026-09-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ELASTICITY",
+      "level": null,
+      "members": [
+        "BOUNCE",
+        "FLEXIBILITY",
+        "GIVE",
+        "SPRING"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE UNDERGROUND",
+      "level": null,
+      "members": [
+        "MINE SHAFT",
+        "SEWER LINE",
+        "SUBWAY STATION",
+        "WELL"
+      ]
+    },
+    {
+      "name": "HUGH JACKMAN MOVIES, WITH \"THE\"",
+      "level": null,
+      "members": [
+        "FOUNTAIN",
+        "PRESTIGE",
+        "SHEEP DETECTIVES",
+        "WOLVERINE"
+      ]
+    },
+    {
+      "name": "LOVE ___",
+      "level": null,
+      "members": [
+        "HANDLES",
+        "LANGUAGE",
+        "TAP",
+        "TRIANGLE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1193,
+  "date": "2026-09-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "EMAIL BUTTONS",
+      "level": null,
+      "members": [
+        "COMPOSE",
+        "DRAFTS",
+        "SENT",
+        "SPAM"
+      ]
+    },
+    {
+      "name": "WAYS TO ATTRACT FISH",
+      "level": null,
+      "members": [
+        "CHUM",
+        "FLY",
+        "SPINNER",
+        "WORM"
+      ]
+    },
+    {
+      "name": "CHESS VERBS",
+      "level": null,
+      "members": [
+        "CAPTURE",
+        "CASTLE",
+        "CHECK",
+        "MATE"
+      ]
+    },
+    {
+      "name": "STARTS OF COMPOSERS' NAMES",
+      "level": null,
+      "members": [
+        "BEET",
+        "BRAH",
+        "CHOP",
+        "VIVA"
+      ]
+    }
+  ]
+}

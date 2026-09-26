@@ -1,0 +1,47 @@
+{
+  "id": 1190,
+  "date": "2026-09-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SEGMENT OF A PROCESS",
+      "level": null,
+      "members": [
+        "PHASE",
+        "ROUND",
+        "STAGE",
+        "STEP"
+      ]
+    },
+    {
+      "name": "ASSORTMENTS OF FOOD/DRINK",
+      "level": null,
+      "members": [
+        "FLIGHT",
+        "MEDLEY",
+        "PLATTER",
+        "SAMPLER"
+      ]
+    },
+    {
+      "name": "PARTS OF A FLIGHT",
+      "level": null,
+      "members": [
+        "BOARDING",
+        "CRUISE",
+        "LANDING",
+        "TAKEOFF"
+      ]
+    },
+    {
+      "name": "___CASE",
+      "level": null,
+      "members": [
+        "BRIEF",
+        "PILLOW",
+        "STAIR",
+        "UPPER"
+      ]
+    }
+  ]
+}

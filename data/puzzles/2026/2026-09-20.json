@@ -1,0 +1,47 @@
+{
+  "id": 1192,
+  "date": "2026-09-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ROUND FLAT THINGS",
+      "level": null,
+      "members": [
+        "BLU-RAY",
+        "COASTER",
+        "SAND DOLLAR",
+        "TORTILLA"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH KENTUCKY",
+      "level": null,
+      "members": [
+        "BLUEGRASS",
+        "BOURBON",
+        "DERBY",
+        "FRIED CHICKEN"
+      ]
+    },
+    {
+      "name": "VAMPIRE MOVIES",
+      "level": null,
+      "members": [
+        "BLADE",
+        "NEAR DARK",
+        "SINNERS",
+        "TWILIGHT"
+      ]
+    },
+    {
+      "name": "___BOARDS YOU RIDE ON",
+      "level": null,
+      "members": [
+        "HOVER",
+        "SKATE",
+        "SNOW",
+        "SURF"
+      ]
+    }
+  ]
+}

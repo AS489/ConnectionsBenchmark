@@ -1,0 +1,47 @@
+{
+  "id": 1188,
+  "date": "2026-09-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ENDING IN METAL ELEMENTS",
+      "level": null,
+      "members": [
+        "LATIN",
+        "LONG JOHN SILVER",
+        "MARIGOLD",
+        "STEAM IRON"
+      ]
+    },
+    {
+      "name": "STARTING WITH U.S. COINS",
+      "level": null,
+      "members": [
+        "DIMENSION",
+        "NICKELODEON",
+        "PENNYWISE",
+        "QUARTERBACK"
+      ]
+    },
+    {
+      "name": "POETS' MIDDLE NAMES",
+      "level": null,
+      "members": [
+        "BARRETT",
+        "CARLOS",
+        "ST. VINCENT",
+        "WADSWORTH"
+      ]
+    },
+    {
+      "name": "SAUSAGES PLUS A LETTER",
+      "level": null,
+      "members": [
+        "BORAT",
+        "CLINK",
+        "FRANK-N-FURTER",
+        "WIDENER"
+      ]
+    }
+  ]
+}

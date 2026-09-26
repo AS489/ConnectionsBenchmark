@@ -1,0 +1,47 @@
+{
+  "id": 1198,
+  "date": "2026-09-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "BREATH FRESHENERS",
+      "level": null,
+      "members": [
+        "GUM",
+        "MINT",
+        "MOUTHWASH",
+        "SPRAY"
+      ]
+    },
+    {
+      "name": "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY",
+      "level": null,
+      "members": [
+        "FOLD",
+        "PRESS",
+        "STARCH",
+        "WASH"
+      ]
+    },
+    {
+      "name": "FEATURES OF WOOD",
+      "level": null,
+      "members": [
+        "BURL",
+        "GRAIN",
+        "KNOTS",
+        "RINGS"
+      ]
+    },
+    {
+      "name": "\"COOL\" THINGS, IN EXPRESSIONS",
+      "level": null,
+      "members": [
+        "BEANS",
+        "CAT",
+        "CUCUMBER",
+        "CUSTOMER"
+      ]
+    }
+  ]
+}
