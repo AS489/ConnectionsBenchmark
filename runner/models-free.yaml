@@ -7,7 +7,8 @@
 
 defaults:
   temperature: 0
-  max_tokens: 32000
+  reasoning: { max_tokens: 6000 }
+  max_tokens: 8000
   attempts_per_day: 1
   max_cost_usd_per_run: 0.01   # free models report 0; this is a tripwire, not a budget
 
