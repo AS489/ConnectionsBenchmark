@@ -34,3 +34,7 @@ ERROR: gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-
 [9/17] start  free__nemotron-3-super-120b-a12b  20:16:54
 ERROR: gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day free__nemotron-3-super-120b-a12b a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-26/free__nemotron-3-super-120b-a12b.json
 [9/17] done   free__nemotron-3-super-120b-a12b in 64s
+[9/17] committed free__nemotron-3-super-120b-a12b
+[10/17] start  free__nemotron-3-ultra-550b-a55b  20:17:58
+ERROR: gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day free__nemotron-3-ultra-550b-a55b a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-26/free__nemotron-3-ultra-550b-a55b.json
+[10/17] done   free__nemotron-3-ultra-550b-a55b in 64s
