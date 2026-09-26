@@ -18,3 +18,7 @@ ERROR: gave up after 7 attempts: HTTP 429: Provider returned error free__gemma-4
 [5/17] start  free__ling-3-0-flash-fin  20:07:08
 loss     free__ling-3-0-flash-fin a1  groups=2 mistakes=4 invalid=5 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-26/free__ling-3-0-flash-fin.json
 [5/17] done   free__ling-3-0-flash-fin in 101s
+[5/17] committed free__ling-3-0-flash-fin
+[6/17] start  free__ling-3-0-flash-sante  20:08:49
+forfeit  free__ling-3-0-flash-sante a1  groups=1 mistakes=2 invalid=10 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-26/free__ling-3-0-flash-sante.json
+[6/17] done   free__ling-3-0-flash-sante in 332s

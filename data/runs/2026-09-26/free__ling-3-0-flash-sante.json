@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-26",
+  "puzzle_id": 1198,
+  "model": "free__ling-3-0-flash-sante",
+  "openrouter_id": "inclusionai/ling-3.0-flash-sante:free",
+  "resolved_model": "inclusionai/ling-3.0-flash-sante:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-26|free__ling-3-0-flash-sante|1",
+  "board": [
+    "RINGS",
+    "WASH",
+    "KNOTS",
+    "CAT",
+    "STARCH",
+    "MOUTHWASH",
+    "MINT",
+    "PRESS",
+    "GUM",
+    "GRAIN",
+    "BEANS",
+    "FOLD",
+    "CUCUMBER",
+    "BURL",
+    "SPRAY",
+    "CUSTOMER"
+  ],
+  "started_at": "2026-09-26T20:08:49+00:00",
+  "finished_at": "2026-09-26T20:14:21+00:00",
+  "error": null,
+  "status": "forfeit",
+  "solved": false,
+  "groups_solved": 1,
+  "mistakes_used": 2,
+  "guesses_made": 2,
+  "invalid_responses": 10,
+  "first_guess_correct": false,
+  "groups_solved_by_name": {
+    "FEATURES OF WOOD": 3
+  },
+  "usage": {
+    "prompt_tokens": 12174,
+    "completion_tokens": 82034,
+    "reasoning_tokens": 60470,
+    "cost_usd": 0.0,
+    "latency_ms": 332697,
+    "requests": 12
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 29952,
+          "prompt_tokens": 370,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 5875,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 36517,
+          "prompt_tokens": 471,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 6139,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "{\"reasoning\": \"Group 1 guess: cleaning/personal care products - WASH, MOUTHWASH, SPRAY, STARCH\", \"guess\": [\"WASH\", \"MOUTHWASH\", \"SPRAY\", \"STARCH\"]}",
+          "reasoning": "Group 1 guess: cleaning/personal care products - WASH, MOUTHWASH, SPRAY, STARCH",
+          "latency_ms": 4035,
+          "prompt_tokens": 572,
+          "completion_tokens": 616,
+          "reasoning_tokens": 407,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "incorrect",
+      "words": [
+        "WASH",
+        "MOUTHWASH",
+        "SPRAY",
+        "STARCH"
+      ],
+      "group": null,
+      "mistakes_after": 1
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 38869,
+          "prompt_tokens": 715,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 5792,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 32770,
+          "prompt_tokens": 816,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 5860,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 29591,
+          "prompt_tokens": 917,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 5879,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        }
+      ],
+      "outcome": "failed_turn",
+      "words": [],
+      "group": null,
+      "mistakes_after": 2
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 30107,
+          "prompt_tokens": 1104,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 6020,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 31130,
+          "prompt_tokens": 1205,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 5487,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "{\"reasoning\": \"RINGS, KNOTS, GRAIN, BURL are all tree/wood related: tree rings, knots in wood, wood grain, and a burl (wood defect).\", \"guess\": [\"RINGS\", \"KNOTS\", \"GRAIN\", \"BURL\"]}",
+          "reasoning": "RINGS, KNOTS, GRAIN, BURL are all tree/wood related: tree rings, knots in wood, wood grain, and a burl (wood defect).",
+          "latency_ms": 6446,
+          "prompt_tokens": 1306,
+          "completion_tokens": 1418,
+          "reasoning_tokens": 991,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "RINGS",
+        "KNOTS",
+        "GRAIN",
+        "BURL"
+      ],
+      "group": "FEATURES OF WOOD",
+      "mistakes_after": 2
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 31995,
+          "prompt_tokens": 1465,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 5950,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 30158,
+          "prompt_tokens": 1566,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 6063,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 31127,
+          "prompt_tokens": 1667,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 6007,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        }
+      ],
+      "outcome": "hard_stop",
+      "words": [],
+      "group": null,
+      "mistakes_after": null
+    }
+  ]
+}
