@@ -1,0 +1,4 @@
+=== ConnectionsBench free batch | date=2026-09-27 | 15 models | started 2026-09-27T17:10:21Z
+[1/15] start  free__north-mini-code  17:10:21
+ERROR: HTTP 400: Provider returned error free__north-mini-code a1  groups=0 mistakes=0 invalid=1 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-27/free__north-mini-code.json
+[1/15] done   free__north-mini-code in 47s

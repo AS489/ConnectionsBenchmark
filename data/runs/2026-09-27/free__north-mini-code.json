@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "puzzle_id": 1199,
+  "model": "free__north-mini-code",
+  "openrouter_id": "cohere/north-mini-code:free",
+  "resolved_model": "cohere/north-mini-code:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-27|free__north-mini-code|1",
+  "board": [
+    "STOOL",
+    "LOHAN",
+    "PLASTER",
+    "BRONZE",
+    "CHAIR",
+    "PROVIDER",
+    "WU-TANG",
+    "MARBLE",
+    "NETWORK",
+    "CLAY",
+    "BBQING",
+    "CARRIER",
+    "HOMING",
+    "OPERATOR",
+    "BANQUETTE",
+    "BOOTH"
+  ],
+  "started_at": "2026-09-27T17:10:21+00:00",
+  "finished_at": "2026-09-27T17:11:07+00:00",
+  "error": "HTTP 400: Provider returned error",
+  "status": "error",
+  "solved": false,
+  "groups_solved": 0,
+  "mistakes_used": 0,
+  "guesses_made": 0,
+  "invalid_responses": 1,
+  "first_guess_correct": false,
+  "groups_solved_by_name": {},
+  "usage": {
+    "prompt_tokens": 325,
+    "completion_tokens": 8000,
+    "reasoning_tokens": 8982,
+    "cost_usd": 0.0,
+    "latency_ms": 46156,
+    "requests": 1
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 46156,
+          "prompt_tokens": 325,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 8982,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        }
+      ],
+      "outcome": null,
+      "words": [],
+      "group": null,
+      "mistakes_after": null
+    }
+  ]
+}
