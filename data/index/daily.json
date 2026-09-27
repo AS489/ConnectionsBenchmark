@@ -47,6 +47,7 @@
     "levels": null,
     "results": {
       "free__dots-3-note-preview": {
+        "variant": "v1",
         "solved": true,
         "groups_solved": 4,
         "mistakes_used": 0,
@@ -55,6 +56,7 @@
         "cost_usd": 0.0
       },
       "free__ling-3-0-flash-fin": {
+        "variant": "v1",
         "solved": false,
         "groups_solved": 2,
         "mistakes_used": 4,
@@ -63,6 +65,7 @@
         "cost_usd": 0.0
       },
       "free__ling-3-0-flash-sante": {
+        "variant": "v1",
         "solved": false,
         "groups_solved": 1,
         "mistakes_used": 2,
@@ -71,6 +74,7 @@
         "cost_usd": 0.0
       },
       "free__space-bunny-alpha": {
+        "variant": "v1",
         "solved": true,
         "groups_solved": 4,
         "mistakes_used": 0,
@@ -158,6 +162,7 @@
     "levels": null,
     "results": {
       "free__dots-3-note-preview": {
+        "variant": "v1",
         "solved": true,
         "groups_solved": 4,
         "mistakes_used": 0,
@@ -166,6 +171,7 @@
         "cost_usd": 0.0
       },
       "free__laguna-s-2-1": {
+        "variant": "v1",
         "solved": true,
         "groups_solved": 4,
         "mistakes_used": 0,
@@ -174,6 +180,7 @@
         "cost_usd": 0.0
       },
       "free__laguna-xs-2-1": {
+        "variant": "v1",
         "solved": true,
         "groups_solved": 4,
         "mistakes_used": 1,
@@ -182,6 +189,7 @@
         "cost_usd": 0.0
       },
       "free__lfm-2-5-2-6b": {
+        "variant": "v1",
         "solved": false,
         "groups_solved": 2,
         "mistakes_used": 4,
@@ -190,6 +198,7 @@
         "cost_usd": 0.0
       },
       "free__ling-3-0-flash-fin": {
+        "variant": "v1",
         "solved": true,
         "groups_solved": 4,
         "mistakes_used": 1,
@@ -198,6 +207,7 @@
         "cost_usd": 0.0
       },
       "free__ling-3-0-flash-sante": {
+        "variant": "v1",
         "solved": true,
         "groups_solved": 4,
         "mistakes_used": 0,
@@ -206,6 +216,7 @@
         "cost_usd": 0.0
       },
       "free__nemotron-3-5-lightning": {
+        "variant": "v1",
         "solved": true,
         "groups_solved": 4,
         "mistakes_used": 0,
@@ -214,6 +225,7 @@
         "cost_usd": 0.0
       },
       "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
         "solved": true,
         "groups_solved": 4,
         "mistakes_used": 0,
@@ -222,6 +234,7 @@
         "cost_usd": 0.0
       },
       "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
         "solved": true,
         "groups_solved": 4,
         "mistakes_used": 0,
@@ -230,6 +243,7 @@
         "cost_usd": 0.0
       },
       "free__space-bunny-alpha": {
+        "variant": "v1",
         "solved": true,
         "groups_solved": 4,
         "mistakes_used": 0,

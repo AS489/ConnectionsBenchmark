@@ -95,7 +95,10 @@ def cmd_run(args) -> int:
             if path.exists() and not args.force:
                 print(f"skip  {cfg.slug} a{attempt} (exists)")
                 continue
-            record = play(puzzle, cfg, make_provider(), attempt=attempt, backfill=args.backfill)
+            record = play(
+                puzzle, cfg, make_provider(), attempt=attempt,
+                backfill=args.backfill, prompt_variant=args.variant,
+            )
             out = write_record(runs_root, record, force=args.force)
             status = record["status"]
             if record["error"]:
@@ -144,6 +147,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--model", action="append", help="restrict to these slugs (repeatable)")
     p.add_argument("--models", type=Path, default=_repo_root() / "runner" / "models.yaml")
     p.add_argument("--backfill", action="store_true", help="tag runs as backfill (historical puzzle)")
+    p.add_argument("--variant", help="prompt variant to play with (default: v1)")
     p.add_argument("--force", action="store_true", help="re-run even if a record exists")
     p.set_defaults(func=cmd_run)
 

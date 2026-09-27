@@ -1,0 +1,44 @@
+# Benched, not deleted. Each of these cost quota every day and returned nothing
+# over 2026-09-26..27. Recorded so the decision is auditable and so they can be
+# re-tested later without rediscovering why they were dropped.
+#
+#   connbench run --date <date> --models runner/models-free-unreliable.yaml
+#
+# | model                  | attempts | completed | why                          |
+# |------------------------|----------|-----------|------------------------------|
+# | gemma-4-26b-a4b-it     | 2        | 0         | HTTP 429 both days           |
+# | gemma-4-31b-it         | 2        | 0         | HTTP 429 both days           |
+# | nemotron-3-ultra-550b  | 2        | 0         | 429, then Nvidia upstream 500|
+# | north-mini-code        | 2        | 0         | spends all tokens reasoning  |
+# | qwen3.8-27b            | 2        | 0         | HTTP 429 both days           |
+#
+# north-mini-code is the interesting one: Cohere ignores reasoning.max_tokens, so
+# it returns empty content every turn. The empty-assistant-message bug that made
+# this fatal is fixed; whether it can now finish a game is untested.
+#
+# Also permanently excluded (not listed below): thinkingmachines/inkling and
+# inkling-small return HTTP 403 "only available on agentic harnesses".
+
+defaults:
+  temperature: 0
+  reasoning: { max_tokens: 6000 }
+  max_tokens: 8000
+  attempts_per_day: 1
+  max_cost_usd_per_run: 0.01
+
+models:
+  - slug: free__gemma-4-26b-a4b-it
+    openrouter_id: google/gemma-4-26b-a4b-it:free
+    json_schema: true
+  - slug: free__gemma-4-31b-it
+    openrouter_id: google/gemma-4-31b-it:free
+    json_schema: true
+  - slug: free__nemotron-3-ultra-550b-a55b
+    openrouter_id: nvidia/nemotron-3-ultra-550b-a55b:free
+    json_schema: false
+  - slug: free__north-mini-code
+    openrouter_id: cohere/north-mini-code:free
+    json_schema: false
+  - slug: free__qwen3-8-27b
+    openrouter_id: qwen/qwen3.8-27b:free
+    json_schema: false

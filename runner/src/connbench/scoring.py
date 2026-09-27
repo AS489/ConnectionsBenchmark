@@ -80,6 +80,38 @@ def load_runs(runs_root: str | Path) -> list[dict]:
     return out
 
 
+def check_prompt_hashes(runs: list[dict]) -> list[str]:
+    """Return a warning per variant whose recorded hash disagrees with the registry.
+
+    A mismatch means someone edited a variant's text in place instead of adding a
+    new one, so records claiming the same variant were produced by different
+    prompts and must not be pooled.
+    """
+    from .prompts import VARIANTS
+
+    seen: dict[str, set[str]] = {}
+    for r in runs:
+        v, h = r.get("variant"), r.get("prompt_hash")
+        if v and h:
+            seen.setdefault(v, set()).add(h)
+
+    out = []
+    for name, hashes in sorted(seen.items()):
+        known = VARIANTS.get(name)
+        if len(hashes) > 1:
+            out.append(
+                f"variant {name!r} appears with {len(hashes)} different prompt hashes "
+                f"({', '.join(sorted(hashes))}) — its text was edited in place; "
+                f"these runs are NOT comparable"
+            )
+        elif known and known.content_hash not in hashes:
+            out.append(
+                f"variant {name!r} recorded as {hashes.pop()} but the registry now "
+                f"holds {known.content_hash} — the prompt was edited after those runs"
+            )
+    return out
+
+
 def _model_summary(runs: list[dict], today: _date) -> dict:
     n = len(runs)
     wins = sum(1 for r in runs if r["solved"])
@@ -145,12 +177,27 @@ def build_index(runs_root: str | Path, puzzles_root: str | Path, out_dir: str | 
             d[r["model"]].append(r)
         return d
 
+    # Results from different prompts are different experiments and are never pooled.
+    variants = sorted({r.get("variant") or "unknown" for r in all_runs})
+    by_variant = {
+        v: {
+            m: _model_summary(rs, today)
+            for m, rs in by_model(
+                [r for r in daily_runs if (r.get("variant") or "unknown") == v]
+            ).items()
+        }
+        for v in variants
+    }
+
     leaderboard = {
         "generated_at": today.isoformat(),
         "window_days": TRAILING_WINDOW_DAYS,
+        "variants": variants,
+        "by_variant": by_variant,
         "daily": {m: _model_summary(rs, today) for m, rs in by_model(daily_runs).items()},
         "backfill": {m: _model_summary(rs, today) for m, rs in by_model(backfill_runs).items()},
         "errors": [{"date": r["date"], "model": r["model"], "error": r["error"]} for r in errors],
+        "prompt_warnings": check_prompt_hashes(all_runs),
     }
 
     daily: dict[str, dict] = {}
@@ -160,6 +207,7 @@ def build_index(runs_root: str | Path, puzzles_root: str | Path, out_dir: str | 
             {"date": r["date"], "puzzle_id": r["puzzle_id"], "groups": None, "levels": None, "results": {}, "empirical_difficulty": None},
         )
         day["results"][r["model"]] = {
+            "variant": r.get("variant"),
             "solved": r["solved"],
             "groups_solved": r["groups_solved"],
             "mistakes_used": r["mistakes_used"],
@@ -193,4 +241,11 @@ def build_index(runs_root: str | Path, puzzles_root: str | Path, out_dir: str | 
     (out_dir / "leaderboard.json").write_text(json.dumps(leaderboard, indent=2) + "\n", encoding="utf-8")
     (out_dir / "daily.json").write_text(json.dumps(sorted(daily.values(), key=lambda d: d["date"]), indent=2) + "\n", encoding="utf-8")
     (out_dir / "models.json").write_text(json.dumps(models_doc, indent=2) + "\n", encoding="utf-8")
-    return {"runs": len(all_runs), "errors": len(errors), "models": len(models), "days": len(daily)}
+    return {
+        "runs": len(all_runs),
+        "errors": len(errors),
+        "models": len(models),
+        "days": len(daily),
+        "variants": variants,
+        "prompt_warnings": leaderboard["prompt_warnings"],
+    }

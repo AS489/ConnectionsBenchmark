@@ -8,6 +8,8 @@
   "provider": "openrouter",
   "attempt": 1,
   "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
   "seed": "2026-09-27|free__lfm-2-5-2-6b|1",
   "board": [
     "MARBLE",

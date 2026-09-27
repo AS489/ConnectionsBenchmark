@@ -1,12 +1,22 @@
-# Free-tier roster — every free text model OpenRouter offers that can plausibly
-# play the game. Generated 2026-09-26; regenerate with scripts/gen_free_roster.py.
+# The active free-tier roster.
 #
-# Excluded by design: lyria-* (music generation), nemotron-3.5-content-safety
-# (a classifier), and openrouter/free (a ROUTER — it resolves to a different
-# model per call, which breaks the snapshot pinning the benchmark depends on).
-# Also dropped 2026-09-26: thinkingmachines/inkling{,-small} — both return HTTP
-# 403 "only available on agentic harnesses". That is permanent, not a rate
-# limit, so keeping them would waste a quota slot every single day.
+# WHY THIS IS SHORT, AND WHY THE ORDER MATTERS
+# --------------------------------------------
+# The free tier allows roughly 50 requests a day; a game costs a median of 5
+# (mean 6.1). A 15-model roster needed ~75/day and never finished, so which
+# models played was decided by whichever provider throttled first — coverage was
+# effectively random, which biases every aggregate.
+#
+# Eight models is the size that reliably completes. The batch runs in file order,
+# so PROVEN MODELS ARE LISTED FIRST: if the quota does run out, it runs out on the
+# probation tier, and the models carrying the longest history always play.
+#
+# When prompt A/B testing begins, cut to the four proven models: 4 models x 2
+# prompt arms x 5 requests = 40/day, which fits with room to spare and lets the
+# same model play the same puzzle under both prompts, controlling for puzzle
+# difficulty.
+#
+# Models that have never completed a game are in models-free-unreliable.yaml.
 #
 # Token budgets: see the header of models.yaml. Time is generation-bound, so
 # `reasoning` is the lever, not max_tokens.
@@ -19,17 +29,12 @@ defaults:
   max_cost_usd_per_run: 0.01   # free models report 0; a tripwire, not a budget
 
 models:
-  - slug: free__north-mini-code
-    openrouter_id: cohere/north-mini-code:free
-    json_schema: false
+  # --- proven: 2/2 games completed, 2026-09-26..27. Keep these four for A/B.
   - slug: free__dots-3-note-preview
     openrouter_id: dots-studio/dots-3-note-preview:free
     json_schema: true
-  - slug: free__gemma-4-26b-a4b-it
-    openrouter_id: google/gemma-4-26b-a4b-it:free
-    json_schema: true
-  - slug: free__gemma-4-31b-it
-    openrouter_id: google/gemma-4-31b-it:free
+  - slug: free__space-bunny-alpha
+    openrouter_id: stealth/space-bunny-alpha
     json_schema: true
   - slug: free__ling-3-0-flash-fin
     openrouter_id: inclusionai/ling-3.0-flash-fin:free
@@ -37,17 +42,14 @@ models:
   - slug: free__ling-3-0-flash-sante
     openrouter_id: inclusionai/ling-3.0-flash-sante:free
     json_schema: false
-  - slug: free__lfm-2-5-2-6b
-    openrouter_id: liquid/lfm-2.5-2.6b:free
-    json_schema: true
-  - slug: free__nemotron-3-nano-omni-30b-a3b-reasoning
-    openrouter_id: nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free
-    json_schema: false
+
+  # --- probation: 1/2, and the one failure was a 429 caused by the old oversized
+  #     roster rather than by the model. Each played a flawless game on 09-27.
   - slug: free__nemotron-3-super-120b-a12b
     openrouter_id: nvidia/nemotron-3-super-120b-a12b:free
     json_schema: true
-  - slug: free__nemotron-3-ultra-550b-a55b
-    openrouter_id: nvidia/nemotron-3-ultra-550b-a55b:free
+  - slug: free__nemotron-3-nano-omni-30b-a3b-reasoning
+    openrouter_id: nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free
     json_schema: false
   - slug: free__nemotron-3-5-lightning
     openrouter_id: nvidia/nemotron-3.5-lightning:free
@@ -55,12 +57,7 @@ models:
   - slug: free__laguna-s-2-1
     openrouter_id: poolside/laguna-s-2.1:free
     json_schema: false
-  - slug: free__laguna-xs-2-1
-    openrouter_id: poolside/laguna-xs-2.1:free
-    json_schema: false
-  - slug: free__qwen3-8-27b
-    openrouter_id: qwen/qwen3.8-27b:free
-    json_schema: false
-  - slug: free__space-bunny-alpha
-    openrouter_id: stealth/space-bunny-alpha
-    json_schema: true
+
+  # Next in line if a slot frees up: poolside/laguna-xs-2.1:free (won with 1
+  # mistake) and liquid/lfm-2.5-2.6b:free (lost with 2 groups — a useful
+  # small-model floor at 2.6B parameters).

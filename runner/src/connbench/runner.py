@@ -22,9 +22,9 @@ from pathlib import Path
 from .game import GameState, InvalidGuess, Status, make_seed
 from .parse import ParseError, extract_reasoning, parse_guess
 from .prompts import (
-    SYSTEM_PROMPT,
     TRUNCATED_REASON,
     feedback_message,
+    get_variant,
     opening_message,
     retry_message,
 )
@@ -89,8 +89,14 @@ def play(
     *,
     attempt: int = 1,
     backfill: bool = False,
+    prompt_variant: str | None = None,
 ) -> dict:
-    """Play one full game and return the run record (never raises for model or infra failures)."""
+    """Play one full game and return the run record (never raises for model or infra failures).
+
+    The prompt variant is recorded with its content hash. A result that does not
+    say which prompt produced it cannot be compared with anything.
+    """
+    variant = get_variant(prompt_variant)
     seed = make_seed(puzzle.date, cfg.slug, attempt)
     game = GameState.new(puzzle, seed)
     usage = Usage()
@@ -100,7 +106,7 @@ def play(
     started = _now()
 
     messages: list[dict] = [
-        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "system", "content": variant.system},
         {"role": "user", "content": opening_message(game)},
     ]
 
@@ -189,6 +195,7 @@ def play(
         "provider": getattr(provider, "name", type(provider).__name__),
         "attempt": attempt,
         "backfill": backfill,
+        **variant.to_dict(),
         "seed": seed,
         "board": list(game.board),
         "started_at": started,

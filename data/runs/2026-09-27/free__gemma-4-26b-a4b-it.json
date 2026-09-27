@@ -8,6 +8,8 @@
   "provider": "openrouter",
   "attempt": 1,
   "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
   "seed": "2026-09-27|free__gemma-4-26b-a4b-it|1",
   "board": [
     "STOOL",

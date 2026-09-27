@@ -39,7 +39,9 @@ def test_build_index(tmp_path, puzzle, archive):
     write_record(runs, play(puzzle, ModelConfig("good", "g"), MockProvider("perfect", puzzle=puzzle), backfill=True, attempt=2))
 
     stats = build_index(runs, archive, tmp_path / "index", today=date(2026, 9, 16))
-    assert stats == {"runs": 3, "errors": 1, "models": 3, "days": 1}
+    assert stats["runs"] == 3 and stats["errors"] == 1
+    assert stats["models"] == 3 and stats["days"] == 1
+    assert stats["variants"] == ["v1"] and stats["prompt_warnings"] == []
 
     lb = json.loads((tmp_path / "index" / "leaderboard.json").read_text())
     assert lb["daily"]["good"]["win_rate"] == {"n": 1, "successes": 1, "rate": 1.0, "ci_low": pytest.approx(0.2065, abs=1e-3), "ci_high": 1.0}
