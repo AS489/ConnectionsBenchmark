@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "puzzle_id": 1199,
+  "model": "free__ling-3-0-flash-sante",
+  "openrouter_id": "inclusionai/ling-3.0-flash-sante:free",
+  "resolved_model": "inclusionai/ling-3.0-flash-sante:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-27|free__ling-3-0-flash-sante|1",
+  "board": [
+    "OPERATOR",
+    "BRONZE",
+    "BANQUETTE",
+    "LOHAN",
+    "PLASTER",
+    "CHAIR",
+    "WU-TANG",
+    "BOOTH",
+    "PROVIDER",
+    "NETWORK",
+    "CLAY",
+    "STOOL",
+    "MARBLE",
+    "CARRIER",
+    "HOMING",
+    "BBQING"
+  ],
+  "started_at": "2026-09-27T17:19:36+00:00",
+  "finished_at": "2026-09-27T17:20:19+00:00",
+  "error": null,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 0,
+  "guesses_made": 4,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "RESTAURANT SEATING OPTIONS": 1,
+    "ENDING IN CHINESE DYNASTIES": 2,
+    "SCULPTURE MEDIA": 3,
+    "TELECOM": 4
+  },
+  "usage": {
+    "prompt_tokens": 3082,
+    "completion_tokens": 9612,
+    "reasoning_tokens": 7251,
+    "cost_usd": 0.0,
+    "latency_ms": 42416,
+    "requests": 4
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "Looking at these 16 words, I need to find 4 groups of 4.\n\nLet me identify clear patterns:\n\n**Group 1 - Furniture/Seating:** BANQUETTE, CHAIR, STOOL, BOOTH — all types of seats/furniture\n\n**Group 2 - Materials:** BRONZE, PLASTER, CLAY, MARBLE — all sculpting/building materials\n\n**Group 3 - Telecom/Communication:** OPERATOR, PROVIDER, NETWORK, CARRIER — all related to communication services\n\n**Group 4 - Remaining:** LOHAN, WU-TANG, HOMING, BBQING — likely a category like \"things associated with specific activities/cultures\"\n\nMy first guess will be the most obvious group:\n\n{\"reasoning\": \"BANQUETTE, CHAIR, STOOL, and BOOTH are all types of seating furniture — this is the most clearly identifiable group.\", \"guess\": [\"BANQUETTE\", \"CHAIR\", \"STOOL\", \"BOOTH\"]}",
+          "reasoning": "BANQUETTE, CHAIR, STOOL, and BOOTH are all types of seating furniture — this is the most clearly identifiable group.",
+          "latency_ms": 7453,
+          "prompt_tokens": 375,
+          "completion_tokens": 1715,
+          "reasoning_tokens": 1199,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "BANQUETTE",
+        "CHAIR",
+        "STOOL",
+        "BOOTH"
+      ],
+      "group": "RESTAURANT SEATING OPTIONS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"After removing the confirmed 'RESTAURANT SEATING OPTIONS' group, I have 12 words left. I've identified two clear groups: BRONZE, PLASTER, CLAY, MARBLE (Materials) and OPERATOR, PROVIDER, NETWORK, CARRIER (Telecom). The remaining four words are LOHAN, WU-TANG, HOMING, BBQING. These all share the property of having exactly two syllables: Lo-han, Wu-tang, Hom-ing, BBQ-ing. This appears to be the 'TWO SYLLABLES' category.\", \"guess\": [\"LOHAN\", \"WU-TANG\", \"HOMING\", \"BBQING\"]}",
+          "reasoning": "After removing the confirmed 'RESTAURANT SEATING OPTIONS' group, I have 12 words left. I've identified two clear groups: BRONZE, PLASTER, CLAY, MARBLE (Materials) and OPERATOR, PROVIDER, NETWORK, CARRIER (Telecom). The remaining four words are LOHAN, WU-TANG, HOMING, BBQING. These all share the property of having exactly two syllables: Lo-han, Wu-tang, Hom-ing, BBQ-ing. This appears to be the 'TWO SYLLABLES' category.",
+          "latency_ms": 30836,
+          "prompt_tokens": 703,
+          "completion_tokens": 7310,
+          "reasoning_tokens": 5619,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "LOHAN",
+        "WU-TANG",
+        "HOMING",
+        "BBQING"
+      ],
+      "group": "ENDING IN CHINESE DYNASTIES",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"BRONZE, PLASTER, CLAY, and MARBLE are all sculpting/building materials.\", \"guess\": [\"BRONZE\", \"PLASTER\", \"CLAY\", \"MARBLE\"]}",
+          "reasoning": "BRONZE, PLASTER, CLAY, and MARBLE are all sculpting/building materials.",
+          "latency_ms": 2928,
+          "prompt_tokens": 944,
+          "completion_tokens": 499,
+          "reasoning_tokens": 392,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "BRONZE",
+        "PLASTER",
+        "CLAY",
+        "MARBLE"
+      ],
+      "group": "SCULPTURE MEDIA",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"The remaining four words — OPERATOR, PROVIDER, NETWORK, CARRIER — all relate to telecommunications/communication services.\", \"guess\": [\"OPERATOR\", \"PROVIDER\", \"NETWORK\", \"CARRIER\"]}",
+          "reasoning": "The remaining four words — OPERATOR, PROVIDER, NETWORK, CARRIER — all relate to telecommunications/communication services.",
+          "latency_ms": 1199,
+          "prompt_tokens": 1060,
+          "completion_tokens": 88,
+          "reasoning_tokens": 41,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "OPERATOR",
+        "PROVIDER",
+        "NETWORK",
+        "CARRIER"
+      ],
+      "group": "TELECOM",
+      "mistakes_after": 0
+    }
+  ]
+}
