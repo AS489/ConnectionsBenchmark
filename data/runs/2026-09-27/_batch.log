@@ -38,3 +38,7 @@ win      free__nemotron-3-super-120b-a12b a1  groups=4 mistakes=0 invalid=0 cost
 [10/15] start  free__nemotron-3-ultra-550b-a55b  17:36:42
 ERROR: gave up after 7 attempts: HTTP 200: Upstream error from Nvidia: Internal server error free__nemotron-3-ultra-550b-a55b a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-27/free__nemotron-3-ultra-550b-a55b.json
 [10/15] done   free__nemotron-3-ultra-550b-a55b in 66s
+[10/15] committed free__nemotron-3-ultra-550b-a55b
+[11/15] start  free__nemotron-3-5-lightning  17:37:49
+win      free__nemotron-3-5-lightning a1  groups=4 mistakes=0 invalid=1 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-27/free__nemotron-3-5-lightning.json
+[11/15] done   free__nemotron-3-5-lightning in 779s
