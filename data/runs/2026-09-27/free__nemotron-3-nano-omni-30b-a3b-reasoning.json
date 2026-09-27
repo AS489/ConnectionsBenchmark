@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "puzzle_id": 1199,
+  "model": "free__nemotron-3-nano-omni-30b-a3b-reasoning",
+  "openrouter_id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+  "resolved_model": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-27|free__nemotron-3-nano-omni-30b-a3b-reasoning|1",
+  "board": [
+    "WU-TANG",
+    "MARBLE",
+    "BRONZE",
+    "CHAIR",
+    "LOHAN",
+    "BANQUETTE",
+    "NETWORK",
+    "BBQING",
+    "HOMING",
+    "CARRIER",
+    "PLASTER",
+    "OPERATOR",
+    "STOOL",
+    "CLAY",
+    "BOOTH",
+    "PROVIDER"
+  ],
+  "started_at": "2026-09-27T17:23:24+00:00",
+  "finished_at": "2026-09-27T17:35:36+00:00",
+  "error": null,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 0,
+  "guesses_made": 4,
+  "invalid_responses": 1,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "SCULPTURE MEDIA": 1,
+    "TELECOM": 2,
+    "RESTAURANT SEATING OPTIONS": 3,
+    "ENDING IN CHINESE DYNASTIES": 4
+  },
+  "usage": {
+    "prompt_tokens": 3200,
+    "completion_tokens": 28057,
+    "reasoning_tokens": 21432,
+    "cost_usd": 0.0,
+    "latency_ms": 723364,
+    "requests": 5
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"I propose the first group as the materials: MARBLE, BRONZE, CLAY, PLASTER\", \"guess\": [\"MARBLE\", \"BRONZE\", \"CLAY\", \"PLASTER\"]}",
+          "reasoning": "I propose the first group as the materials: MARBLE, BRONZE, CLAY, PLASTER",
+          "latency_ms": 203753,
+          "prompt_tokens": 358,
+          "completion_tokens": 6053,
+          "reasoning_tokens": 4947,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "MARBLE",
+        "BRONZE",
+        "CLAY",
+        "PLASTER"
+      ],
+      "group": "SCULPTURE MEDIA",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"The remaining four words likely form a group related to telecommunications: NETWORK, CAR<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk>",
+          "reasoning": null,
+          "latency_ms": 100774,
+          "prompt_tokens": 513,
+          "completion_tokens": 3818,
+          "reasoning_tokens": 3185,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": "no JSON object with a 4-word \"guess\" array was found",
+          "truncated": false
+        },
+        {
+          "text": "{\"reasoning\": \"The remaining four words likely form a group related to telecommunications: NETWORK, CARRIER, OPERATOR, PROVIDER\", \"guess\": [\"NETWORK\", \"CARRIER\", \"OPERATOR\", \"PROVIDER\"]}",
+          "reasoning": "The remaining four words likely form a group related to telecommunications: NETWORK, CARRIER, OPERATOR, PROVIDER",
+          "latency_ms": 121733,
+          "prompt_tokens": 635,
+          "completion_tokens": 6057,
+          "reasoning_tokens": 4726,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "NETWORK",
+        "CARRIER",
+        "OPERATOR",
+        "PROVIDER"
+      ],
+      "group": "TELECOM",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"The remaining four words likely form a group related to seating/furniture: STOOL, BOOTH, CHAIR, BANQUETTE\", \"guess\": [\"STOOL\", \"BOOTH\", \"CHAIR\", \"BANQUETTE\"]}",
+          "reasoning": "The remaining four words likely form a group related to seating/furniture: STOOL, BOOTH, CHAIR, BANQUETTE",
+          "latency_ms": 154536,
+          "prompt_tokens": 777,
+          "completion_tokens": 6064,
+          "reasoning_tokens": 4804,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "STOOL",
+        "BOOTH",
+        "CHAIR",
+        "BANQUETTE"
+      ],
+      "group": "RESTAURANT SEATING OPTIONS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"The remaining four words likely form a group related to music or a famous group: WU-TANG, LOHAN, BBQING, HOMING\", \"guess\": [\"WU-TANG\", \"LOHAN\", \"BBQING\", \"HOMING\"]}",
+          "reasoning": "The remaining four words likely form a group related to music or a famous group: WU-TANG, LOHAN, BBQING, HOMING",
+          "latency_ms": 142568,
+          "prompt_tokens": 917,
+          "completion_tokens": 6065,
+          "reasoning_tokens": 3770,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "WU-TANG",
+        "LOHAN",
+        "BBQING",
+        "HOMING"
+      ],
+      "group": "ENDING IN CHINESE DYNASTIES",
+      "mistakes_after": 0
+    }
+  ]
+}
