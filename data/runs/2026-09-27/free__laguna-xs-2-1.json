@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "puzzle_id": 1199,
+  "model": "free__laguna-xs-2-1",
+  "openrouter_id": "poolside/laguna-xs-2.1:free",
+  "resolved_model": "poolside/laguna-xs-2.1:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-27|free__laguna-xs-2-1|1",
+  "board": [
+    "LOHAN",
+    "NETWORK",
+    "BBQING",
+    "CHAIR",
+    "CARRIER",
+    "BOOTH",
+    "BRONZE",
+    "BANQUETTE",
+    "PLASTER",
+    "STOOL",
+    "OPERATOR",
+    "MARBLE",
+    "PROVIDER",
+    "WU-TANG",
+    "CLAY",
+    "HOMING"
+  ],
+  "started_at": "2026-09-27T17:55:47+00:00",
+  "finished_at": "2026-09-27T17:56:32+00:00",
+  "error": null,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 1,
+  "guesses_made": 5,
+  "invalid_responses": 0,
+  "first_guess_correct": false,
+  "groups_solved_by_name": {
+    "SCULPTURE MEDIA": 2,
+    "RESTAURANT SEATING OPTIONS": 3,
+    "TELECOM": 4,
+    "ENDING IN CHINESE DYNASTIES": 5
+  },
+  "usage": {
+    "prompt_tokens": 3496,
+    "completion_tokens": 527,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 8341,
+    "requests": 5
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"Looking at the words, I notice several that could relate to transportation: LOHAN (aircraft), CARRIER (aircraft carrier), HOMING (homing pigeons), and NETWORK (air traffic control network). These four words all have strong connections to transportation systems.\", \"guess\": [\"LOHAN\", \"NETWORK\", \"CARRIER\", \"HOMING\"]}",
+          "reasoning": "Looking at the words, I notice several that could relate to transportation: LOHAN (aircraft), CARRIER (aircraft carrier), HOMING (homing pigeons), and NETWORK (air traffic control network). These four words all have strong connections to transportation systems.",
+          "latency_ms": 881,
+          "prompt_tokens": 362,
+          "completion_tokens": 85,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "incorrect",
+      "words": [
+        "LOHAN",
+        "NETWORK",
+        "CARRIER",
+        "HOMING"
+      ],
+      "group": null,
+      "mistakes_after": 1
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"Let me try a different approach. I notice several words that could relate to materials or substances: BRONZE, MARBLE, CLAY, and PLASTER. These are all materials that can be used for casting, sculpting, or construction.\", \"guess\": [\"BRONZE\", \"MARBLE\", \"CLAY\", \"PLASTER\"]}",
+          "reasoning": "Let me try a different approach. I notice several words that could relate to materials or substances: BRONZE, MARBLE, CLAY, and PLASTER. These are all materials that can be used for casting, sculpting, or construction.",
+          "latency_ms": 1848,
+          "prompt_tokens": 537,
+          "completion_tokens": 76,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "BRONZE",
+        "MARBLE",
+        "CLAY",
+        "PLASTER"
+      ],
+      "group": "SCULPTURE MEDIA",
+      "mistakes_after": 1
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"Now I need to find another group. Looking at the remaining words, I notice several that could relate to seating: CHAIR, STOOL, BANQUETTE, and BOOTH. These are all types of seats or seating arrangements.\", \"guess\": [\"CHAIR\", \"STOOL\", \"BANQUETTE\", \"BOOTH\"]}",
+          "reasoning": "Now I need to find another group. Looking at the remaining words, I notice several that could relate to seating: CHAIR, STOOL, BANQUETTE, and BOOTH. These are all types of seats or seating arrangements.",
+          "latency_ms": 1269,
+          "prompt_tokens": 708,
+          "completion_tokens": 78,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "CHAIR",
+        "STOOL",
+        "BANQUETTE",
+        "BOOTH"
+      ],
+      "group": "RESTAURANT SEATING OPTIONS",
+      "mistakes_after": 1
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"Looking at the remaining words, I notice several that could relate to roles or people who do something: OPERATOR (controls something), PROVIDER (supplies something), CARRIER (carries something), and NETWORK (connects things). These could all be considered types of providers or operators in different contexts.\", \"guess\": [\"OPERATOR\", \"PROVIDER\", \"CARRIER\", \"NETWORK\"]}",
+          "reasoning": "Looking at the remaining words, I notice several that could relate to roles or people who do something: OPERATOR (controls something), PROVIDER (supplies something), CARRIER (carries something), and NETWORK (connects things). These could all be considered types of providers or operators in different contexts.",
+          "latency_ms": 2294,
+          "prompt_tokens": 869,
+          "completion_tokens": 87,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "OPERATOR",
+        "PROVIDER",
+        "CARRIER",
+        "NETWORK"
+      ],
+      "group": "TELECOM",
+      "mistakes_after": 1
+    },
+    {
+      "turn": 5,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"The remaining words are LOHAN, BBQING, WU-TANG, and HOMING. These seem like they could be connected. LOHAN refers to the Low Altitude Training and Operations Network (aircraft). WU-TANG is a rap group. HOMING could relate to homing pigeons. BBQING is cooking. Let me think about what connects these... They could all be things that 'fly' in different contexts - LOHAN (aircraft), WU-TANG (like 'wuss out'?), HOMING (pigeons), and BBQING (spit roasting?). Actually, let me reconsider - these might be connected to specific terms or concepts. LOHAN, WU-TANG, HOMING, and BBQING could all be associated with specific cultural references or activities.\", \"guess\": [\"LOHAN\", \"BBQING\", \"WU-TANG\", \"HOMING\"]}",
+          "reasoning": "The remaining words are LOHAN, BBQING, WU-TANG, and HOMING. These seem like they could be connected. LOHAN refers to the Low Altitude Training and Operations Network (aircraft). WU-TANG is a rap group. HOMING could relate to homing pigeons. BBQING is cooking. Let me think about what connects these... They could all be things that 'fly' in different contexts - LOHAN (aircraft), WU-TANG (like 'wuss out'?), HOMING (pigeons), and BBQING (spit roasting?). Actually, let me reconsider - these might be connected to specific terms or concepts. LOHAN, WU-TANG, HOMING, and BBQING could all be associated with specific cultural references or activities.",
+          "latency_ms": 2049,
+          "prompt_tokens": 1020,
+          "completion_tokens": 201,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "LOHAN",
+        "BBQING",
+        "WU-TANG",
+        "HOMING"
+      ],
+      "group": "ENDING IN CHINESE DYNASTIES",
+      "mistakes_after": 1
+    }
+  ]
+}

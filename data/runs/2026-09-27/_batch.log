@@ -46,3 +46,7 @@ win      free__nemotron-3-5-lightning a1  groups=4 mistakes=0 invalid=1 cost=$0.
 [12/15] start  free__laguna-s-2-1  17:50:48
 win      free__laguna-s-2-1 a1  groups=4 mistakes=0 invalid=1 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-27/free__laguna-s-2-1.json
 [12/15] done   free__laguna-s-2-1 in 298s
+[12/15] committed free__laguna-s-2-1
+[13/15] start  free__laguna-xs-2-1  17:55:46
+win      free__laguna-xs-2-1 a1  groups=4 mistakes=1 invalid=0 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-27/free__laguna-xs-2-1.json
+[13/15] done   free__laguna-xs-2-1 in 46s
