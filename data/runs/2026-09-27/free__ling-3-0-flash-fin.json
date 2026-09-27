@@ -1,0 +1,213 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "puzzle_id": 1199,
+  "model": "free__ling-3-0-flash-fin",
+  "openrouter_id": "inclusionai/ling-3.0-flash-fin:free",
+  "resolved_model": "inclusionai/ling-3.0-flash-fin:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-27|free__ling-3-0-flash-fin|1",
+  "board": [
+    "HOMING",
+    "PLASTER",
+    "OPERATOR",
+    "BANQUETTE",
+    "BRONZE",
+    "BBQING",
+    "MARBLE",
+    "CHAIR",
+    "CARRIER",
+    "NETWORK",
+    "BOOTH",
+    "STOOL",
+    "PROVIDER",
+    "LOHAN",
+    "CLAY",
+    "WU-TANG"
+  ],
+  "started_at": "2026-09-27T17:18:29+00:00",
+  "finished_at": "2026-09-27T17:19:36+00:00",
+  "error": null,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 1,
+  "guesses_made": 4,
+  "invalid_responses": 4,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "RESTAURANT SEATING OPTIONS": 2,
+    "SCULPTURE MEDIA": 3,
+    "TELECOM": 4,
+    "ENDING IN CHINESE DYNASTIES": 5
+  },
+  "usage": {
+    "prompt_tokens": 7326,
+    "completion_tokens": 27932,
+    "reasoning_tokens": 21220,
+    "cost_usd": 0.0,
+    "latency_ms": 67628,
+    "requests": 8
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 20846,
+          "prompt_tokens": 375,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 6633,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 17670,
+          "prompt_tokens": 476,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 5853,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 2697,
+          "prompt_tokens": 577,
+          "completion_tokens": 914,
+          "reasoning_tokens": 660,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": "no JSON object with a 4-word \"guess\" array was found",
+          "truncated": false
+        }
+      ],
+      "outcome": "failed_turn",
+      "words": [],
+      "group": null,
+      "mistakes_after": 1
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"I see 16 words that form 4 groups of 4. The most obvious grouping is furniture/seating: CHAIR, STOOL, BOOTH, BANQUETTE are all types of seats or seating furniture. Other likely groups include materials (PLASTER, BRONZE, MARBLE, CLAY), telecom terms (OPERATOR, PROVIDER, CARRIER, NETWORK), and entertainment/pop culture (WU-TANG, LOHAN, BBQING, HOMING). I'll start with the seating group as it's the most clearly defined.\", \"guess\": [\"CHAIR\", \"STOOL\", \"BOOTH\", \"BANQUETTE\"]}",
+          "reasoning": "I see 16 words that form 4 groups of 4. The most obvious grouping is furniture/seating: CHAIR, STOOL, BOOTH, BANQUETTE are all types of seats or seating furniture. Other likely groups include materials (PLASTER, BRONZE, MARBLE, CLAY), telecom terms (OPERATOR, PROVIDER, CARRIER, NETWORK), and entertainment/pop culture (WU-TANG, LOHAN, BBQING, HOMING). I'll start with the seating group as it's the most clearly defined.",
+          "latency_ms": 5956,
+          "prompt_tokens": 752,
+          "completion_tokens": 2381,
+          "reasoning_tokens": 1747,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "CHAIR",
+        "STOOL",
+        "BOOTH",
+        "BANQUETTE"
+      ],
+      "group": "RESTAURANT SEATING OPTIONS",
+      "mistakes_after": 1
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"Remaining 12 words: HOMING, PLASTER, OPERATOR, BRONZE, BBQING, MARBLE, CARRIER, NETWORK, PROVIDER, LOHAN, CLAY, WU-TANG. Materials group: PLASTER, BRONZE, MARBLE, CLAY are all materials/substances. Telecom group: OPERATOR, CARRIER, NETWORK, PROVIDER are telecom terms. Entertainment/pop culture: WU-TANG, LOHAN, BBQING, HOMING - less clear. I'll go with materials.\", \"guess\": [\"PLASTER\", \"BRONZE\", \"MARBLE\", \"CLAY\"]}",
+          "reasoning": "Remaining 12 words: HOMING, PLASTER, OPERATOR, BRONZE, BBQING, MARBLE, CARRIER, NETWORK, PROVIDER, LOHAN, CLAY, WU-TANG. Materials group: PLASTER, BRONZE, MARBLE, CLAY are all materials/substances. Telecom group: OPERATOR, CARRIER, NETWORK, PROVIDER are telecom terms. Entertainment/pop culture: WU-TANG, LOHAN, BBQING, HOMING - less clear. I'll go with materials.",
+          "latency_ms": 1415,
+          "prompt_tokens": 999,
+          "completion_tokens": 288,
+          "reasoning_tokens": 108,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "PLASTER",
+        "BRONZE",
+        "MARBLE",
+        "CLAY"
+      ],
+      "group": "SCULPTURE MEDIA",
+      "mistakes_after": 1
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"Remaining 8 words: HOMING, OPERATOR, BBQING, CARRIER, NETWORK, PROVIDER, LOHAN, WU-TANG. OPERATOR, CARRIER, NETWORK, PROVIDER are all telecom/communications terms. The other 4 (HOMING, BBQING, LOHAN, WU-TANG) likely form an entertainment/pop culture group. I'll guess the telecom group.\", \"guess\": [\"OPERATOR\", \"CARRIER\", \"NETWORK\", \"PROVIDER\"]}",
+          "reasoning": "Remaining 8 words: HOMING, OPERATOR, BBQING, CARRIER, NETWORK, PROVIDER, LOHAN, WU-TANG. OPERATOR, CARRIER, NETWORK, PROVIDER are all telecom/communications terms. The other 4 (HOMING, BBQING, LOHAN, WU-TANG) likely form an entertainment/pop culture group. I'll guess the telecom group.",
+          "latency_ms": 1426,
+          "prompt_tokens": 1226,
+          "completion_tokens": 213,
+          "reasoning_tokens": 76,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "OPERATOR",
+        "CARRIER",
+        "NETWORK",
+        "PROVIDER"
+      ],
+      "group": "TELECOM",
+      "mistakes_after": 1
+    },
+    {
+      "turn": 5,
+      "responses": [
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 16603,
+          "prompt_tokens": 1410,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 6092,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "{\"reasoning\": \"The remaining 4 words are HOMING, BBQING, LOHAN, WU-TANG. These are all entertainment/pop culture references. This is the last group.\", \"guess\": [\"HOMING\", \"BBQING\", \"LOHAN\", \"WU-TANG\"]}",
+          "reasoning": "The remaining 4 words are HOMING, BBQING, LOHAN, WU-TANG. These are all entertainment/pop culture references. This is the last group.",
+          "latency_ms": 1015,
+          "prompt_tokens": 1511,
+          "completion_tokens": 136,
+          "reasoning_tokens": 51,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "HOMING",
+        "BBQING",
+        "LOHAN",
+        "WU-TANG"
+      ],
+      "group": "ENDING IN CHINESE DYNASTIES",
+      "mistakes_after": 1
+    }
+  ]
+}
