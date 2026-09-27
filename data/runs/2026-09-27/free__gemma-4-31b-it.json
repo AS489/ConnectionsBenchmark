@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "puzzle_id": 1199,
+  "model": "free__gemma-4-31b-it",
+  "openrouter_id": "google/gemma-4-31b-it:free",
+  "resolved_model": null,
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-27|free__gemma-4-31b-it|1",
+  "board": [
+    "WU-TANG",
+    "PROVIDER",
+    "CARRIER",
+    "CHAIR",
+    "OPERATOR",
+    "CLAY",
+    "MARBLE",
+    "BOOTH",
+    "BRONZE",
+    "LOHAN",
+    "NETWORK",
+    "PLASTER",
+    "BBQING",
+    "BANQUETTE",
+    "HOMING",
+    "STOOL"
+  ],
+  "started_at": "2026-09-27T17:17:24+00:00",
+  "finished_at": "2026-09-27T17:18:28+00:00",
+  "error": "gave up after 7 attempts: HTTP 429: Provider returned error",
+  "status": "error",
+  "solved": false,
+  "groups_solved": 0,
+  "mistakes_used": 0,
+  "guesses_made": 0,
+  "invalid_responses": 0,
+  "first_guess_correct": false,
+  "groups_solved_by_name": {},
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 0,
+    "requests": 0
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [],
+      "outcome": null,
+      "words": [],
+      "group": null,
+      "mistakes_after": null
+    }
+  ]
+}
