@@ -118,10 +118,19 @@ def play(
                         f"run cost ${usage.cost_usd:.4f} exceeded cap ${cfg.max_cost_usd_per_run:.2f}"
                     )
                 text = redact(resp.text)
-                messages.append({"role": "assistant", "content": text})
+                # An empty assistant message is rejected outright by some providers
+                # (Cohere returns HTTP 400), which poisons every later turn in the
+                # conversation. A model that spent its whole budget on reasoning and
+                # emitted no content still has to occupy a turn, so stand in a marker.
+                messages.append(
+                    {"role": "assistant", "content": text or "(no output produced)"}
+                )
                 entry = {
                     "text": text,
                     "reasoning": extract_reasoning(text),
+                    "reasoning_text": (
+                        redact(resp.reasoning_text) if resp.reasoning_text else None
+                    ),
                     "latency_ms": resp.latency_ms,
                     "prompt_tokens": resp.prompt_tokens,
                     "completion_tokens": resp.completion_tokens,

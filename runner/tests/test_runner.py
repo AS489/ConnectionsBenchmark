@@ -136,3 +136,33 @@ def test_truncated_response_gets_truncation_feedback_not_a_word_error(puzzle):
     assert first["truncated"] is True
     assert first["error"] == TRUNCATED_REASON
     assert "not a word on the board" not in first["error"]
+
+
+def test_empty_response_never_becomes_an_empty_assistant_message(puzzle):
+    """Some providers (Cohere) reject an empty assistant message with HTTP 400,
+    which poisons every later turn. Regression from cohere/north-mini-code on
+    2026-09-27: it spent its whole budget on reasoning, returned content="", and
+    the retry died with a 400."""
+    from connbench.provider import ProviderResponse
+
+    seen: list[list[dict]] = []
+
+    class EmptyContent:
+        name = "empty"
+
+        def complete(self, messages, cfg):
+            seen.append([dict(m) for m in messages])
+            return ProviderResponse(
+                text="", reasoning_text="I should think about this...",
+                finish_reason="length",
+            )
+
+    rec = play(puzzle, CFG, EmptyContent())
+    assert rec["status"] == "forfeit"
+    # No conversation we ever sent may contain an empty assistant message.
+    for convo in seen:
+        for m in convo:
+            if m["role"] == "assistant":
+                assert m["content"].strip(), "sent an empty assistant message"
+    # The chain of thought is captured even though content was empty.
+    assert rec["turns"][0]["responses"][0]["reasoning_text"] == "I should think about this..."

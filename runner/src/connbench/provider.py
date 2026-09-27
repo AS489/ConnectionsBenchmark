@@ -64,6 +64,7 @@ def load_models(path: str | Path) -> list[ModelConfig]:
 class ProviderResponse:
     text: str
     model: str | None = None  # resolved model string from the response body
+    reasoning_text: str | None = None  # OpenRouter returns thinking separately
     prompt_tokens: int = 0
     completion_tokens: int = 0
     reasoning_tokens: int = 0
@@ -307,12 +308,19 @@ class OpenRouterProvider:
                 content = "".join(p.get("text", "") for p in content if isinstance(p, dict))
             if content is None:
                 content = ""
+            # Reasoning models return their chain of thought in a sibling field.
+            # Capture it: it is the artifact this benchmark exists to collect, and
+            # when a model exhausts its budget it is the ONLY thing it produced.
+            reasoning_text = message.get("reasoning")
+            if not isinstance(reasoning_text, str):
+                reasoning_text = None
         except (KeyError, IndexError, TypeError) as e:
             raise ProviderError(f"malformed completion body: {e}") from None
         usage = body.get("usage") or {}
         details = usage.get("completion_tokens_details") or {}
         return ProviderResponse(
             text=str(content),
+            reasoning_text=reasoning_text,
             model=body.get("model"),
             prompt_tokens=int(usage.get("prompt_tokens") or 0),
             completion_tokens=int(usage.get("completion_tokens") or 0),
