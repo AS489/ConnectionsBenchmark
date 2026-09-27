@@ -4,6 +4,9 @@
 # Excluded by design: lyria-* (music generation), nemotron-3.5-content-safety
 # (a classifier), and openrouter/free (a ROUTER — it resolves to a different
 # model per call, which breaks the snapshot pinning the benchmark depends on).
+# Also dropped 2026-09-26: thinkingmachines/inkling{,-small} — both return HTTP
+# 403 "only available on agentic harnesses". That is permanent, not a rate
+# limit, so keeping them would waste a quota slot every single day.
 #
 # Token budgets: see the header of models.yaml. Time is generation-bound, so
 # `reasoning` is the lever, not max_tokens.
@@ -61,9 +64,3 @@ models:
   - slug: free__space-bunny-alpha
     openrouter_id: stealth/space-bunny-alpha
     json_schema: true
-  - slug: free__inkling-small
-    openrouter_id: thinkingmachines/inkling-small:free
-    json_schema: false
-  - slug: free__inkling
-    openrouter_id: thinkingmachines/inkling:free
-    json_schema: false
