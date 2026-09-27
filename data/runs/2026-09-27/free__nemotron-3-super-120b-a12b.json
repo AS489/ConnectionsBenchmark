@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "puzzle_id": 1199,
+  "model": "free__nemotron-3-super-120b-a12b",
+  "openrouter_id": "nvidia/nemotron-3-super-120b-a12b:free",
+  "resolved_model": "nvidia/nemotron-3-super-120b-a12b:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-27|free__nemotron-3-super-120b-a12b|1",
+  "board": [
+    "BOOTH",
+    "CLAY",
+    "LOHAN",
+    "STOOL",
+    "BANQUETTE",
+    "WU-TANG",
+    "BRONZE",
+    "BBQING",
+    "CHAIR",
+    "HOMING",
+    "OPERATOR",
+    "PLASTER",
+    "PROVIDER",
+    "NETWORK",
+    "CARRIER",
+    "MARBLE"
+  ],
+  "started_at": "2026-09-27T17:35:37+00:00",
+  "finished_at": "2026-09-27T17:36:42+00:00",
+  "error": null,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 0,
+  "guesses_made": 4,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "ENDING IN CHINESE DYNASTIES": 1,
+    "RESTAURANT SEATING OPTIONS": 2,
+    "SCULPTURE MEDIA": 3,
+    "TELECOM": 4
+  },
+  "usage": {
+    "prompt_tokens": 2757,
+    "completion_tokens": 6841,
+    "reasoning_tokens": 5711,
+    "cost_usd": 0.0,
+    "latency_ms": 65522,
+    "requests": 4
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"The words BOOTH, STOOL, CHAIR, BANQUETTE are all types of seating furniture. CLAY, MARBLE, BRONZE, PLASTER are materials used for sculpting. OPERATOR, PROVIDER, NETWORK, CARRIER are telecommunications terms. The remaining words LOHAN, WU-TANG, BBQING, HOMING each can follow the word 'American' to form a recognizable phrase or title: American Lohan (referring to Lindsay Lohan), American Wu-Tang (referring to the Wu-Tang Clan's influence in American hip-hop), American BBQing (a common American pastime), American Homing (as in 'American Homing' pigeons or homing devices used in American contexts).\", \"guess\": [\"LOHAN\", \"WU-TANG\", \"BBQING\", \"HOMING\"]}",
+          "reasoning": "The words BOOTH, STOOL, CHAIR, BANQUETTE are all types of seating furniture. CLAY, MARBLE, BRONZE, PLASTER are materials used for sculpting. OPERATOR, PROVIDER, NETWORK, CARRIER are telecommunications terms. The remaining words LOHAN, WU-TANG, BBQING, HOMING each can follow the word 'American' to form a recognizable phrase or title: American Lohan (referring to Lindsay Lohan), American Wu-Tang (referring to the Wu-Tang Clan's influence in American hip-hop), American BBQing (a common American pastime), American Homing (as in 'American Homing' pigeons or homing devices used in American contexts).",
+          "latency_ms": 48434,
+          "prompt_tokens": 358,
+          "completion_tokens": 6196,
+          "reasoning_tokens": 5277,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "LOHAN",
+        "WU-TANG",
+        "BBQING",
+        "HOMING"
+      ],
+      "group": "ENDING IN CHINESE DYNASTIES",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{ \"reasoning\": \"BOOTH, STOOL, CHAIR, and BANQUETTE are all types of seating or places to sit.\", \"guess\": [\"BOOTH\", \"STOOL\", \"CHAIR\", \"BANQUETTE\"]}",
+          "reasoning": "BOOTH, STOOL, CHAIR, and BANQUETTE are all types of seating or places to sit.",
+          "latency_ms": 9866,
+          "prompt_tokens": 660,
+          "completion_tokens": 262,
+          "reasoning_tokens": 162,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "BOOTH",
+        "STOOL",
+        "CHAIR",
+        "BANQUETTE"
+      ],
+      "group": "RESTAURANT SEATING OPTIONS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{ \"reasoning\": \"CLAY, BRONZE, PLASTER, and MARBLE are all materials commonly used in sculpture or art.\", \"guess\": [\"CLAY\", \"BRONZE\", \"PLASTER\", \"MARBLE\"] }",
+          "reasoning": "CLAY, BRONZE, PLASTER, and MARBLE are all materials commonly used in sculpture or art.",
+          "latency_ms": 5507,
+          "prompt_tokens": 808,
+          "completion_tokens": 275,
+          "reasoning_tokens": 212,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "CLAY",
+        "BRONZE",
+        "PLASTER",
+        "MARBLE"
+      ],
+      "group": "SCULPTURE MEDIA",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{ \"reasoning\": \"OPERATOR, PROVIDER, NETWORK, and CARRIER are all terms used in telecommunications.\", \"guess\": [\"OPERATOR\", \"PROVIDER\", \"NETWORK\", \"CARRIER\"] }",
+          "reasoning": "OPERATOR, PROVIDER, NETWORK, and CARRIER are all terms used in telecommunications.",
+          "latency_ms": 1715,
+          "prompt_tokens": 931,
+          "completion_tokens": 108,
+          "reasoning_tokens": 60,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "OPERATOR",
+        "PROVIDER",
+        "NETWORK",
+        "CARRIER"
+      ],
+      "group": "TELECOM",
+      "mistakes_after": 0
+    }
+  ]
+}
