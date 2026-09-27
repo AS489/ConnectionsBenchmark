@@ -109,5 +109,164 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-09-27",
+    "puzzle_id": 1199,
+    "groups": [
+      {
+        "name": "SCULPTURE MEDIA",
+        "level": null,
+        "members": [
+          "BRONZE",
+          "CLAY",
+          "MARBLE",
+          "PLASTER"
+        ]
+      },
+      {
+        "name": "RESTAURANT SEATING OPTIONS",
+        "level": null,
+        "members": [
+          "BANQUETTE",
+          "BOOTH",
+          "CHAIR",
+          "STOOL"
+        ]
+      },
+      {
+        "name": "TELECOM",
+        "level": null,
+        "members": [
+          "CARRIER",
+          "NETWORK",
+          "OPERATOR",
+          "PROVIDER"
+        ]
+      },
+      {
+        "name": "ENDING IN CHINESE DYNASTIES",
+        "level": null,
+        "members": [
+          "BBQING",
+          "HOMING",
+          "LOHAN",
+          "WU-TANG"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__laguna-s-2-1": {
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__laguna-xs-2-1": {
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 1,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__lfm-2-5-2-6b": {
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 4,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__ling-3-0-flash-fin": {
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 1,
+        "invalid_responses": 4,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__ling-3-0-flash-sante": {
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__space-bunny-alpha": {
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "ENDING IN CHINESE DYNASTIES",
+        "solved_by": 9,
+        "solve_rate": 0.9,
+        "mean_solve_turn": 3.6666666666666665,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "RESTAURANT SEATING OPTIONS",
+        "solved_by": 9,
+        "solve_rate": 0.9,
+        "mean_solve_turn": 2.0,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "TELECOM",
+        "solved_by": 10,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 3.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "SCULPTURE MEDIA",
+        "solved_by": 10,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 2.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
