@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "puzzle_id": 1199,
+  "model": "free__laguna-s-2-1",
+  "openrouter_id": "poolside/laguna-s-2.1:free",
+  "resolved_model": "poolside/laguna-s-2.1:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-27|free__laguna-s-2-1|1",
+  "board": [
+    "BRONZE",
+    "OPERATOR",
+    "BBQING",
+    "HOMING",
+    "BOOTH",
+    "WU-TANG",
+    "PROVIDER",
+    "LOHAN",
+    "CLAY",
+    "PLASTER",
+    "CARRIER",
+    "NETWORK",
+    "BANQUETTE",
+    "MARBLE",
+    "CHAIR",
+    "STOOL"
+  ],
+  "started_at": "2026-09-27T17:50:48+00:00",
+  "finished_at": "2026-09-27T17:55:46+00:00",
+  "error": null,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 0,
+  "guesses_made": 4,
+  "invalid_responses": 1,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "SCULPTURE MEDIA": 1,
+    "TELECOM": 2,
+    "RESTAURANT SEATING OPTIONS": 3,
+    "ENDING IN CHINESE DYNASTIES": 4
+  },
+  "usage": {
+    "prompt_tokens": 2967,
+    "completion_tokens": 8206,
+    "reasoning_tokens": 8000,
+    "cost_usd": 0.0,
+    "latency_ms": 160659,
+    "requests": 5
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 146426,
+          "prompt_tokens": 362,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 8000,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "{\"reasoning\": \"Bronze, Marble, Clay, Plaster are all materials/surfaces used in construction or art.\", \"guess\": [\"BRONZE\", \"MARBLE\", \"CLAY\", \"PLASTER\"]}",
+          "reasoning": "Bronze, Marble, Clay, Plaster are all materials/surfaces used in construction or art.",
+          "latency_ms": 7601,
+          "prompt_tokens": 456,
+          "completion_tokens": 46,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "BRONZE",
+        "MARBLE",
+        "CLAY",
+        "PLASTER"
+      ],
+      "group": "SCULPTURE MEDIA",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"Operator, Provider, Carrier, Network all relate to telecommunications or service roles.\", \"guess\": [\"OPERATOR\", \"PROVIDER\", \"CARRIER\", \"NETWORK\"]}",
+          "reasoning": "Operator, Provider, Carrier, Network all relate to telecommunications or service roles.",
+          "latency_ms": 2514,
+          "prompt_tokens": 597,
+          "completion_tokens": 40,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "OPERATOR",
+        "PROVIDER",
+        "CARRIER",
+        "NETWORK"
+      ],
+      "group": "TELECOM",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"Booth, Chair, Stool, Banquette are all types of seating/furniture.\", \"guess\": [\"BOOTH\", \"CHAIR\", \"STOOL\", \"BANQUETTE\"]}",
+          "reasoning": "Booth, Chair, Stool, Banquette are all types of seating/furniture.",
+          "latency_ms": 1375,
+          "prompt_tokens": 717,
+          "completion_tokens": 47,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "BOOTH",
+        "CHAIR",
+        "STOOL",
+        "BANQUETTE"
+      ],
+      "group": "RESTAURANT SEATING OPTIONS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"BBQing, Homing, Wu-Tang, Lohan - these seem to be related to different types of 'ing' or cultural references, but more likely they form a group based on word associations or suffixes.\", \"guess\": [\"BBQING\", \"HOMING\", \"WU-TANG\", \"LOHAN\"]}",
+          "reasoning": "BBQing, Homing, Wu-Tang, Lohan - these seem to be related to different types of 'ing' or cultural references, but more likely they form a group based on word associations or suffixes.",
+          "latency_ms": 2743,
+          "prompt_tokens": 835,
+          "completion_tokens": 73,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "BBQING",
+        "HOMING",
+        "WU-TANG",
+        "LOHAN"
+      ],
+      "group": "ENDING IN CHINESE DYNASTIES",
+      "mistakes_after": 0
+    }
+  ]
+}

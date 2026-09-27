@@ -42,3 +42,7 @@ ERROR: gave up after 7 attempts: HTTP 200: Upstream error from Nvidia: Internal 
 [11/15] start  free__nemotron-3-5-lightning  17:37:49
 win      free__nemotron-3-5-lightning a1  groups=4 mistakes=0 invalid=1 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-27/free__nemotron-3-5-lightning.json
 [11/15] done   free__nemotron-3-5-lightning in 779s
+[11/15] committed free__nemotron-3-5-lightning
+[12/15] start  free__laguna-s-2-1  17:50:48
+win      free__laguna-s-2-1 a1  groups=4 mistakes=0 invalid=1 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-27/free__laguna-s-2-1.json
+[12/15] done   free__laguna-s-2-1 in 298s
