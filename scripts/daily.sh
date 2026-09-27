@@ -25,6 +25,20 @@ echo " ConnectionsBench daily | $DATE | $(date -u +%FT%TZ)"
 echo "===================================================================="
 
 echo
+echo "--- 0. sync with remote"
+# The ingest cron commits to main at 14:00 UTC, so the remote routinely moves
+# without anyone touching it. Rebase first or the push at the end is rejected.
+if git remote get-url origin >/dev/null 2>&1; then
+  if ! git diff --quiet || ! git diff --cached --quiet; then
+    echo "working tree is dirty — skipping pull, commit or stash first"
+  elif git pull --rebase --autostash 2>&1 | tail -2; then
+    :
+  else
+    echo "pull failed (offline?) — continuing with local state"
+  fi
+fi
+
+echo
 echo "--- 1. ingest"
 connbench ingest
 if ! git diff --quiet -- data/puzzles; then
