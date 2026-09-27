@@ -1,0 +1,47 @@
+{
+  "id": 1199,
+  "date": "2026-09-27",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SCULPTURE MEDIA",
+      "level": null,
+      "members": [
+        "BRONZE",
+        "CLAY",
+        "MARBLE",
+        "PLASTER"
+      ]
+    },
+    {
+      "name": "RESTAURANT SEATING OPTIONS",
+      "level": null,
+      "members": [
+        "BANQUETTE",
+        "BOOTH",
+        "CHAIR",
+        "STOOL"
+      ]
+    },
+    {
+      "name": "TELECOM",
+      "level": null,
+      "members": [
+        "CARRIER",
+        "NETWORK",
+        "OPERATOR",
+        "PROVIDER"
+      ]
+    },
+    {
+      "name": "ENDING IN CHINESE DYNASTIES",
+      "level": null,
+      "members": [
+        "BBQING",
+        "HOMING",
+        "LOHAN",
+        "WU-TANG"
+      ]
+    }
+  ]
+}
