@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "puzzle_id": 1199,
+  "model": "free__dots-3-note-preview",
+  "openrouter_id": "dots-studio/dots-3-note-preview:free",
+  "resolved_model": "dots-studio/dots-3-note-preview:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "seed": "2026-09-27|free__dots-3-note-preview|1",
+  "board": [
+    "OPERATOR",
+    "STOOL",
+    "HOMING",
+    "NETWORK",
+    "CHAIR",
+    "MARBLE",
+    "BRONZE",
+    "BOOTH",
+    "CLAY",
+    "BANQUETTE",
+    "BBQING",
+    "LOHAN",
+    "PROVIDER",
+    "CARRIER",
+    "PLASTER",
+    "WU-TANG"
+  ],
+  "started_at": "2026-09-27T17:11:08+00:00",
+  "finished_at": "2026-09-27T17:16:20+00:00",
+  "error": null,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 0,
+  "guesses_made": 4,
+  "invalid_responses": 1,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "RESTAURANT SEATING OPTIONS": 1,
+    "SCULPTURE MEDIA": 2,
+    "TELECOM": 3,
+    "ENDING IN CHINESE DYNASTIES": 4
+  },
+  "usage": {
+    "prompt_tokens": 3130,
+    "completion_tokens": 27851,
+    "reasoning_tokens": 23594,
+    "cost_usd": 0.0,
+    "latency_ms": 312156,
+    "requests": 5
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"guess\": [\"CHAIR\", \"STOOL\", \"BOOTH\", \"BANQUETTE\"], \"reasoning\": \"The words can be grouped into four categories: seating (CHAIR, STOOL, BOOTH, BANQUETTE), sculpting materials (MARBLE, BRONZE, CLAY, PLASTER), telecom/internet providers (OPERATOR, NETWORK, PROVIDER, CARRIER), and homophones of -ing words (HOMING, BBQING, LOHAN, WU-TANG). I will guess the seating group first.\"}",
+          "reasoning": "The words can be grouped into four categories: seating (CHAIR, STOOL, BOOTH, BANQUETTE), sculpting materials (MARBLE, BRONZE, CLAY, PLASTER), telecom/internet providers (OPERATOR, NETWORK, PROVIDER, CARRIER), and homophones of -ing words (HOMING, BBQING, LOHAN, WU-TANG). I will guess the seating group first.",
+          "latency_ms": 53824,
+          "prompt_tokens": 343,
+          "completion_tokens": 4267,
+          "reasoning_tokens": 3168,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "CHAIR",
+        "STOOL",
+        "BOOTH",
+        "BANQUETTE"
+      ],
+      "group": "RESTAURANT SEATING OPTIONS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "",
+          "reasoning": null,
+          "latency_ms": 72367,
+          "prompt_tokens": 554,
+          "completion_tokens": 8000,
+          "reasoning_tokens": 6413,
+          "cost_usd": 0.0,
+          "finish_reason": "length",
+          "error": "your response was cut off before you produced a JSON object — you reached the token limit while still reasoning. Think in far fewer words and emit the JSON object first",
+          "truncated": true
+        },
+        {
+          "text": "{\"guess\": [\"MARBLE\", \"BRONZE\", \"CLAY\", \"PLASTER\"], \"reasoning\": \"These are all materials used in sculpture or art.\"}",
+          "reasoning": "These are all materials used in sculpture or art.",
+          "latency_ms": 38309,
+          "prompt_tokens": 642,
+          "completion_tokens": 3133,
+          "reasoning_tokens": 2791,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "MARBLE",
+        "BRONZE",
+        "CLAY",
+        "PLASTER"
+      ],
+      "group": "SCULPTURE MEDIA",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"guess\": [\"OPERATOR\", \"NETWORK\", \"PROVIDER\", \"CARRIER\"], \"reasoning\": \"These words are all terms related to telecommunications or internet services.\"}",
+          "reasoning": "These words are all terms related to telecommunications or internet services.",
+          "latency_ms": 65682,
+          "prompt_tokens": 749,
+          "completion_tokens": 5709,
+          "reasoning_tokens": 5170,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "OPERATOR",
+        "NETWORK",
+        "PROVIDER",
+        "CARRIER"
+      ],
+      "group": "TELECOM",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"guess\": [\"HOMING\", \"BBQING\", \"LOHAN\", \"WU-TANG\"], \"reasoning\": \"These are the only four words remaining on the board, so they must form the last group.\"}",
+          "reasoning": "These are the only four words remaining on the board, so they must form the last group.",
+          "latency_ms": 81974,
+          "prompt_tokens": 842,
+          "completion_tokens": 6742,
+          "reasoning_tokens": 6052,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "HOMING",
+        "BBQING",
+        "LOHAN",
+        "WU-TANG"
+      ],
+      "group": "ENDING IN CHINESE DYNASTIES",
+      "mistakes_after": 0
+    }
+  ]
+}
