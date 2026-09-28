@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-28",
+  "puzzle_id": 1200,
+  "model": "free__space-bunny-alpha",
+  "openrouter_id": "stealth/space-bunny-alpha",
+  "resolved_model": "stealth/space-bunny-alpha",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-09-28|free__space-bunny-alpha|1",
+  "board": [
+    "CHIHUAHUA",
+    "MIGNONETTE",
+    "DURANGO",
+    "WHEAT",
+    "BAMBOO",
+    "VIPER",
+    "CELERY",
+    "CHARGER",
+    "SPRINGING",
+    "POSSESSES",
+    "CORN",
+    "TABASCO",
+    "HORSERADISH",
+    "CHALLENGER",
+    "LEMON",
+    "ARKANSANS"
+  ],
+  "started_at": "2026-09-28T20:30:30+00:00",
+  "finished_at": "2026-09-28T20:30:59+00:00",
+  "error": null,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 0,
+  "guesses_made": 4,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "THINGS WITH STALKS": 1,
+    "DODGE MODELS": 2,
+    "OYSTER CONDIMENTS": 3,
+    "THREE LETTERS PLUS REPEATED TRIGRAMS": 4
+  },
+  "usage": {
+    "prompt_tokens": 2827,
+    "completion_tokens": 2160,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 28676,
+    "requests": 4
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"WHEAT, BAMBOO, CORN, and CELERY are all plants, giving a clear four-word botanical group.\",\"guess\":[\"WHEAT\",\"BAMBOO\",\"CORN\",\"CELERY\"]}",
+          "reasoning": "WHEAT, BAMBOO, CORN, and CELERY are all plants, giving a clear four-word botanical group.",
+          "reasoning_text": "We need infer categories. 16 words. Likely things prefixed? Chihuahua, mignonette, Durango, wheat, bamboo, viper, celery, charger, springing, possesses, corn, Tabasco, horseradish, challenger, lemon, Arkansans.\n\nCould be words with silent? State demonyms? Arkansasans, Durango, Tabasco, Chihuahua all place names / demonyms? Mignonette perhaps flower, wheat/corn/bamboo plants, celery/lemon? Need group structures perhaps words that can follow \"baby\"? Baby corn, baby lemon? Baby charger?\n\nNotice possessives: springing, possesses, challenger, charger maybe words with? \"horse\" compounds: horseradish, horse? \"Arkansas\" + ans.\n\nCould be hidden US state abbreviations? Each word contains chemical symbols? Groups likely word chains with prefixes: CHIHUAHUA, MIGNONETTE, DURANGO, WHEAT, BAMBOO, VIPER, CELERY, CHARGER, SPRINGING, POSSESSES, CORN, TABASCO, HORSERADISH, CHALLENGER, LEMON, ARKANSANS. Maybe all have heteronyms? \"one word, two pronunciations\": either? Read either, read? WHEAT? WHEAT no. \"live\" in \"possesses\" etc. Words that change pronunciation plural? \n\nLook for words containing abbreviations of US states? CHIHUAHUA has? \"HU\" etc. MIGNONETTE. Durango = D + URANGO. Arkansas.\n\nCould be categories around \"___ root\": wheat, horseradish, celery, lemon? all foods with? \"baby\": baby corn, baby lemon, baby bamboo, baby horseradish? \n\nMaybe groups based on prefixes that are also words: CHARGER, SPRINGING, POSSESSES, CHALLENGER all can be preceded by \"over\": overcharger, overspringing? overpossesses, overchallenger. Hmm.\n\nWords contain abbreviations for months? CHIHUAHUA (??), MIGNONETTE (??), DURANGO (??), WHEAT (??), BAMBOO, VIPER, CELERY, CHARGER, SPRINGING, POSSESSES, CORN, TABASCO, HORSERADISH, CHALLENGER, LEMON, ARKANSANS. Could categorize by adding \"horse\": horseradish obvious, horse? horse corn, horse celery? \"horse charger\" is a person/device? \"horse spring\"? \"horse challenger\".\n\nLikely word groups are compound-word completions with \"baby\": baby corn, baby lemon, baby? Chihuahua, bamboo, celery, horseradish all can be \"baby\". But need exact hidden likely \"things that are also [something]\". 4 plant words: wheat, bamboo, corn, horseradish? 4 foods: celery, lemon, tabasco, horseradish. 4 words ending -er: charger, challenger, viper? (viper), mignonette? 4 geographic: Chihuahua, Durango, Tabasco, Arkansans. Ah yes! Geographic proper nouns: CHIHUAHUA (Mexican state/city), DURANGO, TABASCO, ARKANSANS? Arkansans are people, likely \"Arkansas\" adjective mismatch but all maybe demonyms? Arkansas, Chihuahua, Durango, Tabasco are states/regions. ARKANSANS is demonym, while \"Tabascans\" not Tabasco. Group likely \"words that become another word when S added\"? Arkansas -> Arkansans; posses? possesses, springing? \n\nCould be words with letters in alphabetical? Need just first guess safest clear geography: CHIHUAHUA, DURANGO, TABASCO, ARKANSANS. But Arkansas is not place name, still likely group category \"places in North America\"? Chihuahua, Durango, Tabasco, Arkansas (but ARKANSANS exact is odd). Maybe all can precede \"state\"? state of Arkansas, Chihuahua, Durango, Tabasco. Yet Arkansasans is demonym. Group could be words that become plural by adding s? \"Arkansans\" already plural.\n\nOther clear group: WHEAT, BAMBOO, CORN, CELERY = plants? Celery is plant, wheat, bamboo, corn. Four. Remaining MIGNONETTE, VIPER, CHARGER, SPRINGING, POSSESSES, LEMON, HORSERADISH, CHALLENGER plus geo. Could group \"words that become another word by changing first letter\"? \n\nWe need choose first. Plants category likely WHEAT BAMBOO CORN CELERY, but celery and bamboo plants, obvious. Geography likely 4. In Connections, category names can be \"places in Mexico\" perhaps Chihuahua, Durango, Tabasco,? Arkansans no. Maybe \"words that are both nouns and verbs\" etc.\n\nLook at suffix/prefix relationships: CHIHUAHUA, MIGNONETTE, DURANGO, ARKANSANS are proper demonyms? \"Arkansans\" definitely demonym. \"Durangos\" demonym, Tabascans, Chihuahuans. Mignonette is a flower. Could all be words where adding S yields demonym? CHIHUAHUA -> Chihuahuans (not s exactly), DURANGO -> Durangos, TABASCO -> Tabascans, ARKANSANS -> Arkansans. likely category \"demonyms\"? But Mignonette no.\n\nMaybe words hide US postal abbreviations: CHIHUAHUA has IA? MIGNONETTE has? all contain abbreviations? \"VIPER\" contains? IP? State abbreviations: AR (ARKANSANS? starts AR), CA (CHIHUAHUA has HI), CO (CORN starts CO),? This might be a word association puzzle from PuzzGrid where groups based on common prefixes/suffixes.\n\nPick plants. Need JSON only.",
+          "latency_ms": 13533,
+          "prompt_tokens": 493,
+          "completion_tokens": 1286,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "WHEAT",
+        "BAMBOO",
+        "CORN",
+        "CELERY"
+      ],
+      "group": "THINGS WITH STALKS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"VIPER, CHARGER, CHALLENGER, and DURANGO are all Dodge vehicle models.\",\"guess\":[\"VIPER\",\"CHARGER\",\"CHALLENGER\",\"DURANGO\"]}",
+          "reasoning": "VIPER, CHARGER, CHALLENGER, and DURANGO are all Dodge vehicle models.",
+          "reasoning_text": "We need group. Chihuahua, mignonette, durango, Arkansas likely things named after Mexican states? Chihuahua, Durango are Mexican states; Arkansas? Mignonette Arkansas cultivar? Hot peppers? Tabasco, horseradish, lemon? Sizes? Viper, charger, challenger all models? Challenger, Charger, Viper, springing? Springs, shocks, batteries? Need exact.\n\nCould be words that follow \"baby\"? Baby corn removed, baby... Mignonette, durango, Arkansas all varieties? \"Arkansas\" likely state. Chihuahua, Durango Mexican states. Arkansas and? lemon? geographical? Four US/Mexican? Chihuahua, Durango, Arkansas, maybe Arkansas is adjective linked to? University teams Razorbacks. \"Possesses\" has two s? Springing = becoming, possessing? hidden consecutive letters? Viper, charger, challenger, springing perhaps types of \"coil\"? Viper snake, charger device, Challenger space shuttle, springing action. Could be preceded by \"space\"? space springing? \n\nGrouping word transformations: POSSESSES = HAS, SPRINGING = BECOMING, maybe \"having/being\". Lemon = citrene. Tabasco = sauce. Horseradish = root. Mignonette = flower. Four? Mignonette, horseradish, lemon, tabasco are all \"hot\"? Mignonette can be pepper variety? Tabasco pepper, horseradish hot, lemon not.\n\nChihuahua, Arkansas = states/places. Durango and Arkansas perhaps colors? Chihuahua, mignonette, Durango, Arkansas all bird varieties? \"Hopi\" no.\n\nLikely one group is \"words that can follow Arkansas\"? Arkansas Charger? University of Arkansas mascot Razorbacks, no Razorback on board. Arkansas Traveler, Traveler spring? Durango, Chihuahua are places; Arkansas, maybe all counties named after? Four are \"things named after Mexican states\" only two.\n\nCould guess VIPER CHARGER CHALLENGER and? Springing: all can precede \"battery\"? Viper, charger, challenger, springer? There is \"Dodge Viper\", \"Dodge Charger\", \"Dodge Challenger\"; clearly 3 auto models. Fourth needs Dodge-related word: DURANGO is also Dodge model! Thus group. Great. Guess those.",
+          "latency_ms": 8388,
+          "prompt_tokens": 646,
+          "completion_tokens": 517,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "VIPER",
+        "CHARGER",
+        "CHALLENGER",
+        "DURANGO"
+      ],
+      "group": "DODGE MODELS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"MIGNONETTE, TABASCO, HORSERADISH, and LEMON can all refer to sauces or condiments.\",\"guess\":[\"MIGNONETTE\",\"TABASCO\",\"HORSERADISH\",\"LEMON\"]}",
+          "reasoning": "MIGNONETTE, TABASCO, HORSERADISH, and LEMON can all refer to sauces or condiments.",
+          "reasoning_text": "We need group. Words likely types of something? Chihuahua, mignonette, springing, possesses, tabasco, horseradish, lemon, Arkansas. Need solve. Could be words with something? Chihuahua and Mignonette = small? Springing and possesses = verbs ending ing/s? Tabasco horseradish lemon sauces? Arkansas state. Maybe hidden word transformations.\n\nGroups 4. Chihuahua, mignonette, springing, possesses maybe ? add \"S\" beginnings? Chihuahua, mignonette are diminutives? Springing, possesses are -ing words. Tabasco, horseradish, lemon = condiments. Arkansas standalone.\n\nCould group sauces: Tabasco, horseradish, lemon? Arkansas perhaps? All can pair with sauce: hot sauce, horseradish sauce, lemon sauce, Arkansas? Arkansas sauce perhaps. More likely three obvious and need fourth not available. \"Mignonette\" is a sauce/vinegar dressing! So TABASCO, HORSERADISH, LEMON, MIGNONETTE are sauces? Each can be a sauce. That seems category \"things that can be sauces\" maybe. Yet mignonette is a sauce. Guess.",
+          "latency_ms": 4453,
+          "prompt_tokens": 780,
+          "completion_tokens": 295,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "MIGNONETTE",
+        "TABASCO",
+        "HORSERADISH",
+        "LEMON"
+      ],
+      "group": "OYSTER CONDIMENTS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"CHIHUAHUA and ARKANSANS are paired with U.S. state abbreviations (CHIH and AR); the remaining words complete the same wordplay pattern.\",\"guess\":[\"CHIHUAHUA\",\"SPRINGING\",\"POSSESSES\",\"ARKANSANS\"]}",
+          "reasoning": "CHIHUAHUA and ARKANSANS are paired with U.S. state abbreviations (CHIH and AR); the remaining words complete the same wordplay pattern.",
+          "reasoning_text": null,
+          "latency_ms": 2302,
+          "prompt_tokens": 908,
+          "completion_tokens": 62,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "CHIHUAHUA",
+        "SPRINGING",
+        "POSSESSES",
+        "ARKANSANS"
+      ],
+      "group": "THREE LETTERS PLUS REPEATED TRIGRAMS",
+      "mistakes_after": 0
+    }
+  ]
+}
