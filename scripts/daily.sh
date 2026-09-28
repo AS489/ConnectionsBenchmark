@@ -70,7 +70,28 @@ if ! git diff --quiet -- data/index; then
 fi
 
 echo
-echo "--- done. Unpushed commits:"
-git log --oneline @{u}..HEAD 2>/dev/null || git log --oneline -5
+echo "--- 5. push"
+if ! git remote get-url origin >/dev/null 2>&1; then
+  echo "no remote configured — results are committed locally only"
+elif [ -z "$(git log --oneline @{u}..HEAD 2>/dev/null)" ]; then
+  echo "nothing new to push"
+else
+  N=$(git log --oneline @{u}..HEAD | wc -l | tr -d ' ')
+  echo "pushing $N commit(s)..."
+  if git push 2>&1 | tail -2; then
+    echo "pushed"
+  else
+    # The ingest cron commits to main at 14:00 UTC, so the remote can move while
+    # a long batch is running. Rebase onto it and try once more.
+    echo "push rejected — remote moved; rebasing and retrying"
+    if git pull --rebase --autostash 2>&1 | tail -2 && git push 2>&1 | tail -2; then
+      echo "pushed after rebase"
+    else
+      echo "PUSH FAILED — results are committed locally and safe. Resolve, then: git push"
+    fi
+  fi
+fi
+
 echo
-echo "Push with:  git push"
+echo "--- done."
+git log --oneline -3
