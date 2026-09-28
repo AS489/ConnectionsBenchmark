@@ -282,5 +282,138 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "puzzle_id": 1200,
+    "groups": [
+      {
+        "name": "THINGS WITH STALKS",
+        "level": null,
+        "members": [
+          "BAMBOO",
+          "CELERY",
+          "CORN",
+          "WHEAT"
+        ]
+      },
+      {
+        "name": "OYSTER CONDIMENTS",
+        "level": null,
+        "members": [
+          "HORSERADISH",
+          "LEMON",
+          "MIGNONETTE",
+          "TABASCO"
+        ]
+      },
+      {
+        "name": "DODGE MODELS",
+        "level": null,
+        "members": [
+          "CHALLENGER",
+          "CHARGER",
+          "DURANGO",
+          "VIPER"
+        ]
+      },
+      {
+        "name": "THREE LETTERS PLUS REPEATED TRIGRAMS",
+        "level": null,
+        "members": [
+          "ARKANSANS",
+          "CHIHUAHUA",
+          "POSSESSES",
+          "SPRINGING"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 3,
+        "invalid_responses": 9,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__ling-3-0-flash-sante": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 3,
+        "invalid_responses": 9,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 1,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__space-bunny-alpha": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "THREE LETTERS PLUS REPEATED TRIGRAMS",
+        "solved_by": 4,
+        "solve_rate": 0.6666666666666666,
+        "mean_solve_turn": 4.0,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "THINGS WITH STALKS",
+        "solved_by": 4,
+        "solve_rate": 0.6666666666666666,
+        "mean_solve_turn": 3.0,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "OYSTER CONDIMENTS",
+        "solved_by": 4,
+        "solve_rate": 0.6666666666666666,
+        "mean_solve_turn": 2.5,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "DODGE MODELS",
+        "solved_by": 4,
+        "solve_rate": 0.6666666666666666,
+        "mean_solve_turn": 1.25,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
