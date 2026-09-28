@@ -42,6 +42,8 @@
   "groups_solved_by_name": {
     "FEATURES OF WOOD": 3
   },
+  "truncated_responses": 10,
+  "budget_starved": false,
   "usage": {
     "prompt_tokens": 12174,
     "completion_tokens": 82034,

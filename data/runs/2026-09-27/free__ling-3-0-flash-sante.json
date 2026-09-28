@@ -45,6 +45,8 @@
     "SCULPTURE MEDIA": 3,
     "TELECOM": 4
   },
+  "truncated_responses": 0,
+  "budget_starved": false,
   "usage": {
     "prompt_tokens": 3082,
     "completion_tokens": 9612,

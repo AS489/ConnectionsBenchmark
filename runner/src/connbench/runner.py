@@ -143,6 +143,7 @@ def play(
                     "reasoning_tokens": resp.reasoning_tokens,
                     "cost_usd": resp.cost_usd,
                     "finish_reason": resp.finish_reason,
+                    "truncated": resp.finish_reason == "length",
                     "error": None,
                 }
                 log.responses.append(entry)
@@ -154,7 +155,6 @@ def play(
                     # feeding back the wrong one derails the next turn.
                     reason = TRUNCATED_REASON if resp.finish_reason == "length" else e.reason
                     entry["error"] = reason
-                    entry["truncated"] = resp.finish_reason == "length"
                     if game.status.terminal:
                         break
                     messages.append({"role": "user", "content": retry_message(reason)})
@@ -201,7 +201,7 @@ def play(
         "started_at": started,
         "finished_at": _now(),
         "error": error,
-        **score_game(game),
+        **score_game(game, [t.to_dict() for t in turns]),
         "usage": usage.to_dict(),
         "turns": [t.to_dict() for t in turns],
     }

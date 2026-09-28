@@ -166,3 +166,28 @@ def test_empty_response_never_becomes_an_empty_assistant_message(puzzle):
                 assert m["content"].strip(), "sent an empty assistant message"
     # The chain of thought is captured even though content was empty.
     assert rec["turns"][0]["responses"][0]["reasoning_text"] == "I should think about this..."
+
+
+def test_budget_starved_run_is_marked_as_such(puzzle):
+    """A run where EVERY response hit the token ceiling measured our budget, not the
+    model. Regression from 2026-09-28 puzzle #1200, where two models forfeited with
+    nine truncated, empty responses while every model with headroom solved it."""
+    from connbench.provider import ProviderResponse
+
+    class Truncating:
+        name = "trunc"
+
+        def complete(self, messages, cfg):
+            return ProviderResponse(text="", finish_reason="length",
+                                    reasoning_text="thinking and thinking...")
+
+    rec = play(puzzle, CFG, Truncating())
+    assert rec["status"] == "forfeit"
+    assert rec["budget_starved"] is True
+    assert rec["truncated_responses"] == rec["usage"]["requests"]
+
+
+def test_healthy_run_is_not_marked_budget_starved(puzzle):
+    rec = play(puzzle, CFG, MockProvider("perfect", puzzle=puzzle))
+    assert rec["budget_starved"] is False
+    assert rec["truncated_responses"] == 0

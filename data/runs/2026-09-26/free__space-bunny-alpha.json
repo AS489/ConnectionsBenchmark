@@ -45,6 +45,8 @@
     "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY": 3,
     "\"COOL\" THINGS, IN EXPRESSIONS": 4
   },
+  "truncated_responses": 0,
+  "budget_starved": false,
   "usage": {
     "prompt_tokens": 2639,
     "completion_tokens": 4495,

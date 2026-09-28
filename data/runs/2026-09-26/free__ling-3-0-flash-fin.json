@@ -43,6 +43,8 @@
     "BREATH FRESHENERS": 4,
     "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY": 5
   },
+  "truncated_responses": 4,
+  "budget_starved": false,
   "usage": {
     "prompt_tokens": 13984,
     "completion_tokens": 34870,

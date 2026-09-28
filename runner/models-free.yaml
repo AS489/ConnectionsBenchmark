@@ -18,13 +18,18 @@
 #
 # Models that have never completed a game are in models-free-unreliable.yaml.
 #
-# Token budgets: see the header of models.yaml. Time is generation-bound, so
-# `reasoning` is the lever, not max_tokens.
+# Token budgets: see the header of models.yaml. `reasoning` bounds thinking;
+# max_tokens must then leave room for the ANSWER. Measured 2026-09-28 on puzzle
+# #1200 (a repeated-trigram board): with max_tokens 8000, dots-3-note-preview and
+# ling-3.0-flash-sante hit the ceiling on all 9 responses, emitted ZERO characters
+# of content, and forfeited — while every model with headroom solved the board.
+# That is the benchmark measuring our configuration, and it corrupts precisely the
+# hardest puzzles. 16000 leaves ~10000 after a 6000-token reasoning cap.
 
 defaults:
   temperature: 0
   reasoning: { max_tokens: 6000 }
-  max_tokens: 8000
+  max_tokens: 16000
   attempts_per_day: 1
   max_cost_usd_per_run: 0.01   # free models report 0; a tripwire, not a budget
 

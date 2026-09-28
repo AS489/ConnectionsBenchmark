@@ -10,7 +10,7 @@
 defaults:
   temperature: 0
   reasoning: { max_tokens: 6000 }   # bounds thinking; ~1.4 min/turn at 74 tok/s
-  max_tokens: 8000                  # reasoning + room for the JSON answer
+  max_tokens: 16000                  # reasoning + room for the JSON answer
   attempts_per_day: 1
   max_cost_usd_per_run: 0.50
   json_schema: true

@@ -45,6 +45,8 @@
     "TELECOM": 4,
     "ENDING IN CHINESE DYNASTIES": 5
   },
+  "truncated_responses": 0,
+  "budget_starved": false,
   "usage": {
     "prompt_tokens": 3496,
     "completion_tokens": 527,

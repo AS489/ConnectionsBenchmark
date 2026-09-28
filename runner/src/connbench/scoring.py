@@ -35,11 +35,23 @@ def wilson_interval(successes: int, n: int, z: float = 1.959963984540054) -> tup
     return (round(max(0.0, centre - half), 6), round(min(1.0, centre + half), 6))
 
 
-def score_game(game: GameState) -> dict:
-    """Per-run metrics derived purely from the finished game state."""
+def score_game(game: GameState, turns: list | None = None) -> dict:
+    """Per-run metrics derived purely from the finished game state.
+
+    ``turns`` carries the runner's per-response log. It is used only to count
+    truncated responses: a model that never emitted a parseable answer because it
+    ran out of tokens is a DIFFERENT failure from one that guessed badly, and
+    pooling them silently makes the hardest puzzles the least trustworthy data.
+    """
     solved_by_name = {h.group_name: h.turn for h in game.history if h.outcome is Outcome.CORRECT}
     first = next((h for h in game.history if h.outcome is not Outcome.FAILED_TURN), None)
+    responses = [r for t in (turns or []) for r in (t.get("responses") or [])]
+    truncated = sum(1 for r in responses if r.get("truncated"))
     return {
+        "truncated_responses": truncated,
+        # Every single response hit the token ceiling: the run measured our budget,
+        # not the model. Recorded so these can be separated during analysis.
+        "budget_starved": bool(responses) and truncated == len(responses),
         "status": game.status.value,
         "solved": game.status is Status.WIN,
         "groups_solved": len(game.solved),

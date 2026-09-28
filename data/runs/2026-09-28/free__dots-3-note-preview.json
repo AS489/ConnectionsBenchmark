@@ -40,6 +40,8 @@
   "invalid_responses": 9,
   "first_guess_correct": false,
   "groups_solved_by_name": {},
+  "truncated_responses": 9,
+  "budget_starved": true,
   "usage": {
     "prompt_tokens": 7353,
     "completion_tokens": 72000,
