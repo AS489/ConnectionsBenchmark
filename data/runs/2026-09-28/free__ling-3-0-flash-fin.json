@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-28",
+  "puzzle_id": 1200,
+  "model": "free__ling-3-0-flash-fin",
+  "openrouter_id": "inclusionai/ling-3.0-flash-fin:free",
+  "resolved_model": null,
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-09-28|free__ling-3-0-flash-fin|1",
+  "board": [
+    "HORSERADISH",
+    "DURANGO",
+    "MIGNONETTE",
+    "ARKANSANS",
+    "WHEAT",
+    "CHALLENGER",
+    "BAMBOO",
+    "VIPER",
+    "LEMON",
+    "TABASCO",
+    "CHIHUAHUA",
+    "POSSESSES",
+    "CHARGER",
+    "CORN",
+    "SPRINGING",
+    "CELERY"
+  ],
+  "started_at": "2026-09-28T20:30:59+00:00",
+  "finished_at": "2026-09-28T20:30:59+00:00",
+  "error": "HTTP 404: This model is unavailable for free. The paid version is available now - use this slug instead: inclusionai/ling-3.0-flash-fin",
+  "status": "error",
+  "solved": false,
+  "groups_solved": 0,
+  "mistakes_used": 0,
+  "guesses_made": 0,
+  "invalid_responses": 0,
+  "first_guess_correct": false,
+  "groups_solved_by_name": {},
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 0,
+    "requests": 0
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [],
+      "outcome": null,
+      "words": [],
+      "group": null,
+      "mistakes_after": null
+    }
+  ]
+}
