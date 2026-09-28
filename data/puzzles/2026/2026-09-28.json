@@ -1,0 +1,47 @@
+{
+  "id": 1200,
+  "date": "2026-09-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS WITH STALKS",
+      "level": null,
+      "members": [
+        "BAMBOO",
+        "CELERY",
+        "CORN",
+        "WHEAT"
+      ]
+    },
+    {
+      "name": "OYSTER CONDIMENTS",
+      "level": null,
+      "members": [
+        "HORSERADISH",
+        "LEMON",
+        "MIGNONETTE",
+        "TABASCO"
+      ]
+    },
+    {
+      "name": "DODGE MODELS",
+      "level": null,
+      "members": [
+        "CHALLENGER",
+        "CHARGER",
+        "DURANGO",
+        "VIPER"
+      ]
+    },
+    {
+      "name": "THREE LETTERS PLUS REPEATED TRIGRAMS",
+      "level": null,
+      "members": [
+        "ARKANSANS",
+        "CHIHUAHUA",
+        "POSSESSES",
+        "SPRINGING"
+      ]
+    }
+  ]
+}
