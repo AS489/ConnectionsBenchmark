@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-29",
+  "puzzle_id": 1201,
+  "model": "free__space-bunny-alpha",
+  "openrouter_id": "stealth/space-bunny-alpha",
+  "resolved_model": "stealth/space-bunny-alpha",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-09-29|free__space-bunny-alpha|1",
+  "board": [
+    "TUCKED AWAY",
+    "DELTA",
+    "MONSTERS",
+    "FINDING",
+    "DRAINAGE BASIN",
+    "HOME GAME",
+    "INSIDE",
+    "REMOTE",
+    "MOUTH",
+    "FREEZE TAG",
+    "SECRET",
+    "ORAL PHASE",
+    "MODEL TANK",
+    "HIDDEN",
+    "TOY",
+    "STREAM BED"
+  ],
+  "started_at": "2026-09-29T19:37:06+00:00",
+  "finished_at": "2026-09-29T19:38:22+00:00",
+  "error": null,
+  "truncated_responses": 0,
+  "budget_starved": false,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 1,
+  "guesses_made": 5,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "RIVER FEATURES": 1,
+    "FIRST WORDS OF PIXAR FILMS": 3,
+    "SECLUDED": 4,
+    "PHRASES HIDING GREEK LETTERS": 5
+  },
+  "usage": {
+    "prompt_tokens": 3725,
+    "completion_tokens": 4385,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 76274,
+    "requests": 5
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These are all geographical features associated with rivers or waterways.\",\"guess\":[\"DELTA\",\"DRAINAGE BASIN\",\"MOUTH\",\"STREAM BED\"]}",
+          "reasoning": "These are all geographical features associated with rivers or waterways.",
+          "reasoning_text": "We need solve. Need JSON only. Need identify categories. Words: TUCKED AWAY, DELTA, MONSTERS, FINDING, DRAINAGE BASIN, HOME GAME, INSIDE, REMOTE, MOUTH, FREEZE TAG, SECRET, ORAL PHASE, MODEL TANK, HIDDEN, TOY, STREAM BED.\n\nLikely phrases? \"___ game\", \"___ tag\", etc. Groups perhaps words that form [something] with hidden? Need find 4 groups.\n\nObvious categories:\nTUCKED AWAY, INSIDE, HIDDEN, SECRET = hidden? But 4.\nHOME GAME, FREEZE TAG, MODEL TANK, DRAINAGE BASIN? compound nouns?\nDELTA, MOUTH, STREAM BED, DRAINAGE BASIN = geographic water features? Delta, mouth, stream bed, drainage basin all river geography.\nMONSTERS, TOY, REMOTE, ORAL PHASE? \"___\" hidden? \nCould be phrase preceding/following \"...\" Categories likely \"things that can be [something]\". Four words each semantic:\nDELTA, MOUTH, STREAM BED, DRAINAGE BASIN = river features, strong.\nTUCKED AWAY, INSIDE, HIDDEN, SECRET = concealed.\nHOME GAME, FREEZE TAG, MODEL TANK, TOY? \"___\" maybe things with \"game\"? \nMONSTERS, REMOTE, ORAL PHASE, FINDING? Need group.\n\nCould group by words associated with \"___\"? \"monster\", \"remote\", \"oral\", \"finding\" all \"??\" Maybe prefixes: \nTUCKED AWAY = put away\nDELTA = letter\nMONSTERS = creatures\nFINDING = discovery\nDRAINAGE BASIN = catchment area\nHOME GAME = home match\nINSIDE = within\nREMOTE = far\nMOUTH = oral\nFREEZE TAG = game\nSECRET = hidden\nORAL PHASE = oral stage\nMODEL TANK = scale model\nHIDDEN = concealed\nTOY = plaything\nSTREAM BED = riverbed\n\nCould hidden category be phrases that can precede \"...\"? \"secret\", \"hidden\", \"tucked away\", \"inside\" all synonyms. Another group maybe \"___ model\": model tank, toy model? \"remote monster\"? Need 4 groups exact.\n\nNotice words may pair with \"___\": \"home game\", \"freeze tag\", \"model tank\", \"toy...\" Maybe \"things followed by game/tag/tank\"? \"inside mouth\", \"oral phase\", \"drainage basin\", \"stream bed\" are [??] body/geography.\n\nPotential category based on prefixes: \"secret finding\", \"inside mouth\", \"remote area\", \"tucked away\"? These are all phrases where adjective + noun.\n\nMaybe all 16 are entries in NYT Connections generated category labels, often category can be \"things that can be preceded by 'secret'\". Group words likely:\nTUCKED AWAY, INSIDE, HIDDEN, SECRET = \"concealed\"\nDELTA, DRAINAGE BASIN, MOUTH, STREAM BED = \"river features\"\nHOME GAME, FREEZE TAG, MODEL TANK, TOY = \"___?\"; Home game, freeze tag, model tank, toy all can be preceded by \"inside\"? \"inside game\", \"inside tag\", \"inside tank\", \"inside toy\" no.\nMONSTERS, REMOTE, ORAL PHASE, FINDING = \"??\" perhaps words after \"secret\": secret monsters, secret remote, secret oral phase, secret finding? no.\n\nCould be category involving prefixes that create common phrase with each? \"monster\", \"remote\", \"finding\", \"oral phase\" all preceded by \"??\": \"secret monster\", \"secret remote\", \"secret finding\", \"secret oral phase\" no.\n\nMaybe group by hidden prefixes/suffixes: DELTA, MOUTH, STREAM BED, DRAINAGE BASIN all can follow \"river\": river delta, river mouth, riverbed (not stream bed), river drainage basin. Good.\n\n\"home game, freeze tag, model tank, toy\" can be preceded by \"inside\"? no. Can be \"table\": table game, table tag? model tank is table? \"water\": water game, water tag, water tank, water toy. Hmm \"water\" + game, tag, tank, toy maybe categories? But no.\n\nRemaining likely group 3/4 are \"things that can be [remote?]\" and group 4.\n\nCould use word associations: HOME GAME = home match. FREEZE TAG = freeze? MODEL TANK = miniature. TOY = plaything. These might be \"types of ___\" with \"miniature\"? model tank, toy, freeze tag? \"home game\" maybe \"match\"; freeze tag is a game; model tank is a model; toy is model? All \"miniature\"? \"toy\" and model tank.\n\nMONSTERS, REMOTE, ORAL PHASE, FINDING perhaps prefixes \"cookie\"? cookie monster, remote control, oral phase, finding? \"Nazi\"? \n\nMaybe categories are \"___ game\", \"___ tag\", etc based on words sharing prefix \"water\": water monsters, water finding? \n\nLook for compounds with \"inside\": inside game, inside tag, inside tank, inside toy. \"secret\": secret game, secret tag, secret tank, secret toy. Hmm.\n\nCould be group of words that can precede \"ball\": home game? freeze tag? model tank? toy? \"ball\" game, ball tag, ball tank, ball toy. No.\n\nCould category be \"things found in a [??]\": remote, toy, monster, finding? \"Finding Nemo\"? \"The Little Mermaid\"? Delta, mouth, stream bed, drainage basin river.\n\nMaybe exact groups use word transformations: \"tucked away\", \"hidden\", \"secret\", \"inside\" all \"out of sight\". Then remaining 12:\ndelta, monsters, finding, drainage basin, home game, remote, mouth, freeze tag, oral phase, model tank, toy, stream bed.\nRiver group as above leaves monsters, finding, home game, remote, freeze tag, oral phase, model tank, toy. Need 2 groups of 4. These can pair around \"___\": \"home game\", \"freeze tag\" are games. \"model tank\", \"toy\" are toys/models. But need 4 each, perhaps group 3 \"things with a ___\": monsters, finding, remote, oral phase can pair with \"???\"; game, tag, tank, toy perhaps words associated with \"miniature\"? Model tank, toy, freeze tag, home game all? \"miniature golf\"? \n\nMaybe \"monsters, remote, oral phase, finding\" all can be preceded by \"cookie\"? cookie monster; remote? \"remote finding\"? Oral phase? Could be prefixes \"Nazi\": Nazi monsters, Nazi remote? no.\n\nCould be hidden category names via common preceding word: \"water\": water monster, water finding? water remote? water oral? \"water phase\" (liquid), water mouth, water tank, water bed. We already have geography but maybe group based on \"water ___\": water mouth? water tank, water bed, water phase. \"water\" + monsters (water monsters), water finding? water remote? Hmm.\n\n\"model tank\", \"home game\", \"freeze tag\", \"toy\" all can be preceded by \"miniature\"? miniature tank, miniature toy, miniature game, miniature tag? Freeze tag isn't miniature.\n\n\"monsters, remote, finding, oral phase\" can follow \"?? finding\": \"finding remote\" no.\n\nCould be category of words with prefixes that are names of \"video games\": Home Game? Freeze Tag, model tank, toy maybe \"___\" game? Monster, remote, oral phase, finding perhaps \"___\" something.\n\nWe need first guess safest river group. Exactly 4. Use DELTA MOUTH STREAM BED DRAINAGE BASIN. Reasoning brief.",
+          "latency_ms": 27640,
+          "prompt_tokens": 487,
+          "completion_tokens": 1708,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "DELTA",
+        "DRAINAGE BASIN",
+        "MOUTH",
+        "STREAM BED"
+      ],
+      "group": "RIVER FEATURES",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These four words are direct synonyms of “concealed,” forming a clear hidden category.\",\"guess\":[\"TUCKED AWAY\",\"INSIDE\",\"HIDDEN\",\"SECRET\"]}",
+          "reasoning": "These four words are direct synonyms of “concealed,” forming a clear hidden category.",
+          "reasoning_text": "We need identify. Likely hidden synonyms? tucked away, finding, home game, inside, secret, hidden? \"concealed\" group. Remaining 12. Need 3 groups. TUCKED AWAY, INSIDE, HIDDEN, SECRET = hidden. But obvious perhaps. Others: finding, home game, oral phase, freeze tag, remote, toy, model tank, monsters. Phrases with \"_____\": toy box, model tank, monsters inc, home game? Finding nemo? \"Finding\", \"Monster's Inc\", \"Home Game\", \"Oral phase\", \"Freeze Tag\", \"Remote\", \"Toy\", \"Inside\", etc Disney/pixar? Hidden category perhaps words related to \"Where's...\"? TUCKED AWAY = stashed, hidden. INSIDE = interior, HIDDEN, SECRET all concealed indeed. Guess.",
+          "latency_ms": 4196,
+          "prompt_tokens": 619,
+          "completion_tokens": 216,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "one_away",
+      "words": [
+        "TUCKED AWAY",
+        "INSIDE",
+        "HIDDEN",
+        "SECRET"
+      ],
+      "group": null,
+      "mistakes_after": 1
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These are the opening words or fragments of four Pixar film titles: Monsters University, Finding Nemo, Inside Out, and Toy Story.\",\"guess\":[\"MONSTERS\",\"FINDING\",\"INSIDE\",\"TOY\"]}",
+          "reasoning": "These are the opening words or fragments of four Pixar film titles: Monsters University, Finding Nemo, Inside Out, and Toy Story.",
+          "reasoning_text": "We need infer. Three hidden synonyms likely tucked away, hidden, secret. Inside belongs something else. Need find groups exactly.\n\nRemaining:\nTUCKED AWAY\nMONSTERS\nFINDING\nHOME GAME\nINSIDE\nREMOTE\nFREEZE TAG\nSECRET\nORAL PHASE\nMODEL TANK\nHIDDEN\nTOY\n\nCould groups:\nthings at? Monsters, Finding Nemo, Home Game, Inside Out? Wait words are NYT connection categories likely word association. Phrases formed with \"Where's...\": tucked away, monsters, finding, home game, inside, remote, freeze tag, secret, oral phase, model tank, hidden, toy.\n\nMaybe \"types of ...\"? Hidden, remote, inside, secret perhaps concealed. But our one away means one of guessed not synonym; likely INSIDE and others TUCKED AWAY HIDDEN SECRET together. Then remaining eight split:\nMONSTERS FINDING HOME GAME REMOTE FREEZE TAG ORAL PHASE MODEL TANK TOY.\nCould be \"___ in the...\"? Monster, home, freeze, model all prefixed? toy box, remote control, finding? Oral phase? Maybe \"things preceded by mouth\": mouthwatering?\n\nCould be terms ending \"game\": home game, freeze tag. \"monster\", \"remote\", \"oral\", \"model\" all types of? control: remote control, oral control, model control, self-control? Toy, monsters, finding, inside perhaps Pixar/Disney? Monsters University, Finding Nemo, Inside Out, Toy Story. Ah yes remaining contain four Pixar movies with words possibly each group clues? Actually list includes titles: Monsters, Finding [Nemo], Inside [Out], Toy [Story]. Home game? remote? freeze tag? oral phase? model tank? Could be types of \"___\": Monster, Home, Freeze, Model. But title fragments indeed.\n\nCould group \"Disney/Pixar\": MONSTERS, FINDING, INSIDE, TOY. Since these are roots of film titles, highly likely exact group, and would explain inside being outside synonym group. Then other eight likely TUCKED AWAY, HOME GAME, REMOTE, FREEZE TAG, ORAL PHASE, MODEL TANK, HIDDEN, SECRET. Hidden/concealed group as above 3 plus maybe? TUCKED AWAY HIDDEN SECRET, only three. Need fourth perhaps \"REMOTE\" = remote? not concealed. Other 8 two categories.\n\nMaybe group Pixar: MONSTERS, FINDING, INSIDE, TOY. But other titles words are weirdly partial, connection may category \"words that become Disney/Pixar films when paired with...\"? Yet category likely \"Pixar movie titles, missing final word\": Monsters [University], Finding [Nemo], Inside [Out], Toy [Story]. The game often allows fragments where group is Pixar films? likely category.\n\nCould first safely guess that. It has zero overlap prior guessed if INSIDE actually there, prior exact had 3 concealed likely no mistake issue doesn't prohibit. Group likely.",
+          "latency_ms": 11489,
+          "prompt_tokens": 747,
+          "completion_tokens": 670,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "MONSTERS",
+        "FINDING",
+        "INSIDE",
+        "TOY"
+      ],
+      "group": "FIRST WORDS OF PIXAR FILMS",
+      "mistakes_after": 1
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"“Inside” belonged to the Pixar group, leaving the other three as a near-complete group. “Remote” can also mean distant or secluded.\",\"guess\":[\"TUCKED AWAY\",\"HIDDEN\",\"SECRET\",\"REMOTE\"]}",
+          "reasoning": "“Inside” belonged to the Pixar group, leaving the other three as a near-complete group. “Remote” can also mean distant or secluded.",
+          "reasoning_text": "We need solve remaining likely types of hide and seek? Tucked away, home game, freeze tag, secret, oral phase, model tank, hidden, remote. Maybe things prefixed? \"hide-and-seek\" related. TUCKED AWAY, HIDDEN, SECRET are likely one group but previous failed one away means exactly three among tucked away, inside, hidden, secret belonged together. Since inside removed as Pixar, wait exactly 3 of four belonged together. If inside belonged concealed, then 3 were tucked away, inside, hidden, leaving secret not. But now likely remaining group tucked away hidden secret +? Yet then 3 already correct would have accepted. Game says one away exactly 3 same but they don't identify which. Could be tucked away, hidden, secret, while inside Pixar.\n\nRemaining likely categories pair by \"___ and ___\"? Home game = hide and seek? Freeze tag. Oral phase? Model tank? Remote? These perhaps \"types of tanks\": home game, model tank, oral phase, remote? Hmm word associations with \"___ tank\": model tank, remote-control tank, Magic: The Gathering? oral phase = oral stage.\n\nCould be \"things preceded by hidden\": hidden away, hidden game, hidden phase, hidden remote? Exact phrases:\nhome game -> home game console\nfreeze tag -> game\nmodel tank\nremote\noral phase\nsecret\nhidden\ntucked away.\n\nCould all be types of \"hide\": hide-and-seek? Tucking? Need group four likely \"things that can be remote\": remote, secret, model tank? \"remote, secret, hidden, tucked away\" all concealed, but secret issue.\n\nMaybe one group \"things preceded by cover\": cover secret? cover game? cover model? cover oral phase? Cover-up, cover story, cover charge.\n\nCould guess clear likely next: HOME GAME, FREEZE TAG, MODEL TANK, ORAL PHASE perhaps categories of \"___ and ___\": oral phase =? \"oral stage\", model tank =? tank game, home game, freeze tag all games. MODEL TANK could be \"model T\" not.\n\nThere are 8, perhaps games: home game, freeze tag, model tank, remote? \"remote\" game. Other concealed synonyms group tucked away, secret, hidden plus maybe? likely \"remote\" = remote? No.\n\nCould group \"things that can be found\": hidden, secret, tucked away, model tank? \"find hidden objects\".\n\nI need guess. Strong semantic group: TUCKED AWAY, HIDDEN, SECRET, perhaps \"concealed\" but need fourth. REMOTE? \"remote\" is far away, tucked away? Four may be \"ways to say hidden\": tucked away, hidden, secret, remote? Inside was one of 3 likely, so after removing Inside only 2 remain. Thus not.\n\nMaybe words form pairs with colors? Home game, freeze tag, oral phase, model tank are \"types of...\" likely \"___ game\": home game, freeze tag; \"___ phase\": oral phase,? \"secret phase\". \"model tank\" and \"remote\" are types of control? remote control, model tank.\n\nNYT groups often category title broad. Guess game group HOME GAME FREEZE TAG maybe TOY gone, MONSTERS gone. Remaining only home game and freeze tag obvious. Need 2 from oral phase, model tank, remote. They can be \"types of tanks/games\": video games: home game, freeze tag? Oral phase is stage, model tank = object, remote = object. Maybe all pairs share words: home game = baseball; freeze tag =? outdoor game; oral phase =? silent phase; model tank =? toy; remote =? control.\n\nCould group be words that follow \"cover\": cover (secret?), cover game, cover model, cover phase, cover tank. \"home game\" and \"model tank\" are preceded by \"scale\": scale model tank,? scale home game no.\n\n\"First words of Pixar films\" indicates wordplay titles. Maybe remaining groups involve types of \"___\": \"things with a hidden meaning\". Oral phase = oral stage, freeze tag =? freeze frame, home game = home run, model tank = model citizen, remote = remote control. These pair with common words from removed perhaps.\n\nLet's pick concealed with SECRET, HIDDEN, TUCKED AWAY and maybe REMOTE? \"remote\" can mean secluded, remote = far away, tucked away. Yes four adjectives/concepts for away? SECRET and hidden are concealed, remote is distant. Likely category \"synonyms for away\": tucked away, remote, hidden, secret? Secret not synonym exactly. Yet previous one away indicates if inside included, other 3 all group. Since inside definitely Pixar and removed, could it have belonged to BOTH impossible exact partition, so among 4 guessed exactly 3 belong *same group* despite one could be Pixar? Every belongs one group, so if 3 of 4 belong concealed, likely INSIDE or another is concealed. But we now know Inside Pixar, so other three necessarily concealed. Thus TUCKED AWAY, SECRET, HIDDEN are a confirmed group of 3! Need find fourth from remaining based category. It isn't one guessed? The guessed four included all 3, yes. Fourth among HOME GAME REMOTE FREEZE TAG ORAL PHASE MODEL TANK. Category likely \"concealed\" fourth = REMOTE? remote can mean secluded/far. So choose group those four.",
+          "latency_ms": 22507,
+          "prompt_tokens": 877,
+          "completion_tokens": 1180,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "TUCKED AWAY",
+        "HIDDEN",
+        "SECRET",
+        "REMOTE"
+      ],
+      "group": "SECLUDED",
+      "mistakes_after": 1
+    },
+    {
+      "turn": 5,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These are the only four remaining words, so they form the final group.\",\"guess\":[\"HOME GAME\",\"FREEZE TAG\",\"ORAL PHASE\",\"MODEL TANK\"]}",
+          "reasoning": "These are the only four remaining words, so they form the final group.",
+          "reasoning_text": "We need guess. Four remain likely hidden category. Home game, freeze tag, oral phase, model tank. Maybe things preceded by \"baby\"? Baby home? Freeze tag is game, model tank. Phrases associated with? \"water\": water tank, water phase? \"oral phase\" psychology, home game sports, freeze tag game. Could category all preceded by \"freezer\"? Freezer game? Oral phase is \"oral\", freeze tag, model tank, home game maybe types of \"tag\"? Home game = home game, freeze tag = tag, oral phase = phase, model tank = tank. Could be \"things followed by game/tag/phase/tank\" no.\n\nLikely category \"types of ...\"? HOME GAME, FREEZE TAG are games. Oral phase developmental phase. Model tank type of tank. Maybe modifiers indicate word after can be preceded by \"water\": water tank (model tank?); water phase; water tag? water game.\n\nCould be hidden terms preceded by \"water\": water tank, water phase? water game? Freeze tag has water tag game. Home game? water polo perhaps.\n\nAll contain terms associated with board games? Home game, freeze tag, model tank, oral phase: each phrase has a word with multiple pronunciations? \"phase\" played as faze. Categories maybe \"things Jack can play/do\"?\n\nWe need only answer best. Obvious HOME GAME + FREEZE TAG both games, but need 4, others red herrings perhaps category \"phrases whose last word is a homophone?\" MODEL TANK, ORAL PHASE, FREEZE TAG, HOME GAME initial letters H F O M maybe? Acronyms? They are all \"___ game/tag/phase/tank\" corresponding Monopoly? Home game, freeze tag.\n\nCould group be \"things that can be preceded by water\": water tank (model tank? not exact), water phase, water tag (freeze tag), water game. \"water\" hidden? MODEL TANK and ORAL PHASE and HOME GAME and FREEZE TAG each contain? Letter patterns: home game = domestic; freeze tag = game; oral phase = stage; model tank = replica. Maybe \"stages of a child\": oral phase, freeze tag (game), home game, model tank. All can be preceded by \"mini\": mini home game? mini freeze tag, mini oral phase, mini model tank.\n\nCould be NYT category perhaps \"WORDS THAT CAN FOLLOW PRETEND\"? pretend home game, pretend freeze-tag, pretend oral phase, pretend model tank no.\n\nMaybe all can precede \"control\": home game controller, freeze tag controller, oral phase control? model tank controller.\n\nCould select HOME GAME FREEZE TAG ORAL PHASE MODEL TANK forced anyway. Yes only 4 board, all one group, answer exact.",
+          "latency_ms": 10442,
+          "prompt_tokens": 995,
+          "completion_tokens": 611,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "HOME GAME",
+        "FREEZE TAG",
+        "ORAL PHASE",
+        "MODEL TANK"
+      ],
+      "group": "PHRASES HIDING GREEK LETTERS",
+      "mistakes_after": 1
+    }
+  ]
+}
