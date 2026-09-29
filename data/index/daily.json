@@ -415,5 +415,147 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-09-29",
+    "puzzle_id": 1201,
+    "groups": [
+      {
+        "name": "SECLUDED",
+        "level": null,
+        "members": [
+          "HIDDEN",
+          "REMOTE",
+          "SECRET",
+          "TUCKED AWAY"
+        ]
+      },
+      {
+        "name": "RIVER FEATURES",
+        "level": null,
+        "members": [
+          "DELTA",
+          "DRAINAGE BASIN",
+          "MOUTH",
+          "STREAM BED"
+        ]
+      },
+      {
+        "name": "FIRST WORDS OF PIXAR FILMS",
+        "level": null,
+        "members": [
+          "FINDING",
+          "INSIDE",
+          "MONSTERS",
+          "TOY"
+        ]
+      },
+      {
+        "name": "PHRASES HIDING GREEK LETTERS",
+        "level": null,
+        "members": [
+          "FREEZE TAG",
+          "HOME GAME",
+          "MODEL TANK",
+          "ORAL PHASE"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 8,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 7,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__ling-3-0-flash-sante": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 2,
+        "invalid_responses": 2,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 4,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 3,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__space-bunny-alpha": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 1,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "PHRASES HIDING GREEK LETTERS",
+        "solved_by": 2,
+        "solve_rate": 0.2857142857142857,
+        "mean_solve_turn": 5.0,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "FIRST WORDS OF PIXAR FILMS",
+        "solved_by": 2,
+        "solve_rate": 0.2857142857142857,
+        "mean_solve_turn": 4.5,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "SECLUDED",
+        "solved_by": 2,
+        "solve_rate": 0.2857142857142857,
+        "mean_solve_turn": 4.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "RIVER FEATURES",
+        "solved_by": 6,
+        "solve_rate": 0.8571428571428571,
+        "mean_solve_turn": 1.8333333333333333,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
