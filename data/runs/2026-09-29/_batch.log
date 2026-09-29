@@ -18,3 +18,7 @@ win      free__ling-3-0-flash-sante a1  groups=4 mistakes=2 invalid=2 cost=$0.00
 [5/8] start  free__nemotron-3-super-120b-a12b  19:42:39
 loss     free__nemotron-3-super-120b-a12b a1  groups=1 mistakes=4 invalid=3 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-29/free__nemotron-3-super-120b-a12b.json
 [5/8] done   free__nemotron-3-super-120b-a12b in 720s
+[5/8] committed free__nemotron-3-super-120b-a12b
+[6/8] start  free__nemotron-3-nano-omni-30b-a3b-reasoning  19:54:39
+loss     free__nemotron-3-nano-omni-30b-a3b-reasoning a1  groups=0 mistakes=4 invalid=4 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-29/free__nemotron-3-nano-omni-30b-a3b-reasoning.json
+[6/8] done   free__nemotron-3-nano-omni-30b-a3b-reasoning in 1116s
