@@ -30,3 +30,5 @@ loss     free__nemotron-3-5-lightning a1  groups=1 mistakes=4 invalid=1 cost=$0.
 [8/8] start  free__laguna-s-2-1  20:37:37
 loss     free__laguna-s-2-1 a1  groups=1 mistakes=4 invalid=7 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-29/free__laguna-s-2-1.json
 [8/8] done   free__laguna-s-2-1 in 337s
+[8/8] committed free__laguna-s-2-1
+=== batch finished 2026-09-29T20:43:14Z

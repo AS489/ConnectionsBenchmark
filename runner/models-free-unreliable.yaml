@@ -11,6 +11,7 @@
 # | nemotron-3-ultra-550b  | 2        | 0         | 429, then Nvidia upstream 500|
 # | north-mini-code        | 2        | 0         | spends all tokens reasoning  |
 # | qwen3.8-27b            | 2        | 0         | HTTP 429 both days           |
+# | ling-3.0-flash-fin     | 2        | 0         | free tier WITHDRAWN 2026-09-28|
 #
 # north-mini-code is the interesting one: Cohere ignores reasoning.max_tokens, so
 # it returns empty content every turn. The empty-assistant-message bug that made
@@ -18,6 +19,12 @@
 #
 # Also permanently excluded (not listed below): thinkingmachines/inkling and
 # inkling-small return HTTP 403 "only available on agentic harnesses".
+#
+# ling-3.0-flash-fin is a different case from the rest: it was a PROVEN model,
+# 2/2 on 2026-09-26..27, and one of the four the A/B plan was sized around. On
+# 2026-09-28 it began returning HTTP 404 "unavailable for free, the paid version
+# is available now", and did so again on the 29th. Free models are withdrawn
+# without notice, so any multi-week experiment has to survive losing one.
 
 defaults:
   temperature: 0
@@ -41,4 +48,7 @@ models:
     json_schema: false
   - slug: free__qwen3-8-27b
     openrouter_id: qwen/qwen3.8-27b:free
+    json_schema: false
+  - slug: free__ling-3-0-flash-fin
+    openrouter_id: inclusionai/ling-3.0-flash-fin:free
     json_schema: false

@@ -11,20 +11,45 @@
 # so PROVEN MODELS ARE LISTED FIRST: if the quota does run out, it runs out on the
 # probation tier, and the models carrying the longest history always play.
 #
-# When prompt A/B testing begins, cut to the four proven models: 4 models x 2
-# prompt arms x 5 requests = 40/day, which fits with room to spare and lets the
-# same model play the same puzzle under both prompts, controlling for puzzle
-# difficulty.
+# When prompt A/B testing begins, cut to the three proven models (it was four
+# until ling-3.0-flash-fin's free tier was withdrawn on 2026-09-28): 3 models x 2
+# prompt arms x 5 requests median = 30/day, inside the ~50 ceiling. The pairing
+# matters more than the model count: across 2026-09-26..29 the whole field swung
+# together day to day far more than the models differed from each other, so
+# puzzle difficulty is the dominant source of variance. Only a design that plays
+# the SAME puzzle under both prompts controls for it — a before/after comparison
+# across different days would be swamped by which puzzles fell in each window.
+#
+# Budget for wall-clock, not just requests: on a hard puzzle a single game now
+# runs 20-24 minutes, so a two-arm day can exceed two hours.
 #
 # Models that have never completed a game are in models-free-unreliable.yaml.
 #
-# Token budgets: see the header of models.yaml. `reasoning` bounds thinking;
-# max_tokens must then leave room for the ANSWER. Measured 2026-09-28 on puzzle
-# #1200 (a repeated-trigram board): with max_tokens 8000, dots-3-note-preview and
-# ling-3.0-flash-sante hit the ceiling on all 9 responses, emitted ZERO characters
-# of content, and forfeited — while every model with headroom solved the board.
-# That is the benchmark measuring our configuration, and it corrupts precisely the
-# hardest puzzles. 16000 leaves ~10000 after a 6000-token reasoning cap.
+# TOKEN BUDGETS — corrected 2026-09-29, read this before changing them.
+#
+# On 2026-09-28 (puzzle #1200, a repeated-trigram board) dots-3-note-preview and
+# ling-3.0-flash-sante hit the 8000-token ceiling on all 9 responses, emitted ZERO
+# characters of content, and forfeited, while every model with headroom solved the
+# board. max_tokens was raised 8000 -> 16000 in response.
+#
+# The original justification — "the extra room is for the ANSWER" — was WRONG, and
+# the next day disproved it. `reasoning.max_tokens` is NOT honoured by every
+# provider. dots-3-note-preview simply reasoned twice as long into the larger
+# ceiling:
+#     max_tokens  8000  ->  reasoning tokens ~6000, truncated
+#     max_tokens 16000  ->  reasoning tokens ~13000, truncated
+#
+# What is actually true:
+#   - For models that stop reasoning on their own, headroom helps. ling-3.0-flash-
+#     sante went forfeit -> win on the raise. That is why 16000 stays.
+#   - For a provider that ignores the reasoning cap, NO ceiling works; the model
+#     expands to fill whatever it is given. That is a model/prompt problem, not a
+#     config one, and is the target of the planned brevity prompt variant.
+#   - The cost is latency: on a hard puzzle, games now run 20-24 minutes.
+#
+# Do not "fix" truncation by raising max_tokens again. Check `budget_starved` and
+# `truncated_responses` in the run record first — they distinguish a model that
+# ran out of room from one that guessed badly.
 
 defaults:
   temperature: 0
@@ -34,16 +59,14 @@ defaults:
   max_cost_usd_per_run: 0.01   # free models report 0; a tripwire, not a budget
 
 models:
-  # --- proven: 2/2 games completed, 2026-09-26..27. Keep these four for A/B.
+  # --- proven: completed every game they were able to start. Keep these for A/B.
+  #     (ling-3.0-flash-fin was here until its free tier was withdrawn 2026-09-28.)
   - slug: free__dots-3-note-preview
     openrouter_id: dots-studio/dots-3-note-preview:free
     json_schema: true
   - slug: free__space-bunny-alpha
     openrouter_id: stealth/space-bunny-alpha
     json_schema: true
-  - slug: free__ling-3-0-flash-fin
-    openrouter_id: inclusionai/ling-3.0-flash-fin:free
-    json_schema: false
   - slug: free__ling-3-0-flash-sante
     openrouter_id: inclusionai/ling-3.0-flash-sante:free
     json_schema: false
