@@ -1,0 +1,47 @@
+{
+  "id": 1202,
+  "date": "2026-09-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SECURITIES",
+      "level": null,
+      "members": [
+        "BOND",
+        "FUTURE",
+        "OPTION",
+        "STOCK"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE SHAKEN (NOT STIRRED)",
+      "level": null,
+      "members": [
+        "ETCH A SKETCH",
+        "MARTINI",
+        "SPRAY PAINT",
+        "TAMBOURINE"
+      ]
+    },
+    {
+      "name": "GANGSTER MOVIES",
+      "level": null,
+      "members": [
+        "BUGSY",
+        "CASINO",
+        "DONNIE BRASCO",
+        "SCARFACE"
+      ]
+    },
+    {
+      "name": "STARTING WITH MONTH ABBREVIATIONS",
+      "level": null,
+      "members": [
+        "DECENT",
+        "NOVELTY",
+        "OCTOPUSSY",
+        "SEPTUM"
+      ]
+    }
+  ]
+}
