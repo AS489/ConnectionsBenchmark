@@ -557,5 +557,129 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-09-30",
+    "puzzle_id": 1202,
+    "groups": [
+      {
+        "name": "SECURITIES",
+        "level": null,
+        "members": [
+          "BOND",
+          "FUTURE",
+          "OPTION",
+          "STOCK"
+        ]
+      },
+      {
+        "name": "THINGS THAT ARE SHAKEN (NOT STIRRED)",
+        "level": null,
+        "members": [
+          "ETCH A SKETCH",
+          "MARTINI",
+          "SPRAY PAINT",
+          "TAMBOURINE"
+        ]
+      },
+      {
+        "name": "GANGSTER MOVIES",
+        "level": null,
+        "members": [
+          "BUGSY",
+          "CASINO",
+          "DONNIE BRASCO",
+          "SCARFACE"
+        ]
+      },
+      {
+        "name": "STARTING WITH MONTH ABBREVIATIONS",
+        "level": null,
+        "members": [
+          "DECENT",
+          "NOVELTY",
+          "OCTOPUSSY",
+          "SEPTUM"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 2,
+        "invalid_responses": 10,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__ling-3-0-flash-sante": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 3,
+        "invalid_responses": 10,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 8,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 1,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__space-bunny-alpha": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 1,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "STARTING WITH MONTH ABBREVIATIONS",
+        "solved_by": 2,
+        "solve_rate": 0.4,
+        "mean_solve_turn": 5.0,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "THINGS THAT ARE SHAKEN (NOT STIRRED)",
+        "solved_by": 2,
+        "solve_rate": 0.4,
+        "mean_solve_turn": 4.0,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "SECURITIES",
+        "solved_by": 4,
+        "solve_rate": 0.8,
+        "mean_solve_turn": 2.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "GANGSTER MOVIES",
+        "solved_by": 4,
+        "solve_rate": 0.8,
+        "mean_solve_turn": 2.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
