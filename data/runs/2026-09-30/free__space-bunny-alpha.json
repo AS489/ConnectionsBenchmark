@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-30",
+  "puzzle_id": 1202,
+  "model": "free__space-bunny-alpha",
+  "openrouter_id": "stealth/space-bunny-alpha",
+  "resolved_model": "stealth/space-bunny-alpha",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-09-30|free__space-bunny-alpha|1",
+  "board": [
+    "DECENT",
+    "FUTURE",
+    "SCARFACE",
+    "CASINO",
+    "STOCK",
+    "MARTINI",
+    "ETCH A SKETCH",
+    "SEPTUM",
+    "BOND",
+    "NOVELTY",
+    "DONNIE BRASCO",
+    "BUGSY",
+    "TAMBOURINE",
+    "SPRAY PAINT",
+    "OCTOPUSSY",
+    "OPTION"
+  ],
+  "started_at": "2026-09-30T11:54:08+00:00",
+  "finished_at": "2026-09-30T11:54:51+00:00",
+  "error": null,
+  "truncated_responses": 0,
+  "budget_starved": false,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 1,
+  "guesses_made": 5,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "GANGSTER MOVIES": 1,
+    "SECURITIES": 2,
+    "THINGS THAT ARE SHAKEN (NOT STIRRED)": 4,
+    "STARTING WITH MONTH ABBREVIATIONS": 5
+  },
+  "usage": {
+    "prompt_tokens": 3800,
+    "completion_tokens": 2980,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 42684,
+    "requests": 5
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"SCARFACE, CASINO, BUGSY, and DONNIE BRASCO are all prominent Robert De Niro crime films.\",\"guess\":[\"SCARFACE\",\"CASINO\",\"BUGSY\",\"DONNIE BRASCO\"]}",
+          "reasoning": "SCARFACE, CASINO, BUGSY, and DONNIE BRASCO are all prominent Robert De Niro crime films.",
+          "reasoning_text": "We need solve. Themes likely Bond villains? OCTOPUSSY, SCARFACE, CASINO, DONNIE BRASCO = films? Actors? Future, option, stock, novelty derivatives? Decent, martini, bugsy, tambourine? Maybe words preceded by something.\n\nETCH A SKETCH, SPRAY PAINT, DONNIE BRASCO, OCTOPUSSY multiword likely 4 obscure.\n\nCould groups based on preceded by \"Gold\": goldfish? Gold decal? Gold future? Gold stock? Gold option? Gold martini? Gold bug? Gold tambourine? Gold spray paint. \" novelty item.\"\n\nMaybe hidden associations: \"scarface, bugsy, donnie brasco\" are mobsters/Gangster films. Casino, Donnie Brasco, Scarface, Bugsy all Robert De Niro? Yes all De Niro films! But only 3 De Niro, Casino is De Niro, Donnie Brasco, Scarface, Bugsy. So group.\n\nOther likely Future, Stock, Option, Novelty = types of \"contracts\"? futures, stock options, novelty? \"derivative\" financial: future, option, stock, bond, perhaps group needs four and SEPTUM? Actually Bond, future, option, stock are financial instruments. Thus BOND FUTURE OPTION STOCK.\n\nRemaining DECENT, MARTINI, ETCH A SKETCH, SEPTUM, NOVELTY, TAMBOURINE, SPRAY PAINT. Need two groups 4, one perhaps \"___ boy\": decent? Actually \"Decent\" = proper, \"future\", \"stock\", \"option\" prefixes? \"Martini\", \"septum\", \"tambourine\", \"spray paint\", \"etch a sketch\", \"novelty\". Maybe pairs from \"Etch A Sketch, spray paint, novelty, tambourine\" are things? \"Black\"? Black Martians, black septa, black tambourines, black spray paint, black etch a sketch? \"Octopus\" etc.\n\nCould initial guess safest De Niro group, exact. Need output only.",
+          "latency_ms": 6229,
+          "prompt_tokens": 489,
+          "completion_tokens": 484,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "SCARFACE",
+        "CASINO",
+        "BUGSY",
+        "DONNIE BRASCO"
+      ],
+      "group": "GANGSTER MOVIES",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"STOCK, BOND, OPTION, and FUTURE are all types of financial instruments or contracts.\",\"guess\":[\"STOCK\",\"BOND\",\"OPTION\",\"FUTURE\"]}",
+          "reasoning": "STOCK, BOND, OPTION, and FUTURE are all types of financial instruments or contracts.",
+          "reasoning_text": "We need choose. Remaining likely Bond movies: Future, Octopussy? Bond, Future, Octopussy are titles. Need fourth perhaps Casino Royale absent. \"Option\" could stock option, future option, bond? Types financial: stock, bond, option, future. Yes exact. Guess those.",
+          "latency_ms": 3382,
+          "prompt_tokens": 641,
+          "completion_tokens": 102,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "STOCK",
+        "BOND",
+        "OPTION",
+        "FUTURE"
+      ],
+      "group": "SECURITIES",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These are all linked to James Bond: a film title, his famous drink, and props/techniques associated with Bond films.\",\"guess\":[\"MARTINI\",\"ETCH A SKETCH\",\"SPRAY PAINT\",\"OCTOPUSSY\"]}",
+          "reasoning": "These are all linked to James Bond: a film title, his famous drink, and props/techniques associated with Bond films.",
+          "reasoning_text": "We need guess. Remaining obvious Bond titles: Octopussy. Martini? Bond references? Dr No, Goldfinger, Thunderball, Moonraker etc absent. Spray paint, etch sketch, tambourine, novelty, decent, martini, septum. Categories maybe things that are \"...\" Eight words two groups.\n\nOctopussy definitely Bond movie, perhaps group Bond villains? No others obvious. Could group words preceded by \"...\"? \"Dr. No\" =? Decent = D? \"decent\" synonym proper? \"Decent\" = dapper. Martini = shaken not stirred. Spray paint = graffiti. Etch a Sketch = drawing. Tambourine = instrument. Septum = anatomy. Novelty = new.\n\nCould be \"things with holes\"? Septum, tambourine? \"Martin i\"?\n\nMaybe each group category via hidden James Bond? \"decent\" = d? \"Martini\" Bond reference. \"Etch A Sketch\" used by Bond. \"spray paint\" Bond. \"tambourine\" Bond. Four Bond items? Octopussy is movie title; the others perhaps things associated with \"...\" Hmm category could \"James Bond\": OCTOPUSSY plus? Martini, Etch A Sketch, spray paint? Bond girls? Pussy? These 4 perhaps words ending in sound? Decent, martini, etc.\n\nCould be \"things preceded by 'shaken'\": Martini, tambourine? Spray paint, novelty, Etch A Sketch, septum, decent.\n\n\"decent\" and \"septum\" start/end with sept? DECENT contains \"cent\" = 100. Future? removed. \"Martini\" has \"art\". \"Etch A Sketch\" \"A\". Maybe hidden \"an\": martini, tambourine, spray paint,? \"sEptum\" contains \"tum\".\n\nCould be words containing consecutive chemical symbols? But group likely categories. \"Decent\" = acceptable; novelty = new; \"martini\" = drink; \"tambourine\" = instrument; \"spray paint\" = art supply; \"etch a sketch\" = toy; \"septum\" = body part; Octopussy = movie. Easy remaining perhaps group of \"adequate, ...\"? Need identify group of 4. Maybe group category all \"things preceded by dry\": dry decent? dry martini, dry spray paint, dry erase? Only one.\n\nCould group \"____ in the bag\": shake martini, graffiti, tambo? Could choose obvious \"artistic materials\": ETCH A SKETCH, SPRAY PAINT, TAMBourine? Martini? Decent? no.\n\nMaybe all remaining comprise \"things that can be 'shaken'\": martini, tambourine, spray paint can,? Etch a Sketch? \"Shaken, not stirred\" Bond, and Octopussy likely joins Martini, Etch A Sketch, Spray Paint under James Bond references. In Bond: martini; Etch A Sketch appears; spray paint? Bond uses aerosol paint. Then other four Decent, Septum, Novelty, Tambourine perhaps \"...\" anagrams? \"decent\" anagram \"tenceD\". Body/anatomy group: septum, tambourine (ear),? Decent? \"tenter\"? Novelty? Maybe \"things that are new\": novelty. \"decent\" = D. \"septum\" = S. \"tambourine\" = T. Initial letters D S T O perhaps?\n\nJames Bond category may be \"Bond terms\" with OCTOPUSSY, MARTINI, ETCH A SKETCH, SPRAY PAINT. Is Etch A Sketch explicitly in Diamonds Are Forever? Bond uses it in On Her Majesty's Secret Service? Let's trust. Guess.",
+          "latency_ms": 10378,
+          "prompt_tokens": 760,
+          "completion_tokens": 827,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "one_away",
+      "words": [
+        "MARTINI",
+        "ETCH A SKETCH",
+        "SPRAY PAINT",
+        "OCTOPUSSY"
+      ],
+      "group": null,
+      "mistakes_after": 1
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"A martini shaker, tambourine, spray-paint can, and Etch A Sketch can all be shaken.\",\"guess\":[\"MARTINI\",\"TAMBOURINE\",\"SPRAY PAINT\",\"ETCH A SKETCH\"]}",
+          "reasoning": "A martini shaker, tambourine, spray-paint can, and Etch A Sketch can all be shaken.",
+          "reasoning_text": "We need identify likely Bond group among four incl Octopussy. Octopussy, Etch sketch, spray paint are Bond. Martini likely music? Remaining decent novelty tambourine septum perhaps musical? Decent synonym novel? Let's map. Need avoid. Obvious Bond group is OCTOPUSSY ETCH A SKETCH SPRAY PAINT and perhaps? Bond remaining one word. No obvious Bond word except? \"Martini\" is Bond, but then exactly 3 means one of proposed not same; likely Octopussy obvious, Etch and spray paint. So those three are group, fourth hidden. Yes. Need another group. Remaining decent, martini, septum, novelty, tambourine. Could be \"___ syndrome\"? Ah-hah! Aha! Decent, novelty, tambourine,? \"Aha\" moments? Music? Martini, tambourine, novelty are? \"A martini, tambourine...\" Maybe groups words preceded/followed by \"shaking\"? Martini shaken, tambourine shaken, spray paint shaken, bond? Wait.\n\nCould be \"things that have a shake\": spray paint can, tambourine, Etch A Sketch (shake), martini shaker. But hidden category perhaps James Bond references: Octopussy, Etch A Sketch (Alfa Romeo joke?), spray paint (Q branch), and \"Bond\" word already removed impossible group crossing. So no.\n\nMaybe OCTOPUSSY, MARTINI, and? Bond title/drink. The other two likely \"novelty\" and \"tambourine\" are small musical instruments? Etch A Sketch and spray paint are Bond references, so exact 3 are those plus likely a fourth among current, and proposed excluded MARTINI. We need solve categories.\n\nRemaining 8 likely:\nJames Bond: OCTOPUSSY, ETCH A SKETCH, SPRAY PAINT, maybe? \"Aseptum\"??? Bond girl names? Pussy Galore, Octopussy, etc.\nMusic types/instruments: DECENT? \"decent\" homophone? SEPTUM is musical interval? novelty, tambourine. \"Decent\" and \"novelty\" could be \"___ quality\".\nCould be James Bond actors' names hidden via anagrams? DECENT contains? \"DECENT\" anagram? \"DENT\" Bond villain? \"MARTINI\" =? \"Emma Peel\" cocktail? Octopussy, Martini, novelty, tambourine maybe \"Bond themes\"? \"James Bond Jazz\"?\n\nMaybe category \"Things in Q's lab\": Etch A Sketch, spray paint, novelty,? Bond gadget?\n\nCould choose obvious likely 3 plus fourth. Need guess all 4, unknown. Determine all groups via NYT Connections pattern. Words remaining:\nDECENT\nMARTINI\nETCH A SKETCH\nSEPTUM\nNOVELTY\nTAMBOURINE\nSPRAY PAINT\nOCTOPUSSY\n\nPotential word transformations with prefixes:\n- Decent, novelty are \"adequate; new\" \n- Martini, tambourine are nouns ending I?\n- Septum is body part\nCould groups be \"words that become other words with 'air'\": decent =? decency; novelty item; tambourine; spray can.\nMaybe category \"Things that can be shaken\": martini, tambourine, spray paint, Etch A Sketch. That's exactly 4! Then Octopussy plus three others? Remaining Decent Septum Novelty Octopussy. Need group: \"body parts\": septum, octopus (Octopussy pun),? decency? novelty? All can be preceded \"nasal\"? nasal cavity: nasal septum, nasal decency? No.\n\nCould be \"words that contain a type of instrument after removing first/last letters\": DECENT contains? \"cent\" 100? SEPTUM contains \"sept\"? Both can have \"im\" prefix? \"decent, impertinent, novelty, tambourine\" maybe \"instruments in films\".\n\nAlternative three Bond references likely indeed Octopussy, Etch A Sketch, Spray Paint, and fourth maybe \"Martini\" so all four actually group, yet game says exactly 3 of guessed four belong together meaning one excluded, but could Martini excluded because category Bond films? Etch A Sketch and spray paint are references in film, Octopussy title. Martini too clear. Why would group hidden 4 include those? Yes \"James Bond\" would include all four obvious. Then 3 exactly means one of Etch or spray not same perhaps \"Things you shake\": Martini, tambourine, spray paint, Etch A Sketch. This is elegant exact set. Then Octopussy and remaining Decent Septum Novelty need some category: \"___ endings?\" Decent, septum, novelty all? Types of \"???\": decent = adjective, novelty = noun, septum noun, Octopussy proper noun. Could be \"Medical anomalies\": coelocentesis? \"decent\" anagram \"cent\"; \"septum\" and \"octopussy\" have numerical prefixes octo/sept; \"novelty\" = new; \"decent\" =? 10? \"Decent\" starts \"dec\" = ten, novelty = one? Roman numeral words? DECent has D C; novelty has L; septum has M; octopus? This could form group by words containing Roman numerals? Let's inspect:\nDECENT contains D,C = 600\nSEPTUM contains M =1000\nNOVELTY contains L,V =55\nOCTOPUSSY contains C =100\nEach uniquely has Roman numeral(s)! But all words perhaps contain exactly? OCTOPUSSY has C; novelty L,V; dec ent D,C; septum M. Hidden category might be \"contain Roman numerals\" but lots, and only four remaining because prior words? This is plausible weird category \"Roman numerals hidden in word\": DECENT (DC), SEPTUM (M), NOVELTY (LV), OCTOPUSSY (C). Yes elegant all four have Roman numerals. So shaking group confidently.\n\nNeed output JSON only.",
+          "latency_ms": 19012,
+          "prompt_tokens": 891,
+          "completion_tokens": 1287,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "MARTINI",
+        "TAMBOURINE",
+        "SPRAY PAINT",
+        "ETCH A SKETCH"
+      ],
+      "group": "THINGS THAT ARE SHAKEN (NOT STIRRED)",
+      "mistakes_after": 1
+    },
+    {
+      "turn": 5,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These are the final four remaining words, so they must form the last group.\",\"guess\":[\"DECENT\",\"SEPTUM\",\"NOVELTY\",\"OCTOPUSSY\"]}",
+          "reasoning": "These are the final four remaining words, so they must form the last group.",
+          "reasoning_text": "We need guess sole group. Words dec ent? septum novelty octopus. Likely anagrams? DECENT =? \"recent\" anagram. Septum, novelty, octopus. Prefix? These are words where? DECENT has \"cent\"; SEPTUM seven; novelty; octopus. \"things that are...\" Maybe types of? \"decent\" = satisfactory, septum = wall, novelty = new, octopus = eight limbs. Could be \"anagrams of numbers\"? DECENT =? \"one\" no. SEPTUM anagram? SEPTUM means seven. OCTOPUS means eight feet. NOVELTY =? nine? DECENT contains? hidden Roman numerals: decent D C = 600; septum? M =1000; novelty L V =55; octopus C=100. Hmm.\n\nCould be \"words that become other words when first letter removed\": decent->ecent no. Last? \"decent\" anagram \"recent\". novelty anagram? \"novelty\" rare. All have heteronyms? Strong guess category \"anagrams of themselves?\" Need only submit group all four inevitable. Since exactly 4 remaining, guess all, category irrelevant.",
+          "latency_ms": 3683,
+          "prompt_tokens": 1019,
+          "completion_tokens": 280,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "DECENT",
+        "SEPTUM",
+        "NOVELTY",
+        "OCTOPUSSY"
+      ],
+      "group": "STARTING WITH MONTH ABBREVIATIONS",
+      "mistakes_after": 1
+    }
+  ]
+}
