@@ -10,12 +10,18 @@
 #    the batch was interrupted.
 #  - TOLERATES FAILURE. One model 429ing or erroring never stops the others; the
 #    failure is recorded as an `error` run and excluded from stats by scoring.py.
+#  - BOUNDED PER GAME. provider.py caps each REQUEST at 600s, but a game makes up
+#    to 12 requests with up to 7 retries each, so nothing bounded a whole game. On
+#    2026-09-30 nemotron-3-nano-omni ran 2h03m on one puzzle (18 min the day
+#    before) and had to be killed by hand; the two models queued behind it would
+#    otherwise have been starved of the day's quota. GAME_TIMEOUT stops that.
 #
 # Usage: scripts/run_free_batch.sh [YYYY-MM-DD]
 set -uo pipefail
 
 DATE="${1:-$(date -u +%F)}"
 ROSTER="runner/models-free.yaml"
+GAME_TIMEOUT="${GAME_TIMEOUT:-1500}"   # 25 min; typical game is 1-20 min
 LOG="data/runs/${DATE}/_batch.log"
 mkdir -p "data/runs/${DATE}"
 
@@ -34,8 +40,27 @@ for slug in $SLUGS; do
   fi
   echo "[$i/$TOTAL] start  $slug  $(date -u +%T)" | tee -a "$LOG"
   START=$(date +%s)
-  connbench run --date "$DATE" --models "$ROSTER" --model "$slug" 2>&1 | tee -a "$LOG"
+  # A stalled game must not eat the day's quota window. Implemented in pure bash
+  # because macOS ships no `timeout` (that is coreutils) and this must not depend
+  # on an optional install.
+  TMPOUT=$(mktemp)
+  connbench run --date "$DATE" --models "$ROSTER" --model "$slug" > "$TMPOUT" 2>&1 &
+  GAME_PID=$!
+  ( sleep "$GAME_TIMEOUT"
+    kill -TERM "$GAME_PID" 2>/dev/null && {
+      sleep 30; kill -KILL "$GAME_PID" 2>/dev/null; }
+  ) 2>/dev/null &
+  WATCHDOG_PID=$!
+  wait "$GAME_PID"; RC=$?
+  kill "$WATCHDOG_PID" 2>/dev/null
+  wait "$WATCHDOG_PID" 2>/dev/null
+  cat "$TMPOUT" | tee -a "$LOG"
+  rm -f "$TMPOUT"
   ELAPSED=$(( $(date +%s) - START ))
+  # 143 = SIGTERM, 137 = SIGKILL — both mean the watchdog fired.
+  if [ "$RC" = "143" ] || [ "$RC" = "137" ]; then
+    echo "[$i/$TOTAL] TIMEOUT $slug after ${ELAPSED}s (limit ${GAME_TIMEOUT}s) — abandoned" | tee -a "$LOG"
+  fi
   echo "[$i/$TOTAL] done   $slug in ${ELAPSED}s" | tee -a "$LOG"
 
   # Commit immediately — never lose a record to an interrupted batch.

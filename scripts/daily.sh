@@ -41,8 +41,14 @@ fi
 echo
 echo "--- 1. ingest"
 connbench ingest
-if ! git diff --quiet -- data/puzzles; then
+# Use `git status --porcelain`, NOT `git diff`: a newly ingested puzzle is an
+# UNTRACKED file, which `git diff` does not report. That bug meant this step never
+# committed anything, and the ingest cron quietly covered for it until the two
+# collided on 2026-09-30 and blocked a rebase.
+if [ -n "$(git status --porcelain -- data/puzzles)" ]; then
   git add data/puzzles && git commit -q -m "ingest: $(date -u +%F)" && echo "committed new puzzles"
+else
+  echo "no new puzzles to commit"
 fi
 
 echo
@@ -65,7 +71,7 @@ scripts/run_free_batch.sh "$DATE"
 echo
 echo "--- 4. index"
 connbench index
-if ! git diff --quiet -- data/index; then
+if [ -n "$(git status --porcelain -- data/index)" ]; then
   git add data/index && git commit -q -m "index: rebuild $(date -u +%F)"
 fi
 
