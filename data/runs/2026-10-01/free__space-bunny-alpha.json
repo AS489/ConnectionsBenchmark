@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-01",
+  "puzzle_id": 1203,
+  "model": "free__space-bunny-alpha",
+  "openrouter_id": "stealth/space-bunny-alpha",
+  "resolved_model": "stealth/space-bunny-alpha",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-10-01|free__space-bunny-alpha|1",
+  "board": [
+    "STICK",
+    "WALKMEN",
+    "CROSS",
+    "NECK",
+    "POSITION",
+    "CHEST",
+    "NATIONAL",
+    "SHINS",
+    "PLACE",
+    "SITUATE",
+    "ACRO",
+    "DECEMBERISTS",
+    "SUD",
+    "WAIST",
+    "KEN",
+    "SLEEVE"
+  ],
+  "started_at": "2026-10-01T17:52:13+00:00",
+  "finished_at": "2026-10-01T17:52:43+00:00",
+  "error": null,
+  "truncated_responses": 0,
+  "budget_starved": false,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 1,
+  "guesses_made": 5,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "PUT": 1,
+    "DRESS SHIRT MEASUREMENTS": 3,
+    "2000S INDIE ROCK BANDS, WITH \"THE\"": 4,
+    "STARTS OF NYT PRINT PUZZLES": 5
+  },
+  "usage": {
+    "prompt_tokens": 3525,
+    "completion_tokens": 1929,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 30440,
+    "requests": 5
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"All four can mean “put”: stick (something somewhere), place, position, or situate it.\",\"guess\":[\"STICK\",\"PLACE\",\"POSITION\",\"SITUATE\"]}",
+          "reasoning": "All four can mean “put”: stick (something somewhere), place, position, or situate it.",
+          "reasoning_text": "We need solve likely word groups. Words prefixes? body-related: NECK CHEST SHINS WAIST SLEEVE maybe 5. Cross, position, place, situate = put? \"cross\" etc.\n\nCould be words that become other words with \"wa\"? STICK, WALKMEN, CROSS, NECK, POSITION, CHEST, NATIONAL, SHINS, PLACE, SITUATE, ACRO, DECEMBERISTS, SUD, WAIST, KEN, SLEEVE.\n\nHidden categories likely NYT Connections word transformations. 4 groups.\n\nDECEMBERISTS, SUD, KEN, ACRO perhaps prefixes? \"anti-\": antidisestablishmentarianism? Decemberists? Maybe \"war\"? Sud +... Sudoku? \n\nSleeve, chest, neck, waist, shins all body parts likely five red herring, one group may be locations of clothing? Cross, place, position, situate all synonyms for \"put\" / locate. NATION + AL? NATIONAL can split N + ATIONAL.\n\nSTICK, WALKMEN, CROSS, KEN perhaps \"man\": walkmen? Postman? \"stick + man\" = stickman; cross + man = crossman? Ken = man? WALKMEN contains MEN. National, Decemberists, situate etc endings hidden body parts? national = nation + al. Decemberists = December + ists. \n\nACRO + bat = acrobat missing. \"acro\" word prefix; \"deca\" (Decemberists), \"ante\" (NATIONAL? no), \"fore\" (CROSS? crossword?). Words with first/last portions of numbers? STICK, WALKMEN, CROSS, NECK, POSITION, CHEST, NATIONAL, SHINS, PLACE, SITUATE, ACRO, DECEMBERISTS, SUD, WAIST, KEN, SLEEVE\n\nMaybe each group words can be preceded by \"baby\": baby stick? baby walker, baby sitter. WALKMEN -> baby? \"baby\" + walker(s) not walkmen. Sud =? baby Sud? \n\nPrefixes that create new phrase: crossbow, necktie, chest? shoestring? \"stick shift\", \"cross-reference\", \"neck-and-neck\", \"chest of drawers\", \"shins\", \"waist\", \"sleeve\".\n\nCould group be anatomical paired with clothing: NECKTIE, WAISTBAND, SLEEVE? no.\n\nPosition, place, situate all = locate. Cross, stick, chest, neck can be verb? \"stick\" put, \"place\" put, \"position\" put, \"situate\" put. All four mean PUT! Yes group: STICK, PLACE, POSITION, SITUATE. Obvious trap perhaps all can mean put, but likely actual.\n\nOther likely group CHEST, NECK, SHINS, SLEEVE? body parts, with WAIST red herring. But one category maybe body parts that can be preceded by \"tube\"? neck? sleeve?\n\nWALKMEN, NATIONAL, DECEMBERISTS, SUD, KEN, ACRO perhaps -man constructions. WALK + men; nation + al; December + ists; Sud? \n\"stick, cross, chest, neck\" can be crossed sticks, cross chest, neck stick.\n\nCould groups be words where inserting \"man\": walkmen, nation? National contains \"N A T I O N A L\", acro, Decemberists, Sud likely incomplete words: acro-, deca-, sud? All can prefix? Acro-, deca-, ... deca means ten, deca? \"Decemberists\" begins DECA. SUD =? Ken =? National =? Position starts POS. These may be words with hidden abbreviations for US states? NECK = NE + CK, CHEST =? CH + EST (not state), NATIONAL =? SUD.\n\nCould be word ladder after deleting man: walkmen -> walk + men, national -> nation + al, Decemberists -> December + ists.\n\nMaybe suffix if replaced: positions: stick, waist, sleeve, shins all clothing? stick of dynamite, waist of? Cross of? Chest of? Neck of? Group of \"___ of drawers\": chest. \"stick, cross, neck, sleeve\" all crossed? \n\nNeed first safest: PLACE POSITION SITUATE STICK likely semantic PUT. Yet developer warns obvious often trap, but game expects. Could group instead all words meaning put indeed legitimate. Guess.",
+          "latency_ms": 14077,
+          "prompt_tokens": 474,
+          "completion_tokens": 964,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "STICK",
+        "PLACE",
+        "POSITION",
+        "SITUATE"
+      ],
+      "group": "PUT",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These four are all parts of the human body.\",\"guess\":[\"NECK\",\"CHEST\",\"WAIST\",\"SHINS\"]}",
+          "reasoning": "These four are all parts of the human body.",
+          "reasoning_text": "We need solve likely body parts? NECK CHEST WAIST SHINS SLEEVE CROSS? Five. ACRO prefix? National, Decemberists, Sudan, Kenya countries? WALKMEN, CROSS maybe body? Stick removed. Words could groups:\nNECK CHEST WAIST SHINS = parts of torso? SLEEVE too. CROSS, WALK? Phrases compound preceding? neck, cross, chest, national all with...? \"cross-neck\", \"cross-chest\", \"crosswalk\" (WALKMEN maybe crosswalk men?). Remaining acro, Decemberists, SUD, KEN combine forms: acrobats? Sudan, Kenya national? Decemberists perhaps Christmas? Likely word transformations: NECKLACE? no.\n\nCould group body parts excluding CROSS, WALKMEN. Need exact hidden four. NECK CHEST WAIST SHINS = anatomy. Guess.",
+          "latency_ms": 3628,
+          "prompt_tokens": 595,
+          "completion_tokens": 210,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "one_away",
+      "words": [
+        "NECK",
+        "CHEST",
+        "WAIST",
+        "SHINS"
+      ],
+      "group": null,
+      "mistakes_after": 1
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"SLEEVE is also a clear body-part word, while SHINS is the decoy that caused the near miss.\",\"guess\":[\"NECK\",\"CHEST\",\"WAIST\",\"SLEEVE\"]}",
+          "reasoning": "SLEEVE is also a clear body-part word, while SHINS is the decoy that caused the near miss.",
+          "reasoning_text": "We need solve. Body group has one decoy among neck chest waist shins. Remaining sleeve likely body, so sleeve + neck chest waist likely. Shins perhaps word group? Need groups exact. WALKMEN, CROSS, ACRO perhaps walking = prefix acro? National, Decemberists, SUD, KEN, SLEEVE. Could be \"types of men\": walkmen, national, Decemberists, Sud? Hmm.\n\nCould be word ladders? Human body includes NECK CHEST WAIST SLEEVE definitely. Guess that replacing shins sleeve, likely safe though one-away means exactly 3 of prior belonged, so yes.",
+          "latency_ms": 2372,
+          "prompt_tokens": 704,
+          "completion_tokens": 177,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "NECK",
+        "CHEST",
+        "WAIST",
+        "SLEEVE"
+      ],
+      "group": "DRESS SHIRT MEASUREMENTS",
+      "mistakes_after": 1
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"The National, the Decemberists, the Walkmen, and the Shins are all bands.\",\"guess\":[\"NATIONAL\",\"DECEMBERISTS\",\"WALKMEN\",\"SHINS\"]}",
+          "reasoning": "The National, the Decemberists, the Walkmen, and the Shins are all bands.",
+          "reasoning_text": "We need solve. Remaining 8 likely groups. Words national decemberists maybe national government? \"national, shins, walkmen, cross, acro, sud, ken\". Think word pair additions? \nWALKMEN maybe race walkers? ACRO prefix? SUD? KEN.\nCould be \"types of people?\" National, Decemberists, Walkmen, Shins bands. Ah bands: The National, Decemberists, Walkmen, Shins. Group bands.\nThen ACRO, CROSS, SUD, KEN all prefix to something? crossword, Sudoku, ken? \"Acrobatics\"? Maybe all prefixes: crossword, sudoku, acrostic, ken? Kenneth? Or combine with \"word\": crossword, keyword, crossword, Sudoku. KEN forms KENWORD (DnD). Group \"words ending/starting with...\" Yet obvious next safe band.",
+          "latency_ms": 3315,
+          "prompt_tokens": 822,
+          "completion_tokens": 223,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "NATIONAL",
+        "DECEMBERISTS",
+        "WALKMEN",
+        "SHINS"
+      ],
+      "group": "2000S INDIE ROCK BANDS, WITH \"THE\"",
+      "mistakes_after": 1
+    },
+    {
+      "turn": 5,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These are the only four words remaining on the board, so they must form the final group.\",\"guess\":[\"CROSS\",\"ACRO\",\"SUD\",\"KEN\"]}",
+          "reasoning": "These are the only four words remaining on the board, so they must form the final group.",
+          "reasoning_text": "We need group. Cross, Acro, Sud, Ken likely prefixes: crosshair, acrobatics? Sudoku, Kenya. All can precede \"word\"? crossword, acro... Acro and cross, sud, ken are word games? Cross, acro, Sud, Ken all can add \"bat\": cross bat? acrobat, sudoku? \"The\" prefixes countries? Sud + ania? Kenya. Cross + ? All are four-letter words hidden? Word groups possibly \"___ bat\": cross, acro, sud, ken all contain abbreviations? \"word ladder starters\"? Need guess exact all because only four. Reasoning perhaps each can be preceded by \"word\": word processor? crossword, sudoku, acrostic, kenword no.\n\nCROSSWORD, ACROSTIC, SUDOKU, KENWORD? Ken is Japanese meditation word, Sud? Zen? Could be words with silent letters? CROSS, ACRO, SUD, KEN all become countries with one letter? Croatia? Sudan is SUD + an, Kenya KEN + ya, Acro? Cross? African countries? Sudan, Kenya obvious, but acro and cross maybe \"Acro-cross\"? All crossword clues? Maybe prefixes to \"bat\": cross + ? Cross bat, acrobat, sudoku, ken? \n\nNames of sports? Cross-country, acrobatic, sudoku, ken? Since only 4, guess regardless. Category hidden unknown. Need brief. Say these are remaining only, form likely \"words that can precede/follow...\" But no need category.",
+          "latency_ms": 7048,
+          "prompt_tokens": 930,
+          "completion_tokens": 355,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "CROSS",
+        "ACRO",
+        "SUD",
+        "KEN"
+      ],
+      "group": "STARTS OF NYT PRINT PUZZLES",
+      "mistakes_after": 1
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+=== ConnectionsBench free batch | date=2026-10-01 | 7 models | started 2026-10-01T17:03:14Z
+[1/7] start  free__dots-3-note-preview  17:03:14
+[1/7] TIMEOUT free__dots-3-note-preview after 2939s (limit 1500s) — abandoned
+[1/7] done   free__dots-3-note-preview in 2939s
+[2/7] start  free__space-bunny-alpha  17:52:13
+win      free__space-bunny-alpha a1  groups=4 mistakes=1 invalid=0 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-10-01/free__space-bunny-alpha.json
+[2/7] done   free__space-bunny-alpha in 30s
