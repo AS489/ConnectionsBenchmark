@@ -1,0 +1,47 @@
+{
+  "id": 1203,
+  "date": "2026-10-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PUT",
+      "level": null,
+      "members": [
+        "PLACE",
+        "POSITION",
+        "SITUATE",
+        "STICK"
+      ]
+    },
+    {
+      "name": "DRESS SHIRT MEASUREMENTS",
+      "level": null,
+      "members": [
+        "CHEST",
+        "NECK",
+        "SLEEVE",
+        "WAIST"
+      ]
+    },
+    {
+      "name": "2000S INDIE ROCK BANDS, WITH \"THE\"",
+      "level": null,
+      "members": [
+        "DECEMBERISTS",
+        "NATIONAL",
+        "SHINS",
+        "WALKMEN"
+      ]
+    },
+    {
+      "name": "STARTS OF NYT PRINT PUZZLES",
+      "level": null,
+      "members": [
+        "ACRO",
+        "CROSS",
+        "KEN",
+        "SUD"
+      ]
+    }
+  ]
+}
