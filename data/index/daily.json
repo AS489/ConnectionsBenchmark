@@ -1,5 +1,102 @@
 [
   {
+    "date": "2026-09-11",
+    "puzzle_id": 1183,
+    "groups": [
+      {
+        "name": "PEOPLE HIRED FOR AN EVENT",
+        "level": null,
+        "members": [
+          "BAND",
+          "FLORIST",
+          "PHOTOGRAPHER",
+          "PLANNER"
+        ]
+      },
+      {
+        "name": "INTERNALIZE",
+        "level": null,
+        "members": [
+          "ABSORB",
+          "DIGEST",
+          "PROCESS",
+          "TAKE IN"
+        ]
+      },
+      {
+        "name": "WAYS TO PRACTICE SELF-CARE",
+        "level": null,
+        "members": [
+          "EXERCISE",
+          "JOURNAL",
+          "MEDITATE",
+          "UNPLUG"
+        ]
+      },
+      {
+        "name": "THINGS THAT ARE PUSHED METAPHORICALLY",
+        "level": null,
+        "members": [
+          "AGENDA",
+          "ENVELOPE",
+          "LIMITS",
+          "LUCK"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": true,
+        "cost_usd": 0.0
+      },
+      "free__space-bunny-alpha": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 2,
+        "invalid_responses": 1,
+        "backfill": true,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "PEOPLE HIRED FOR AN EVENT",
+        "solved_by": 0,
+        "solve_rate": null,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "INTERNALIZE",
+        "solved_by": 0,
+        "solve_rate": null,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "WAYS TO PRACTICE SELF-CARE",
+        "solved_by": 0,
+        "solve_rate": null,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "THINGS THAT ARE PUSHED METAPHORICALLY",
+        "solved_by": 0,
+        "solve_rate": null,
+        "mean_solve_turn": null,
+        "difficulty_rank": 3
+      }
+    ]
+  },
+  {
     "date": "2026-09-26",
     "puzzle_id": 1198,
     "groups": [
@@ -678,6 +775,103 @@
         "solved_by": 4,
         "solve_rate": 0.8,
         "mean_solve_turn": 2.0,
+        "difficulty_rank": 3
+      }
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "puzzle_id": 1203,
+    "groups": [
+      {
+        "name": "PUT",
+        "level": null,
+        "members": [
+          "PLACE",
+          "POSITION",
+          "SITUATE",
+          "STICK"
+        ]
+      },
+      {
+        "name": "DRESS SHIRT MEASUREMENTS",
+        "level": null,
+        "members": [
+          "CHEST",
+          "NECK",
+          "SLEEVE",
+          "WAIST"
+        ]
+      },
+      {
+        "name": "2000S INDIE ROCK BANDS, WITH \"THE\"",
+        "level": null,
+        "members": [
+          "DECEMBERISTS",
+          "NATIONAL",
+          "SHINS",
+          "WALKMEN"
+        ]
+      },
+      {
+        "name": "STARTS OF NYT PRINT PUZZLES",
+        "level": null,
+        "members": [
+          "ACRO",
+          "CROSS",
+          "KEN",
+          "SUD"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 1,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__space-bunny-alpha": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 1,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "2000S INDIE ROCK BANDS, WITH \"THE\"",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 4.0,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "PUT",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 3.0,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "DRESS SHIRT MEASUREMENTS",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 3.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "STARTS OF NYT PRINT PUZZLES",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 3.0,
         "difficulty_rank": 3
       }
     ]

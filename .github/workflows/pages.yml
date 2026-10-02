@@ -1,0 +1,54 @@
+name: pages
+
+# Publishes site/ plus the precomputed aggregates to GitHub Pages.
+# The site reads data/index/*.json directly — the runner precomputes those, so the
+# page does zero aggregation at load time and there is no build step to break.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - "data/index/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never cancel a half-finished deploy, but only one at a time.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Assemble the site
+        run: |
+          mkdir -p dist/data/index
+          cp site/index.html dist/
+          cp data/index/*.json dist/data/index/
+          # Tell Pages not to run Jekyll over it.
+          touch dist/.nojekyll
+          echo "assembled:"
+          find dist -type f | sed 's/^/  /'
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
