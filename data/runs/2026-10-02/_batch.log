@@ -1,0 +1,4 @@
+=== ConnectionsBench free batch | date=2026-10-02 | 7 models | started 2026-10-02T19:46:42Z
+[1/7] start  free__dots-3-note-preview  19:46:42
+ERROR: gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day free__dots-3-note-preview a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-02/free__dots-3-note-preview.json
+[1/7] done   free__dots-3-note-preview in 64s
