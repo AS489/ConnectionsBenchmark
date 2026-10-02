@@ -22,6 +22,16 @@ set -uo pipefail
 DATE="${1:-$(date -u +%F)}"
 ROSTER="runner/models-free.yaml"
 GAME_TIMEOUT="${GAME_TIMEOUT:-1500}"   # 25 min; typical game is 1-20 min
+
+# A puzzle older than today may sit inside a model's training data, so its result
+# is NOT comparable with a forward-looking one. PLAN.md is explicit: tag it and
+# display it separately, or the benchmark's whole premise is undermined.
+BACKFILL_FLAG=""
+if [ "${DATE//-/}" -lt "$(date -u +%Y%m%d)" ]; then
+  BACKFILL_FLAG="--backfill"
+  echo "NOTE: $DATE is in the past — runs will be tagged backfill:true and"
+  echo "      aggregated separately from forward-looking results."
+fi
 LOG="data/runs/${DATE}/_batch.log"
 mkdir -p "data/runs/${DATE}"
 
@@ -44,7 +54,8 @@ for slug in $SLUGS; do
   # because macOS ships no `timeout` (that is coreutils) and this must not depend
   # on an optional install.
   TMPOUT=$(mktemp)
-  connbench run --date "$DATE" --models "$ROSTER" --model "$slug" > "$TMPOUT" 2>&1 &
+  connbench run --date "$DATE" --models "$ROSTER" --model "$slug" \
+    $BACKFILL_FLAG > "$TMPOUT" 2>&1 &
   GAME_PID=$!
   # Watchdog on WALL-CLOCK time, not sleep(1) time. A single `sleep $GAME_TIMEOUT`
   # looks right but is wrong on a laptop: sleep(1) does not advance while the
