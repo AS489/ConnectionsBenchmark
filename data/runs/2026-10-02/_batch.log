@@ -10,3 +10,7 @@ loss     free__space-bunny-alpha a1  groups=1 mistakes=4 invalid=0 cost=$0.0000 
 [3/7] start  free__ling-3-0-flash-sante  19:48:45
 ERROR: gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day free__ling-3-0-flash-sante a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-02/free__ling-3-0-flash-sante.json
 [3/7] done   free__ling-3-0-flash-sante in 63s
+[3/7] committed free__ling-3-0-flash-sante
+[4/7] start  free__nemotron-3-super-120b-a12b  19:49:48
+ERROR: gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day free__nemotron-3-super-120b-a12b a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-02/free__nemotron-3-super-120b-a12b.json
+[4/7] done   free__nemotron-3-super-120b-a12b in 64s
