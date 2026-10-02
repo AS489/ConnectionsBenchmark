@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-02",
+  "puzzle_id": 1204,
+  "model": "free__space-bunny-alpha",
+  "openrouter_id": "stealth/space-bunny-alpha",
+  "resolved_model": "stealth/space-bunny-alpha",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-10-02|free__space-bunny-alpha|1",
+  "board": [
+    "BANKROLL",
+    "MIDDLE",
+    "RIB",
+    "FUND",
+    "SUPPORT",
+    "BACK",
+    "STOCK",
+    "COMMON",
+    "TIME",
+    "LITTLE",
+    "REAL ESTATE",
+    "RING",
+    "STANDARD",
+    "INDEX",
+    "NUMBER",
+    "ROUTINE"
+  ],
+  "started_at": "2026-10-02T19:47:46+00:00",
+  "finished_at": "2026-10-02T19:48:45+00:00",
+  "error": null,
+  "truncated_responses": 0,
+  "budget_starved": false,
+  "status": "loss",
+  "solved": false,
+  "groups_solved": 1,
+  "mistakes_used": 4,
+  "guesses_made": 5,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "FINGERS": 1
+  },
+  "usage": {
+    "prompt_tokens": 3461,
+    "completion_tokens": 3799,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 58481,
+    "requests": 5
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These four words all name types of fingers: little, middle, ring, and index.\",\"guess\":[\"MIDDLE\",\"RING\",\"INDEX\",\"LITTLE\"]}",
+          "reasoning": "These four words all name types of fingers: little, middle, ring, and index.",
+          "reasoning_text": "We need identify groups. Likely banking/investing: bankroll, fund, stock, real estate? Types assets? Middle, common, standard, index? all types of average? \"median\"? Words compounds with? \nBANKROLL, MIDDLE, RIB, FUND\nSUPPORT, BACK, STOCK, COMMON\nTIME, LITTLE, REAL ESTATE, RING\nSTANDARD, INDEX, NUMBER, ROUTINE\n\nCould categories be words preceded/followed by \"average\": common, standard, index, number? \"Dow Jones\"? \n\nMaybe groups hidden via NYT Connections word pairing likely:\nBANKROLL, FUND, STOCK, REAL ESTATE = investments\nMIDDLE, COMMON, STANDARD, AVERAGE absent. Maybe \"median\"? Number, index, standard, common are statistical measures/concepts.\nSUPPORT, BACK = assistance, RIB = bone, ROUTINE = habit. Time, little, middle, ring all followed by \"finger\": middle finger, little finger, ring finger, time finger? no. \"Little toe\" not time. Middle, little, ring = fingers, and? support finger? index finger. Ah! LITTLE, MIDDLE, RING, INDEX are fingers. Great.\nCommon, standard, stock, support? types of? \"common stock\", \"standard support\"? \"back support\", \"stock support\". \nTime, routine, number, real estate? compound with \"line\": timeline, routine line? number line, real estate line? \"line of...\" \nCould all be word + \"...\" maybe categories are [finger group], likely safe exact. Guess MIDDLE RING INDEX LITTLE.",
+          "latency_ms": 5353,
+          "prompt_tokens": 467,
+          "completion_tokens": 372,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "MIDDLE",
+        "RING",
+        "INDEX",
+        "LITTLE"
+      ],
+      "group": "FINGERS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"BANKROLL, FUND, STOCK, and REAL ESTATE are all financial assets or holdings.\",\"guess\":[\"BANKROLL\",\"FUND\",\"STOCK\",\"REAL ESTATE\"]}",
+          "reasoning": "BANKROLL, FUND, STOCK, and REAL ESTATE are all financial assets or holdings.",
+          "reasoning_text": "We need identify. Remaining likely finance: bankroll fund stock real estate? Back support common standard? Time routine number rib. Phrases \"back up\", \"common stock\", \"standard of care\", \"number one\"? Could be word pair with something removed? Groups: words that can precede/follow \"...\" Maybe common, standard, routine, time? \"common time\", \"standard time\", \"routine...\" Categories? BANKROLL FUND STOCK REAL ESTATE = financial. But obvious trap perhaps. 12 words exact 3 groups. Finance 4 likely. Guess.",
+          "latency_ms": 2550,
+          "prompt_tokens": 579,
+          "completion_tokens": 156,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "incorrect",
+      "words": [
+        "BANKROLL",
+        "FUND",
+        "STOCK",
+        "REAL ESTATE"
+      ],
+      "group": null,
+      "mistakes_after": 1
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"The words BACK, RIB, FUND, and STOCK each commonly pair with SUPPORT (e.g., back support, rib support, fund support, stock support), while the financial-assets grouping is a red herring.\",\"guess\":[\"BACK\",\"RIB\",\"FUND\",\"STOCK\"]}",
+          "reasoning": "The words BACK, RIB, FUND, and STOCK each commonly pair with SUPPORT (e.g., back support, rib support, fund support, stock support), while the financial-assets grouping is a red herring.",
+          "reasoning_text": "We need find groups. Likely phrases with \"back\": back support, back number, back stock? Backbank? Common stock/common fund/common time/common support. Categories perhaps words form [something] combinations. Remaining likely:\nBANKROLL, RIB, BACK, SUPPORT, COMMON, TIME, STANDARD, NUMBER, ROUTINE, REAL ESTATE, FUND, STOCK.\nCan group types of support: back support, rib support? Financial: bankroll stock real estate? common stock, mutual fund, real estate, bankroll maybe financial. Trap obvious indeed.\n\nWords preceded by \"common\": common stock, common time? Common fund, common support.\n\"standard\": standard time, standard support, standard number?\n\"back\": back number, back support, back stock? back rib? \"number one\"? \nCould group terms with \"time\": common time, standard time, real time, routine time? Ah TIME combinations:\nCOMMON TIME, REAL TIME? STANDARD TIME, ROUTINE TIME all compound, but all same word required? Four words group perhaps COMMON, STANDARD, REAL, ROUTINE modifiers to TIME? Since unique group words: \"common, standard, real, routine\" maybe adjectives/nouns paired with time. Then TIME is removed too, so group [COMMON, STANDARD, REAL, ROUTINE]? But category \"___ TIME\". Words can be selected without shared anchor. Other group maybe BACK, SUPPORT, RIB, NUMBER = things that... back support, rib support, number support? \n\nCould group [BANKROLL, FUND, STOCK, REAL ESTATE] was trap because likely each pairs common: common fund, common stock, common bankroll? common real estate? Alternative [COMMON, STOCK, FUND, SUPPORT] all \"___ support\": common? fund support, stock support, back support, rib support! Indeed SUPPORT shared likely anchors? Group of four words that can precede/support? \"back support\", \"rib support\", \"fund support\", \"stock support\". Those exact four are BACK RIB FUND STOCK. Nice. Guess that.",
+          "latency_ms": 6177,
+          "prompt_tokens": 681,
+          "completion_tokens": 483,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "incorrect",
+      "words": [
+        "BACK",
+        "RIB",
+        "FUND",
+        "STOCK"
+      ],
+      "group": null,
+      "mistakes_after": 2
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"The earlier near-group was misidentified by including RIB. BACK SUPPORT, FUND SUPPORT, STOCK SUPPORT, and SUPPORT SUPPORT all form direct compounds, with SUPPORT itself completing the support category.\",\"guess\":[\"BACK\",\"FUND\",\"STOCK\",\"SUPPORT\"]}",
+          "reasoning": "The earlier near-group was misidentified by including RIB. BACK SUPPORT, FUND SUPPORT, STOCK SUPPORT, and SUPPORT SUPPORT all form direct compounds, with SUPPORT itself completing the support category.",
+          "reasoning_text": "We need infer. Maybe group common? \"common stock\", \"common fund\", \"common bankroll\"? Categories phrases prefixes? Remaining likely groups:\nSUPPORT, BACK, STANDARD, ROUTINE = types of support? \"back support\", \"standard support\", \"routine support\"? Number, time, common, bankroll all precede stock? bankroll, real estate, stock, fund are investments, but guessed bankroll fund stock real estate incorrect! So not that.\n\nMaybe hidden exact:\nBANKROLL, TIME, ROUTINE, SUPPORT? \"bankroll\"? \nCOMMON, STANDARD, NUMBER, STOCK: common stock, standard? phone? \"common, standard, number, real estate\"? \nWords create \"back support\", \"fund support\", \"stock support\", \"routine support\"? We had BACK RIB FUND STOCK, but rib support? \"rib\" not support itself. Another group with SUFFIX: bank support, rib? backbone? \"rib\", \"back\", \"stock\", \"common\" all precede \"bone\"? backbone, rib? no.\n\nPotential types of \"standard\": common, real estate, time, number? This is likely NYT category generated associations. \"BANKROLL, FUND, STOCK, REAL ESTATE\" actually all investments, but rejected means category not generic investments. Could be words pair with \"investment\": bankroll? stock? fund? real estate fund; but 4 exact perhaps \"sources of income\": salary, bankroll.\n\nNeed safe one. Obvious \"COMMON STOCK\" but only 2.\n\nCould group phrases with \"time\": time bankroll? bankroll, routine, time, support = \"_____ support\": bankroll support? routine support.\n\nTypes of \"back\": backbone, back stock, back number, back support. RIB = backbone? \"rib\" numbered.\n\nMaybe group is \"things before 'standard'\": common standard, real estate standard?\n\nNeed guess. There are 3 mistake, must identify. Words likely pair to one hidden common:\nBANKROLL, TIME, COMMON, STANDARD all can precede \"share\"? bankroll? time-share, common share, standard share (standard & poor's).\nFUND, STOCK, REAL ESTATE, BANKROLL perhaps all words followed by \"investment\" but bankroll not.\n\n\"SUPPORT, BACK, RIB, ROUTINE\" all types of support? back support, rib support, routine support, fund support, stock support, common support, time support, standard support, number support, real estate support, bankroll support. Which 4 strongest? \"SUPPORT\" itself belongs maybe \"types of support\" BACK, FUND, STOCK, SUPPORT. Our excluded back and was wrong because RIB. Then likely BACK, FUND, STOCK, SUPPORT! We chose rib instead. Guess corrected.",
+          "latency_ms": 8184,
+          "prompt_tokens": 803,
+          "completion_tokens": 623,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "one_away",
+      "words": [
+        "BACK",
+        "FUND",
+        "STOCK",
+        "SUPPORT"
+      ],
+      "group": null,
+      "mistakes_after": 3
+    },
+    {
+      "turn": 5,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"BACK, STOCK, and SUPPORT were the three matching words from the one-away result. COMMON is the strongest remaining candidate because it forms natural compounds with all three, especially “common stock,” “common back,” and “common support.”\",\"guess\":[\"BACK\",\"STOCK\",\"SUPPORT\",\"COMMON\"]}",
+          "reasoning": "BACK, STOCK, and SUPPORT were the three matching words from the one-away result. COMMON is the strongest remaining candidate because it forms natural compounds with all three, especially “common stock,” “common back,” and “common support.”",
+          "reasoning_text": "We need infer. Since back/fund/stock likely support and rib was odd. Thus group SUPPORT with BACK RIB? Wait one away means exactly 3 of proposed group same hidden. Previous proposed BACK FUND STOCK SUPPORT likely 3 belong support, which? likely BACK, STOCK, SUPPORT, and FUND perhaps finance group. But with fingers removed, finance group likely bankroll, fund, stock, real estate. Then support group must BACK, RIB, SUPPORT + ? Remaining words common time standard number routine. Back/rib/support plus \"number\"? number support? \"standard support\" maybe all are types of support: back support, rib support, support...? Could group BACK SUPPORT, RIB, FUND, STOCK actually perhaps \"things that can be supported\"? One away says exact three belong together, odd likely support, back, stock, ??? Need safe infer remaining categories. Word sets likely hidden:\nFingers done.\nBankroll, fund, stock, real estate likely financial indeed, but that guess incorrect means category maybe \"things that can run out\"? Real estate? bankroll, fund, stock, \"real estate\" all assets. Could be trap.\nRemaining maybe \"COMMON, STANDARD, ROUTINE, TIME\": common time, standard time, routine time? \n\"BACK, RIB, SUPPORT, NUMBER\": back number, rib number? Support number. Could be \"things that can be broken\"? backbone, rib, support structure? \nCould guess 3 from likely support group replacing fund with rib? But exact prior BACK RIB FUND STOCK got incorrect (could contain support? It said no support). New BACK FUND STOCK SUPPORT got one away, confirms 3 of those. If finance group includes bankroll fund stock real estate, then among new only BACK STOCK SUPPORT = 3? But BACK STOCK maybe phrase, support member. Why one away rather than exact. Fourth support group word must one remaining. Could be \"COMMON\" (common support), \"TIME\" (time support?); \"STANDARD\" (standard of support), \"NUMBER\" (support number), \"ROUTINE\" (support routine). Most likely \"COMMON\" perhaps \"supporting actor\"? Yet group theme could be \"types of support\": back support, rib support, stock support? One prior says among BACK RIB FUND STOCK exactly? They were incorrect, could still three but no one away only if those aren't same group.\n\nMaybe hidden category is \"words preceded by 'fund'\": bankroll? mutual fund, stock fund, real estate fund, support fund? \"fund\" group words form phrase: bankroll? no.\n\nNeed choose one remaining. Support can pair:\nback support\nrib support\nstock support\nsupport number\nsupport routine\nsupport time\nsupport standard\ncommon support\nFund support also valid but likely excluded.\nMaybe BACK RIB STOCK SUPPORT are exactly 4! Yet previous guess BACK RIB FUND STOCK had 3 (BACK RIB STOCK), would have one away, but got incorrect. Thus no.\n\nAmong BACK FUND STOCK SUPPORT exactly 3. Could be FUND STOCK SUPPORT, excluding BACK. Then group is types of support? fund support, stock support, support? Need fourth common maybe \"common support.\" Or BACK SUPPORT STOCK with exclusion FUND. Which 3 can share semantic group? \"back, stock, support\" all can be \"financial\"? Back? backing? Could hidden group involve \"bank\": bankroll, back, stock, fund! Yes! BANKROLL, FUND, BACK, STOCK are all types/uses of bank? Money bank: bankroll, bank funds, bank stock, bank support? \"BANK\" forms compounds: bankroll, bank support? bank stock. This is likely word-link group. Then RIB belongs SUPPORT group perhaps RIB, SUPPORT, REAL ESTATE? \"support\" structures? \n\nRemaining all: BANKROLL RIB FUND SUPPORT BACK STOCK COMMON TIME REAL ESTATE STANDARD NUMBER ROUTINE. Could groups:\nBANKROLL FUND STOCK REAL ESTATE = things that can provide \"capital\"\nBACK SUPPORT STANDARD ROUTINE =? \nRIB SUPPORT? \nMaybe categories based on words preceded by \"common, standard, routine, time\"? \"common stock\", \"standard time\", \"routine support\", \"real estate number\", \"rib bank...\" Phrase chains perhaps NYT categories semantic.\n\nPotential obvious group COMMON STOCK, REAL ESTATE, BANKROLL, FUND = financial. Initial guess swapped STOCK for? Initial contained bankroll fund stock real estate = exactly four finance, should have been accepted unless category intended \"ways to measure wealth\"? It was incorrect, perhaps one away not reported means 0-2. Why? Could group is COMMON STOCK REAL ESTATE BANKROLL (\"stock\", assets), while FUND belongs support group. Then initial has bankroll stock real estate = 3, should one away. It said incorrect, so not.\n\nCould be group \"BANKROLL FUND STOCK BACK\": words associated with bank/money, including back? \"back up\" money.\n\nWe need gamble. Since only 1 mistake, guess likely 4 with max confidence. Obvious phrases COMMON STOCK, REAL ESTATE, STANDARD TIME, ROUTINE? Common, routine, standard all \"types of ...\"; NUMBER, TIME etc.\n\nMaybe hidden categories are word association compounds:\n- Bankroll, back, stock, support? \"bank\" can precede? bankroll, backbone, bank stock, bank support. Yes all contain/related BANK: BANKROLL, BACK (bone), STOCK (bank stock?), FUND (bank fund)\n- Common stock, real estate, standard? common, real, standard are types of \"property\"? \n- Rib, support, back = parts that support body.\nThis makes strong group: RIB, SUPPORT, BACK, STOCK? Stock supports body? \"rib support\", \"back support\", \"stock support\" indeed support category words. But previous BACK RIB FUND STOCK: if group BACK RIB STOCK SUPPORT, then it had 3 and should one-away, but instead incorrect. So impossible. Unless implementation only says one away when guessed category exactly? No.\n\nThus BACK RIB FUND STOCK had 0 same.\n\nBACK FUND STOCK SUPPORT has exactly 3. Determine likely which 3 by prior.\nCould group FUND, STOCK, SUPPORT + one: all \"mutual\"? mutual fund, mutual stock support? no.\nBACK, STOCK, SUPPORT: all types of \"support\": back support, stock support, support? weak but direct compounds. fourth maybe \"rib\" yet disproven due prior.\nBACK, FUND, SUPPORT: bank support? fund support? back support.\nFUND STOCK SUPPORT plus RIB would make prior BACK RIB FUND STOCK contain 3 and one away, disproven. So not.\nFUND STOCK SUPPORT + one among common/time/real estate/standard/number/routine.\nBACK STOCK SUPPORT + one.\nBACK FUND SUPPORT + one.\nCould be category based on \"financial support\": BACK (backing), FUND, STOCK, SUPPORT. All financial? \"backing\" = financial support, fund and stock forms of support. Yes! Group may be BACK, FUND, STOCK, SUPPORT, category \"BACKING/FINANCIAL SUPPORT\". Then the fourth wasn't needed; but prior included RIB instead of support and exactly 3 should one-away! It was incorrect, meaning one of back fund stock not in group. Contradiction if same four. So one-away may identify three, and prior mismatch can reveal which? Let X subset size3 among B,F,S,U. Prior guessed B,R,F,S. Same group intersection excludes U. It must have at most 2; thus exactly 2 of B,F,S in group. So group includes U and exactly 2 among B,F,S. Great. Candidate pair + U + unknown.\n\nWhich pair likely categories:\nFUND STOCK SUPPORT + fourth: all things that support? \"support fund\", \"support stock\"? \nBACK STOCK SUPPORT + fourth: direct support compounds, strongest. Then group = BACK SUPPORT STOCK + likely RIB? But RIB ruled out because prior intersection then 3. Other likely \"SUPPORT NUMBER\" (support number), or \"support standard\". Category maybe \"things that can support\": back, stock, support, real estate? \"real estate support\". Yet BACK, STOCK, SUPPORT are all \"types of backing\": backing can mean back, stock? \"stock support\" and \"back support\". Fourth maybe FUND also would ruled.\n\nChoose common support maybe. Could group \"support actors\": backing, supporting? BACK, STOCK (stock support), support, common? no.\n\nMaybe group category \"SUPPORT\" consists BACK, STOCK, COMMON, SUPPORT: common stock, back support, stock support, support? Hmm.\n\nCould exploit categories likely each has direct word associations. Remaining group COMMON STOCK is certain pair. STANDARD TIME certain. REAL ESTATE NUMBER? \"estate number\", routine? BANKROLL FUND maybe. Perhaps intended groups:\nCOMMON, STANDARD, ROUTINE, SUPPORT = types of support? common support, standard support, routine support, support itself\nTIME, NUMBER, RIB, BACK = units? time number, rib number, back number\nNo.\n\nNeed make guess likely group using BACK STOCK SUPPORT plus NUMBER: all can be \"support\" and number is \"support number\" less semantic. \"back number\", \"stock number\", \"support number\" all can be followed by number! Ah category might words that pair with NUMBER. Fourth maybe phone? \"phone number\" absent. Common number, real estate number, standard number, routine number also.\n\nCould be BACK, STOCK, SUPPORT, RIB all words that can precede \"up\"? back up, stock up, support? rib? Categories perhaps \"things that can be supportive.\"\n\nGuess likely BACK STOCK SUPPORT COMMON? Common stock exact pair strongly hints category maybe COMMON STOCK plus \"common support\", \"common back\", \"common fund\"? Group could all pair COMMON: common stock, common fund, common support, common back. Indeed BACK STOCK SUPPORT + COMMON all pair with \"support\"? Common stock, common back, common support, common support? Category \"COMMON ____\": common back, common fund, common stock, common support. Then fund was excluded despite strong \"common fund\". But BACK/FUND pair + support maybe could.\n\nChoose BACK STOCK SUPPORTCOMMON.",
+          "latency_ms": 36217,
+          "prompt_tokens": 931,
+          "completion_tokens": 2165,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "incorrect",
+      "words": [
+        "BACK",
+        "STOCK",
+        "SUPPORT",
+        "COMMON"
+      ],
+      "group": null,
+      "mistakes_after": 4
+    }
+  ]
+}
