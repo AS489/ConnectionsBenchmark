@@ -56,6 +56,19 @@ jobs:
           git config user.name  "connbench-bot"
           git config user.email "connbench-bot@users.noreply.github.com"
 
+      - name: Show what was requested
+        env:
+          RUN_DATE: ${{ inputs.date }}
+        run: |
+          echo "requested date : ${RUN_DATE:-(blank = today)}"
+          echo "today (UTC)    : $(date -u +%F)"
+          echo "now   (UTC)    : $(date -u +%H:%M)"
+          echo
+          echo "The NYT publishes at 00:00 ET (04:00 UTC); the upstream mirror follows"
+          echo "some hours later. A blank-date run before ~14:00 UTC will usually find"
+          echo "no puzzle yet and exit cleanly without playing — that is expected, not"
+          echo "a failure. The 15:00 UTC schedule exists for this reason."
+
       - name: Play the day
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}

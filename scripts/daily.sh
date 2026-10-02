@@ -58,9 +58,25 @@ if ! connbench check; then
   echo "Investigate before trusting today's data. Continuing anyway."
 fi
 
-if [ ! -f "data/puzzles/${DATE:0:4}/${DATE}.json" ]; then
+PUZZLE_FILE="data/puzzles/${DATE:0:4}/${DATE}.json"
+echo
+echo "--- 2b. resolved target"
+echo "    date         : $DATE"
+echo "    puzzle file  : $PUZZLE_FILE"
+echo "    exists       : $([ -f "$PUZZLE_FILE" ] && echo yes || echo NO)"
+echo "    now (UTC)    : $(date -u +%FT%TZ)"
+echo "    records held : $(ls "data/runs/$DATE"/*.json 2>/dev/null | wc -l | tr -d ' ')"
+
+if [ ! -f "$PUZZLE_FILE" ]; then
   echo
-  echo "No puzzle archived for $DATE yet — nothing to play. Exiting cleanly."
+  echo "No puzzle archived for $DATE — nothing to play. Exiting cleanly (not an error)."
+  if [ "$DATE" = "$(date -u +%F)" ]; then
+    echo "The NYT publishes at 00:00 ET (04:00 UTC) and the upstream mirror follows"
+    echo "some hours later. It is $(date -u +%H:%M) UTC now, so today's puzzle may"
+    echo "simply not exist yet — the 15:00 UTC schedule exists for exactly this reason."
+  else
+    echo "$DATE is not in the archive at all. Check: connbench show $DATE"
+  fi
   exit 0
 fi
 

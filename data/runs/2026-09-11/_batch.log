@@ -6,3 +6,5 @@ win      free__dots-3-note-preview a1  groups=4 mistakes=0 invalid=0 cost=$0.000
 [2/7] start  free__space-bunny-alpha  01:29:57
 win      free__space-bunny-alpha a1  groups=4 mistakes=2 invalid=1 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-11/free__space-bunny-alpha.json
 [2/7] done   free__space-bunny-alpha in 36s
+[2/7] committed free__space-bunny-alpha
+[3/7] start  free__ling-3-0-flash-sante  01:30:33
