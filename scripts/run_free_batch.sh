@@ -90,19 +90,4 @@ done
 echo "=== batch finished $(date -u +%FT%TZ)" | tee -a "$LOG"
 connbench index && git add data/index && git commit -q -m "index: rebuild after ${DATE} free batch" 2>/dev/null
 echo "=== summary:"
-python3 - "$DATE" <<'PY'
-import json, sys
-from pathlib import Path
-d = Path("data/runs") / sys.argv[1]
-rows = []
-for p in sorted(d.glob("*.json")):
-    r = json.loads(p.read_text())
-    rows.append((r["model"], r["status"], r["groups_solved"], r["mistakes_used"],
-                 r["invalid_responses"], round(r["usage"]["latency_ms"]/1000), r["error"]))
-print(f"{'model':44} {'status':9} {'grp':>3} {'mis':>3} {'inv':>3} {'secs':>5}  error")
-for m, st, g, mi, iv, s, e in rows:
-    print(f"{m:44} {st:9} {g:>3} {mi:>3} {iv:>3} {s:>5}  {(e or '')[:40]}")
-solved = sum(1 for r in rows if r[1] == "win")
-print(f"\n{len(rows)} records | {solved} wins | "
-      f"{sum(1 for r in rows if r[1]=='error')} infrastructure errors")
-PY
+scripts/summarize_day.py "$DATE"

@@ -1,0 +1,79 @@
+name: daily
+
+# Plays the day's puzzle with every model in the free roster, commits each result
+# as it lands, rebuilds the aggregates and pushes. This runs scripts/daily.sh —
+# the same script you can run locally — so behaviour cannot drift between the two.
+
+on:
+  schedule:
+    # 15:00 UTC, an hour after ingest.yml, so the day's puzzle is already
+    # archived. If it somehow is not, daily.sh ingests it itself.
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Puzzle date (YYYY-MM-DD). Blank = today. A past date retries only that day's missing models."
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+# Shared with ingest.yml so a run can never race the ingest commit.
+concurrency:
+  group: data-write
+  cancel-in-progress: false
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    # 7 models at up to 20 min each is ~2.5h worst case. GitHub's hard ceiling is
+    # 6h; this leaves headroom without letting a bad day run forever.
+    timeout-minutes: 240
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fail early if the API key is missing
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          if [ -z "$OPENROUTER_API_KEY" ]; then
+            echo "::error::OPENROUTER_API_KEY is not set as a repository secret."
+            echo "Add it at Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
+          echo "API key present (${#OPENROUTER_API_KEY} chars)"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -e ./runner
+
+      - name: Identify as the bot, not a person
+        run: |
+          git config user.name  "connbench-bot"
+          git config user.email "connbench-bot@users.noreply.github.com"
+
+      - name: Play the day
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          # Tighter than the local 1500s: a hosted runner has no laptop sleep to
+          # absorb, and a stalled model must not hold the data-write lock.
+          GAME_TIMEOUT: "1200"
+        run: scripts/daily.sh ${{ inputs.date }}
+
+      - name: Summarise on the run page
+        if: always()
+        env:
+          RUN_DATE: ${{ inputs.date }}
+        run: |
+          [ -z "$RUN_DATE" ] && RUN_DATE=$(date -u +%F)
+          {
+            echo "## ConnectionsBench — $RUN_DATE"
+            echo
+            echo '```'
+            scripts/summarize_day.py "$RUN_DATE" || echo "(no summary available)"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
