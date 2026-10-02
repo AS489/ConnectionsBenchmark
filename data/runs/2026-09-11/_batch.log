@@ -14,3 +14,7 @@ win      free__ling-3-0-flash-sante a1  groups=4 mistakes=3 invalid=4 cost=$0.00
 [4/7] start  free__nemotron-3-super-120b-a12b  01:34:55
 win      free__nemotron-3-super-120b-a12b a1  groups=4 mistakes=3 invalid=1 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-11/free__nemotron-3-super-120b-a12b.json
 [4/7] done   free__nemotron-3-super-120b-a12b in 357s
+[4/7] committed free__nemotron-3-super-120b-a12b
+[5/7] start  free__nemotron-3-nano-omni-30b-a3b-reasoning  01:40:52
+ERROR: gave up after 7 attempts: HTTP 200: Upstream error from Nvidia: ResourceExhausted: Worker local total request limit reached (16/16) free__nemotron-3-nano-omni-30b-a3b-reasoning a1  groups=0 mistakes=2 invalid=1 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-11/free__nemotron-3-nano-omni-30b-a3b-reasoning.json
+[5/7] done   free__nemotron-3-nano-omni-30b-a3b-reasoning in 364s
