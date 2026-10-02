@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-11",
+  "puzzle_id": 1183,
+  "model": "free__space-bunny-alpha",
+  "openrouter_id": "stealth/space-bunny-alpha",
+  "resolved_model": "stealth/space-bunny-alpha",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": true,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-09-11|free__space-bunny-alpha|1",
+  "board": [
+    "LUCK",
+    "ENVELOPE",
+    "LIMITS",
+    "BAND",
+    "MEDITATE",
+    "PLANNER",
+    "PHOTOGRAPHER",
+    "DIGEST",
+    "FLORIST",
+    "EXERCISE",
+    "AGENDA",
+    "ABSORB",
+    "TAKE IN",
+    "PROCESS",
+    "JOURNAL",
+    "UNPLUG"
+  ],
+  "started_at": "2026-10-02T01:29:57+00:00",
+  "finished_at": "2026-10-02T01:30:33+00:00",
+  "error": null,
+  "truncated_responses": 0,
+  "budget_starved": false,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 2,
+  "guesses_made": 6,
+  "invalid_responses": 1,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "INTERNALIZE": 1,
+    "PEOPLE HIRED FOR AN EVENT": 4,
+    "WAYS TO PRACTICE SELF-CARE": 5,
+    "THINGS THAT ARE PUSHED METAPHORICALLY": 6
+  },
+  "usage": {
+    "prompt_tokens": 6308,
+    "completion_tokens": 2320,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 35373,
+    "requests": 7
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"These four words are direct synonyms in the sense of receiving, understanding, or processing information.\",\"guess\":[\"ABSORB\",\"TAKE IN\",\"PROCESS\",\"DIGEST\"]}",
+          "reasoning": "These four words are direct synonyms in the sense of receiving, understanding, or processing information.",
+          "reasoning_text": "We need infer groups. Obvious absorb take in digest process = synonyms? Four. Planner agenda journal digest maybe things that process? Unplug exercise meditate = wellness actions? Band envelope? Photographer florist? Need exact hidden categories likely word association.\n\nCould be \"things that can be digital/physical\"? Planner, journal, digest, band? Words preceded by email? Email newsletter? Let's solve categories perhaps NYT puzzle generated common links.\n\nLUCK, ENVELOPE, LIMITS, BAND, MEDITATE, PLANNER, PHOTOGRAPHER, DIGEST, FLORIST, EXERCISE, AGENDA, ABSORB, TAKE IN, PROCESS, JOURNAL, UNPLUG.\n\nClear group absorb/take in/process/digest semantic synonyms. Guess this safe. Could category \"Synonyms for comprehend\". DIGEST can mean summarize, process, take in, absorb exact. Yes.",
+          "latency_ms": 3582,
+          "prompt_tokens": 483,
+          "completion_tokens": 224,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "ABSORB",
+        "TAKE IN",
+        "PROCESS",
+        "DIGEST"
+      ],
+      "group": "INTERNALIZE",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"ENVELOPE, BAND, PLANNER, and PHOTOGRAPHER all form common phrases with “wedding,” forming a strong cohesive set.\",\"guess\":[\"ENVELOPE\",\"BAND\",\"PLANNER\",\"PHOTOGRAPHER\"]}",
+          "reasoning": "ENVELOPE, BAND, PLANNER, and PHOTOGRAPHER all form common phrases with “wedding,” forming a strong cohesive set.",
+          "reasoning_text": "We need find groups. Words left 12. Likely types of planners? agenda planner journal envelope? Things with bands? Band, limits? Maybe hidden groups:\nThings that can be \"out\": luck? envelope (out of mail), limits, unplug? no.\nActivities with no? meditate exercise unplug (things to do alone). Planner agenda journal are organizational items. professions photographer florist? planner? \"people who...\" Need 3 groups.\n\nCould be \"things that can be on a list\": luck? envelope, band, med...\nObserve likely word associations: envelope, band, planner, photographer, florist, exercise, agenda, journal, unplug.\nPossible compound words preceded by \"wedding\": wedding envelope, wedding band, wedding planner, wedding photographer. That's 4! Strong. Remaining LUCK LIMITS MEDITATE EXERCISE AGENDA JOURNAL UNPLUG.\n\"break\": break limits? break a habit? meditation break, exercise break, unplug? Agenda? journal?\nThings to do to \"clear your head\": meditate, exercise, unplug, journal perhaps. Remaining luck limits agenda maybe phrases with \"out\": out of luck, over your limits, on your agenda? This may be group? Actually three plus perhaps journal? \"out of luck, push your limits, take an agenda\"? Hmm.\nCould be phrasal verbs with \"in\": in luck, in a band, in agenda? no.\n\nNeed safe next guess likely wedding group. Exact category perhaps WEDDING. Guess.",
+          "latency_ms": 6367,
+          "prompt_tokens": 613,
+          "completion_tokens": 365,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "one_away",
+      "words": [
+        "ENVELOPE",
+        "BAND",
+        "PLANNER",
+        "PHOTOGRAPHER"
+      ],
+      "group": null,
+      "mistakes_after": 1
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"The “one away” clue confirms the wedding group; replacing the incorrect PLANNER with FLORIST completes the set of wedding roles and items.\",\"guess\":[\"ENVELOPE\",\"BAND\",\"PHOTOGRAPHER\",\"FLORIST\"]}",
+          "reasoning": "The “one away” clue confirms the wedding group; replacing the incorrect PLANNER with FLORIST completes the set of wedding roles and items.",
+          "reasoning_text": "We have three from wedding, which fourth? Florist likely. Guess exact group with envelope band florist photographer.",
+          "latency_ms": 1997,
+          "prompt_tokens": 758,
+          "completion_tokens": 80,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "one_away",
+      "words": [
+        "ENVELOPE",
+        "BAND",
+        "PHOTOGRAPHER",
+        "FLORIST"
+      ],
+      "group": null,
+      "mistakes_after": 2
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"The repeated one-away result indicates ENVELOPE, BAND, and PHOTOGRAPHER are the stable core; FLORIST is the strongest fourth word because envelope, band, photographer, and florist are all associated with weddings.\",\"guess\":[\"ENVELOPE\",\"BAND\",\"PHOTOGRAPHER\",\"FLORIST\"]}",
+          "reasoning": "The repeated one-away result indicates ENVELOPE, BAND, and PHOTOGRAPHER are the stable core; FLORIST is the strongest fourth word because envelope, band, photographer, and florist are all associated with weddings.",
+          "reasoning_text": "We need infer three but replacement perhaps photographer isn't group. Need board structure. Likely \"things before wedding\": envelope? band? Luck, limits, meditate, exercise, unplug all \"something\"? Wedding quartet maybe envelope, planner, florist, band? Photographer obvious trap? Common compound: wedding planner/envelope? wedding band. wedding florist. Photographer clearly yes though. If 3 of prior were same: which 3? Initial envelope band planner photographer: exactly 3. Since clues perhaps wedding roles: wedding envelope, wedding band, wedding photographer, wedding planner? Then second exactly 3 would envelope band photographer, but replacing planner with florist should still 3 and indeed feedback one away doesn't identify whether got 3? It says exactly 3, second had envelope band photographer=3 too, so yes same set potentially. Why corrected with florist leaves 2, bad. So actual 3 could be band planner photographer, with envelope outlier. Second exactly 3 claim then impossible: envelope band photographer has exactly 3 if group is band planner photographer, envelope belongs another group; indeed 3, yes. Florist second gives envelope band florist =2. Correct group BAND PLANNER PHOTOGRAPHER plus unknown likely florist? But unknown then likely LIMITS? phrases: band planner photographer +? wedding singer? No singer. \"wedding photographer\", planner, band, florist. Then why first three? First has envelope band planner photographer =3 (band planner photographer), yes. Second envelope band photographer florist =2, but game says exactly 3—unless envelope and band both belong same target? Group could wedding envelope, band, photographer plus? Then planner not, florist not. Yet exactly 3 yes. Need choose likely initial three maybe envelope band photographer. The remaining fourth could limits: envelope band, photographer? \"envelope band\" no. Common words preceded by \"wedding\": wedding envelope, wedding band, wedding photographer. Fourth wedding? Maybe \"wedding cake\" absent. Maybe categories not semantic simple.\n\nCould group \"things you book\": band, planner, photographer, florist all wedding. Then initial exactly three planner/photo/florist? initial lacks florist and has envelope, so no. Thus no.\n\nMaybe group \"things with bands\"? Band, envelope? planner? Photographer? Could be people/objects beginning \"wedding\".\n\nCould hidden group \"wedding\": band, envelope, photographer, limits? \"wedding limits\" no. \"wedding luck\"? no. Florist/Planner strongly wedding. Yet exact counts conflict perhaps rule one away means three selected belong but can include words from multiple groups? Exactly 3 of four same group, yes.\n\nMaybe group 1 is \"wedding planner/photographer/florist\" plus agenda? A wedding planner, photographer, florist, agenda? Initial selected envelope band planner photographer => planner/photo only no.\n\nCould first actually exactly 3 among envelope band planner photographer; group among any triple. second exactly 3 among envelope band photographer florist. Intersection constraints means groups could differ triples. likely group triples:\n- initial triple perhaps envelope band photographer\n- second triple perhaps envelope band florist\nThus envelope band plus either photographer/florist, and planner not. Could fourth be \"limits\" because \"wedding bands\", \"wedding envelope\", wedding photographer/florist contradiction exclusivity means can't both.\n\nWait feedback one away could mean exactly 3 of guessed words belong to same group, but perhaps 4 belong? no.\n\nCould board generated categories via word associations, categories perhaps:\nEnvelope, planner, agenda, journal = organizational things? Exactly initial planner plus? envelope only.\nBand, photographer, florist, planner = wedding, as above initial has envelope, band, planner, photographer = 3 yes; second envelope, band, photographer, florist = 2, contradicts stated 3 unless envelope counts in wedding group too and planner doesn't: then group could envelope band photographer X, initial 3 (without X), second 3. Florist excluded. This is logical. Fourth unknown, perhaps luck? \"wedding envelope\", band, photographer; fourth \"wedding ceremony\" not. Could be LIMITS: wedding limits? no. Maybe \"envelope, band, photographer, exercise\" all \"wedding\"? exercise? Wedding exercise? The first letters? E B P E? No.\n\nNeed guess safe likely confirmed triple envelope band photographer, with unknown from candidates. Planner is ruled out (otherwise first had? initial 3 either). We need select fourth; risk. Could guess triple plus maybe? Remaining groups perhaps:\nMEDITATE, EXERCISE, UNPLUG, LIMITS = wellness/self-care (meditate exercise unplug; limits? boundary limits)\nLUCK, AGENDA, JOURNAL, ? = words after \"daily\"? daily agenda/journal, good luck? \nPLANNER, AGENDA, JOURNAL, ENVELOPE = things that organize? \"personal organizer\"? \n\nMaybe category is \"wedding\": BAND, ENVELOPE, PHOTOGRAPHER, LIMITS? “wedding bands”, “wedding envelope”, “wedding photographer”, \"wedding limits\" odd. LUCK = wedding luck? Maybe \"wedding\" hidden compounds: wedding band, wedding photographer, wedding planner, wedding florist. This overwhelmingly quartet, but game feedback impossible. Is user/game perhaps one away doesn't tell replacement and category likely quartet indeed. Could second got 3 if ENVELOPE perhaps also category due \"wedding envelope\", then group should envelope band photographer florist, planner odd but equally valid. It chooses category based associations perhaps envelope definitely. Then quartet is those. Guess it.",
+          "latency_ms": 16085,
+          "prompt_tokens": 901,
+          "completion_tokens": 1238,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": "that exact group has already been guessed"
+        },
+        {
+          "text": "{\"reasoning\":\"Using a new combination, BAND, PLANNER, PHOTOGRAPHER, and FLORIST are all strongly associated with weddings; ENVELOPE is the likely extra word from the prior one-away clues.\",\"guess\":[\"BAND\",\"PLANNER\",\"PHOTOGRAPHER\",\"FLORIST\"]}",
+          "reasoning": "Using a new combination, BAND, PLANNER, PHOTOGRAPHER, and FLORIST are all strongly associated with weddings; ENVELOPE is the likely extra word from the prior one-away clues.",
+          "reasoning_text": "We cannot exact repeat. Need infer. Three words common category likely wedding. Candidates florist, planner? We guessed photographer with each and got 3 exact, so wedding. ENVELOPE, BAND, PHOTOGRAPHER. Fourth likely PLANNER? Wait first guess envelope band planner photographer was one away. Since photographer wedding, either envelope or band/planner one false. Second envelope band photographer florist one away, florist definitely wedding likely, among envelope/band one false. Plausible wedding group is BAND, PLANNER, PHOTOGRAPHER, FLORIST. Yes.",
+          "latency_ms": 3018,
+          "prompt_tokens": 1044,
+          "completion_tokens": 195,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "BAND",
+        "PLANNER",
+        "PHOTOGRAPHER",
+        "FLORIST"
+      ],
+      "group": "PEOPLE HIRED FOR AN EVENT",
+      "mistakes_after": 2
+    },
+    {
+      "turn": 5,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"MEDITATE, EXERCISE, UNPLUG, and JOURNAL are all commonly recommended activities for supporting mental well-being.\",\"guess\":[\"MEDITATE\",\"EXERCISE\",\"UNPLUG\",\"JOURNAL\"]}",
+          "reasoning": "MEDITATE, EXERCISE, UNPLUG, and JOURNAL are all commonly recommended activities for supporting mental well-being.",
+          "reasoning_text": "We need make guess. Eight likely two groups. Need infer. Meditate exercise unplug maybe \"wellness\"; luck limits? agenda journal? Could be things that \"take\"? No take in removed.\n\nCould group \"MEDITATE, EXERCISE, UNPLUG, JOURNAL\" wellness. Remaining luck envelope limits agenda. But category perhaps \"things that can be your agenda\"? Let's inspect. Likely each four word association.\n\nMEDITATE, EXERCISE, UNPLUG, JOURNAL all activities for mental health. Guess.",
+          "latency_ms": 2821,
+          "prompt_tokens": 1197,
+          "completion_tokens": 157,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "MEDITATE",
+        "EXERCISE",
+        "UNPLUG",
+        "JOURNAL"
+      ],
+      "group": "WAYS TO PRACTICE SELF-CARE",
+      "mistakes_after": 2
+    },
+    {
+      "turn": 6,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"LUCK, ENVELOPE, LIMITS, and AGENDA can each precede “check”: check your luck, check the limits, check the agenda, and check the envelope/mail.\",\"guess\":[\"LUCK\",\"ENVELOPE\",\"LIMITS\",\"AGENDA\"]}",
+          "reasoning": "LUCK, ENVELOPE, LIMITS, and AGENDA can each precede “check”: check your luck, check the limits, check the agenda, and check the envelope/mail.",
+          "reasoning_text": null,
+          "latency_ms": 1503,
+          "prompt_tokens": 1312,
+          "completion_tokens": 61,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "LUCK",
+        "ENVELOPE",
+        "LIMITS",
+        "AGENDA"
+      ],
+      "group": "THINGS THAT ARE PUSHED METAPHORICALLY",
+      "mistakes_after": 2
+    }
+  ]
+}
