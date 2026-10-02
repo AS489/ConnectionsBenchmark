@@ -1234,6 +1234,21 @@
   },
   "errors": [
     {
+      "date": "2026-09-11",
+      "model": "free__laguna-s-2-1",
+      "error": "gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day"
+    },
+    {
+      "date": "2026-09-11",
+      "model": "free__nemotron-3-5-lightning",
+      "error": "gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day"
+    },
+    {
+      "date": "2026-09-11",
+      "model": "free__nemotron-3-nano-omni-30b-a3b-reasoning",
+      "error": "gave up after 7 attempts: HTTP 200: Upstream error from Nvidia: ResourceExhausted: Worker local total request limit reached (16/16)"
+    },
+    {
       "date": "2026-09-26",
       "model": "free__gemma-4-26b-a4b-it",
       "error": "gave up after 7 attempts: HTTP 429: Provider returned error"
