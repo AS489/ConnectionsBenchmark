@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01",
+  "generated_at": "2026-10-02",
   "window_days": 30,
   "variants": [
     "v1"
@@ -172,30 +172,30 @@
         ]
       },
       "free__space-bunny-alpha": {
-        "runs": 6,
+        "runs": 7,
         "win_rate": {
-          "n": 6,
+          "n": 7,
           "successes": 6,
-          "rate": 1.0,
-          "ci_low": 0.609666,
-          "ci_high": 1.0
+          "rate": 0.8571428571428571,
+          "ci_low": 0.486872,
+          "ci_high": 0.97432
         },
         "trailing_30d_win_rate": {
-          "n": 6,
+          "n": 7,
           "successes": 6,
-          "rate": 1.0,
-          "ci_low": 0.609666,
-          "ci_high": 1.0
+          "rate": 0.8571428571428571,
+          "ci_low": 0.486872,
+          "ci_high": 0.97432
         },
         "first_guess_rate": {
-          "n": 6,
-          "successes": 6,
+          "n": 7,
+          "successes": 7,
           "rate": 1.0,
-          "ci_low": 0.609666,
+          "ci_low": 0.64567,
           "ci_high": 1.0
         },
-        "mean_groups_solved": 4.0,
-        "mean_mistakes": 0.5,
+        "mean_groups_solved": 3.5714285714285716,
+        "mean_mistakes": 1.0,
         "mean_invalid_responses": 0.0,
         "total_cost_usd": 0.0,
         "cost_per_puzzle_usd": 0.0,
@@ -230,6 +230,11 @@
             "date": "2026-10-01",
             "solved": true,
             "groups_solved": 4
+          },
+          {
+            "date": "2026-10-02",
+            "solved": false,
+            "groups_solved": 1
           }
         ],
         "resolved_models": [
@@ -705,30 +710,30 @@
       ]
     },
     "free__space-bunny-alpha": {
-      "runs": 6,
+      "runs": 7,
       "win_rate": {
-        "n": 6,
+        "n": 7,
         "successes": 6,
-        "rate": 1.0,
-        "ci_low": 0.609666,
-        "ci_high": 1.0
+        "rate": 0.8571428571428571,
+        "ci_low": 0.486872,
+        "ci_high": 0.97432
       },
       "trailing_30d_win_rate": {
-        "n": 6,
+        "n": 7,
         "successes": 6,
-        "rate": 1.0,
-        "ci_low": 0.609666,
-        "ci_high": 1.0
+        "rate": 0.8571428571428571,
+        "ci_low": 0.486872,
+        "ci_high": 0.97432
       },
       "first_guess_rate": {
-        "n": 6,
-        "successes": 6,
+        "n": 7,
+        "successes": 7,
         "rate": 1.0,
-        "ci_low": 0.609666,
+        "ci_low": 0.64567,
         "ci_high": 1.0
       },
-      "mean_groups_solved": 4.0,
-      "mean_mistakes": 0.5,
+      "mean_groups_solved": 3.5714285714285716,
+      "mean_mistakes": 1.0,
       "mean_invalid_responses": 0.0,
       "total_cost_usd": 0.0,
       "cost_per_puzzle_usd": 0.0,
@@ -763,6 +768,11 @@
           "date": "2026-10-01",
           "solved": true,
           "groups_solved": 4
+        },
+        {
+          "date": "2026-10-02",
+          "solved": false,
+          "groups_solved": 1
         }
       ],
       "resolved_models": [
@@ -1357,6 +1367,36 @@
       "date": "2026-09-30",
       "model": "free__laguna-s-2-1",
       "error": "gave up after 7 attempts: transport: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "date": "2026-10-02",
+      "model": "free__dots-3-note-preview",
+      "error": "gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day"
+    },
+    {
+      "date": "2026-10-02",
+      "model": "free__laguna-s-2-1",
+      "error": "gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day"
+    },
+    {
+      "date": "2026-10-02",
+      "model": "free__ling-3-0-flash-sante",
+      "error": "gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day"
+    },
+    {
+      "date": "2026-10-02",
+      "model": "free__nemotron-3-5-lightning",
+      "error": "gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day"
+    },
+    {
+      "date": "2026-10-02",
+      "model": "free__nemotron-3-nano-omni-30b-a3b-reasoning",
+      "error": "gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day"
+    },
+    {
+      "date": "2026-10-02",
+      "model": "free__nemotron-3-super-120b-a12b",
+      "error": "gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day"
     }
   ],
   "prompt_warnings": []

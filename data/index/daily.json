@@ -911,5 +911,93 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-02",
+    "puzzle_id": 1204,
+    "groups": [
+      {
+        "name": "FINANCE",
+        "level": null,
+        "members": [
+          "BACK",
+          "BANKROLL",
+          "FUND",
+          "SUPPORT"
+        ]
+      },
+      {
+        "name": "FINGERS",
+        "level": null,
+        "members": [
+          "INDEX",
+          "LITTLE",
+          "MIDDLE",
+          "RING"
+        ]
+      },
+      {
+        "name": "CUSTOMARY",
+        "level": null,
+        "members": [
+          "COMMON",
+          "ROUTINE",
+          "STANDARD",
+          "STOCK"
+        ]
+      },
+      {
+        "name": "PRIME ___",
+        "level": null,
+        "members": [
+          "NUMBER",
+          "REAL ESTATE",
+          "RIB",
+          "TIME"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__space-bunny-alpha": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "FINANCE",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "CUSTOMARY",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "PRIME ___",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "FINGERS",
+        "solved_by": 1,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 1.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
