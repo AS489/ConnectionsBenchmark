@@ -1,0 +1,47 @@
+{
+  "id": 1204,
+  "date": "2026-10-02",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FINANCE",
+      "level": null,
+      "members": [
+        "BACK",
+        "BANKROLL",
+        "FUND",
+        "SUPPORT"
+      ]
+    },
+    {
+      "name": "FINGERS",
+      "level": null,
+      "members": [
+        "INDEX",
+        "LITTLE",
+        "MIDDLE",
+        "RING"
+      ]
+    },
+    {
+      "name": "CUSTOMARY",
+      "level": null,
+      "members": [
+        "COMMON",
+        "ROUTINE",
+        "STANDARD",
+        "STOCK"
+      ]
+    },
+    {
+      "name": "PRIME ___",
+      "level": null,
+      "members": [
+        "NUMBER",
+        "REAL ESTATE",
+        "RIB",
+        "TIME"
+      ]
+    }
+  ]
+}
