@@ -46,9 +46,25 @@ for slug in $SLUGS; do
   TMPOUT=$(mktemp)
   connbench run --date "$DATE" --models "$ROSTER" --model "$slug" > "$TMPOUT" 2>&1 &
   GAME_PID=$!
-  ( sleep "$GAME_TIMEOUT"
-    kill -TERM "$GAME_PID" 2>/dev/null && {
-      sleep 30; kill -KILL "$GAME_PID" 2>/dev/null; }
+  # Watchdog on WALL-CLOCK time, not sleep(1) time. A single `sleep $GAME_TIMEOUT`
+  # looks right but is wrong on a laptop: sleep(1) does not advance while the
+  # system is suspended, so the budget silently stretches by however long the
+  # machine naps. Observed 2026-10-01 — a 1500s limit fired at 2939s after a
+  # macOS Maintenance Sleep. Polling and comparing `date +%s` counts suspend
+  # against the budget, which is what an unattended overnight run needs.
+  ( WD_START=$(date +%s)
+    while kill -0 "$GAME_PID" 2>/dev/null; do
+      if [ $(( $(date +%s) - WD_START )) -ge "$GAME_TIMEOUT" ]; then
+        kill -TERM "$GAME_PID" 2>/dev/null
+        GRACE=$(date +%s)
+        while kill -0 "$GAME_PID" 2>/dev/null; do
+          [ $(( $(date +%s) - GRACE )) -ge 30 ] && { kill -KILL "$GAME_PID" 2>/dev/null; break; }
+          sleep 2
+        done
+        break
+      fi
+      sleep 10
+    done
   ) 2>/dev/null &
   WATCHDOG_PID=$!
   wait "$GAME_PID"; RC=$?
