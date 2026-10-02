@@ -22,3 +22,7 @@ ERROR: gave up after 7 attempts: HTTP 200: Upstream error from Nvidia: ResourceE
 [6/7] start  free__nemotron-3-5-lightning  01:46:56
 ERROR: gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day free__nemotron-3-5-lightning a1  groups=0 mistakes=1 invalid=1 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-11/free__nemotron-3-5-lightning.json
 [6/7] done   free__nemotron-3-5-lightning in 718s
+[6/7] committed free__nemotron-3-5-lightning
+[7/7] start  free__laguna-s-2-1  01:58:54
+ERROR: gave up after 7 attempts: HTTP 429: Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day free__laguna-s-2-1 a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /Users/alexs/ConnectionsBench/data/runs/2026-09-11/free__laguna-s-2-1.json
+[7/7] done   free__laguna-s-2-1 in 64s
