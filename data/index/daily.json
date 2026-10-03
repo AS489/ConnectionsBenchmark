@@ -999,5 +999,120 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-03",
+    "puzzle_id": 1205,
+    "groups": [
+      {
+        "name": "STARTING WITH TERMS FOR \"TOILET\"",
+        "level": null,
+        "members": [
+          "CAN OPENER",
+          "HEAD WAITER",
+          "JOHN DENVER",
+          "W.C. FIELDS"
+        ]
+      },
+      {
+        "name": "ENDING IN MUSICALS",
+        "level": null,
+        "members": [
+          "ELBOW GREASE",
+          "FAT CATS",
+          "LINDA HAMILTON",
+          "SOMETHING WICKED"
+        ]
+      },
+      {
+        "name": "STARTING WITH U.S. MUSEUMS",
+        "level": null,
+        "members": [
+          "BROAD BEAN",
+          "GETTY IMAGES",
+          "MET HALFWAY",
+          "WHITNEY HOUSTON"
+        ]
+      },
+      {
+        "name": "ENDING IN FANTASY CREATURES",
+        "level": null,
+        "members": [
+          "DIET SPRITE",
+          "MERV GRIFFIN",
+          "NY GIANT",
+          "RIVER PHOENIX"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__ling-3-0-flash-sante": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 9,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__space-bunny-alpha": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 2,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "STARTING WITH TERMS FOR \"TOILET\"",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "ENDING IN MUSICALS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "STARTING WITH U.S. MUSEUMS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "ENDING IN FANTASY CREATURES",
+        "solved_by": 1,
+        "solve_rate": 0.25,
+        "mean_solve_turn": 2.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
