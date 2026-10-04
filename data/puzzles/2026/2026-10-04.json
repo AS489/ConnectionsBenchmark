@@ -1,0 +1,47 @@
+{
+  "id": 1206,
+  "date": "2026-10-04",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONSIDERABLE AMOUNT",
+      "level": null,
+      "members": [
+        "BUNCH",
+        "HEAP",
+        "LOT",
+        "STACK"
+      ]
+    },
+    {
+      "name": "TABLE TENNIS NEEDS",
+      "level": null,
+      "members": [
+        "BALL",
+        "NET",
+        "PADDLE",
+        "TABLE"
+      ]
+    },
+    {
+      "name": "PARTS OF A JUDGE COSTUME",
+      "level": null,
+      "members": [
+        "COLLAR",
+        "GAVEL",
+        "ROBE",
+        "WIG"
+      ]
+    },
+    {
+      "name": "SILENT ___",
+      "level": null,
+      "members": [
+        "AUCTION",
+        "FILM",
+        "PARTNER",
+        "TREATMENT"
+      ]
+    }
+  ]
+}
