@@ -18,3 +18,7 @@ win      free__nemotron-3-super-120b-a12b a1  groups=4 mistakes=2 invalid=0 cost
 [5/7] start  free__nemotron-3-nano-omni-30b-a3b-reasoning  18:43:00
 win      free__nemotron-3-nano-omni-30b-a3b-reasoning a1  groups=4 mistakes=0 invalid=1 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-04/free__nemotron-3-nano-omni-30b-a3b-reasoning.json
 [5/7] done   free__nemotron-3-nano-omni-30b-a3b-reasoning in 638s
+[5/7] committed free__nemotron-3-nano-omni-30b-a3b-reasoning
+[6/7] start  free__nemotron-3-5-lightning  18:53:38
+loss     free__nemotron-3-5-lightning a1  groups=2 mistakes=4 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-04/free__nemotron-3-5-lightning.json
+[6/7] done   free__nemotron-3-5-lightning in 550s
