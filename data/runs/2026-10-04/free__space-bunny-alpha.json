@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-04",
+  "puzzle_id": 1206,
+  "model": "free__space-bunny-alpha",
+  "openrouter_id": "stealth/space-bunny-alpha",
+  "resolved_model": "stealth/space-bunny-alpha",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-10-04|free__space-bunny-alpha|1",
+  "board": [
+    "NET",
+    "HEAP",
+    "PARTNER",
+    "PADDLE",
+    "STACK",
+    "TABLE",
+    "ROBE",
+    "AUCTION",
+    "BUNCH",
+    "BALL",
+    "FILM",
+    "COLLAR",
+    "GAVEL",
+    "WIG",
+    "LOT",
+    "TREATMENT"
+  ],
+  "started_at": "2026-10-04T18:36:43+00:00",
+  "finished_at": "2026-10-04T18:37:18+00:00",
+  "error": null,
+  "truncated_responses": 0,
+  "budget_starved": false,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 0,
+  "guesses_made": 4,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "TABLE TENNIS NEEDS": 1,
+    "CONSIDERABLE AMOUNT": 2,
+    "SILENT ___": 3,
+    "PARTS OF A JUDGE COSTUME": 4
+  },
+  "usage": {
+    "prompt_tokens": 2673,
+    "completion_tokens": 2072,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 34519,
+    "requests": 4
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"TABLE, NET, BALL, and PADDLE are the four core pieces/terms associated with table tennis, forming a coherent group despite some potential red herrings.\",\"guess\":[\"TABLE\",\"NET\",\"BALL\",\"PADDLE\"]}",
+          "reasoning": "TABLE, NET, BALL, and PADDLE are the four core pieces/terms associated with table tennis, forming a coherent group despite some potential red herrings.",
+          "reasoning_text": "We need infer categories. Words perhaps preceded by \"lot\"? Hidden groups phrase associations. NET, HEAP, PARTNER, PADDLE, STACK, TABLE, ROBE, AUCTION, BUNCH, BALL, FILM, COLLAR, GAVEL, WIG, LOT, TREATMENT.\n\nCould group things with \"neck\"? necktie absent. Table, partner, treatment, lot? \"table\" types: table tennis paddle? Categories words forming compounds with \"...\" Maybe auction lots, film treatment, screenplay? GAVEL, AUCTION, LOT, BUNCH? Auction items?\n\nPotential groups:\nBALL, BUNCH, STACK, LOT = units/collections? A pile? \nPADDLE, TABLE, BALL, NET = table tennis objects! Strong group. Guess obvious perhaps safe. Paddle, table, ball, net. Yes.\n\nOther groups: ROBE COLLAR WIG? clothing.\nHEAP STACK BUNCH LOT = collections.\nPARTNER, TREATMENT, FILM, AUCTION? types of \"feature\"? feature film, feature treatment, feature partner? \nGavel auction lot? auction, gavel, bidding, paddle! Ah Paddle at auction, but table tennis trap. Need groups likely words associated with \"...\" Four groups perhaps:\nAuction: AUCTION, GAVEL, LOT, PADDLE (auction paddle)\nTable tennis: TABLE, NET, BALL, PADDLE impossible paddle shared, so no.\nClothing: ROBE COLLAR WIG? \"...\" \nHair: wig, treatment, ...\nCould be all are words that pair with \"condition\"? table condition, film condition, partner? \nFour likely semantic categories:\ntable tennis: TABLE, NET, BALL, PADDLE\nauction: AUCTION, GAVEL, LOT, BUNCH? bunch? \nclothing: ROBE, COLLAR, WIG,? \n\"partner\", \"treatment\", \"film\", \"heaps\"? \n\nPaddle, net, ball, table is extremely coherent and exactly four. likely intended. Though auction paddle red herring. choose it.",
+          "latency_ms": 9520,
+          "prompt_tokens": 474,
+          "completion_tokens": 495,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "TABLE",
+        "NET",
+        "BALL",
+        "PADDLE"
+      ],
+      "group": "TABLE TENNIS NEEDS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"HEAP, STACK, BUNCH, and LOT all denote a collection or grouping of items, making this the clearest remaining four-word set.\",\"guess\":[\"HEAP\",\"STACK\",\"BUNCH\",\"LOT\"]}",
+          "reasoning": "HEAP, STACK, BUNCH, and LOT all denote a collection or grouping of items, making this the clearest remaining four-word set.",
+          "reasoning_text": "We need identify groups. Words heap stack bunch lot = things sold by auction? Auction, lot, heap? \"units of sale\" likely group: auction, lot, heap, stack? Or auctioneer. Other partner, film, treatment = versions? partner, wife? Robe wig collar garment. Gavel auction obvious. Need solve latent groups.\n\nHEAP STACK BUNCH LOT perhaps groups based on \"large amount\": heap, stack, pile? Auction lot.\n\nPARTNER FILM TREATMENT maybe ? \"feature\" as verb? COLLAR, ROBE, WIG = things worn? Partner, film, treatment = TV? \"lead actor\"? Maybe words preceded by \"lead\": lead partner? film lead, treatment? lead? HEAP, STACK, BUNCH, LOT are \"collection\" / group. AUCTION, GAVEL, LOT? Need exact partition.\n\nLikely groups:\nClothing: ROBE COLLAR WIG? \"garments worn...\" only 3.\nAuction: AUCTION GAVEL LOT? perhaps bidder? \nFilm: FILM PARTNER? treatment = movie versions.\n\nCould be compound words with \"counsel\"? partner, treatment? \"course of action.\"\n\nLook for hidden associations category names perhaps \"things with a poker hand\"? Heap, stack, bunch = group. \"Partner, film, treatment, lot\" all have \"feature\"? A film feature, partner feature, treatment feature, lot feature? No.\n\nMaybe each group is words that pair with \"feature\": film feature, partner? treatment features, auction lot.\n\nWORD prefixes: HEAP partner = life partner; STACK partner? dance partner. Robe partner? auction partner?\n\"lead\": lead partner, lead role in film, lead treatment, lead? \n\"cold\": cold heap? cold treatment, cold film?\n\nHEAP, STACK, BUNCH, LOT likely \"collections of things\" versus \"pile\" terminology. Could be obvious group to guess. Exactly all four have meanings group/collection, especially bunch and heap. This seems strongest. Guess HEAP STACK BUNCH LOT.",
+          "latency_ms": 8482,
+          "prompt_tokens": 611,
+          "completion_tokens": 481,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "HEAP",
+        "STACK",
+        "BUNCH",
+        "LOT"
+      ],
+      "group": "CONSIDERABLE AMOUNT",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"PARTNER, AUCTION, FILM, and TREATMENT can each be preceded by “silent” (silent partner, silent auction, silent film, silent treatment), forming the clear common group.\",\"guess\":[\"PARTNER\",\"AUCTION\",\"FILM\",\"TREATMENT\"]}",
+          "reasoning": "PARTNER, AUCTION, FILM, and TREATMENT can each be preceded by “silent” (silent partner, silent auction, silent film, silent treatment), forming the clear common group.",
+          "reasoning_text": "We need guess. Remaining likely auction terms: auction, gavel, lot? lot removed. Treatment, partner, film? Wigs, robes, collars? Group \"things that can be ...\"? Need identify. PARTNER, ROBE, AUCTION, FILM, COLLAR, GAVEL, WIG, TREATMENT. Could groups: auction-related: auction, gavel, treatment? film? \"partner\" as categories? Clothing: robe collar wig, maybe \"partner\" no. Likely group \"things with a ... treatment\": partner? film partner, partner? Gavel? Auction? Maybe \"___ and ___\": auction treatment? \n\nCould be \"words preceded by beauty\": beauty treatment, beauty? beauty partner? \"film treatment\", \"auction treatment\"? There are hidden groups likely \"things that can be silent\"? Need choose safe group. WIG, ROBE, COLLAR, maybe? all clothing but only 3. GAVEL, AUCTION, FILM, TREATMENT perhaps \"movie roles?\" auction, film, treatment, partner all \"___ treatment/partner\"? \n\nCould infer categories from exact wording generated puzzle. Four remaining groups of 4. Obvious group perhaps \"things associated with [??]\": AUCTION, GAVEL, LOT (but lot already grouped impossible), TREATMENT? Auction has \"hammer\" (gavel), \"bidder\" (partner?), \"film treatment\", \"beauty treatment\". WIG, ROBE, COLLAR, maybe \"costume pieces\", with partner? \"partner\" in dance, \"film\" ... \n\nNeed first guess max risk. Select clothing 3 +? Treatment maybe \"beauty treatment\" and wig/robe/collar? \"Theater costume\": wig robe collar, treatment? no. Maybe group is \"things that can be a role\": film, treatment? \n\nCould group: PARTNER, AUCTION, FILM, TREATMENT all associated with \"dancing\"? partner, auction? No.\n\nMaybe remaining intentionally groups: \"AUCTION, GAVEL, WIG, ROBE\" all can be \"auction\"? no.\n\nWords likely group categories based on prefixes: \"silent film\", \"film treatment\", \"beauty treatment\", \"film partner\". Thus FILM, TREATMENT, PARTNER, WIG? \"film treatment\", \"beauty treatment\", \"film partner\", \"film wig\"? Could be \"things that precede treatment/partner/film\" with modifiers? \"silent film\", \"silent partner\" no.\n\n\"role\": film role, treatment role? auction role? \n\nCould guess clothing: ROBE COLLAR WIG TREATMENT? \"robe a treat\"? Not.\n\nUse likely group named \"CLOTHING\": WIG ROBE COLLAR, plus? \"treatment\" can be \"wardrobe treatment\"? no. \"partner\" could be \"partner collar\"? \n\nMaybe group is \"things in a courtroom\": auction, gavel, treatment? \"court treatment\", \"court partner\"? Remaining 8 form two groups likely:\n- auction, gavel, treatment, film? \"auction treatment\" no\n- partner, robe, collar, wig? \"partner\" could be \"dresser's partner\" no.\n\nCould select strongest semantic 3 plus likely fourth via compounds: FILM, TREATMENT, WIG, ROBE all can precede \"room\"? film room, treatment room, wig room, robe room. But any words can.\n\n\"Film treatment\" exact phrase; \"beauty treatment\" with WIG? \"wig treatment\", \"robe treatment\" all product maintenance. Yet.\n\nMaybe group \"things that can be beautified\": treatment, wig, robe, collar? \n\nNeed output. Guess likely 4 clothing-related terms impossible partner. Group could be \"things that can be a role\": film, treatment? Auctioneer role, gavel role, partner role, wig role? \n\nPick AUCTION GAVEL FILM TREATMENT: first two auction, latter \"film treatment\" and \"auction treatment\"? no.\n\nCould answer with reasoning and guess. Maybe hidden category is \"words that follow 'film'\": film treatment, film partner? \"film auction\" no.\n\nMaybe categories based on \"types of [something]\": partner, auction, film, treatment all have \"buddy\"? partner, auction? \"silent\": silent film, silent auction, silent treatment, silent partner? Actually \"silent auction\", \"silent treatment\", \"silent film\", \"silent partner\"? \"silent partner\" is a term! Yes! SILENT precedes FILM, AUCTION, TREATMENT, PARTNER. Great. Guess those four.",
+          "latency_ms": 14280,
+          "prompt_tokens": 733,
+          "completion_tokens": 1016,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "PARTNER",
+        "AUCTION",
+        "FILM",
+        "TREATMENT"
+      ],
+      "group": "SILENT ___",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\":\"ROBE, WIG, and COLLAR are items associated with a judge or legal setting, while GAVEL is a judge’s tool, forming a clear courtroom group.\",\"guess\":[\"ROBE\",\"WIG\",\"COLLAR\",\"GAVEL\"]}",
+          "reasoning": "ROBE, WIG, and COLLAR are items associated with a judge or legal setting, while GAVEL is a judge’s tool, forming a clear courtroom group.",
+          "reasoning_text": "We need exact JSON only. Group obvious judicial? Gavel alone, robe wig collar courtroom attire? Need guess.",
+          "latency_ms": 2237,
+          "prompt_tokens": 855,
+          "completion_tokens": 80,
+          "reasoning_tokens": 0,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "ROBE",
+        "WIG",
+        "COLLAR",
+        "GAVEL"
+      ],
+      "group": "PARTS OF A JUDGE COSTUME",
+      "mistakes_after": 0
+    }
+  ]
+}
