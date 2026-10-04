@@ -1114,5 +1114,147 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-04",
+    "puzzle_id": 1206,
+    "groups": [
+      {
+        "name": "CONSIDERABLE AMOUNT",
+        "level": null,
+        "members": [
+          "BUNCH",
+          "HEAP",
+          "LOT",
+          "STACK"
+        ]
+      },
+      {
+        "name": "TABLE TENNIS NEEDS",
+        "level": null,
+        "members": [
+          "BALL",
+          "NET",
+          "PADDLE",
+          "TABLE"
+        ]
+      },
+      {
+        "name": "PARTS OF A JUDGE COSTUME",
+        "level": null,
+        "members": [
+          "COLLAR",
+          "GAVEL",
+          "ROBE",
+          "WIG"
+        ]
+      },
+      {
+        "name": "SILENT ___",
+        "level": null,
+        "members": [
+          "AUCTION",
+          "FILM",
+          "PARTNER",
+          "TREATMENT"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__ling-3-0-flash-sante": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 2,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__space-bunny-alpha": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "SILENT ___",
+        "solved_by": 5,
+        "solve_rate": 0.7142857142857143,
+        "mean_solve_turn": 3.6,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "TABLE TENNIS NEEDS",
+        "solved_by": 5,
+        "solve_rate": 0.7142857142857143,
+        "mean_solve_turn": 2.2,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "PARTS OF A JUDGE COSTUME",
+        "solved_by": 6,
+        "solve_rate": 0.8571428571428571,
+        "mean_solve_turn": 3.6666666666666665,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "CONSIDERABLE AMOUNT",
+        "solved_by": 6,
+        "solve_rate": 0.8571428571428571,
+        "mean_solve_turn": 2.3333333333333335,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
