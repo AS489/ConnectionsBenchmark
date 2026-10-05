@@ -10,3 +10,7 @@ ERROR: HTTP 404: No endpoints found for stealth/space-bunny-alpha. free__space-b
 [3/7] start  free__ling-3-0-flash-sante  22:05:08
 loss     free__ling-3-0-flash-sante a1  groups=0 mistakes=4 invalid=7 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-05/free__ling-3-0-flash-sante.json
 [3/7] done   free__ling-3-0-flash-sante in 656s
+[3/7] committed free__ling-3-0-flash-sante
+[4/7] start  free__nemotron-3-super-120b-a12b  22:16:04
+loss     free__nemotron-3-super-120b-a12b a1  groups=0 mistakes=4 invalid=1 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-05/free__nemotron-3-super-120b-a12b.json
+[4/7] done   free__nemotron-3-super-120b-a12b in 257s
