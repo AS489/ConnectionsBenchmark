@@ -14,3 +14,10 @@ loss     free__ling-3-0-flash-sante a1  groups=0 mistakes=4 invalid=7 cost=$0.00
 [4/7] start  free__nemotron-3-super-120b-a12b  22:16:04
 loss     free__nemotron-3-super-120b-a12b a1  groups=0 mistakes=4 invalid=1 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-05/free__nemotron-3-super-120b-a12b.json
 [4/7] done   free__nemotron-3-super-120b-a12b in 257s
+[4/7] committed free__nemotron-3-super-120b-a12b
+[5/7] start  free__nemotron-3-nano-omni-30b-a3b-reasoning  22:20:21
+[5/7] TIMEOUT free__nemotron-3-nano-omni-30b-a3b-reasoning after 1201s (limit 1200s) — abandoned
+[5/7] done   free__nemotron-3-nano-omni-30b-a3b-reasoning in 1201s
+[6/7] start  free__nemotron-3-5-lightning  22:40:22
+loss     free__nemotron-3-5-lightning a1  groups=1 mistakes=4 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-05/free__nemotron-3-5-lightning.json
+[6/7] done   free__nemotron-3-5-lightning in 459s
