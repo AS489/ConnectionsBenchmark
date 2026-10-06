@@ -1,0 +1,47 @@
+{
+  "id": 1208,
+  "date": "2026-10-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FINANCIAL FIRMS, FOR SHORT",
+      "level": null,
+      "members": [
+        "BERKSHIRE",
+        "CITI",
+        "GOLDMAN",
+        "MERRILL"
+      ]
+    },
+    {
+      "name": "KINDS OF CHAIRS",
+      "level": null,
+      "members": [
+        "ADIRONDACK",
+        "EAMES",
+        "WINDSOR",
+        "WINGBACK"
+      ]
+    },
+    {
+      "name": "___ INN HOTELS",
+      "level": null,
+      "members": [
+        "COMFORT",
+        "DAYS",
+        "HAMPTON",
+        "HOLIDAY"
+      ]
+    },
+    {
+      "name": "ENDING IN TALENTS",
+      "level": null,
+      "members": [
+        "CATSKILL",
+        "KNICKKNACK",
+        "PIANOFORTE",
+        "STABILITY"
+      ]
+    }
+  ]
+}
