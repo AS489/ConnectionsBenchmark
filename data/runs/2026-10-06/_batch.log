@@ -6,3 +6,7 @@ loss     free__dots-3-note-preview a1  groups=1 mistakes=4 invalid=6 cost=$0.000
 [2/7] start  free__space-bunny-alpha  20:16:50
 ERROR: HTTP 404: No endpoints found for stealth/space-bunny-alpha. free__space-bunny-alpha a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-06/free__space-bunny-alpha.json
 [2/7] done   free__space-bunny-alpha in 0s
+[2/7] committed free__space-bunny-alpha
+[3/7] start  free__ling-3-0-flash-sante  20:16:50
+forfeit  free__ling-3-0-flash-sante a1  groups=2 mistakes=3 invalid=10 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-06/free__ling-3-0-flash-sante.json
+[3/7] done   free__ling-3-0-flash-sante in 692s
