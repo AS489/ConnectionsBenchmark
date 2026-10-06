@@ -1380,5 +1380,120 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "puzzle_id": 1208,
+    "groups": [
+      {
+        "name": "FINANCIAL FIRMS, FOR SHORT",
+        "level": null,
+        "members": [
+          "BERKSHIRE",
+          "CITI",
+          "GOLDMAN",
+          "MERRILL"
+        ]
+      },
+      {
+        "name": "KINDS OF CHAIRS",
+        "level": null,
+        "members": [
+          "ADIRONDACK",
+          "EAMES",
+          "WINDSOR",
+          "WINGBACK"
+        ]
+      },
+      {
+        "name": "___ INN HOTELS",
+        "level": null,
+        "members": [
+          "COMFORT",
+          "DAYS",
+          "HAMPTON",
+          "HOLIDAY"
+        ]
+      },
+      {
+        "name": "ENDING IN TALENTS",
+        "level": null,
+        "members": [
+          "CATSKILL",
+          "KNICKKNACK",
+          "PIANOFORTE",
+          "STABILITY"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 6,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__ling-3-0-flash-sante": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 3,
+        "invalid_responses": 10,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 1,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "___ INN HOTELS",
+        "solved_by": 1,
+        "solve_rate": 0.25,
+        "mean_solve_turn": 4.0,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "ENDING IN TALENTS",
+        "solved_by": 1,
+        "solve_rate": 0.25,
+        "mean_solve_turn": 2.0,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "KINDS OF CHAIRS",
+        "solved_by": 2,
+        "solve_rate": 0.5,
+        "mean_solve_turn": 5.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "FINANCIAL FIRMS, FOR SHORT",
+        "solved_by": 3,
+        "solve_rate": 0.75,
+        "mean_solve_turn": 3.3333333333333335,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
