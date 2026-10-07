@@ -1,0 +1,47 @@
+{
+  "id": 1209,
+  "date": "2026-10-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SAVE FOR LATER",
+      "level": null,
+      "members": [
+        "BANK",
+        "SQUIRREL",
+        "STASH",
+        "STORE"
+      ]
+    },
+    {
+      "name": "KINDS OF BUNS",
+      "level": null,
+      "members": [
+        "CINNAMON",
+        "HAMBURGER",
+        "HOT DOG",
+        "STICKY"
+      ]
+    },
+    {
+      "name": "GREEK NUMERICAL PREFIXES",
+      "level": null,
+      "members": [
+        "DICHOTOMY",
+        "MONOLOGUE",
+        "TETRACYCLINE",
+        "TRIDENT"
+      ]
+    },
+    {
+      "name": "BEST ___ TONY AWARDS",
+      "level": null,
+      "members": [
+        "CHOREOGRAPHY",
+        "MUSICAL",
+        "ORCHESTRATIONS",
+        "PLAY"
+      ]
+    }
+  ]
+}
