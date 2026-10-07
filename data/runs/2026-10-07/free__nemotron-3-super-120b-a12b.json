@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-07",
+  "puzzle_id": 1209,
+  "model": "free__nemotron-3-super-120b-a12b",
+  "openrouter_id": "nvidia/nemotron-3-super-120b-a12b:free",
+  "resolved_model": "nvidia/nemotron-3-super-120b-a12b:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-10-07|free__nemotron-3-super-120b-a12b|1",
+  "board": [
+    "MONOLOGUE",
+    "TRIDENT",
+    "CHOREOGRAPHY",
+    "PLAY",
+    "STORE",
+    "ORCHESTRATIONS",
+    "CINNAMON",
+    "HOT DOG",
+    "HAMBURGER",
+    "STICKY",
+    "BANK",
+    "MUSICAL",
+    "STASH",
+    "DICHOTOMY",
+    "TETRACYCLINE",
+    "SQUIRREL"
+  ],
+  "started_at": "2026-10-07T20:37:26+00:00",
+  "finished_at": "2026-10-07T20:38:07+00:00",
+  "error": null,
+  "truncated_responses": 0,
+  "budget_starved": false,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 0,
+  "guesses_made": 4,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "BEST ___ TONY AWARDS": 1,
+    "SAVE FOR LATER": 2,
+    "KINDS OF BUNS": 3,
+    "GREEK NUMERICAL PREFIXES": 4
+  },
+  "usage": {
+    "prompt_tokens": 2635,
+    "completion_tokens": 4929,
+    "reasoning_tokens": 4591,
+    "cost_usd": 0.0,
+    "latency_ms": 41086,
+    "requests": 4
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"The words CHOREOGRAPHY, PLAY, ORCHESTRATIONS, and MUSICAL all relate to performing arts and theater/dance/music.\", \"guess\": [\"CHOREOGRAPHY\", \"PLAY\", \"ORCHESTRATIONS\", \"MUSICAL\"]}",
+          "reasoning": "The words CHOREOGRAPHY, PLAY, ORCHESTRATIONS, and MUSICAL all relate to performing arts and theater/dance/music.",
+          "reasoning_text": "We need to find groups of 4 among these words. Let's list them:\n\nMONOLOGUE\nTRIDENT\nCHOREOGRAPHY\nPLAY\nSTORE\nORCHESTRATIONS\nCINNAMON\nHOT DOG\nHAMBURGER\nSTICKY\nBANK\nMUSICAL\nSTASH\nDICHOTOMY\nTETRACYCLINE\nSQUIRREL\n\nWe need to find categories.\n\nLet's think: Some words relate to theater/performance: MONOLOGUE, PLAY, CHOREOGRAPHY, ORCHESTRATIONS, MUSICAL. That's 5 words. Could be group of theater terms: MONOLOGUE, PLAY, CHOREOGRAPHY, MUSICAL? ORCHESTRATIONS maybe also. But we need exactly 4.\n\nFood: HOT DOG, HAMBURGER, CINNAMON, STICKY? Not sure. STICKY could be sticky buns? Or sticky rice? Not sure.\n\nBank: BANK, STASH, STORE? Those could be synonyms for place to keep money: bank, store (as in store of value?), stash, maybe \"trident\"? No.\n\nTetracycline is an antibiotic. Squirrel is animal. Dichotomy is a division into two parts. Trident is a three-pronged spear, also a brand of gum? Actually Trident is a gum brand. Also a weapon (Poseidon). Could be group of things that come in threes? Trident (3), Dichotomy (2), maybe something else? Not sure.\n\nMaybe groups: 1) Types of performances: MONOLOGUE, PLAY, CHOREOGRAPHY, MUSICAL. 2) Types of food: HOT DOG, HAMBURGER, CINNAMON, STICKY? Sticky could be sticky rice or sticky bun. 3) Banking/finance: BANK, STASH, STORE, ??? maybe \"TRIDENT\"? No. Could be \"ORCHESTRATIONS\"? No.\n\nAlternatively, maybe groups are based on wordplay: each group shares a common phrase when you add a word before or after? Eg \"___ bank\": blood bank, sperm bank, data bank, etc. \"___ store\": department store, convenience store, app store, etc. \"___ stash\": drug stash, money stash, etc. \"___ trident\"? Not.\n\nMaybe each group is a set of words that can follow \"hot ___\": hot dog, hot sauce, hot tub, hot mess? Not.\n\nLet's think of synonyms: \"store\" and \"stash\" both mean a supply kept for future use. \"Bank\" also can mean a place to store something (blood bank, sperm bank). So group could be synonyms for \"reserve\": STORE, STASH, BANK, ??? maybe \"TRICHOTOMY\"? No. Could be \"TETRACYCLINE\"? No.\n\nMaybe group of words that are also brands: TRIDENT (gum), CINNAMON (maybe a brand?), HOT DOG (brand?), HAMBURGER (brand?), STICKY (maybe a brand of notes?), Not.\n\nMaybe group of words that are types of \"___ sauce\": hot dog sauce? Not.\n\nLet's examine each word for possible categories:\n\nMONOLOGUE: theater, speech.\nTRIDENT: weapon, gum brand, three-pronged.\nCHOREOGRAPHY: dance.\nPLAY: theater, also verb.\nSTORE: retail, also verb.\nORCHESTRATIONS: music arrangement.\nCINNAMON: spice.\nHOT DOG: food.\nHAMBURGER: food.\nSTICKY: adjective, also a brand of notes (Post-it sticky notes).\nBANK: financial institution, river edge.\nMUSICAL: theater genre.\nSTASH: noun meaning hidden supply.\nDICHOTOMY: division into two.\nTETRACYCLINE: antibiotic.\nSQUIRREL: animal, also verb to hoard.\n\nObservations: SQUIRREL and STASH both relate to hoarding. Squirrel stashes nuts. Also \"store\" can be a verb meaning to stockpile. \"Bank\" can be to store (as in blood bank). So group of hoarding/storage: SQUIRREL, STASH, STORE, BANK? That seems plausible. Let's test: squirrel (verb: to store away), stash (noun: a store or cache), store (noun/verb: a place where goods are kept; verb: to keep for future use), bank (verb: to deposit in a bank; also a place where money is stored). So yes, all relate to storing or hoarding.\n\nNow we have 4: SQUIRREL, STASH, STORE, BANK.\n\nNow remaining words: MONOLOGUE, TRIDENT, CHOREOGRAPHY, PLAY, ORCHESTRATIONS, CINNAMON, HOT DOG, HAMBURGER, STICKY, MUSICAL, DICHOTOMY, TETRACYCLINE.\n\nWe need three more groups of 4.\n\nLook at food: HOT DOG, HAMBURGER, CINNAMON, STICKY? Sticky could be sticky bun or sticky rice. Could be \"sticky\" as a dessert topping? Not sure.\n\nMaybe group of condiments: CINNAMON (spice), HOT DOG (often with mustard/ketchup), HAMBURGER (with condiments), STICKY (maybe sticky sauce?). Not strong.\n\nMaybe group of things that are \"___ dog\": hot dog, corn dog, etc. Not.\n\nMaybe group of things that are \"___ burger\": hamburger, cheeseburger, veggie burger, etc. Not.\n\nMaybe group of words that are also types of \"___ music\": ORCHESTRATIONS (orchestra), MUSICAL (musical theatre), MONOLOGUE (spoken word in music?), PLAY (play as in a play, could be musical play). Not.\n\nMaybe group of words that are types of \"___ play\": wordplay, playhouse, etc.\n\nLet's think of other categories: TRIDENT could be a brand of gum, also a weapon. DICHOTOMY is a split into two. TETRACYCLINE is an antibiotic (four-cycle?). The prefix \"tetra-\" means four. \"cycline\" maybe? Tetracycline is a type of antibiotic with four rings? Actually tetracycline has four fused rings. So \"tetra\" meaning four. Could be group of words with numerical prefixes: MONOLOGUE (mono = one), TRIDENT (tri = three), DICHOTOMY (di = two), TETRACYCLINE (tetra = four). That's a nice group! Indeed: MONO- (one), DI- (two), TRI- (three), TETRA- (four). So group: MONOLOGUE, DICHOTOMY, TRIDENT, TETRACYCLINE. Let's verify: MONOLOGUE: mono = one (single speaker). DICHOTOMY: dichotomy = splitting into two parts. TRIDENT: tri = three (three-pronged). TETRACYCLINE: tetra = four (four rings). Yes! That seems plausible.\n\nNow we have used: MONOLOGUE, DICHOTOMY, TRIDENT, TETRACYCLINE.\n\nRemaining words: CHOREOGRAPHY, PLAY, ORCHESTRATIONS, CINNAMON, HOT DOG, HAMBURGER, STICKY, MUSICAL.\n\nWe need two groups of 4.\n\nNow look at these: CHOREOGRAPHY, PLAY, ORCHESTRATIONS, MUSICAL all relate to performing arts/theater/dance/music. That's four: CHOREOGRAPHY (dance), PLAY (theater), ORCHESTRATIONS (music arrangement), MUSICAL (musical theatre). Good.\n\nNow remaining: CINNAMON, HOT DOG, HAMBURGER, STICKY. These could be food items: CINNAMON (spice used in food), HOT DOG, HAMBURGER, STICKY (maybe sticky bun or sticky rice). Could be \"sticky\" as a dessert topping? But maybe they are all things that can be \"___ dog\": hot dog, corn dog, etc. Not.\n\nAlternatively, maybe they are all things that can be \"___ bun\": hot dog bun, hamburger bun, cinnamon bun, sticky bun. Yes! That's perfect: CINNAMON (cinnamon bun), HOT DOG (hot dog bun), HAMBURGER (hamburger bun), STICKY (sticky bun). All are types of buns. So group: CINNAMON, HOT DOG, HAMBURGER, STICKY.\n\nThus we have four groups:\n\n1) Storage/hoarding: SQUIRREL, STASH, STORE, BANK\n2) Numerical prefixes: MONOLOGUE, DICHOTOMY, TRIDENT, TETRACYCLINE\n3) Performing arts: CHOREOGRAPHY, PLAY, ORCHESTRATIONS, MUSICAL\n4) Buns: CINNAMON, HOT DOG, HAMBURGER, STICKY\n\nCheck that all words are used exactly once: Let's list all words and see if any missing.\n\nOriginal list:\nMONOLOGUE - used in group 2\nTRIDENT - group 2\nCHOREOGRAPHY - group 3\nPLAY - group 3\nSTORE - group 1\nORCHESTRATIONS - group 3\nCINNAMON - group 4\nHOT DOG - group 4\nHAMBURGER - group 4\nSTICKY - group 4\nBANK - group 1\nMUSICAL - group 3\nSTASH - group 1\nDICHOTOMY - group 2\nTETRACYCLINE - group 2\nSQUIRREL - group 1\n\nAll accounted for. Great.\n\nNow we need to output a guess for first turn. We can guess any group. Let's pick one, maybe the performing arts group: CHOREOGRAPHY, PLAY, ORCHESTRATIONS, MUSICAL.\n\nWe need to output JSON with reasoning and guess.\n\nMake sure to copy words exactly as they appear: CHOREOGRAPHY, PLAY, ORCHESTRATIONS, MUSICAL.\n\nNow produce final answer.",
+          "latency_ms": 20264,
+          "prompt_tokens": 375,
+          "completion_tokens": 2436,
+          "reasoning_tokens": 2363,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "CHOREOGRAPHY",
+        "PLAY",
+        "ORCHESTRATIONS",
+        "MUSICAL"
+      ],
+      "group": "BEST ___ TONY AWARDS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"STORE, BANK, STASH, and SQUIRREL all relate to storing or keeping things: a store holds goods, a bank holds money, a stash is a hidden supply, and a squirrel stores food.\", \"guess\": [\"STORE\", \"BANK\", \"STASH\", \"SQUIRREL\"]}",
+          "reasoning": "STORE, BANK, STASH, and SQUIRREL all relate to storing or keeping things: a store holds goods, a bank holds money, a stash is a hidden supply, and a squirrel stores food.",
+          "reasoning_text": "We need to find groups among remaining words. Let's list them: MONOLOGUE, TRIDENT, STORE, CINNAMON, HOT DOG, HAMBURGER, STICKY, BANK, STASH, DICHOTOMY, TETRACYCLINE, SQUIRREL.\n\nWe need 3 more groups of 4.\n\nLook for patterns: Food items? HOT DOG, HAMBURGER, CINNAMON (spice), maybe STICKY? Not sure. Could be \"things you can put on a bun\"? Hot dog, hamburger, cinnamon (cinnamon roll?), sticky (bun). Hmm.\n\nMaybe groups: \"Things you can find in a bank\": BANK, STASH, STORE, TRIDENT? Not.\n\n\"Words that can follow '___' something\"? Let's think.\n\nMONOLOGUE: a speech. TRIDENT: three-pronged spear. STORE: shop. CINNAMON: spice. HOT DOG: food. HAMBURGER: food. STICKY: adjective. BANK: financial institution or river edge. STASH: hidden supply. DICHOTOMY: division. TETRACYCLINE: antibiotic. SQUIRREL: animal.\n\nMaybe group: \"Things that can be 'hot'\"? Hot dog, cinnamon (hot spice?), sticky? Not.\n\nMaybe group: \"Words that can precede '___' line\"? Monologue, dichotomy? Not.\n\nMaybe group: \"Words that are types of ___\"? Tetracycline is an antibiotic; maybe group of antibiotics? But only one.\n\nMaybe group: \"Words that are also brands\"? Not.\n\nLet's think of common phrases: \"___ bank\": sperm bank, blood bank, etc. \"___ store\": department store, convenience store. \"___ stash\": drug stash, money stash. \"___ stick\": sticky? Not.\n\n\"Monologue\" could be part of \"soliloquy\". Not.\n\n\"Trident\" is associated with Poseidon, also a gum brand. \"Store\" could be \"department store\". \"Bank\" could be \"river bank\". \"Stash\" could be \"cash stash\". \"Squirrel\" stores nuts. So maybe group: \"Things related to storing\": STORE, STASH, SQUIRREL, BANK? But bank is more about money storage. Could be \"places to keep things\": store, bank, stash, squirrel (as animal that stores). That seems plausible.\n\nCheck: store (place to keep goods), bank (place to keep money), stash (hidden store), squirrel (animal that stores food). Yes.\n\nNow remaining: MONOLOGUE, TRIDENT, CINNAMON, HOT DOG, HAMBURGER, STICKY, DICHOTOMY, TETRACYCLINE.\n\nWe need two groups of 4.\n\nLook at food: HOT DOG, HAMBURGER, CINNAMON (cinnamon roll), STICKY (sticky bun?). Could be \"types of buns\": hot dog bun, hamburger bun, cinnamon bun, sticky bun. Yes! Those are all types of buns. So group: HOT DOG, HAMBURGER, CINNAMON, STICKY.\n\nNow left: MONOLOGUE, TRIDENT, DICHOTOMY, TETRACYCLINE.\n\nWhat do these have in common? Maybe they are all words that can follow \"___\" something? Monologue, trichotomy? Not.\n\nMaybe they are all terms in biology? Tetracycline is antibiotic, dichotomy is biological concept? Not.\n\nMaybe they are all words that can be preceded by \"proto-\"? Proto-monologue? No.\n\nMaybe they are all words that are also names of something: Trident (missile, gum), Dichotomy (concept), Tetracycline (drug), Monologue (play). Not.\n\nMaybe they are all words that contain a chemical element symbol? Monologue: contains \"Mo\" (Molybdenum), \"Ni\" (Nickel), \"O\" (Oxygen), \"Log\"? Not.\n\nTrident: contains \"Ti\" (Titanium), \"Re\" (Rhenium), \"D\" (Deuterium?), \"Ent\"? Not.\n\nDichotomy: contains \"Di\" (Darmstadtium?), \"Ch\" (no), \"O\" (Oxygen), \"To\" (not), \"My\" (not). Hmm.\n\nTetracycline: contains \"Te\" (Tellurium), \"Tc\" (Technetium), \"Ra\" (Radium), \"Cl\" (Chlorine), \"I\" (Iodine), \"Ne\" (Neon), \"E\" (not). Might be a stretch.\n\nMaybe they are all words that can be preceded by \"___\" to make a phrase: \"___ monologue\" (soliloquy?), \"___ trident\" (Poseidon's), \"___ dichotomy\" (false), \"___ tetracycline\" (not). Not.\n\nMaybe they are all words that are also names of musical groups? Not.\n\nLet's think of categories: \"Things that can be split\": dichotomy (split into two), trident (three-pronged), tetracycline (four rings?), monologue (one person speaking). Could be about number of parts: mono (1), tri (3), di (2), tetra (4). Indeed! Monologue: mono = one. Trident: tri = three. Dichotomy: di = two. Tetracycline: tetra = four. Yes! They all contain numerical prefixes indicating number: mono (1), tri (3), di (2), tetra (4). So group based on number prefixes.\n\nThus guess: MONOLOGUE, TRIDENT, DICHOTOMY, TETRACYCLINE.\n\nCheck that all are present: yes.\n\nNow we have three groups guessed: first group (performing arts) already correct. Second group: store, bank, stash, squirrel (storage). Third group: hot dog, hamburger, cinnamon, sticky (buns). Fourth group: monologue, trident, dichotomy, tetracycline (number prefixes).\n\nWe need to output next guess. Since we already used first guess correct, we now need to give second guess. Let's choose the storage group: STORE, BANK, STASH, SQUIRREL.\n\nBut note: we must ensure words are exactly from board. They are.\n\nThus output reasoning and guess.",
+          "latency_ms": 10981,
+          "prompt_tokens": 570,
+          "completion_tokens": 1482,
+          "reasoning_tokens": 1404,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "STORE",
+        "BANK",
+        "STASH",
+        "SQUIRREL"
+      ],
+      "group": "SAVE FOR LATER",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"CINNAMON, HOT DOG, HAMBURGER, STICKY are all types of buns (cinnamon bun, hot dog bun, hamburger bun, sticky bun). MONOLOGUE, TRIDENT, DICHOTOMY, TETRACYCLINE contain numerical prefixes mono-, tri-, di-, tetra- meaning one, three, two, four.\", \"guess\": [\"CINNAMON\", \"HOT DOG\", \"HAMBURGER\", \"STICKY\"]}",
+          "reasoning": "CINNAMON, HOT DOG, HAMBURGER, STICKY are all types of buns (cinnamon bun, hot dog bun, hamburger bun, sticky bun). MONOLOGUE, TRIDENT, DICHOTOMY, TETRACYCLINE contain numerical prefixes mono-, tri-, di-, tetra- meaning one, three, two, four.",
+          "reasoning_text": "We need to find groups of 4 from remaining words: MONOLOGUE, TRIDENT, CINNAMON, HOT DOG, HAMBURGER, STICKY, DICHOTOMY, TETRACYCLINE.\n\nWe have 8 words left, need two groups of 4.\n\nLet's think of possible categories.\n\nCINNAMON, HOT DOG, HAMBURGER, STICKY? Could be food items: cinnamon (spice), hot dog, hamburger, sticky (maybe sticky rice? or sticky bun?). Not sure.\n\nTRIDENT is a weapon (Poseidon's), also a brand (gum), also a missile. MONOLOGUE is a speech. DICHOTOMY is a division. TETRACYCLINE is an antibiotic.\n\nMaybe groups: MONOLOGUE, TRIDENT, DICHOTOMY, TETRACYCLINE? Not obvious.\n\nMaybe think of \"things that come in threes\"? Trident (three prongs), tri? Not.\n\nMaybe think of \"words that can follow 'hot'\"? Hot dog, hot sauce? Not.\n\nMaybe think of \"words that can precede 'bank'\"? Not.\n\nLet's examine each word for possible associations.\n\nMONOLOGUE: theater, speech, solo.\n\nTRIDENT: Poseidon, weapon, three-pronged, also a missile system, also a gum brand.\n\nCINNAMON: spice, baking, sweet.\n\nHOT DOG: food, sausage in bun.\n\nHAMBURGER: food, beef patty.\n\nSTICKY: adjective, could be sticky notes, sticky situation, sticky rice, sticky bun.\n\nDICHOTOMY: split, division, two parts.\n\nTETRACYCLINE: antibiotic, drug, \"tetr\" meaning four, cycline.\n\nMaybe group: CINNAMON, HOT DOG, HAMBURGER, STICKY as \"types of ______\"? Could be \"things that can be 'buns'\"? Hot dog bun, hamburger bun, sticky bun, cinnamon bun! Yes! Cinnamon bun, hot dog bun, hamburger bun, sticky bun (like sticky bun pastry). That fits: all are types of buns. So group: CINNAMON, HOT DOG, HAMBURGER, STICKY.\n\nCheck: CINNAMON -> cinnamon bun. HOT DOG -> hot dog bun. HAMBURGER -> hamburger bun. STICKY -> sticky bun (a pastry). Good.\n\nRemaining words: MONOLOGUE, TRIDENT, DICHOTOMY, TETRACYCLINE.\n\nNow find a group of four among these.\n\nMONOLOGUE: solo speech.\n\nTRIDENT: three-pronged.\n\nDICHOTOMY: two-part division.\n\nTETRACYCLINE: four (tetra) + cycline.\n\nThese could be numbers: mono (1), tri (3), di (2), tetra (4). Indeed: monologue (mono = one), trident (tri = three), dichotomy (di = two), tetracycline (tetra = four). So group based on numerical prefixes: mono, tri, di, tetra.\n\nThus guess: MONOLOGUE, TRIDENT, DICHOTOMY, TETRACYCLINE.\n\nCheck that each word is exactly from board: yes.\n\nThus output.",
+          "latency_ms": 5533,
+          "prompt_tokens": 744,
+          "completion_tokens": 865,
+          "reasoning_tokens": 745,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "CINNAMON",
+        "HOT DOG",
+        "HAMBURGER",
+        "STICKY"
+      ],
+      "group": "KINDS OF BUNS",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"Each word contains a numerical prefix: mono- (one), tri- (three), di- (two), tetra- (four).\", \"guess\": [\"MONOLOGUE\", \"TRIDENT\", \"DICHOTOMY\", \"TETRACYCLINE\"]}",
+          "reasoning": "Each word contains a numerical prefix: mono- (one), tri- (three), di- (two), tetra- (four).",
+          "reasoning_text": "We have four words left: MONOLOGUE, TRIDENT, DICHOTOMY, TETRACYCLINE. They likely share a common theme: each contains a numerical prefix: mono- (one), tri- (three), di- (two), tetra- (four). So the group is \"NUMERICAL PREFIXES\". So guess those four.",
+          "latency_ms": 4308,
+          "prompt_tokens": 946,
+          "completion_tokens": 146,
+          "reasoning_tokens": 79,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "MONOLOGUE",
+        "TRIDENT",
+        "DICHOTOMY",
+        "TETRACYCLINE"
+      ],
+      "group": "GREEK NUMERICAL PREFIXES",
+      "mistakes_after": 0
+    }
+  ]
+}
