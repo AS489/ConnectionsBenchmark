@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06",
+  "generated_at": "2026-10-07",
   "window_days": 30,
   "variants": [
     "v1"
@@ -7,31 +7,31 @@
   "by_variant": {
     "v1": {
       "free__dots-3-note-preview": {
-        "runs": 8,
+        "runs": 9,
         "win_rate": {
-          "n": 8,
-          "successes": 4,
-          "rate": 0.5,
-          "ci_low": 0.215216,
-          "ci_high": 0.784784
+          "n": 9,
+          "successes": 5,
+          "rate": 0.5555555555555556,
+          "ci_low": 0.266651,
+          "ci_high": 0.811221
         },
         "trailing_30d_win_rate": {
-          "n": 8,
-          "successes": 4,
-          "rate": 0.5,
-          "ci_low": 0.215216,
-          "ci_high": 0.784784
+          "n": 9,
+          "successes": 5,
+          "rate": 0.5555555555555556,
+          "ci_low": 0.266651,
+          "ci_high": 0.811221
         },
         "first_guess_rate": {
-          "n": 8,
-          "successes": 6,
-          "rate": 0.75,
-          "ci_low": 0.409275,
-          "ci_high": 0.928521
+          "n": 9,
+          "successes": 7,
+          "rate": 0.7777777777777778,
+          "ci_low": 0.452589,
+          "ci_high": 0.936775
         },
-        "mean_groups_solved": 2.5,
-        "mean_mistakes": 1.625,
-        "mean_invalid_responses": 4.625,
+        "mean_groups_solved": 2.6666666666666665,
+        "mean_mistakes": 1.4444444444444444,
+        "mean_invalid_responses": 4.444444444444445,
         "total_cost_usd": 0.0,
         "cost_per_puzzle_usd": 0.0,
         "cost_per_win_usd": 0.0,
@@ -75,6 +75,11 @@
             "date": "2026-10-06",
             "solved": false,
             "groups_solved": 1
+          },
+          {
+            "date": "2026-10-07",
+            "solved": true,
+            "groups_solved": 4
           }
         ],
         "resolved_models": [
@@ -127,31 +132,31 @@
         ]
       },
       "free__ling-3-0-flash-sante": {
-        "runs": 9,
+        "runs": 10,
         "win_rate": {
-          "n": 9,
-          "successes": 3,
-          "rate": 0.3333333333333333,
-          "ci_low": 0.120584,
-          "ci_high": 0.645798
+          "n": 10,
+          "successes": 4,
+          "rate": 0.4,
+          "ci_low": 0.16818,
+          "ci_high": 0.687326
         },
         "trailing_30d_win_rate": {
-          "n": 9,
-          "successes": 3,
-          "rate": 0.3333333333333333,
-          "ci_low": 0.120584,
-          "ci_high": 0.645798
+          "n": 10,
+          "successes": 4,
+          "rate": 0.4,
+          "ci_low": 0.16818,
+          "ci_high": 0.687326
         },
         "first_guess_rate": {
-          "n": 9,
-          "successes": 3,
-          "rate": 0.3333333333333333,
-          "ci_low": 0.120584,
-          "ci_high": 0.645798
+          "n": 10,
+          "successes": 4,
+          "rate": 0.4,
+          "ci_low": 0.16818,
+          "ci_high": 0.687326
         },
-        "mean_groups_solved": 1.6666666666666667,
-        "mean_mistakes": 2.3333333333333335,
-        "mean_invalid_responses": 6.444444444444445,
+        "mean_groups_solved": 1.9,
+        "mean_mistakes": 2.1,
+        "mean_invalid_responses": 5.8,
         "total_cost_usd": 0.0,
         "cost_per_puzzle_usd": 0.0,
         "cost_per_win_usd": 0.0,
@@ -200,6 +205,11 @@
             "date": "2026-10-06",
             "solved": false,
             "groups_solved": 2
+          },
+          {
+            "date": "2026-10-07",
+            "solved": true,
+            "groups_solved": 4
           }
         ],
         "resolved_models": [
@@ -287,31 +297,31 @@
         ]
       },
       "free__laguna-s-2-1": {
-        "runs": 7,
+        "runs": 8,
         "win_rate": {
-          "n": 7,
+          "n": 8,
           "successes": 1,
-          "rate": 0.14285714285714285,
-          "ci_low": 0.02568,
-          "ci_high": 0.513128
+          "rate": 0.125,
+          "ci_low": 0.022417,
+          "ci_high": 0.470888
         },
         "trailing_30d_win_rate": {
-          "n": 7,
+          "n": 8,
           "successes": 1,
-          "rate": 0.14285714285714285,
-          "ci_low": 0.02568,
-          "ci_high": 0.513128
+          "rate": 0.125,
+          "ci_low": 0.022417,
+          "ci_high": 0.470888
         },
         "first_guess_rate": {
-          "n": 7,
+          "n": 8,
           "successes": 2,
-          "rate": 0.2857142857142857,
-          "ci_low": 0.082219,
-          "ci_high": 0.641066
+          "rate": 0.25,
+          "ci_low": 0.071479,
+          "ci_high": 0.590725
         },
-        "mean_groups_solved": 1.0,
-        "mean_mistakes": 3.4285714285714284,
-        "mean_invalid_responses": 2.2857142857142856,
+        "mean_groups_solved": 0.875,
+        "mean_mistakes": 3.5,
+        "mean_invalid_responses": 2.125,
         "total_cost_usd": 0.0,
         "cost_per_puzzle_usd": 0.0,
         "cost_per_win_usd": 0.0,
@@ -348,6 +358,11 @@
           },
           {
             "date": "2026-10-06",
+            "solved": false,
+            "groups_solved": 0
+          },
+          {
+            "date": "2026-10-07",
             "solved": false,
             "groups_solved": 0
           }
@@ -437,31 +452,31 @@
         ]
       },
       "free__nemotron-3-5-lightning": {
-        "runs": 7,
+        "runs": 8,
         "win_rate": {
-          "n": 7,
-          "successes": 3,
-          "rate": 0.42857142857142855,
-          "ci_low": 0.15822,
-          "ci_high": 0.749542
+          "n": 8,
+          "successes": 4,
+          "rate": 0.5,
+          "ci_low": 0.215216,
+          "ci_high": 0.784784
         },
         "trailing_30d_win_rate": {
-          "n": 7,
-          "successes": 3,
-          "rate": 0.42857142857142855,
-          "ci_low": 0.15822,
-          "ci_high": 0.749542
+          "n": 8,
+          "successes": 4,
+          "rate": 0.5,
+          "ci_low": 0.215216,
+          "ci_high": 0.784784
         },
         "first_guess_rate": {
-          "n": 7,
-          "successes": 3,
-          "rate": 0.42857142857142855,
-          "ci_low": 0.15822,
-          "ci_high": 0.749542
+          "n": 8,
+          "successes": 4,
+          "rate": 0.5,
+          "ci_low": 0.215216,
+          "ci_high": 0.784784
         },
-        "mean_groups_solved": 2.5714285714285716,
-        "mean_mistakes": 2.5714285714285716,
-        "mean_invalid_responses": 1.4285714285714286,
+        "mean_groups_solved": 2.75,
+        "mean_mistakes": 2.25,
+        "mean_invalid_responses": 1.25,
         "total_cost_usd": 0.0,
         "cost_per_puzzle_usd": 0.0,
         "cost_per_win_usd": 0.0,
@@ -500,6 +515,11 @@
             "date": "2026-10-05",
             "solved": false,
             "groups_solved": 1
+          },
+          {
+            "date": "2026-10-07",
+            "solved": true,
+            "groups_solved": 4
           }
         ],
         "resolved_models": [
@@ -562,31 +582,31 @@
         ]
       },
       "free__nemotron-3-super-120b-a12b": {
-        "runs": 9,
+        "runs": 10,
         "win_rate": {
-          "n": 9,
-          "successes": 6,
-          "rate": 0.6666666666666666,
-          "ci_low": 0.354202,
-          "ci_high": 0.879416
+          "n": 10,
+          "successes": 7,
+          "rate": 0.7,
+          "ci_low": 0.396778,
+          "ci_high": 0.892209
         },
         "trailing_30d_win_rate": {
-          "n": 9,
-          "successes": 6,
-          "rate": 0.6666666666666666,
-          "ci_low": 0.354202,
-          "ci_high": 0.879416
+          "n": 10,
+          "successes": 7,
+          "rate": 0.7,
+          "ci_low": 0.396778,
+          "ci_high": 0.892209
         },
         "first_guess_rate": {
-          "n": 9,
-          "successes": 5,
-          "rate": 0.5555555555555556,
-          "ci_low": 0.266651,
-          "ci_high": 0.811221
+          "n": 10,
+          "successes": 6,
+          "rate": 0.6,
+          "ci_low": 0.312674,
+          "ci_high": 0.83182
         },
-        "mean_groups_solved": 2.888888888888889,
-        "mean_mistakes": 2.0,
-        "mean_invalid_responses": 0.6666666666666666,
+        "mean_groups_solved": 3.0,
+        "mean_mistakes": 1.8,
+        "mean_invalid_responses": 0.6,
         "total_cost_usd": 0.0,
         "cost_per_puzzle_usd": 0.0,
         "cost_per_win_usd": 0.0,
@@ -635,6 +655,11 @@
             "date": "2026-10-06",
             "solved": true,
             "groups_solved": 4
+          },
+          {
+            "date": "2026-10-07",
+            "solved": true,
+            "groups_solved": 4
           }
         ],
         "resolved_models": [
@@ -645,31 +670,31 @@
   },
   "daily": {
     "free__dots-3-note-preview": {
-      "runs": 8,
+      "runs": 9,
       "win_rate": {
-        "n": 8,
-        "successes": 4,
-        "rate": 0.5,
-        "ci_low": 0.215216,
-        "ci_high": 0.784784
+        "n": 9,
+        "successes": 5,
+        "rate": 0.5555555555555556,
+        "ci_low": 0.266651,
+        "ci_high": 0.811221
       },
       "trailing_30d_win_rate": {
-        "n": 8,
-        "successes": 4,
-        "rate": 0.5,
-        "ci_low": 0.215216,
-        "ci_high": 0.784784
+        "n": 9,
+        "successes": 5,
+        "rate": 0.5555555555555556,
+        "ci_low": 0.266651,
+        "ci_high": 0.811221
       },
       "first_guess_rate": {
-        "n": 8,
-        "successes": 6,
-        "rate": 0.75,
-        "ci_low": 0.409275,
-        "ci_high": 0.928521
+        "n": 9,
+        "successes": 7,
+        "rate": 0.7777777777777778,
+        "ci_low": 0.452589,
+        "ci_high": 0.936775
       },
-      "mean_groups_solved": 2.5,
-      "mean_mistakes": 1.625,
-      "mean_invalid_responses": 4.625,
+      "mean_groups_solved": 2.6666666666666665,
+      "mean_mistakes": 1.4444444444444444,
+      "mean_invalid_responses": 4.444444444444445,
       "total_cost_usd": 0.0,
       "cost_per_puzzle_usd": 0.0,
       "cost_per_win_usd": 0.0,
@@ -713,6 +738,11 @@
           "date": "2026-10-06",
           "solved": false,
           "groups_solved": 1
+        },
+        {
+          "date": "2026-10-07",
+          "solved": true,
+          "groups_solved": 4
         }
       ],
       "resolved_models": [
@@ -765,31 +795,31 @@
       ]
     },
     "free__ling-3-0-flash-sante": {
-      "runs": 9,
+      "runs": 10,
       "win_rate": {
-        "n": 9,
-        "successes": 3,
-        "rate": 0.3333333333333333,
-        "ci_low": 0.120584,
-        "ci_high": 0.645798
+        "n": 10,
+        "successes": 4,
+        "rate": 0.4,
+        "ci_low": 0.16818,
+        "ci_high": 0.687326
       },
       "trailing_30d_win_rate": {
-        "n": 9,
-        "successes": 3,
-        "rate": 0.3333333333333333,
-        "ci_low": 0.120584,
-        "ci_high": 0.645798
+        "n": 10,
+        "successes": 4,
+        "rate": 0.4,
+        "ci_low": 0.16818,
+        "ci_high": 0.687326
       },
       "first_guess_rate": {
-        "n": 9,
-        "successes": 3,
-        "rate": 0.3333333333333333,
-        "ci_low": 0.120584,
-        "ci_high": 0.645798
+        "n": 10,
+        "successes": 4,
+        "rate": 0.4,
+        "ci_low": 0.16818,
+        "ci_high": 0.687326
       },
-      "mean_groups_solved": 1.6666666666666667,
-      "mean_mistakes": 2.3333333333333335,
-      "mean_invalid_responses": 6.444444444444445,
+      "mean_groups_solved": 1.9,
+      "mean_mistakes": 2.1,
+      "mean_invalid_responses": 5.8,
       "total_cost_usd": 0.0,
       "cost_per_puzzle_usd": 0.0,
       "cost_per_win_usd": 0.0,
@@ -838,6 +868,11 @@
           "date": "2026-10-06",
           "solved": false,
           "groups_solved": 2
+        },
+        {
+          "date": "2026-10-07",
+          "solved": true,
+          "groups_solved": 4
         }
       ],
       "resolved_models": [
@@ -925,31 +960,31 @@
       ]
     },
     "free__laguna-s-2-1": {
-      "runs": 7,
+      "runs": 8,
       "win_rate": {
-        "n": 7,
+        "n": 8,
         "successes": 1,
-        "rate": 0.14285714285714285,
-        "ci_low": 0.02568,
-        "ci_high": 0.513128
+        "rate": 0.125,
+        "ci_low": 0.022417,
+        "ci_high": 0.470888
       },
       "trailing_30d_win_rate": {
-        "n": 7,
+        "n": 8,
         "successes": 1,
-        "rate": 0.14285714285714285,
-        "ci_low": 0.02568,
-        "ci_high": 0.513128
+        "rate": 0.125,
+        "ci_low": 0.022417,
+        "ci_high": 0.470888
       },
       "first_guess_rate": {
-        "n": 7,
+        "n": 8,
         "successes": 2,
-        "rate": 0.2857142857142857,
-        "ci_low": 0.082219,
-        "ci_high": 0.641066
+        "rate": 0.25,
+        "ci_low": 0.071479,
+        "ci_high": 0.590725
       },
-      "mean_groups_solved": 1.0,
-      "mean_mistakes": 3.4285714285714284,
-      "mean_invalid_responses": 2.2857142857142856,
+      "mean_groups_solved": 0.875,
+      "mean_mistakes": 3.5,
+      "mean_invalid_responses": 2.125,
       "total_cost_usd": 0.0,
       "cost_per_puzzle_usd": 0.0,
       "cost_per_win_usd": 0.0,
@@ -986,6 +1021,11 @@
         },
         {
           "date": "2026-10-06",
+          "solved": false,
+          "groups_solved": 0
+        },
+        {
+          "date": "2026-10-07",
           "solved": false,
           "groups_solved": 0
         }
@@ -1075,31 +1115,31 @@
       ]
     },
     "free__nemotron-3-5-lightning": {
-      "runs": 7,
+      "runs": 8,
       "win_rate": {
-        "n": 7,
-        "successes": 3,
-        "rate": 0.42857142857142855,
-        "ci_low": 0.15822,
-        "ci_high": 0.749542
+        "n": 8,
+        "successes": 4,
+        "rate": 0.5,
+        "ci_low": 0.215216,
+        "ci_high": 0.784784
       },
       "trailing_30d_win_rate": {
-        "n": 7,
-        "successes": 3,
-        "rate": 0.42857142857142855,
-        "ci_low": 0.15822,
-        "ci_high": 0.749542
+        "n": 8,
+        "successes": 4,
+        "rate": 0.5,
+        "ci_low": 0.215216,
+        "ci_high": 0.784784
       },
       "first_guess_rate": {
-        "n": 7,
-        "successes": 3,
-        "rate": 0.42857142857142855,
-        "ci_low": 0.15822,
-        "ci_high": 0.749542
+        "n": 8,
+        "successes": 4,
+        "rate": 0.5,
+        "ci_low": 0.215216,
+        "ci_high": 0.784784
       },
-      "mean_groups_solved": 2.5714285714285716,
-      "mean_mistakes": 2.5714285714285716,
-      "mean_invalid_responses": 1.4285714285714286,
+      "mean_groups_solved": 2.75,
+      "mean_mistakes": 2.25,
+      "mean_invalid_responses": 1.25,
       "total_cost_usd": 0.0,
       "cost_per_puzzle_usd": 0.0,
       "cost_per_win_usd": 0.0,
@@ -1138,6 +1178,11 @@
           "date": "2026-10-05",
           "solved": false,
           "groups_solved": 1
+        },
+        {
+          "date": "2026-10-07",
+          "solved": true,
+          "groups_solved": 4
         }
       ],
       "resolved_models": [
@@ -1200,31 +1245,31 @@
       ]
     },
     "free__nemotron-3-super-120b-a12b": {
-      "runs": 9,
+      "runs": 10,
       "win_rate": {
-        "n": 9,
-        "successes": 6,
-        "rate": 0.6666666666666666,
-        "ci_low": 0.354202,
-        "ci_high": 0.879416
+        "n": 10,
+        "successes": 7,
+        "rate": 0.7,
+        "ci_low": 0.396778,
+        "ci_high": 0.892209
       },
       "trailing_30d_win_rate": {
-        "n": 9,
-        "successes": 6,
-        "rate": 0.6666666666666666,
-        "ci_low": 0.354202,
-        "ci_high": 0.879416
+        "n": 10,
+        "successes": 7,
+        "rate": 0.7,
+        "ci_low": 0.396778,
+        "ci_high": 0.892209
       },
       "first_guess_rate": {
-        "n": 9,
-        "successes": 5,
-        "rate": 0.5555555555555556,
-        "ci_low": 0.266651,
-        "ci_high": 0.811221
+        "n": 10,
+        "successes": 6,
+        "rate": 0.6,
+        "ci_low": 0.312674,
+        "ci_high": 0.83182
       },
-      "mean_groups_solved": 2.888888888888889,
-      "mean_mistakes": 2.0,
-      "mean_invalid_responses": 0.6666666666666666,
+      "mean_groups_solved": 3.0,
+      "mean_mistakes": 1.8,
+      "mean_invalid_responses": 0.6,
       "total_cost_usd": 0.0,
       "cost_per_puzzle_usd": 0.0,
       "cost_per_win_usd": 0.0,
@@ -1271,6 +1316,11 @@
         },
         {
           "date": "2026-10-06",
+          "solved": true,
+          "groups_solved": 4
+        },
+        {
+          "date": "2026-10-07",
           "solved": true,
           "groups_solved": 4
         }
@@ -1615,6 +1665,16 @@
     },
     {
       "date": "2026-10-06",
+      "model": "free__space-bunny-alpha",
+      "error": "HTTP 404: No endpoints found for stealth/space-bunny-alpha."
+    },
+    {
+      "date": "2026-10-07",
+      "model": "free__nemotron-3-nano-omni-30b-a3b-reasoning",
+      "error": "gave up after 7 attempts: HTTP 200: Upstream error from Nvidia: ResourceExhausted: Worker local total request limit reached (16/16)"
+    },
+    {
+      "date": "2026-10-07",
       "model": "free__space-bunny-alpha",
       "error": "HTTP 404: No endpoints found for stealth/space-bunny-alpha."
     }

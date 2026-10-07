@@ -4,7 +4,7 @@
       "slug": "free__dots-3-note-preview",
       "openrouter_id": "dots-studio/dots-3-note-preview:free",
       "first_run": "2026-09-11",
-      "last_run": "2026-10-06"
+      "last_run": "2026-10-07"
     },
     {
       "slug": "free__gemma-4-26b-a4b-it",
@@ -34,7 +34,7 @@
       "slug": "free__laguna-s-2-1",
       "openrouter_id": "poolside/laguna-s-2.1:free",
       "first_run": "2026-09-27",
-      "last_run": "2026-10-06"
+      "last_run": "2026-10-07"
     },
     {
       "slug": "free__laguna-xs-2-1",
@@ -58,13 +58,13 @@
       "slug": "free__ling-3-0-flash-sante",
       "openrouter_id": "inclusionai/ling-3.0-flash-sante:free",
       "first_run": "2026-09-11",
-      "last_run": "2026-10-06"
+      "last_run": "2026-10-07"
     },
     {
       "slug": "free__nemotron-3-5-lightning",
       "openrouter_id": "nvidia/nemotron-3.5-lightning:free",
       "first_run": "2026-09-27",
-      "last_run": "2026-10-05"
+      "last_run": "2026-10-07"
     },
     {
       "slug": "free__nemotron-3-nano-omni-30b-a3b-reasoning",
@@ -76,7 +76,7 @@
       "slug": "free__nemotron-3-super-120b-a12b",
       "openrouter_id": "nvidia/nemotron-3-super-120b-a12b:free",
       "first_run": "2026-09-11",
-      "last_run": "2026-10-06"
+      "last_run": "2026-10-07"
     },
     {
       "slug": "free__nemotron-3-ultra-550b-a55b",

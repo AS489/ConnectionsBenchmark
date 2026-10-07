@@ -1495,5 +1495,129 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-07",
+    "puzzle_id": 1209,
+    "groups": [
+      {
+        "name": "SAVE FOR LATER",
+        "level": null,
+        "members": [
+          "BANK",
+          "SQUIRREL",
+          "STASH",
+          "STORE"
+        ]
+      },
+      {
+        "name": "KINDS OF BUNS",
+        "level": null,
+        "members": [
+          "CINNAMON",
+          "HAMBURGER",
+          "HOT DOG",
+          "STICKY"
+        ]
+      },
+      {
+        "name": "GREEK NUMERICAL PREFIXES",
+        "level": null,
+        "members": [
+          "DICHOTOMY",
+          "MONOLOGUE",
+          "TETRACYCLINE",
+          "TRIDENT"
+        ]
+      },
+      {
+        "name": "BEST ___ TONY AWARDS",
+        "level": null,
+        "members": [
+          "CHOREOGRAPHY",
+          "MUSICAL",
+          "ORCHESTRATIONS",
+          "PLAY"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 3,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__ling-3-0-flash-sante": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "KINDS OF BUNS",
+        "solved_by": 4,
+        "solve_rate": 0.8,
+        "mean_solve_turn": 3.5,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "SAVE FOR LATER",
+        "solved_by": 4,
+        "solve_rate": 0.8,
+        "mean_solve_turn": 3.0,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "GREEK NUMERICAL PREFIXES",
+        "solved_by": 4,
+        "solve_rate": 0.8,
+        "mean_solve_turn": 2.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "BEST ___ TONY AWARDS",
+        "solved_by": 4,
+        "solve_rate": 0.8,
+        "mean_solve_turn": 1.5,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
