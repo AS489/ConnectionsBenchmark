@@ -14,3 +14,7 @@ ERROR: HTTP 404: This model is unavailable for free. The paid version is availab
 [4/7] start  free__nemotron-3-super-120b-a12b  20:50:22
 loss     free__nemotron-3-super-120b-a12b a1  groups=1 mistakes=4 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-08/free__nemotron-3-super-120b-a12b.json
 [4/7] done   free__nemotron-3-super-120b-a12b in 237s
+[4/7] committed free__nemotron-3-super-120b-a12b
+[5/7] start  free__nemotron-3-nano-omni-30b-a3b-reasoning  20:54:19
+ERROR: gave up after 7 attempts: HTTP 200: Upstream error from Nvidia: ResourceExhausted: Worker local total request limit reached (55685/16) free__nemotron-3-nano-omni-30b-a3b-reasoning a1  groups=0 mistakes=3 invalid=2 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-08/free__nemotron-3-nano-omni-30b-a3b-reasoning.json
+[5/7] done   free__nemotron-3-nano-omni-30b-a3b-reasoning in 743s
