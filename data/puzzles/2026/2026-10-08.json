@@ -1,0 +1,47 @@
+{
+  "id": 1210,
+  "date": "2026-10-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FOLLOWS, AS RULES",
+      "level": null,
+      "members": [
+        "HEEDS",
+        "MINDS",
+        "REGARDS",
+        "RESPECTS"
+      ]
+    },
+    {
+      "name": "OUTDO",
+      "level": null,
+      "members": [
+        "BEST",
+        "ECLIPSE",
+        "SURPASS",
+        "TOP"
+      ]
+    },
+    {
+      "name": "THINGS THAT COME IN THREES",
+      "level": null,
+      "members": [
+        "CHEERS",
+        "STOOGES",
+        "STRIKES",
+        "WISHES"
+      ]
+    },
+    {
+      "name": "ENDING IN ACTORS NAMED TOM",
+      "level": null,
+      "members": [
+        "AUTOCRUISE",
+        "FOOLHARDY",
+        "MULHOLLAND",
+        "THANKS"
+      ]
+    }
+  ]
+}
