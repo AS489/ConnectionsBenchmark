@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-09",
+  "puzzle_id": 1211,
+  "model": "free__ling-3-0-flash-sante",
+  "openrouter_id": "inclusionai/ling-3.0-flash-sante:free",
+  "resolved_model": null,
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-10-09|free__ling-3-0-flash-sante|1",
+  "board": [
+    "STATS",
+    "ROMP",
+    "QUOTES",
+    "HIGHLIGHTS",
+    "KISS",
+    "BLOWOUT",
+    "CONDITIONER",
+    "SCORES",
+    "POWER",
+    "RECAP",
+    "INPUT",
+    "VOLUME",
+    "SWEEP",
+    "GUITAR",
+    "CHANNEL",
+    "ROUT"
+  ],
+  "started_at": "2026-10-09T20:01:45+00:00",
+  "finished_at": "2026-10-09T20:01:45+00:00",
+  "error": "HTTP 404: This model is unavailable for free. The paid version is available now - use this slug instead: inclusionai/ling-3.0-flash-sante",
+  "truncated_responses": 0,
+  "budget_starved": false,
+  "status": "error",
+  "solved": false,
+  "groups_solved": 0,
+  "mistakes_used": 0,
+  "guesses_made": 0,
+  "invalid_responses": 0,
+  "first_guess_correct": false,
+  "groups_solved_by_name": {},
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 0,
+    "requests": 0
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [],
+      "outcome": null,
+      "words": [],
+      "group": null,
+      "mistakes_after": null
+    }
+  ]
+}
