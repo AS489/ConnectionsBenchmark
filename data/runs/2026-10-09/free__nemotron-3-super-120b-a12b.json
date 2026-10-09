@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-09",
+  "puzzle_id": 1211,
+  "model": "free__nemotron-3-super-120b-a12b",
+  "openrouter_id": "nvidia/nemotron-3-super-120b-a12b:free",
+  "resolved_model": "nvidia/nemotron-3-super-120b-a12b:free",
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-10-09|free__nemotron-3-super-120b-a12b|1",
+  "board": [
+    "QUOTES",
+    "CHANNEL",
+    "SWEEP",
+    "BLOWOUT",
+    "GUITAR",
+    "KISS",
+    "SCORES",
+    "POWER",
+    "CONDITIONER",
+    "INPUT",
+    "VOLUME",
+    "RECAP",
+    "ROUT",
+    "HIGHLIGHTS",
+    "ROMP",
+    "STATS"
+  ],
+  "started_at": "2026-10-09T20:01:45+00:00",
+  "finished_at": "2026-10-09T20:02:14+00:00",
+  "error": null,
+  "truncated_responses": 0,
+  "budget_starved": false,
+  "status": "win",
+  "solved": true,
+  "groups_solved": 4,
+  "mistakes_used": 0,
+  "guesses_made": 4,
+  "invalid_responses": 0,
+  "first_guess_correct": true,
+  "groups_solved_by_name": {
+    "CONTROLLED BY A TV REMOTE": 1,
+    "AIR ___": 2,
+    "DECISIVE VICTORY": 3,
+    "FEATURES OF A SPORTS SHOW": 4
+  },
+  "usage": {
+    "prompt_tokens": 2298,
+    "completion_tokens": 3153,
+    "reasoning_tokens": 2919,
+    "cost_usd": 0.0,
+    "latency_ms": 28897,
+    "requests": 4
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"The words INPUT, VOLUME, POWER, CHANNEL are all controls found on audio/video equipment like a stereo or TV.\", \"guess\": [\"INPUT\", \"VOLUME\", \"POWER\", \"CHANNEL\"]}",
+          "reasoning": "The words INPUT, VOLUME, POWER, CHANNEL are all controls found on audio/video equipment like a stereo or TV.",
+          "reasoning_text": "We need to find groups of 4 among these words. Let's list them:\n\nQUOTES\nCHANNEL\nSWEEP\nBLOWOUT\nGUITAR\nKISS\nSCORES\nPOWER\nCONDITIONER\nINPUT\nVOLUME\nRECAP\nROUT\nHIGHLIGHTS\nROMP\nSTATS\n\nWe need to find categories. Let's think of possible themes.\n\nWords: QUOTES, CHANNEL, SWEEP, BLOWOUT, GUITAR, KISS, SCORES, POWER, CONDITIONER, INPUT, VOLUME, RECAP, ROUT, HIGHLIGHTS, ROMP, STATS.\n\nSome look like TV or media: CHANNEL, INPUT, VOLUME, POWER, CONDITIONER (maybe air conditioner?), GUITAR (music), KISS (band?), SCORES, STATS, HIGHLIGHTS, RECAP, ROUT, ROMP, SWEEP, BLOWOUT.\n\nMaybe categories: \"Things related to TV\" (CHANNEL, INPUT, VOLUME, POWER). But CONDITIONER? Could be \"air conditioner\" but also \"hair conditioner\". Not TV.\n\nMaybe categories: \"Words that can follow 'power'\"? Power chord, power surge, power outage, power... Not.\n\nMaybe categories: \"Words that can precede 'out'\"? Blowout, rout, ...? Sweep out? Not.\n\nMaybe categories: \"Sports terms\": SWEEP (winning series), BLOWOUT (lopsided win), ROUT (defeat), RECAP (summary), HIGHLIGHTS, STATS, SCORES, ROMP (easy win), KISS? Not.\n\nMaybe categories: \"Music\": GUITAR, KISS (band), VOLUME (music), POWER (maybe power chord?), CHANNEL (TV channel but also audio channel), INPUT (audio input), CONDITIONER (hair conditioner not music). Hmm.\n\nMaybe categories: \"Things you can turn on/off\": POWER, INPUT, VOLUME, CHANNEL (like TV). CONDITIONER maybe air conditioner (you turn on/off). That's 5 words: POWER, INPUT, VOLUME, CHANNEL, CONDITIONER. Need 4. Could be group of electronics: POWER, INPUT, VOLUME, CHANNEL. CONDITIONER maybe not.\n\nAlternatively, group: \"Words that can precede 'out'\": BLOWOUT, ROUT (rout out?), SWEEP (sweep out?), maybe not.\n\nGroup: \"Words that can follow 'air'\": AIR CONDITIONER, AIR CHANNEL? Not.\n\nGroup: \"Words related to sports broadcasting\": SCORES, STATS, HIGHLIGHTS, RECAP. That's 4! Yes: SCORES, STATS, HIGHLIGHTS, RECAP are all related to sports news. Good.\n\nGroup: \"Words related to music\": GUITAR, KISS (band), VOLUME (music), POWER (maybe power chord?), but also CHANNEL (audio channel), INPUT (audio input). Could be \"audio equipment\": INPUT, VOLUME, POWER, CHANNEL. That's 4: INPUT, VOLUME, POWER, CHANNEL. Yes those are knobs on a stereo/receiver. CONDITIONER maybe not.\n\nGroup: \"Words related to hair/beauty\": CONDITIONER (hair conditioner), maybe KISS (lip?), not.\n\nGroup: \"Words related to winning/losing\": SWEEP, BLOWOUT, ROUT, ROMP (all meaning easy victory or defeat). Let's see: SWEEP (winning series), BLOWOUT (lopsided win), ROUT (defeat), ROMP (easy win). That's 4! Yes.\n\nGroup: \"Words related to quotes\": QUOTES, maybe CHANNEL (quote channel?), not.\n\nWe have left: QUOTES, KISS, GUITAR, CONDITIONER? Actually we used: SCORES, STATS, HIGHLIGHTS, RECAP (sports). INPUT, VOLUME, POWER, CHANNEL (audio). SWEEP, BLOWOUT, ROUT, ROMP (easy win/defeat). Left: QUOTES, GUITAR, KISS, CONDITIONER. Need a group of 4.\n\nWhat do these have in common? QUOTES (quotation marks), GUITAR (maybe \"guitar quotes\"?), KISS (band Kiss), CONDITIONER (hair conditioner). Not obvious.\n\nMaybe group: \"Things that can be 'blown'\"? Not.\n\nMaybe group: \"Words that can precede 'rock'\"? GUITAR rock, KISS rock, CONDITIONER? Not.\n\nMaybe group: \"Words that can follow 'hair'\"? Hair conditioner, hair guitar? No.\n\nMaybe group: \"Words that can be preceded by 'air'\"? Air quotes, air guitar, air kiss, air conditioner! Yes! Air quotes (gesture), air guitar (pretend to play), air kiss (kiss near cheek), air conditioner. Perfect! So group: QUOTES (air quotes), GUITAR (air guitar), KISS (air kiss), CONDITIONER (air conditioner). Great.\n\nThus we have four groups:\n\n1. Sports recap: SCORES, STATS, HIGHLIGHTS, RECAP\n2. Audio controls: INPUT, VOLUME, POWER, CHANNEL\n3. Easy victory/defeat: SWEEP, BLOWOUT, ROUT, ROMP\n4. Air ___: QUOTES, GUITAR, KISS, CONDITIONER\n\nCheck that all words are used: Yes.\n\nNow we need to give a first guess. We can guess any group. Let's pick one, maybe the audio controls group: INPUT, VOLUME, POWER, CHANNEL.\n\nWe need to output JSON with reasoning and guess.\n\nMake sure to copy words exactly as they appear: INPUT, VOLUME, POWER, CHANNEL.\n\nProvide brief reasoning.\n\nThus final answer.",
+          "latency_ms": 12371,
+          "prompt_tokens": 352,
+          "completion_tokens": 1378,
+          "reasoning_tokens": 1324,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "INPUT",
+        "VOLUME",
+        "POWER",
+        "CHANNEL"
+      ],
+      "group": "CONTROLLED BY A TV REMOTE",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 2,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"The words QUOTES, GUITAR, KISS, CONDITIONER each can follow 'air' to form common phrases: air quotes, air guitar, air kiss, air conditioner.\", \"guess\": [\"QUOTES\", \"GUITAR\", \"KISS\", \"CONDITIONER\"]}",
+          "reasoning": "The words QUOTES, GUITAR, KISS, CONDITIONER each can follow 'air' to form common phrases: air quotes, air guitar, air kiss, air conditioner.",
+          "reasoning_text": "We need to find groups among remaining words: QUOTES, SWEEP, BLOWOUT, GUITAR, KISS, SCORES, CONDITIONER, RECAP, ROUT, HIGHLIGHTS, ROMP, STATS.\n\nWe need to find 4 groups of 4. Let's think.\n\nPossible categories: sports terms? \"SWEEP\", \"BLOWOUT\", \"ROUT\", \"ROMP\" all mean a decisive victory. Also \"SCORES\", \"STATS\", \"HIGHLIGHTS\", \"RECAP\" relate to game summaries. \"QUOTES\", \"KISS\", \"GUITAR\", \"CONDITIONER\"? Not sure.\n\nMaybe groups: 1) Decisive wins: SWEEP, BLOWOUT, ROUT, ROMP. 2) Game recap terms: SCORES, STATS, HIGHLIGHTS, RECAP. 3) Music? GUITAR, KISS (band), QUOTES? Not. CONDITIONER maybe air conditioner? Could be \"things that can be 'blown'\"? Hmm.\n\nLet's examine each word:\n\nQUOTES: could be quotation marks, also \"quote\" as in stock quote, also \"to quote\". Could be part of phrase \"quote unquote\". Could be \"quote\" as in \"to estimate\". Could be \"quote\" as in \"quote\" from a person.\n\nSWEEP: verb, also noun: a sweep in sports (winning all games), also a broom sweep, also \"sweepstakes\".\n\nBLOWOUT: noun: a decisive victory, also a tire blowout, also a hairstyle.\n\nGUITAR: instrument.\n\nKISS: band, also verb.\n\nSCORES: noun (points), verb (to score), also \"scores\" as in groups of twenty.\n\nPOWER already used.\n\nCONDITIONER: hair conditioner, air conditioner.\n\nINPUT: used.\n\nVOLUME used.\n\nRECAP: verb/noun: to recap, also a tire recap.\n\nROUT: decisive defeat.\n\nHIGHLIGHTS: noun: highlights of an event, also hair highlights.\n\nROMP: verb/noun: to play vigorously, also a decisive win.\n\nSTATS: statistics.\n\nWe already used CONTROLLED BY A TV REMOTE group.\n\nNow we need to find other groups.\n\nObvious group: SWEEP, BLOWOUT, ROUT, ROMP = words meaning a big win/defeat. Let's verify: SWEEP (in sports, winning all games), BLOWOUT (a one-sided game), ROUT (a crushing defeat), ROMP (an easy victory). Yes.\n\nSecond group: SCORES, STATS, HIGHLIGHTS, RECAP = all related to summarizing a game/event. SCORES (the points), STATS (statistics), HIGHLIGHTS (key moments), RECAP (summary). Good.\n\nThird group: maybe QUOTES, KISS, GUITAR, CONDITIONER? Could be things that have \"bands\"? KISS is a band, GUITAR is used in bands, QUOTES could be \"quote\" as in \"quote unquote\" not band. CONDITIONER maybe \"air conditioner\" not band. Hmm.\n\nMaybe group: QUOTES, KISS, GUITAR, ??? Actually \"Kiss\" also a song by Prince? \"Kiss\" also a lip product. \"Quotes\" could be \"quote marks\". \"Guitar\" could be \"air guitar\". \"Conditioner\" could be \"hair conditioner\". Not obvious.\n\nMaybe group: QUOTES, KISS, GUITAR, ??? Actually \"Kiss\" also a type of candy (Hershey's Kiss). \"Quotes\" could be \"quote\" as in \"quote\" for insurance. \"Guitar\" could be \"guitar pick\". \"Conditioner\" could be \"conditioner\" for hair. Not.\n\nLet's think of other categories: maybe things that can be \"blown\": BLOWOUT already used. \"Sweep\" can be \"sweep\" as in chimney sweep. \"Rout\" maybe \"rout\" as in \"route\"? Not.\n\nMaybe group: QUOTES, INPUT? Already used.\n\nLet's list remaining after removing the two groups we think are correct:\n\nIf we take group A: SWEEP, BLOWOUT, ROUT, ROMP.\nGroup B: SCORES, STATS, HIGHLIGHTS, RECAP.\n\nRemaining words: QUOTES, GUITAR, KISS, CONDITIONER.\n\nThat's exactly four words. So likely they form a group. What do they have in common? Let's see.\n\nQUOTES: could be \"quote\" as in \"to estimate price\". GUITAR: could be \"guitar hero\". KISS: could be \"kiss\" as in \"kiss of death\". CONDITIONER: could be \"conditioner\" as in \"hair conditioner\". Not.\n\nMaybe they are all things that can be \"rock\"? QUOTES? Not.\n\nMaybe they are all words that can precede or follow \"air\"? \"Air quotes\", \"air guitar\", \"air kiss\", \"air conditioner\". Yes! That's it: \"air quotes\", \"air guitar\", \"air kiss\", \"air conditioner\". Perfect.\n\nThus group: QUOTES, GUITAR, KISS, CONDITIONER.\n\nThus guess: [\"QUOTES\", \"GUITAR\", \"KISS\", \"CONDITIONER\"].\n\nCheck that they are exactly on board: yes.\n\nThus output.",
+          "latency_ms": 11215,
+          "prompt_tokens": 505,
+          "completion_tokens": 1281,
+          "reasoning_tokens": 1208,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "QUOTES",
+        "GUITAR",
+        "KISS",
+        "CONDITIONER"
+      ],
+      "group": "AIR ___",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 3,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"SWEEP, BLOWOUT, ROUT, ROMP all describe a decisive or easy victory in sports.\", \"guess\": [\"SWEEP\", \"BLOWOUT\", \"ROUT\", \"ROMP\"]}",
+          "reasoning": "SWEEP, BLOWOUT, ROUT, ROMP all describe a decisive or easy victory in sports.",
+          "reasoning_text": "We need to find groups among remaining words: SWEEP, BLOWOUT, SCORES, RECAP, ROUT, HIGHLIGHTS, ROMP, STATS.\n\nWe need to find 2 groups of 4.\n\nLet's think: These could be sports terms? SWEEP (baseball: sweep a series), BLOWOUT (a lopsided win), SCORES, RECAP, ROUT (defeat), HIGHLIGHTS, ROMP (easy win), STATS. Could be categories like \"ways to win\" or \"sports results\". Maybe group: SWEEP, BLOWOUT, ROUT, ROMP (all meaning a decisive victory). Then remaining: SCORES, RECAP, HIGHLIGHTS, STATS (all related to game summaries). Indeed, SCORES, RECAP, HIGHLIGHTS, STATS are all things you see in a sports recap. So guess one group first.\n\nWe have 4 mistakes remaining. Let's guess the first group: SWEEP, BLOWOUT, ROUT, ROMP.\n\nCheck if those are synonyms for a big win: sweep (win all games), blowout (big margin), rout (defeat decisively), romp (easy victory). Yes.\n\nThus guess: [\"SWEEP\", \"BLOWOUT\", \"ROUT\", \"ROMP\"].\n\nIf correct, then remaining group is SCORES, RECAP, HIGHLIGHTS, STATS.\n\nLet's output.",
+          "latency_ms": 3665,
+          "prompt_tokens": 660,
+          "completion_tokens": 369,
+          "reasoning_tokens": 317,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "SWEEP",
+        "BLOWOUT",
+        "ROUT",
+        "ROMP"
+      ],
+      "group": "DECISIVE VICTORY",
+      "mistakes_after": 0
+    },
+    {
+      "turn": 4,
+      "responses": [
+        {
+          "text": "{\"reasoning\": \"SCORES, RECAP, HIGHLIGHTS, STATS are all types of sports summaries or reports.\", \"guess\": [\"SCORES\", \"RECAP\", \"HIGHLIGHTS\", \"STATS\"]}",
+          "reasoning": "SCORES, RECAP, HIGHLIGHTS, STATS are all types of sports summaries or reports.",
+          "reasoning_text": "We have remaining words: SCORES, RECAP, HIGHLIGHTS, STATS. They likely form a group: all related to sports summaries: \"SCORES\", \"RECAP\", \"HIGHLIGHTS\", \"STATS\". That seems plausible. So guess that.\n\nWe need to output JSON with reasoning and guess.",
+          "latency_ms": 1646,
+          "prompt_tokens": 781,
+          "completion_tokens": 125,
+          "reasoning_tokens": 70,
+          "cost_usd": 0.0,
+          "finish_reason": "stop",
+          "truncated": false,
+          "error": null
+        }
+      ],
+      "outcome": "correct",
+      "words": [
+        "SCORES",
+        "RECAP",
+        "HIGHLIGHTS",
+        "STATS"
+      ],
+      "group": "FEATURES OF A SPORTS SHOW",
+      "mistakes_after": 0
+    }
+  ]
+}
