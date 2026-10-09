@@ -1,0 +1,47 @@
+{
+  "id": 1211,
+  "date": "2026-10-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DECISIVE VICTORY",
+      "level": null,
+      "members": [
+        "BLOWOUT",
+        "ROMP",
+        "ROUT",
+        "SWEEP"
+      ]
+    },
+    {
+      "name": "CONTROLLED BY A TV REMOTE",
+      "level": null,
+      "members": [
+        "CHANNEL",
+        "INPUT",
+        "POWER",
+        "VOLUME"
+      ]
+    },
+    {
+      "name": "FEATURES OF A SPORTS SHOW",
+      "level": null,
+      "members": [
+        "HIGHLIGHTS",
+        "RECAP",
+        "SCORES",
+        "STATS"
+      ]
+    },
+    {
+      "name": "AIR ___",
+      "level": null,
+      "members": [
+        "CONDITIONER",
+        "GUITAR",
+        "KISS",
+        "QUOTES"
+      ]
+    }
+  ]
+}
