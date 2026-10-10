@@ -5,3 +5,7 @@
 [2/7] start  free__space-bunny-alpha  19:28:23
 ERROR: HTTP 404: No endpoints found for stealth/space-bunny-alpha. free__space-bunny-alpha a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-10/free__space-bunny-alpha.json
 [2/7] done   free__space-bunny-alpha in 0s
+[2/7] committed free__space-bunny-alpha
+[3/7] start  free__ling-3-0-flash-sante  19:28:23
+ERROR: HTTP 404: This model is unavailable for free. The paid version is available now - use this slug instead: inclusionai/ling-3.0-flash-sante free__ling-3-0-flash-sante a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-10/free__ling-3-0-flash-sante.json
+[3/7] done   free__ling-3-0-flash-sante in 0s
