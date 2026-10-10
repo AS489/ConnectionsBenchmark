@@ -1,0 +1,47 @@
+{
+  "id": 1212,
+  "date": "2026-10-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "USEFUL WHEN WRITING A PAPER",
+      "level": null,
+      "members": [
+        "DRAFT",
+        "NOTES",
+        "OUTLINE",
+        "THESIS"
+      ]
+    },
+    {
+      "name": "PRESUME",
+      "level": null,
+      "members": [
+        "FIGURE",
+        "GATHER",
+        "IMAGINE",
+        "SUPPOSE"
+      ]
+    },
+    {
+      "name": "SOCIAL MEDIA SECTIONS",
+      "level": null,
+      "members": [
+        "FEED",
+        "MESSAGES",
+        "NOTIFICATIONS",
+        "PROFILE"
+      ]
+    },
+    {
+      "name": "___BOXING",
+      "level": null,
+      "members": [
+        "BEAT",
+        "KICK",
+        "SHADOW",
+        "UN"
+      ]
+    }
+  ]
+}
