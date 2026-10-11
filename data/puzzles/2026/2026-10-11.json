@@ -1,0 +1,47 @@
+{
+  "id": 1213,
+  "date": "2026-10-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PUT TO USE",
+      "level": null,
+      "members": [
+        "APPLY",
+        "HARNESS",
+        "UTILIZE",
+        "WIELD"
+      ]
+    },
+    {
+      "name": "MONTHLY BILLS",
+      "level": null,
+      "members": [
+        "CABLE",
+        "ELECTRICITY",
+        "INTERNET",
+        "PHONE"
+      ]
+    },
+    {
+      "name": "THINGS YOU MIGHT FIND IN A GLOVE COMPARTMENT",
+      "level": null,
+      "members": [
+        "GLOVES",
+        "ICE SCRAPER",
+        "MAP",
+        "REGISTRATION"
+      ]
+    },
+    {
+      "name": "ENDING IN GAMBITS",
+      "level": null,
+      "members": [
+        "EMPLOY",
+        "PATRICK",
+        "PERUSE",
+        "SYNTACTIC"
+      ]
+    }
+  ]
+}
