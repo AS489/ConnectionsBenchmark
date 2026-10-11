@@ -1,0 +1,7 @@
+=== ConnectionsBench free batch | date=2026-10-11 | 7 models | started 2026-10-11T19:22:11Z
+[1/7] start  free__dots-3-note-preview  19:22:11
+[1/7] TIMEOUT free__dots-3-note-preview after 1200s (limit 1200s) — abandoned
+[1/7] done   free__dots-3-note-preview in 1200s
+[2/7] start  free__space-bunny-alpha  19:42:11
+ERROR: HTTP 404: No endpoints found for stealth/space-bunny-alpha. free__space-bunny-alpha a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-11/free__space-bunny-alpha.json
+[2/7] done   free__space-bunny-alpha in 0s
