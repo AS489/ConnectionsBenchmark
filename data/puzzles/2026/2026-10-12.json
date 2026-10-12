@@ -1,0 +1,47 @@
+{
+  "id": 1214,
+  "date": "2026-10-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "STATUS",
+      "level": null,
+      "members": [
+        "CONDITION",
+        "SHAPE",
+        "SITUATION",
+        "STATE"
+      ]
+    },
+    {
+      "name": "TOLERATE",
+      "level": null,
+      "members": [
+        "BEAR",
+        "HANDLE",
+        "STAND",
+        "WEATHER"
+      ]
+    },
+    {
+      "name": "WORD SHORTENINGS, OFTEN",
+      "level": null,
+      "members": [
+        "ABBREVIATION",
+        "CONTRACTION",
+        "ELISION",
+        "NICKNAME"
+      ]
+    },
+    {
+      "name": "WORDS MADE USING U.S. POSTAL ABBREVIATIONS",
+      "level": null,
+      "members": [
+        "ALKYLAMIDE",
+        "CALAMARI",
+        "MANDARIN",
+        "MELAMINE"
+      ]
+    }
+  ]
+}
