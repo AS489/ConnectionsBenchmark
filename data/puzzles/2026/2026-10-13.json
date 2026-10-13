@@ -1,0 +1,47 @@
+{
+  "id": 1215,
+  "date": "2026-10-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DISCERNMENT",
+      "level": null,
+      "members": [
+        "EYE",
+        "FLAIR",
+        "SENSE",
+        "TASTE"
+      ]
+    },
+    {
+      "name": "FASTEN",
+      "level": null,
+      "members": [
+        "HITCH",
+        "LASH",
+        "TETHER",
+        "TIE"
+      ]
+    },
+    {
+      "name": "SPORTS CHAMPIONSHIP PRIZES",
+      "level": null,
+      "members": [
+        "BELT",
+        "CUP",
+        "JACKET",
+        "RING"
+      ]
+    },
+    {
+      "name": "LOOSE ___",
+      "level": null,
+      "members": [
+        "CANNON",
+        "CHANGE",
+        "ENDS",
+        "LIPS"
+      ]
+    }
+  ]
+}
