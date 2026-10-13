@@ -2158,5 +2158,111 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "puzzle_id": 1215,
+    "groups": [
+      {
+        "name": "DISCERNMENT",
+        "level": null,
+        "members": [
+          "EYE",
+          "FLAIR",
+          "SENSE",
+          "TASTE"
+        ]
+      },
+      {
+        "name": "FASTEN",
+        "level": null,
+        "members": [
+          "HITCH",
+          "LASH",
+          "TETHER",
+          "TIE"
+        ]
+      },
+      {
+        "name": "SPORTS CHAMPIONSHIP PRIZES",
+        "level": null,
+        "members": [
+          "BELT",
+          "CUP",
+          "JACKET",
+          "RING"
+        ]
+      },
+      {
+        "name": "LOOSE ___",
+        "level": null,
+        "members": [
+          "CANNON",
+          "CHANGE",
+          "ENDS",
+          "LIPS"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 3,
+        "invalid_responses": 10,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "DISCERNMENT",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "FASTEN",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "SPORTS CHAMPIONSHIP PRIZES",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "LOOSE ___",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
