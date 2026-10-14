@@ -1,0 +1,47 @@
+{
+  "id": 1216,
+  "date": "2026-10-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HINT",
+      "level": null,
+      "members": [
+        "FLICKER",
+        "SUGGESTION",
+        "TRACE",
+        "WHIFF"
+      ]
+    },
+    {
+      "name": "TENNIS SHOTS",
+      "level": null,
+      "members": [
+        "SERVE",
+        "SLICE",
+        "SMASH",
+        "VOLLEY"
+      ]
+    },
+    {
+      "name": "SUPERHEROES, WITH \"THE\"",
+      "level": null,
+      "members": [
+        "FLASH",
+        "HULK",
+        "PUNISHER",
+        "THING"
+      ]
+    },
+    {
+      "name": "STARTING WITH \"FEE, FI, FO, FUM\"",
+      "level": null,
+      "members": [
+        "FEED",
+        "FIERY",
+        "FOMENT",
+        "FUMBLE"
+      ]
+    }
+  ]
+}
