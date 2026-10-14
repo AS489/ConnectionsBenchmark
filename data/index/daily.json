@@ -2264,5 +2264,129 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "puzzle_id": 1216,
+    "groups": [
+      {
+        "name": "HINT",
+        "level": null,
+        "members": [
+          "FLICKER",
+          "SUGGESTION",
+          "TRACE",
+          "WHIFF"
+        ]
+      },
+      {
+        "name": "TENNIS SHOTS",
+        "level": null,
+        "members": [
+          "SERVE",
+          "SLICE",
+          "SMASH",
+          "VOLLEY"
+        ]
+      },
+      {
+        "name": "SUPERHEROES, WITH \"THE\"",
+        "level": null,
+        "members": [
+          "FLASH",
+          "HULK",
+          "PUNISHER",
+          "THING"
+        ]
+      },
+      {
+        "name": "STARTING WITH \"FEE, FI, FO, FUM\"",
+        "level": null,
+        "members": [
+          "FEED",
+          "FIERY",
+          "FOMENT",
+          "FUMBLE"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 3,
+        "invalid_responses": 3,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 5,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "HINT",
+        "solved_by": 2,
+        "solve_rate": 0.4,
+        "mean_solve_turn": 4.5,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "STARTING WITH \"FEE, FI, FO, FUM\"",
+        "solved_by": 2,
+        "solve_rate": 0.4,
+        "mean_solve_turn": 4.5,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "SUPERHEROES, WITH \"THE\"",
+        "solved_by": 3,
+        "solve_rate": 0.6,
+        "mean_solve_turn": 3.3333333333333335,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "TENNIS SHOTS",
+        "solved_by": 3,
+        "solve_rate": 0.6,
+        "mean_solve_turn": 1.6666666666666667,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
