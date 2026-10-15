@@ -1,0 +1,47 @@
+{
+  "id": 1217,
+  "date": "2026-10-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "WAYS TO PRESERVE FOOD",
+      "level": null,
+      "members": [
+        "CURE",
+        "DRY",
+        "PICKLE",
+        "SMOKE"
+      ]
+    },
+    {
+      "name": "THINGS YOU CAN SCORE IN SPORTS",
+      "level": null,
+      "members": [
+        "BASKET",
+        "GOAL",
+        "RUN",
+        "TOUCHDOWN"
+      ]
+    },
+    {
+      "name": "LOWEST PART",
+      "level": null,
+      "members": [
+        "BASE",
+        "BOTTOM",
+        "FOOT",
+        "FOUNDATION"
+      ]
+    },
+    {
+      "name": "LOW LANDFORMS WITH A LETTER CHANGED",
+      "level": null,
+      "members": [
+        "CANNON",
+        "FORGE",
+        "RACINE",
+        "VOLLEY"
+      ]
+    }
+  ]
+}
