@@ -2512,5 +2512,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-16",
+    "puzzle_id": 1218,
+    "groups": [
+      {
+        "name": "SURFACE IMPERFECTIONS",
+        "level": null,
+        "members": [
+          "CHIP",
+          "MARK",
+          "NICK",
+          "SCRATCH"
+        ]
+      },
+      {
+        "name": "LANDLOCKED COUNTRIES",
+        "level": null,
+        "members": [
+          "CHAD",
+          "HUNGARY",
+          "LAOS",
+          "PARAGUAY"
+        ]
+      },
+      {
+        "name": "EUROPEAN COUNTRIES MINUS A LETTER",
+        "level": null,
+        "members": [
+          "BULGARI",
+          "CYRUS",
+          "HUNGRY",
+          "SPAN"
+        ]
+      },
+      {
+        "name": "STARTING WITH WORDS FOR \"STYLISH\"",
+        "level": null,
+        "members": [
+          "CHICKEN",
+          "COOLIDGE",
+          "HIPPO",
+          "SMARTIES"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 2,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 7,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "SURFACE IMPERFECTIONS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "LANDLOCKED COUNTRIES",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "EUROPEAN COUNTRIES MINUS A LETTER",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "STARTING WITH WORDS FOR \"STYLISH\"",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
