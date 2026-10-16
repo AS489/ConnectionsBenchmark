@@ -1,0 +1,47 @@
+{
+  "id": 1218,
+  "date": "2026-10-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SURFACE IMPERFECTIONS",
+      "level": null,
+      "members": [
+        "CHIP",
+        "MARK",
+        "NICK",
+        "SCRATCH"
+      ]
+    },
+    {
+      "name": "LANDLOCKED COUNTRIES",
+      "level": null,
+      "members": [
+        "CHAD",
+        "HUNGARY",
+        "LAOS",
+        "PARAGUAY"
+      ]
+    },
+    {
+      "name": "EUROPEAN COUNTRIES MINUS A LETTER",
+      "level": null,
+      "members": [
+        "BULGARI",
+        "CYRUS",
+        "HUNGRY",
+        "SPAN"
+      ]
+    },
+    {
+      "name": "STARTING WITH WORDS FOR \"STYLISH\"",
+      "level": null,
+      "members": [
+        "CHICKEN",
+        "COOLIDGE",
+        "HIPPO",
+        "SMARTIES"
+      ]
+    }
+  ]
+}
