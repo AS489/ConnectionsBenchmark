@@ -1,0 +1,47 @@
+{
+  "id": 1219,
+  "date": "2026-10-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DIGITAL NOTIFICATIONS",
+      "level": null,
+      "members": [
+        "ALERT",
+        "CHIME",
+        "DING",
+        "PING"
+      ]
+    },
+    {
+      "name": "PHOTO",
+      "level": null,
+      "members": [
+        "PRINT",
+        "SHOT",
+        "SNAP",
+        "STILL"
+      ]
+    },
+    {
+      "name": "KINDS OF CRABS",
+      "level": null,
+      "members": [
+        "FIDDLER",
+        "HERMIT",
+        "KING",
+        "SNOW"
+      ]
+    },
+    {
+      "name": "LA ___",
+      "level": null,
+      "members": [
+        "BOHÈME",
+        "BREA",
+        "PAZ",
+        "SCALA"
+      ]
+    }
+  ]
+}
