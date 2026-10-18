@@ -2715,5 +2715,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "puzzle_id": 1220,
+    "groups": [
+      {
+        "name": "PLACES TO STORE CLOTHES",
+        "level": null,
+        "members": [
+          "BUREAU",
+          "CHEST",
+          "TRUNK",
+          "WARDROBE"
+        ]
+      },
+      {
+        "name": "THINGS THAT COME IN STICKS",
+        "level": null,
+        "members": [
+          "BUTTER",
+          "DEODORANT",
+          "DYNAMITE",
+          "INCENSE"
+        ]
+      },
+      {
+        "name": "FAMOUS PERFUMES",
+        "level": null,
+        "members": [
+          "ANGEL",
+          "COCO",
+          "OBSESSION",
+          "OPIUM"
+        ]
+      },
+      {
+        "name": "STARTING WITH THINGS THAT CLOUD THE AIR",
+        "level": null,
+        "members": [
+          "FOGERTY",
+          "HAZEL",
+          "MISTER",
+          "VAPORETTO"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 5,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "THINGS THAT COME IN STICKS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "FAMOUS PERFUMES",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "STARTING WITH THINGS THAT CLOUD THE AIR",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "PLACES TO STORE CLOTHES",
+        "solved_by": 1,
+        "solve_rate": 0.5,
+        "mean_solve_turn": 1.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
