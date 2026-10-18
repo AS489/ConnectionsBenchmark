@@ -1,0 +1,47 @@
+{
+  "id": 1220,
+  "date": "2026-10-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PLACES TO STORE CLOTHES",
+      "level": null,
+      "members": [
+        "BUREAU",
+        "CHEST",
+        "TRUNK",
+        "WARDROBE"
+      ]
+    },
+    {
+      "name": "THINGS THAT COME IN STICKS",
+      "level": null,
+      "members": [
+        "BUTTER",
+        "DEODORANT",
+        "DYNAMITE",
+        "INCENSE"
+      ]
+    },
+    {
+      "name": "FAMOUS PERFUMES",
+      "level": null,
+      "members": [
+        "ANGEL",
+        "COCO",
+        "OBSESSION",
+        "OPIUM"
+      ]
+    },
+    {
+      "name": "STARTING WITH THINGS THAT CLOUD THE AIR",
+      "level": null,
+      "members": [
+        "FOGERTY",
+        "HAZEL",
+        "MISTER",
+        "VAPORETTO"
+      ]
+    }
+  ]
+}
