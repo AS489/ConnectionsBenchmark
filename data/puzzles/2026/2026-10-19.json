@@ -1,0 +1,47 @@
+{
+  "id": 1221,
+  "date": "2026-10-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SEETHE",
+      "level": null,
+      "members": [
+        "BOIL",
+        "FUME",
+        "RAVE",
+        "STEAM"
+      ]
+    },
+    {
+      "name": "ALL TALK",
+      "level": null,
+      "members": [
+        "BLATHER",
+        "GAS",
+        "HOT AIR",
+        "WIND"
+      ]
+    },
+    {
+      "name": "\"MC\" THINGS AT MCDONALD'S",
+      "level": null,
+      "members": [
+        "FLURRY",
+        "MUFFIN",
+        "NUGGETS",
+        "RIB"
+      ]
+    },
+    {
+      "name": "ENDING IN BIRDS",
+      "level": null,
+      "members": [
+        "ALIBIS",
+        "BALLOON",
+        "ESCROW",
+        "MOHAWK"
+      ]
+    }
+  ]
+}
