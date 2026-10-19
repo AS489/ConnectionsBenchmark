@@ -2812,5 +2812,120 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "puzzle_id": 1221,
+    "groups": [
+      {
+        "name": "SEETHE",
+        "level": null,
+        "members": [
+          "BOIL",
+          "FUME",
+          "RAVE",
+          "STEAM"
+        ]
+      },
+      {
+        "name": "ALL TALK",
+        "level": null,
+        "members": [
+          "BLATHER",
+          "GAS",
+          "HOT AIR",
+          "WIND"
+        ]
+      },
+      {
+        "name": "\"MC\" THINGS AT MCDONALD'S",
+        "level": null,
+        "members": [
+          "FLURRY",
+          "MUFFIN",
+          "NUGGETS",
+          "RIB"
+        ]
+      },
+      {
+        "name": "ENDING IN BIRDS",
+        "level": null,
+        "members": [
+          "ALIBIS",
+          "BALLOON",
+          "ESCROW",
+          "MOHAWK"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 2,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 5,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-super-120b-a12b": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "SEETHE",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "ALL TALK",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "\"MC\" THINGS AT MCDONALD'S",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "ENDING IN BIRDS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
