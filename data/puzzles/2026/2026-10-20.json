@@ -1,0 +1,47 @@
+{
+  "id": 1222,
+  "date": "2026-10-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FINISH",
+      "level": null,
+      "members": [
+        "CLOSE",
+        "END",
+        "STOP",
+        "WRAP"
+      ]
+    },
+    {
+      "name": "LACKEY",
+      "level": null,
+      "members": [
+        "MINION",
+        "POODLE",
+        "PUPPET",
+        "STOOGE"
+      ]
+    },
+    {
+      "name": "MUSTACHES",
+      "level": null,
+      "members": [
+        "CHEVRON",
+        "HORSESHOE",
+        "PENCIL",
+        "WALRUS"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF DISNEY CHARACTERS",
+      "level": null,
+      "members": [
+        "ARIAL",
+        "BELL",
+        "DOCK",
+        "MINI"
+      ]
+    }
+  ]
+}
