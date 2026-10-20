@@ -2927,5 +2927,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "puzzle_id": 1222,
+    "groups": [
+      {
+        "name": "FINISH",
+        "level": null,
+        "members": [
+          "CLOSE",
+          "END",
+          "STOP",
+          "WRAP"
+        ]
+      },
+      {
+        "name": "LACKEY",
+        "level": null,
+        "members": [
+          "MINION",
+          "POODLE",
+          "PUPPET",
+          "STOOGE"
+        ]
+      },
+      {
+        "name": "MUSTACHES",
+        "level": null,
+        "members": [
+          "CHEVRON",
+          "HORSESHOE",
+          "PENCIL",
+          "WALRUS"
+        ]
+      },
+      {
+        "name": "HOMOPHONES OF DISNEY CHARACTERS",
+        "level": null,
+        "members": [
+          "ARIAL",
+          "BELL",
+          "DOCK",
+          "MINI"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 4,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "MUSTACHES",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "HOMOPHONES OF DISNEY CHARACTERS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "LACKEY",
+        "solved_by": 1,
+        "solve_rate": 0.5,
+        "mean_solve_turn": 2.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "FINISH",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 3.5,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
