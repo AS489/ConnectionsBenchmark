@@ -1,0 +1,47 @@
+{
+  "id": 1224,
+  "date": "2026-10-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS TO BE GRASPED",
+      "level": null,
+      "members": [
+        "GRIP",
+        "HANDLE",
+        "HILT",
+        "KNOB"
+      ]
+    },
+    {
+      "name": "KINDS OF SCULPTURES",
+      "level": null,
+      "members": [
+        "BUST",
+        "MOBILE",
+        "RELIEF",
+        "STATUE"
+      ]
+    },
+    {
+      "name": "AMERICAN FOOTBALL POSITIONS",
+      "level": null,
+      "members": [
+        "END",
+        "GUARD",
+        "SAFETY",
+        "TACKLE"
+      ]
+    },
+    {
+      "name": "STARTS OF BEDDING",
+      "level": null,
+      "members": [
+        "BLANK",
+        "COMFORT",
+        "PILL",
+        "SHE"
+      ]
+    }
+  ]
+}
