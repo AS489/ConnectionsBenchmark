@@ -1,0 +1,47 @@
+{
+  "id": 1225,
+  "date": "2026-10-23",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "FORTHRIGHT",
+      "level": null,
+      "members": [
+        "DIRECT",
+        "FRANK",
+        "OPEN",
+        "VOCAL"
+      ]
+    },
+    {
+      "name": "THINGS YOU INSTALL ON A COMPUTER",
+      "level": null,
+      "members": [
+        "DRIVER",
+        "EXTENSION",
+        "PLUGIN",
+        "UPDATE"
+      ]
+    },
+    {
+      "name": "QUANTITIES IN A FORMULA FOR POWER",
+      "level": null,
+      "members": [
+        "DISTANCE",
+        "FORCE",
+        "POWER",
+        "TIME"
+      ]
+    },
+    {
+      "name": "___ TAP",
+      "level": null,
+      "members": [
+        "DOUBLE",
+        "LOVE",
+        "PHONE",
+        "SPINAL"
+      ]
+    }
+  ]
+}
