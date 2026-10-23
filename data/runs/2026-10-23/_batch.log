@@ -18,3 +18,7 @@ ERROR: HTTP 404: Provider returned error free__nemotron-3-super-120b-a12b a1  gr
 [5/7] start  free__nemotron-3-nano-omni-30b-a3b-reasoning  19:09:22
 loss     free__nemotron-3-nano-omni-30b-a3b-reasoning a1  groups=1 mistakes=4 invalid=4 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-23/free__nemotron-3-nano-omni-30b-a3b-reasoning.json
 [5/7] done   free__nemotron-3-nano-omni-30b-a3b-reasoning in 1026s
+[5/7] committed free__nemotron-3-nano-omni-30b-a3b-reasoning
+[6/7] start  free__nemotron-3-5-lightning  19:26:28
+win      free__nemotron-3-5-lightning a1  groups=4 mistakes=0 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-23/free__nemotron-3-5-lightning.json
+[6/7] done   free__nemotron-3-5-lightning in 250s
