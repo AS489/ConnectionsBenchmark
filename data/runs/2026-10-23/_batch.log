@@ -14,3 +14,7 @@ ERROR: HTTP 404: inclusionai/ling-3.0-flash-sante:free is no longer available on
 [4/7] start  free__nemotron-3-super-120b-a12b  19:09:19
 ERROR: HTTP 404: Provider returned error free__nemotron-3-super-120b-a12b a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-23/free__nemotron-3-super-120b-a12b.json
 [4/7] done   free__nemotron-3-super-120b-a12b in 2s
+[4/7] committed free__nemotron-3-super-120b-a12b
+[5/7] start  free__nemotron-3-nano-omni-30b-a3b-reasoning  19:09:22
+loss     free__nemotron-3-nano-omni-30b-a3b-reasoning a1  groups=1 mistakes=4 invalid=4 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-10-23/free__nemotron-3-nano-omni-30b-a3b-reasoning.json
+[5/7] done   free__nemotron-3-nano-omni-30b-a3b-reasoning in 1026s
