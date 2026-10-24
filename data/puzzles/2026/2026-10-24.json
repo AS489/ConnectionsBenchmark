@@ -1,0 +1,47 @@
+{
+  "id": 1226,
+  "date": "2026-10-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF STRIPS",
+      "level": null,
+      "members": [
+        "BACON",
+        "COMIC",
+        "FILM",
+        "MÖBIUS"
+      ]
+    },
+    {
+      "name": "THINGS ON STICKS",
+      "level": null,
+      "members": [
+        "HOBBY HORSE",
+        "PINWHEEL",
+        "POPSICLE",
+        "SPARKLER"
+      ]
+    },
+    {
+      "name": "ONLINE AD FORMATS",
+      "level": null,
+      "members": [
+        "BANNER",
+        "INTERSTITIAL",
+        "OVERLAY",
+        "POP-UP"
+      ]
+    },
+    {
+      "name": "___ BAR",
+      "level": null,
+      "members": [
+        "CANDY",
+        "SALAD",
+        "SPACE",
+        "SPORTS"
+      ]
+    }
+  ]
+}
