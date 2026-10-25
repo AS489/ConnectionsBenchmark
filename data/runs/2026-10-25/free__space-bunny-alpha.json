@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-25",
+  "puzzle_id": 1227,
+  "model": "free__space-bunny-alpha",
+  "openrouter_id": "stealth/space-bunny-alpha",
+  "resolved_model": null,
+  "provider": "openrouter",
+  "attempt": 1,
+  "backfill": false,
+  "variant": "v1",
+  "prompt_hash": "e4866c374ffa",
+  "seed": "2026-10-25|free__space-bunny-alpha|1",
+  "board": [
+    "POCKET",
+    "FINGERS",
+    "SWIPE",
+    "RIPLEY",
+    "PALM",
+    "SAWYER",
+    "SWIFT",
+    "ELBOW",
+    "RUBBER BAND",
+    "FOOTBALL",
+    "BOOST",
+    "WAGON WHEEL",
+    "BOW TIE",
+    "THUMB",
+    "SHELL",
+    "GLOW STICK"
+  ],
+  "started_at": "2026-10-25T18:31:12+00:00",
+  "finished_at": "2026-10-25T18:31:12+00:00",
+  "error": "HTTP 404: stealth/space-bunny-alpha is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models",
+  "truncated_responses": 0,
+  "budget_starved": false,
+  "status": "error",
+  "solved": false,
+  "groups_solved": 0,
+  "mistakes_used": 0,
+  "guesses_made": 0,
+  "invalid_responses": 0,
+  "first_guess_correct": false,
+  "groups_solved_by_name": {},
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "reasoning_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 0,
+    "requests": 0
+  },
+  "turns": [
+    {
+      "turn": 1,
+      "responses": [],
+      "outcome": null,
+      "words": [],
+      "group": null,
+      "mistakes_after": null
+    }
+  ]
+}
