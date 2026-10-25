@@ -3448,5 +3448,111 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-25",
+    "puzzle_id": 1227,
+    "groups": [
+      {
+        "name": "STEAL",
+        "level": null,
+        "members": [
+          "BOOST",
+          "PALM",
+          "POCKET",
+          "SWIPE"
+        ]
+      },
+      {
+        "name": "PASTA SHAPES",
+        "level": null,
+        "members": [
+          "BOW TIE",
+          "ELBOW",
+          "SHELL",
+          "WAGON WHEEL"
+        ]
+      },
+      {
+        "name": "FICTIONAL TOMS",
+        "level": null,
+        "members": [
+          "RIPLEY",
+          "SAWYER",
+          "SWIFT",
+          "THUMB"
+        ]
+      },
+      {
+        "name": "THINGS THAT CAN BE SNAPPED",
+        "level": null,
+        "members": [
+          "FINGERS",
+          "FOOTBALL",
+          "GLOW STICK",
+          "RUBBER BAND"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 8,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "STEAL",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "PASTA SHAPES",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "FICTIONAL TOMS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "THINGS THAT CAN BE SNAPPED",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
