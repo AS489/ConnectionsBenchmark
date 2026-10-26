@@ -3554,5 +3554,111 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "puzzle_id": 1228,
+    "groups": [
+      {
+        "name": "RESPONSES TO \"HOW ARE YOU?\"",
+        "level": null,
+        "members": [
+          "CHILLING",
+          "MANAGING",
+          "NOT BAD",
+          "SAME OLD"
+        ]
+      },
+      {
+        "name": "KINDS OF MATS",
+        "level": null,
+        "members": [
+          "PRAYER",
+          "WELCOME",
+          "WRESTLING",
+          "YOGA"
+        ]
+      },
+      {
+        "name": "AKC DOG BREED GROUPS",
+        "level": null,
+        "members": [
+          "HERDING",
+          "HOUND",
+          "SPORTING",
+          "TOY"
+        ]
+      },
+      {
+        "name": "HORROR MOVIES WITH LAST LETTER CHANGED",
+        "level": null,
+        "members": [
+          "HALLOWEEK",
+          "HOSTED",
+          "JAWN",
+          "PSYCHS"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 4,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 4,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "KINDS OF MATS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "HORROR MOVIES WITH LAST LETTER CHANGED",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "RESPONSES TO \"HOW ARE YOU?\"",
+        "solved_by": 1,
+        "solve_rate": 0.3333333333333333,
+        "mean_solve_turn": 4.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "AKC DOG BREED GROUPS",
+        "solved_by": 2,
+        "solve_rate": 0.6666666666666666,
+        "mean_solve_turn": 1.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
