@@ -1,0 +1,47 @@
+{
+  "id": 1228,
+  "date": "2026-10-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "RESPONSES TO \"HOW ARE YOU?\"",
+      "level": null,
+      "members": [
+        "CHILLING",
+        "MANAGING",
+        "NOT BAD",
+        "SAME OLD"
+      ]
+    },
+    {
+      "name": "KINDS OF MATS",
+      "level": null,
+      "members": [
+        "PRAYER",
+        "WELCOME",
+        "WRESTLING",
+        "YOGA"
+      ]
+    },
+    {
+      "name": "AKC DOG BREED GROUPS",
+      "level": null,
+      "members": [
+        "HERDING",
+        "HOUND",
+        "SPORTING",
+        "TOY"
+      ]
+    },
+    {
+      "name": "HORROR MOVIES WITH LAST LETTER CHANGED",
+      "level": null,
+      "members": [
+        "HALLOWEEK",
+        "HOSTED",
+        "JAWN",
+        "PSYCHS"
+      ]
+    }
+  ]
+}
