@@ -1,0 +1,47 @@
+{
+  "id": 1230,
+  "date": "2026-10-28",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "ROMANTIC LIKING",
+      "level": null,
+      "members": [
+        "ATTRACTION",
+        "CRUSH",
+        "FEELINGS",
+        "INTEREST"
+      ]
+    },
+    {
+      "name": "COMPONENTS OF AN EMAIL",
+      "level": null,
+      "members": [
+        "ATTACHMENT",
+        "BODY",
+        "SIGNATURE",
+        "SUBJECT"
+      ]
+    },
+    {
+      "name": "NASA MARS ROVERS",
+      "level": null,
+      "members": [
+        "CURIOSITY",
+        "OPPORTUNITY",
+        "PERSEVERANCE",
+        "SPIRIT"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF PATHS",
+      "level": null,
+      "members": [
+        "COARSE",
+        "RODE",
+        "ROUT",
+        "WEIGH"
+      ]
+    }
+  ]
+}
