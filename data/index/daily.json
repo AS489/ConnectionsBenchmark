@@ -3766,5 +3766,111 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "puzzle_id": 1230,
+    "groups": [
+      {
+        "name": "ROMANTIC LIKING",
+        "level": null,
+        "members": [
+          "ATTRACTION",
+          "CRUSH",
+          "FEELINGS",
+          "INTEREST"
+        ]
+      },
+      {
+        "name": "COMPONENTS OF AN EMAIL",
+        "level": null,
+        "members": [
+          "ATTACHMENT",
+          "BODY",
+          "SIGNATURE",
+          "SUBJECT"
+        ]
+      },
+      {
+        "name": "NASA MARS ROVERS",
+        "level": null,
+        "members": [
+          "CURIOSITY",
+          "OPPORTUNITY",
+          "PERSEVERANCE",
+          "SPIRIT"
+        ]
+      },
+      {
+        "name": "HOMOPHONES OF PATHS",
+        "level": null,
+        "members": [
+          "COARSE",
+          "RODE",
+          "ROUT",
+          "WEIGH"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 2,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 3,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "ROMANTIC LIKING",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "COMPONENTS OF AN EMAIL",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "NASA MARS ROVERS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "HOMOPHONES OF PATHS",
+        "solved_by": 1,
+        "solve_rate": 0.3333333333333333,
+        "mean_solve_turn": 4.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
