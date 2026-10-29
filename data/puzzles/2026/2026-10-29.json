@@ -1,0 +1,47 @@
+{
+  "id": 1231,
+  "date": "2026-10-29",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "THINGS YOU PUT COINS INTO",
+      "level": null,
+      "members": [
+        "PARKING METER",
+        "PAYPHONE",
+        "PIGGY BANK",
+        "WISHING WELL"
+      ]
+    },
+    {
+      "name": "ASSOCIATED WITH PENGUINS",
+      "level": null,
+      "members": [
+        "ANTARCTICA",
+        "EMPEROR",
+        "TUXEDO",
+        "WADDLE"
+      ]
+    },
+    {
+      "name": "ENDS OF FAMOUS FONTS",
+      "level": null,
+      "members": [
+        "GOTHIC",
+        "ROMAN",
+        "SANS",
+        "TYPEWRITER"
+      ]
+    },
+    {
+      "name": "THINGS THAT FEATURE THREE COLORS",
+      "level": null,
+      "members": [
+        "CALICO",
+        "CANDY CORN",
+        "NEAPOLITAN",
+        "TRAFFIC LIGHT"
+      ]
+    }
+  ]
+}
