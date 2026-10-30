@@ -1,0 +1,47 @@
+{
+  "id": 1232,
+  "date": "2026-10-30",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A CAMERA",
+      "level": null,
+      "members": [
+        "FLASH",
+        "LENS",
+        "SHUTTER",
+        "VIEWFINDER"
+      ]
+    },
+    {
+      "name": "AROUND A THEATER STAGE",
+      "level": null,
+      "members": [
+        "BACKDROP",
+        "CURTAIN",
+        "PIT",
+        "WINGS"
+      ]
+    },
+    {
+      "name": "THROW ___",
+      "level": null,
+      "members": [
+        "HANDS",
+        "PILLOW",
+        "RUG",
+        "SHADE"
+      ]
+    },
+    {
+      "name": "FRUIT WITH FIRST LETTER CHANGED",
+      "level": null,
+      "members": [
+        "DEMON",
+        "DRAPE",
+        "GLUM",
+        "GRANGE"
+      ]
+    }
+  ]
+}
