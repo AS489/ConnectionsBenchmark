@@ -3987,5 +3987,120 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-30",
+    "puzzle_id": 1232,
+    "groups": [
+      {
+        "name": "PARTS OF A CAMERA",
+        "level": null,
+        "members": [
+          "FLASH",
+          "LENS",
+          "SHUTTER",
+          "VIEWFINDER"
+        ]
+      },
+      {
+        "name": "AROUND A THEATER STAGE",
+        "level": null,
+        "members": [
+          "BACKDROP",
+          "CURTAIN",
+          "PIT",
+          "WINGS"
+        ]
+      },
+      {
+        "name": "THROW ___",
+        "level": null,
+        "members": [
+          "HANDS",
+          "PILLOW",
+          "RUG",
+          "SHADE"
+        ]
+      },
+      {
+        "name": "FRUIT WITH FIRST LETTER CHANGED",
+        "level": null,
+        "members": [
+          "DEMON",
+          "DRAPE",
+          "GLUM",
+          "GRANGE"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 6,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__laguna-s-2-1": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 4,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 6,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "THROW ___",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "FRUIT WITH FIRST LETTER CHANGED",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "AROUND A THEATER STAGE",
+        "solved_by": 1,
+        "solve_rate": 0.25,
+        "mean_solve_turn": 4.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "PARTS OF A CAMERA",
+        "solved_by": 4,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 1.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
