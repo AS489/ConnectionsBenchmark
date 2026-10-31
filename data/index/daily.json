@@ -4102,5 +4102,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-10-31",
+    "puzzle_id": 1233,
+    "groups": [
+      {
+        "name": "WORDS MEANING GOOD THAT SOUND BAD",
+        "level": null,
+        "members": [
+          "GNARLY",
+          "KILLER",
+          "SICK",
+          "WICKED"
+        ]
+      },
+      {
+        "name": "MARTINI SPECIFICATIONS",
+        "level": null,
+        "members": [
+          "DIRTY",
+          "DRY",
+          "SHAKEN",
+          "UP"
+        ]
+      },
+      {
+        "name": "THINGS WITH STRINGS",
+        "level": null,
+        "members": [
+          "GUITAR",
+          "MARIONETTE",
+          "TASSEL",
+          "TENNIS RACKET"
+        ]
+      },
+      {
+        "name": "STARTING WITH DOG COMMANDS",
+        "level": null,
+        "members": [
+          "DOWNFALL",
+          "SHAKESPEARE",
+          "SITCOM",
+          "STAYCATION"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 8,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "STARTING WITH DOG COMMANDS",
+        "solved_by": 1,
+        "solve_rate": 0.5,
+        "mean_solve_turn": 4.0,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "MARTINI SPECIFICATIONS",
+        "solved_by": 1,
+        "solve_rate": 0.5,
+        "mean_solve_turn": 2.0,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "THINGS WITH STRINGS",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 3.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "WORDS MEANING GOOD THAT SOUND BAD",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 1.5,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
