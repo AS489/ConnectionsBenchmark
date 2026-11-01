@@ -1,0 +1,7 @@
+=== ConnectionsBench free batch | date=2026-11-01 | 7 models | started 2026-11-01T19:22:54Z
+[1/7] start  free__dots-3-note-preview  19:22:54
+[1/7] TIMEOUT free__dots-3-note-preview after 1201s (limit 1200s) — abandoned
+[1/7] done   free__dots-3-note-preview in 1201s
+[2/7] start  free__space-bunny-alpha  19:42:55
+ERROR: HTTP 404: stealth/space-bunny-alpha is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models free__space-bunny-alpha a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-11-01/free__space-bunny-alpha.json
+[2/7] done   free__space-bunny-alpha in 0s
