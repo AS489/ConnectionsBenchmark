@@ -1,0 +1,47 @@
+{
+  "id": 1234,
+  "date": "2026-11-01",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF TEETH",
+      "level": null,
+      "members": [
+        "BICUSPID",
+        "CANINE",
+        "INCISOR",
+        "MOLAR"
+      ]
+    },
+    {
+      "name": "KINDS OF LOVE",
+      "level": null,
+      "members": [
+        "BROTHERLY",
+        "PUPPY",
+        "SELF",
+        "UNREQUITED"
+      ]
+    },
+    {
+      "name": "ENTHUSIAST",
+      "level": null,
+      "members": [
+        "FIEND",
+        "HEAD",
+        "HOUND",
+        "LOVER"
+      ]
+    },
+    {
+      "name": "SYNONYMS FOR \"SOAKED\" WITH FIRST LETTER CHANGED",
+      "level": null,
+      "members": [
+        "DOGGY",
+        "MATURATED",
+        "TRENCHED",
+        "TRIPPING"
+      ]
+    }
+  ]
+}
