@@ -4199,5 +4199,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "puzzle_id": 1234,
+    "groups": [
+      {
+        "name": "KINDS OF TEETH",
+        "level": null,
+        "members": [
+          "BICUSPID",
+          "CANINE",
+          "INCISOR",
+          "MOLAR"
+        ]
+      },
+      {
+        "name": "KINDS OF LOVE",
+        "level": null,
+        "members": [
+          "BROTHERLY",
+          "PUPPY",
+          "SELF",
+          "UNREQUITED"
+        ]
+      },
+      {
+        "name": "ENTHUSIAST",
+        "level": null,
+        "members": [
+          "FIEND",
+          "HEAD",
+          "HOUND",
+          "LOVER"
+        ]
+      },
+      {
+        "name": "SYNONYMS FOR \"SOAKED\" WITH FIRST LETTER CHANGED",
+        "level": null,
+        "members": [
+          "DOGGY",
+          "MATURATED",
+          "TRENCHED",
+          "TRIPPING"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 5,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "KINDS OF LOVE",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "ENTHUSIAST",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "SYNONYMS FOR \"SOAKED\" WITH FIRST LETTER CHANGED",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "KINDS OF TEETH",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 1.5,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
