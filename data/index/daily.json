@@ -4296,5 +4296,111 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-02",
+    "puzzle_id": 1235,
+    "groups": [
+      {
+        "name": "THINGS TO BRING ON A TREK",
+        "level": null,
+        "members": [
+          "BACKPACK",
+          "COMPASS",
+          "HIKING BOOTS",
+          "WATER BOTTLE"
+        ]
+      },
+      {
+        "name": "ANGER",
+        "level": null,
+        "members": [
+          "INCENSE",
+          "NETTLE",
+          "PIQUE",
+          "WIND UP"
+        ]
+      },
+      {
+        "name": "MIST MAKERS",
+        "level": null,
+        "members": [
+          "DRY ICE",
+          "FOG MACHINE",
+          "HUMIDIFIER",
+          "WATERFALL"
+        ]
+      },
+      {
+        "name": "THINGS WITH MIRRORS",
+        "level": null,
+        "members": [
+          "DISCO BALL",
+          "DRESSING ROOM",
+          "KALEIDOSCOPE",
+          "MEDICINE CABINET"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 0,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 5,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "THINGS WITH MIRRORS",
+        "solved_by": 2,
+        "solve_rate": 0.6666666666666666,
+        "mean_solve_turn": 3.5,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "ANGER",
+        "solved_by": 2,
+        "solve_rate": 0.6666666666666666,
+        "mean_solve_turn": 2.5,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "MIST MAKERS",
+        "solved_by": 2,
+        "solve_rate": 0.6666666666666666,
+        "mean_solve_turn": 2.5,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "THINGS TO BRING ON A TREK",
+        "solved_by": 2,
+        "solve_rate": 0.6666666666666666,
+        "mean_solve_turn": 1.5,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
