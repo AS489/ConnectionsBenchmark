@@ -4614,5 +4614,111 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-05",
+    "puzzle_id": 1238,
+    "groups": [
+      {
+        "name": "KINDS OF HEELS",
+        "level": null,
+        "members": [
+          "KITTEN",
+          "PLATFORM",
+          "SPIKE",
+          "WEDGE"
+        ]
+      },
+      {
+        "name": "FLOWERS",
+        "level": null,
+        "members": [
+          "ANEMONE",
+          "LOTUS",
+          "NARCISSUS",
+          "ROSE"
+        ]
+      },
+      {
+        "name": "TEARDROP-SHAPED THINGS",
+        "level": null,
+        "members": [
+          "PEAR",
+          "RAINDROP",
+          "SPEEDBAG",
+          "UVULA"
+        ]
+      },
+      {
+        "name": "LIQUORS WITH LAST LETTERS CHANGED",
+        "level": null,
+        "members": [
+          "BRANDO",
+          "GIG",
+          "RUN",
+          "WHISKER"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 6,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 2,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 9,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "KINDS OF HEELS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "TEARDROP-SHAPED THINGS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "LIQUORS WITH LAST LETTERS CHANGED",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "FLOWERS",
+        "solved_by": 3,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 1.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
