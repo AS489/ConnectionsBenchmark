@@ -1,0 +1,47 @@
+{
+  "id": 1238,
+  "date": "2026-11-05",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF HEELS",
+      "level": null,
+      "members": [
+        "KITTEN",
+        "PLATFORM",
+        "SPIKE",
+        "WEDGE"
+      ]
+    },
+    {
+      "name": "FLOWERS",
+      "level": null,
+      "members": [
+        "ANEMONE",
+        "LOTUS",
+        "NARCISSUS",
+        "ROSE"
+      ]
+    },
+    {
+      "name": "TEARDROP-SHAPED THINGS",
+      "level": null,
+      "members": [
+        "PEAR",
+        "RAINDROP",
+        "SPEEDBAG",
+        "UVULA"
+      ]
+    },
+    {
+      "name": "LIQUORS WITH LAST LETTERS CHANGED",
+      "level": null,
+      "members": [
+        "BRANDO",
+        "GIG",
+        "RUN",
+        "WHISKER"
+      ]
+    }
+  ]
+}
