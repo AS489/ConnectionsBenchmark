@@ -22,3 +22,7 @@ loss     free__nemotron-3-nano-omni-30b-a3b-reasoning a1  groups=1 mistakes=4 in
 [6/7] start  free__nemotron-3-5-lightning  21:49:20
 loss     free__nemotron-3-5-lightning a1  groups=1 mistakes=4 invalid=2 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-11-05/free__nemotron-3-5-lightning.json
 [6/7] done   free__nemotron-3-5-lightning in 585s
+[6/7] committed free__nemotron-3-5-lightning
+[7/7] start  free__laguna-s-2-1  21:59:05
+ERROR: HTTP 404: poolside/laguna-s-2.1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models free__laguna-s-2-1 a1  groups=0 mistakes=0 invalid=0 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-11-05/free__laguna-s-2-1.json
+[7/7] done   free__laguna-s-2-1 in 0s
