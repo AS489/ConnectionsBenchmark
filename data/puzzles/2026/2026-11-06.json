@@ -1,0 +1,47 @@
+{
+  "id": 1239,
+  "date": "2026-11-06",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "COMPOSITION",
+      "level": null,
+      "members": [
+        "CONSTITUTION",
+        "FABRIC",
+        "MAKEUP",
+        "STRUCTURE"
+      ]
+    },
+    {
+      "name": "COPY",
+      "level": null,
+      "members": [
+        "BACKUP",
+        "EXTRA",
+        "REPLACEMENT",
+        "SPARE"
+      ]
+    },
+    {
+      "name": "KINDS OF TRUCKS",
+      "level": null,
+      "members": [
+        "FLATBED",
+        "PICKUP",
+        "SEMI",
+        "TANKER"
+      ]
+    },
+    {
+      "name": "ENDING IN PARTS OF THE EYE",
+      "level": null,
+      "members": [
+        "HOT ROD",
+        "OSIRIS",
+        "TRAFFIC CONE",
+        "WOOLENS"
+      ]
+    }
+  ]
+}
