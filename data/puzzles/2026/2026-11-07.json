@@ -1,0 +1,47 @@
+{
+  "id": 1240,
+  "date": "2026-11-07",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PIRATE'S PLUNDER",
+      "level": null,
+      "members": [
+        "BOOTY",
+        "BOUNTY",
+        "SPOILS",
+        "TREASURE"
+      ]
+    },
+    {
+      "name": "KINDS OF SHIRTS",
+      "level": null,
+      "members": [
+        "HENLEY",
+        "POLO",
+        "RAGLAN",
+        "RINGER"
+      ]
+    },
+    {
+      "name": "FIRST WORDS OF U.S. STATE NAMES",
+      "level": null,
+      "members": [
+        "NEW",
+        "NORTH",
+        "RHODE",
+        "SOUTH"
+      ]
+    },
+    {
+      "name": "ENDS OF STORM TYPES",
+      "level": null,
+      "members": [
+        "CANE",
+        "CLONE",
+        "EASTER",
+        "SOON"
+      ]
+    }
+  ]
+}
