@@ -4826,5 +4826,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "puzzle_id": 1240,
+    "groups": [
+      {
+        "name": "PIRATE'S PLUNDER",
+        "level": null,
+        "members": [
+          "BOOTY",
+          "BOUNTY",
+          "SPOILS",
+          "TREASURE"
+        ]
+      },
+      {
+        "name": "KINDS OF SHIRTS",
+        "level": null,
+        "members": [
+          "HENLEY",
+          "POLO",
+          "RAGLAN",
+          "RINGER"
+        ]
+      },
+      {
+        "name": "FIRST WORDS OF U.S. STATE NAMES",
+        "level": null,
+        "members": [
+          "NEW",
+          "NORTH",
+          "RHODE",
+          "SOUTH"
+        ]
+      },
+      {
+        "name": "ENDS OF STORM TYPES",
+        "level": null,
+        "members": [
+          "CANE",
+          "CLONE",
+          "EASTER",
+          "SOON"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 7,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "KINDS OF SHIRTS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "ENDS OF STORM TYPES",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "FIRST WORDS OF U.S. STATE NAMES",
+        "solved_by": 1,
+        "solve_rate": 0.5,
+        "mean_solve_turn": 3.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "PIRATE'S PLUNDER",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 1.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
