@@ -1,0 +1,47 @@
+{
+  "id": 1241,
+  "date": "2026-11-08",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MUSCULAR",
+      "level": null,
+      "members": [
+        "BUILT",
+        "CUT",
+        "JACKED",
+        "RIPPED"
+      ]
+    },
+    {
+      "name": "HAIR SALON SERVICES",
+      "level": null,
+      "members": [
+        "BLOWOUT",
+        "COLOR",
+        "EXTENSIONS",
+        "TRIM"
+      ]
+    },
+    {
+      "name": "THINGS THAT HELP MAKE SENSE OF A SITUATION",
+      "level": null,
+      "members": [
+        "CLARITY",
+        "CONTEXT",
+        "INSIGHT",
+        "PERSPECTIVE"
+      ]
+    },
+    {
+      "name": "VEGETABLE HOMOPHONES",
+      "level": null,
+      "members": [
+        "CARAT",
+        "CHARRED",
+        "KORN",
+        "LEAK"
+      ]
+    }
+  ]
+}
