@@ -1,0 +1,47 @@
+{
+  "id": 1242,
+  "date": "2026-11-09",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DECEITFUL SCHEME",
+      "level": null,
+      "members": [
+        "CON JOB",
+        "FLIMFLAM",
+        "RIP-OFF",
+        "SHELL GAME"
+      ]
+    },
+    {
+      "name": "JEANS DESCRIPTORS",
+      "level": null,
+      "members": [
+        "BOOTCUT",
+        "DISTRESSED",
+        "LOW-RISE",
+        "SKINNY"
+      ]
+    },
+    {
+      "name": "THINGS WITH SERRATED EDGES",
+      "level": null,
+      "members": [
+        "GRAPEFRUIT SPOON",
+        "MINT LEAF",
+        "STEAK KNIFE",
+        "TAPE DISPENSER"
+      ]
+    },
+    {
+      "name": "ENDING IN SEA CREATURES",
+      "level": null,
+      "members": [
+        "CARD SHARK",
+        "FUN SPONGE",
+        "GAMMA RAY",
+        "NAVY SEAL"
+      ]
+    }
+  ]
+}
