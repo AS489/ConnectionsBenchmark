@@ -1,0 +1,47 @@
+{
+  "id": 1243,
+  "date": "2026-11-10",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "HUBBUB",
+      "level": null,
+      "members": [
+        "BROUHAHA",
+        "FOOFARAW",
+        "HULLABALOO",
+        "KERFUFFLE"
+      ]
+    },
+    {
+      "name": "LITERARY DEVICES",
+      "level": null,
+      "members": [
+        "HYPERBOLE",
+        "METONYMY",
+        "ONOMATOPOEIA",
+        "OXYMORON"
+      ]
+    },
+    {
+      "name": "OLD-TIMEY OCCUPATIONS",
+      "level": null,
+      "members": [
+        "APOTHECARY",
+        "HABERDASHER",
+        "SCRIVENER",
+        "WAINWRIGHT"
+      ]
+    },
+    {
+      "name": "WORDS WITH FIVE OF ONE VOWEL",
+      "level": null,
+      "members": [
+        "ABRACADABRA",
+        "BEEKEEPER",
+        "INVISIBILITY",
+        "PROTOZOOLOGY"
+      ]
+    }
+  ]
+}
