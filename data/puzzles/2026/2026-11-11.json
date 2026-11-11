@@ -1,0 +1,47 @@
+{
+  "id": 1244,
+  "date": "2026-11-11",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF MEDICINE",
+      "level": null,
+      "members": [
+        "FOLK",
+        "HERBAL",
+        "HOLISTIC",
+        "TRADITIONAL"
+      ]
+    },
+    {
+      "name": "PARTS OF A GOLF COURSE",
+      "level": null,
+      "members": [
+        "GREEN",
+        "ROUGH",
+        "SAND TRAP",
+        "TEE BOX"
+      ]
+    },
+    {
+      "name": "THINGS FILLED WITH AIR",
+      "level": null,
+      "members": [
+        "AIR MATTRESS",
+        "BUBBLE",
+        "TIRE",
+        "WHOOPIE CUSHION"
+      ]
+    },
+    {
+      "name": "ENDING IN PALINDROMES",
+      "level": null,
+      "members": [
+        "AFTERNOON",
+        "PATOOT",
+        "RHEOSTATS",
+        "SHREDDER"
+      ]
+    }
+  ]
+}
