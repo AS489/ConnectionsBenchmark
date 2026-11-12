@@ -18,3 +18,7 @@ ERROR: HTTP 404: This model is unavailable for free. The paid version is availab
 [5/7] start  free__nemotron-3-nano-omni-30b-a3b-reasoning  22:01:12
 loss     free__nemotron-3-nano-omni-30b-a3b-reasoning a1  groups=0 mistakes=4 invalid=4 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-11-12/free__nemotron-3-nano-omni-30b-a3b-reasoning.json
 [5/7] done   free__nemotron-3-nano-omni-30b-a3b-reasoning in 541s
+[5/7] committed free__nemotron-3-nano-omni-30b-a3b-reasoning
+[6/7] start  free__nemotron-3-5-lightning  22:10:13
+ERROR: JSONDecodeError: Expecting value: line 57 column 1 (char 308) free__nemotron-3-5-lightning a1  groups=1 mistakes=3 invalid=2 cost=$0.0000  -> /home/runner/work/ConnectionsBenchmark/ConnectionsBenchmark/data/runs/2026-11-12/free__nemotron-3-5-lightning.json
+[6/7] done   free__nemotron-3-5-lightning in 1040s
