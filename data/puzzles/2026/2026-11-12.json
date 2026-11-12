@@ -1,0 +1,47 @@
+{
+  "id": 1245,
+  "date": "2026-11-12",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "\"GADZOOKS!\"",
+      "level": null,
+      "members": [
+        "GOOD HEAVENS",
+        "GREAT SCOTT",
+        "HOLY SMOKES",
+        "JIMINY CRICKET"
+      ]
+    },
+    {
+      "name": "STARTING WITH VARIATIONS",
+      "level": null,
+      "members": [
+        "CHANGE PURSE",
+        "FLUX CAPACITOR",
+        "SHIFT DRESS",
+        "SWING SET"
+      ]
+    },
+    {
+      "name": "ENDING IN WAYS TO COOK THINGS",
+      "level": null,
+      "members": [
+        "ARCTIC CHAR",
+        "COMEDY ROAST",
+        "DOC BROWN",
+        "YOU'RE TOAST"
+      ]
+    },
+    {
+      "name": "STARTING WITH BEST PICTURE OSCAR WINNERS",
+      "level": null,
+      "members": [
+        "GLADIATOR SANDALS",
+        "MARTY MCFLY",
+        "MOONLIGHT SONATA",
+        "ROCKY ROAD"
+      ]
+    }
+  ]
+}
