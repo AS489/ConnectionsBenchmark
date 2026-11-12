@@ -4,7 +4,7 @@
       "slug": "free__dots-3-note-preview",
       "openrouter_id": "dots-studio/dots-3-note-preview:free",
       "first_run": "2026-09-11",
-      "last_run": "2026-11-11"
+      "last_run": "2026-11-12"
     },
     {
       "slug": "free__gemma-4-26b-a4b-it",
@@ -70,7 +70,7 @@
       "slug": "free__nemotron-3-nano-omni-30b-a3b-reasoning",
       "openrouter_id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
       "first_run": "2026-09-27",
-      "last_run": "2026-11-11"
+      "last_run": "2026-11-12"
     },
     {
       "slug": "free__nemotron-3-super-120b-a12b",

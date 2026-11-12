@@ -5338,5 +5338,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "puzzle_id": 1245,
+    "groups": [
+      {
+        "name": "\"GADZOOKS!\"",
+        "level": null,
+        "members": [
+          "GOOD HEAVENS",
+          "GREAT SCOTT",
+          "HOLY SMOKES",
+          "JIMINY CRICKET"
+        ]
+      },
+      {
+        "name": "STARTING WITH VARIATIONS",
+        "level": null,
+        "members": [
+          "CHANGE PURSE",
+          "FLUX CAPACITOR",
+          "SHIFT DRESS",
+          "SWING SET"
+        ]
+      },
+      {
+        "name": "ENDING IN WAYS TO COOK THINGS",
+        "level": null,
+        "members": [
+          "ARCTIC CHAR",
+          "COMEDY ROAST",
+          "DOC BROWN",
+          "YOU'RE TOAST"
+        ]
+      },
+      {
+        "name": "STARTING WITH BEST PICTURE OSCAR WINNERS",
+        "level": null,
+        "members": [
+          "GLADIATOR SANDALS",
+          "MARTY MCFLY",
+          "MOONLIGHT SONATA",
+          "ROCKY ROAD"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 4,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 4,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "STARTING WITH VARIATIONS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "ENDING IN WAYS TO COOK THINGS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "STARTING WITH BEST PICTURE OSCAR WINNERS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "\"GADZOOKS!\"",
+        "solved_by": 1,
+        "solve_rate": 0.5,
+        "mean_solve_turn": 3.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
