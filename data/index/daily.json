@@ -5435,5 +5435,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-13",
+    "puzzle_id": 1246,
+    "groups": [
+      {
+        "name": "USE THE INTERNET",
+        "level": null,
+        "members": [
+          "BROWSE",
+          "SCROLL",
+          "SEARCH",
+          "SURF"
+        ]
+      },
+      {
+        "name": "MEDIA ATTENTION",
+        "level": null,
+        "members": [
+          "COVERAGE",
+          "EXPOSURE",
+          "PRESS",
+          "PUBLICITY"
+        ]
+      },
+      {
+        "name": "THINGS THAT ARE TOWED",
+        "level": null,
+        "members": [
+          "BARGE",
+          "GLIDER",
+          "TRAILER",
+          "WATER SKIER"
+        ]
+      },
+      {
+        "name": "BRAIN ___",
+        "level": null,
+        "members": [
+          "FREEZE",
+          "TEASER",
+          "TRUST",
+          "WAVES"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 7,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "USE THE INTERNET",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "THINGS THAT ARE TOWED",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "BRAIN ___",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "MEDIA ATTENTION",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 1.5,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
