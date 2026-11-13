@@ -1,0 +1,47 @@
+{
+  "id": 1246,
+  "date": "2026-11-13",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "USE THE INTERNET",
+      "level": null,
+      "members": [
+        "BROWSE",
+        "SCROLL",
+        "SEARCH",
+        "SURF"
+      ]
+    },
+    {
+      "name": "MEDIA ATTENTION",
+      "level": null,
+      "members": [
+        "COVERAGE",
+        "EXPOSURE",
+        "PRESS",
+        "PUBLICITY"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE TOWED",
+      "level": null,
+      "members": [
+        "BARGE",
+        "GLIDER",
+        "TRAILER",
+        "WATER SKIER"
+      ]
+    },
+    {
+      "name": "BRAIN ___",
+      "level": null,
+      "members": [
+        "FREEZE",
+        "TEASER",
+        "TRUST",
+        "WAVES"
+      ]
+    }
+  ]
+}
