@@ -1,0 +1,47 @@
+{
+  "id": 1247,
+  "date": "2026-11-14",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CUTTING-EDGE",
+      "level": null,
+      "members": [
+        "ADVANCED",
+        "FOREMOST",
+        "MODERN",
+        "PROGRESSIVE"
+      ]
+    },
+    {
+      "name": "LOCATIONS FOR AN INSTITUTION",
+      "level": null,
+      "members": [
+        "CAMPUS",
+        "CENTER",
+        "COMPLEX",
+        "FACILITY"
+      ]
+    },
+    {
+      "name": "STRATEGY BOARD GAMES",
+      "level": null,
+      "members": [
+        "CHESS",
+        "GO",
+        "OTHELLO",
+        "STRATEGO"
+      ]
+    },
+    {
+      "name": "BABY GEAR WITH FIRST LETTER CHANGED",
+      "level": null,
+      "members": [
+        "BATTLE",
+        "MARRIAGE",
+        "MOTTLE",
+        "TRIB"
+      ]
+    }
+  ]
+}
