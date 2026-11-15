@@ -1,0 +1,47 @@
+{
+  "id": 1248,
+  "date": "2026-11-15",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "UNMATCHED",
+      "level": null,
+      "members": [
+        "ALL-TIME",
+        "HISTORIC",
+        "RECORD",
+        "UNPRECEDENTED"
+      ]
+    },
+    {
+      "name": "WEDDING WEBSITE SECTIONS",
+      "level": null,
+      "members": [
+        "DRESS CODE",
+        "REGISTRY",
+        "RSVP",
+        "TRAVEL"
+      ]
+    },
+    {
+      "name": "___ PLANE",
+      "level": null,
+      "members": [
+        "ASTRAL",
+        "CARTESIAN",
+        "INCLINED",
+        "JET"
+      ]
+    },
+    {
+      "name": "ENDING IN VEGETABLES IN THE ALLIUM FAMILY",
+      "level": null,
+      "members": [
+        "ARCHIVE",
+        "OCTONION",
+        "RAPSCALLION",
+        "SLEEK"
+      ]
+    }
+  ]
+}
