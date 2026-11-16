@@ -1,0 +1,47 @@
+{
+  "id": 1249,
+  "date": "2026-11-16",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SUMMER ___",
+      "level": null,
+      "members": [
+        "BLOCKBUSTER",
+        "CAMP",
+        "SAUSAGE",
+        "SCHOOL"
+      ]
+    },
+    {
+      "name": "SPRING ___",
+      "level": null,
+      "members": [
+        "CHICKEN",
+        "CLEANING",
+        "ONION",
+        "WATER"
+      ]
+    },
+    {
+      "name": "WINTER ___",
+      "level": null,
+      "members": [
+        "GARDEN",
+        "GLOVES",
+        "MELON",
+        "WONDERLAND"
+      ]
+    },
+    {
+      "name": "FALL ___",
+      "level": null,
+      "members": [
+        "ASLEEP",
+        "FOLIAGE",
+        "GUY",
+        "IN LOVE"
+      ]
+    }
+  ]
+}
