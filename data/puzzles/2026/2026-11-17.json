@@ -1,0 +1,47 @@
+{
+  "id": 1250,
+  "date": "2026-11-17",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "CONVENE",
+      "level": null,
+      "members": [
+        "ASSEMBLE",
+        "COME TOGETHER",
+        "FLOCK",
+        "GATHER"
+      ]
+    },
+    {
+      "name": "THINGS IN \"SING A SONG OF SIXPENCE\"",
+      "level": null,
+      "members": [
+        "BLACKBIRD",
+        "PIE",
+        "RYE",
+        "SIXPENCE"
+      ]
+    },
+    {
+      "name": "FILMS WITH \"!\" IN THE TITLE",
+      "level": null,
+      "members": [
+        "AIRPLANE",
+        "HELP",
+        "SHAZAM",
+        "THEM"
+      ]
+    },
+    {
+      "name": "ENDING IN BOWLING TERMS",
+      "level": null,
+      "members": [
+        "KINGPIN",
+        "MASKED BALL",
+        "PENNY LANE",
+        "VALLEY"
+      ]
+    }
+  ]
+}
