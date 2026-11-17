@@ -5744,5 +5744,111 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "puzzle_id": 1249,
+    "groups": [
+      {
+        "name": "SUMMER ___",
+        "level": null,
+        "members": [
+          "BLOCKBUSTER",
+          "CAMP",
+          "SAUSAGE",
+          "SCHOOL"
+        ]
+      },
+      {
+        "name": "SPRING ___",
+        "level": null,
+        "members": [
+          "CHICKEN",
+          "CLEANING",
+          "ONION",
+          "WATER"
+        ]
+      },
+      {
+        "name": "WINTER ___",
+        "level": null,
+        "members": [
+          "GARDEN",
+          "GLOVES",
+          "MELON",
+          "WONDERLAND"
+        ]
+      },
+      {
+        "name": "FALL ___",
+        "level": null,
+        "members": [
+          "ASLEEP",
+          "FOLIAGE",
+          "GUY",
+          "IN LOVE"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 3,
+        "invalid_responses": 9,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 3,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "SUMMER ___",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "SPRING ___",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "WINTER ___",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "FALL ___",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
