@@ -1,0 +1,47 @@
+{
+  "id": 1251,
+  "date": "2026-11-18",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DESCRIPTORS FOR A LEMON",
+      "level": null,
+      "members": [
+        "JUICY",
+        "OVOID",
+        "SOUR",
+        "YELLOW"
+      ]
+    },
+    {
+      "name": "THINGS BEES PRODUCE",
+      "level": null,
+      "members": [
+        "BUZZ",
+        "COMB",
+        "HONEY",
+        "VENOM"
+      ]
+    },
+    {
+      "name": "CITIES IN FRANCE",
+      "level": null,
+      "members": [
+        "CANNES",
+        "DIJON",
+        "NICE",
+        "TOURS"
+      ]
+    },
+    {
+      "name": "___ FRY",
+      "level": null,
+      "members": [
+        "DEEP",
+        "FRENCH",
+        "SMALL",
+        "VOCAL"
+      ]
+    }
+  ]
+}
