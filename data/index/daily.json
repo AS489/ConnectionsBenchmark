@@ -5956,5 +5956,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "puzzle_id": 1251,
+    "groups": [
+      {
+        "name": "DESCRIPTORS FOR A LEMON",
+        "level": null,
+        "members": [
+          "JUICY",
+          "OVOID",
+          "SOUR",
+          "YELLOW"
+        ]
+      },
+      {
+        "name": "THINGS BEES PRODUCE",
+        "level": null,
+        "members": [
+          "BUZZ",
+          "COMB",
+          "HONEY",
+          "VENOM"
+        ]
+      },
+      {
+        "name": "CITIES IN FRANCE",
+        "level": null,
+        "members": [
+          "CANNES",
+          "DIJON",
+          "NICE",
+          "TOURS"
+        ]
+      },
+      {
+        "name": "___ FRY",
+        "level": null,
+        "members": [
+          "DEEP",
+          "FRENCH",
+          "SMALL",
+          "VOCAL"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 5,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "DESCRIPTORS FOR A LEMON",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "___ FRY",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "THINGS BEES PRODUCE",
+        "solved_by": 1,
+        "solve_rate": 0.5,
+        "mean_solve_turn": 3.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "CITIES IN FRANCE",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 2.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
