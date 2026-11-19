@@ -6053,5 +6053,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "puzzle_id": 1252,
+    "groups": [
+      {
+        "name": "MAKE A HOLE IN THE GROUND",
+        "level": null,
+        "members": [
+          "BORE",
+          "BURROW",
+          "DIG",
+          "TUNNEL"
+        ]
+      },
+      {
+        "name": "MATERIALS OBTAINED FROM TREES",
+        "level": null,
+        "members": [
+          "CORK",
+          "RESIN",
+          "SAP",
+          "WOOD"
+        ]
+      },
+      {
+        "name": "PARTS OF AN ELECTRICAL APPLIANCE",
+        "level": null,
+        "members": [
+          "CORD",
+          "HOUSING",
+          "PLUG",
+          "SWITCH"
+        ]
+      },
+      {
+        "name": "START AND END WITH THE SAME THREE LETTERS",
+        "level": null,
+        "members": [
+          "EINSTEIN",
+          "GALANGAL",
+          "HOTSHOT",
+          "UNDERGROUND"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": true,
+        "groups_solved": 4,
+        "mistakes_used": 3,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 7,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "START AND END WITH THE SAME THREE LETTERS",
+        "solved_by": 1,
+        "solve_rate": 0.5,
+        "mean_solve_turn": 7.0,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "PARTS OF AN ELECTRICAL APPLIANCE",
+        "solved_by": 1,
+        "solve_rate": 0.5,
+        "mean_solve_turn": 5.0,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "MATERIALS OBTAINED FROM TREES",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 4.0,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "MAKE A HOLE IN THE GROUND",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 2.5,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
