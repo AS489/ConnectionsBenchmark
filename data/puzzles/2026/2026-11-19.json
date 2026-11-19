@@ -1,0 +1,47 @@
+{
+  "id": 1252,
+  "date": "2026-11-19",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MAKE A HOLE IN THE GROUND",
+      "level": null,
+      "members": [
+        "BORE",
+        "BURROW",
+        "DIG",
+        "TUNNEL"
+      ]
+    },
+    {
+      "name": "MATERIALS OBTAINED FROM TREES",
+      "level": null,
+      "members": [
+        "CORK",
+        "RESIN",
+        "SAP",
+        "WOOD"
+      ]
+    },
+    {
+      "name": "PARTS OF AN ELECTRICAL APPLIANCE",
+      "level": null,
+      "members": [
+        "CORD",
+        "HOUSING",
+        "PLUG",
+        "SWITCH"
+      ]
+    },
+    {
+      "name": "START AND END WITH THE SAME THREE LETTERS",
+      "level": null,
+      "members": [
+        "EINSTEIN",
+        "GALANGAL",
+        "HOTSHOT",
+        "UNDERGROUND"
+      ]
+    }
+  ]
+}
