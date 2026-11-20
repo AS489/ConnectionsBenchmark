@@ -1,0 +1,47 @@
+{
+  "id": 1253,
+  "date": "2026-11-20",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PERSON WHO EXCELS AT SOMETHING",
+      "level": null,
+      "members": [
+        "ACE",
+        "BEAST",
+        "MAVEN",
+        "WIZARD"
+      ]
+    },
+    {
+      "name": "NOTICE",
+      "level": null,
+      "members": [
+        "CATCH",
+        "CLOCK",
+        "REGISTER",
+        "SPOT"
+      ]
+    },
+    {
+      "name": "DESCRIPTORS FOR SMALL ANIMALS",
+      "level": null,
+      "members": [
+        "MINIATURE",
+        "POCKET",
+        "TEACUP",
+        "TOY"
+      ]
+    },
+    {
+      "name": "ENDING IN LINGERIE",
+      "level": null,
+      "members": [
+        "CANDELABRA",
+        "COWSLIP",
+        "DIPHTHONG",
+        "STUTTGARTER"
+      ]
+    }
+  ]
+}
