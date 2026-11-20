@@ -6150,5 +6150,111 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "puzzle_id": 1253,
+    "groups": [
+      {
+        "name": "PERSON WHO EXCELS AT SOMETHING",
+        "level": null,
+        "members": [
+          "ACE",
+          "BEAST",
+          "MAVEN",
+          "WIZARD"
+        ]
+      },
+      {
+        "name": "NOTICE",
+        "level": null,
+        "members": [
+          "CATCH",
+          "CLOCK",
+          "REGISTER",
+          "SPOT"
+        ]
+      },
+      {
+        "name": "DESCRIPTORS FOR SMALL ANIMALS",
+        "level": null,
+        "members": [
+          "MINIATURE",
+          "POCKET",
+          "TEACUP",
+          "TOY"
+        ]
+      },
+      {
+        "name": "ENDING IN LINGERIE",
+        "level": null,
+        "members": [
+          "CANDELABRA",
+          "COWSLIP",
+          "DIPHTHONG",
+          "STUTTGARTER"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__dots-3-note-preview": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 6,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 4,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "PERSON WHO EXCELS AT SOMETHING",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "NOTICE",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "ENDING IN LINGERIE",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "DESCRIPTORS FOR SMALL ANIMALS",
+        "solved_by": 1,
+        "solve_rate": 0.3333333333333333,
+        "mean_solve_turn": 2.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
