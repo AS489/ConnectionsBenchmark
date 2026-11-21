@@ -1,0 +1,47 @@
+{
+  "id": 1254,
+  "date": "2026-11-21",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "KINDS OF COOKIES",
+      "level": null,
+      "members": [
+        "BLACK AND WHITE",
+        "BUTTER",
+        "GIRL SCOUT",
+        "SUGAR"
+      ]
+    },
+    {
+      "name": "THINGS RATED IN A CUSTOMER SURVEY",
+      "level": null,
+      "members": [
+        "COURTESY",
+        "HELPFULNESS",
+        "SATISFACTION",
+        "WAIT TIME"
+      ]
+    },
+    {
+      "name": "TAROT CARDS, WITH \"THE\"",
+      "level": null,
+      "members": [
+        "DEVIL",
+        "EMPRESS",
+        "FOOL",
+        "HIEROPHANT"
+      ]
+    },
+    {
+      "name": "HOLD YOUR ___",
+      "level": null,
+      "members": [
+        "BREATH",
+        "HORSES",
+        "OWN",
+        "TONGUE"
+      ]
+    }
+  ]
+}
