@@ -6256,5 +6256,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "puzzle_id": 1254,
+    "groups": [
+      {
+        "name": "KINDS OF COOKIES",
+        "level": null,
+        "members": [
+          "BLACK AND WHITE",
+          "BUTTER",
+          "GIRL SCOUT",
+          "SUGAR"
+        ]
+      },
+      {
+        "name": "THINGS RATED IN A CUSTOMER SURVEY",
+        "level": null,
+        "members": [
+          "COURTESY",
+          "HELPFULNESS",
+          "SATISFACTION",
+          "WAIT TIME"
+        ]
+      },
+      {
+        "name": "TAROT CARDS, WITH \"THE\"",
+        "level": null,
+        "members": [
+          "DEVIL",
+          "EMPRESS",
+          "FOOL",
+          "HIEROPHANT"
+        ]
+      },
+      {
+        "name": "HOLD YOUR ___",
+        "level": null,
+        "members": [
+          "BREATH",
+          "HORSES",
+          "OWN",
+          "TONGUE"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 6,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "KINDS OF COOKIES",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "THINGS RATED IN A CUSTOMER SURVEY",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "HOLD YOUR ___",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "TAROT CARDS, WITH \"THE\"",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 1.5,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
