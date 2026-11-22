@@ -6353,5 +6353,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "puzzle_id": 1255,
+    "groups": [
+      {
+        "name": "MULTITUDE",
+        "level": null,
+        "members": [
+          "HOST",
+          "MASS",
+          "SEA",
+          "SLEW"
+        ]
+      },
+      {
+        "name": "INTERJECTIONS BEFORE A REACTION",
+        "level": null,
+        "members": [
+          "GEE",
+          "SAY",
+          "WELL",
+          "WHY"
+        ]
+      },
+      {
+        "name": "BUBBLE ___",
+        "level": null,
+        "members": [
+          "BATH",
+          "GUM",
+          "TEA",
+          "WRAP"
+        ]
+      },
+      {
+        "name": "HOMOPHONES OF PRONOUNS",
+        "level": null,
+        "members": [
+          "EWE",
+          "EYE",
+          "HEE",
+          "WEE"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 9,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "MULTITUDE",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "INTERJECTIONS BEFORE A REACTION",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "BUBBLE ___",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "HOMOPHONES OF PRONOUNS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
