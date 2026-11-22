@@ -1,0 +1,47 @@
+{
+  "id": 1255,
+  "date": "2026-11-22",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "MULTITUDE",
+      "level": null,
+      "members": [
+        "HOST",
+        "MASS",
+        "SEA",
+        "SLEW"
+      ]
+    },
+    {
+      "name": "INTERJECTIONS BEFORE A REACTION",
+      "level": null,
+      "members": [
+        "GEE",
+        "SAY",
+        "WELL",
+        "WHY"
+      ]
+    },
+    {
+      "name": "BUBBLE ___",
+      "level": null,
+      "members": [
+        "BATH",
+        "GUM",
+        "TEA",
+        "WRAP"
+      ]
+    },
+    {
+      "name": "HOMOPHONES OF PRONOUNS",
+      "level": null,
+      "members": [
+        "EWE",
+        "EYE",
+        "HEE",
+        "WEE"
+      ]
+    }
+  ]
+}
