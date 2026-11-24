@@ -6450,5 +6450,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "puzzle_id": 1257,
+    "groups": [
+      {
+        "name": "DROP DRAMATICALLY",
+        "level": null,
+        "members": [
+          "BOTTOM OUT",
+          "CRATER",
+          "NOSEDIVE",
+          "TANK"
+        ]
+      },
+      {
+        "name": "THINGS WITH PLEATED FOLDS",
+        "level": null,
+        "members": [
+          "ACCORDION",
+          "CUPCAKE LINER",
+          "FIREPLACE BELLOWS",
+          "PAPER FAN"
+        ]
+      },
+      {
+        "name": "THINGS WITH SLIDES",
+        "level": null,
+        "members": [
+          "MICROSCOPE",
+          "PLAYGROUND",
+          "POWERPOINT DECK",
+          "TROMBONE"
+        ]
+      },
+      {
+        "name": "THINGS THAT FORM CHAINS",
+        "level": null,
+        "members": [
+          "AMINO ACID",
+          "BIG BOX STORE",
+          "LINK",
+          "MOUNTAIN"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 1,
+        "mistakes_used": 4,
+        "invalid_responses": 1,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 4,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "THINGS WITH PLEATED FOLDS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "THINGS WITH SLIDES",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "THINGS THAT FORM CHAINS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "DROP DRAMATICALLY",
+        "solved_by": 1,
+        "solve_rate": 0.5,
+        "mean_solve_turn": 4.0,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
