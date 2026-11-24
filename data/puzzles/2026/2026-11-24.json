@@ -1,0 +1,47 @@
+{
+  "id": 1257,
+  "date": "2026-11-24",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "DROP DRAMATICALLY",
+      "level": null,
+      "members": [
+        "BOTTOM OUT",
+        "CRATER",
+        "NOSEDIVE",
+        "TANK"
+      ]
+    },
+    {
+      "name": "THINGS WITH PLEATED FOLDS",
+      "level": null,
+      "members": [
+        "ACCORDION",
+        "CUPCAKE LINER",
+        "FIREPLACE BELLOWS",
+        "PAPER FAN"
+      ]
+    },
+    {
+      "name": "THINGS WITH SLIDES",
+      "level": null,
+      "members": [
+        "MICROSCOPE",
+        "PLAYGROUND",
+        "POWERPOINT DECK",
+        "TROMBONE"
+      ]
+    },
+    {
+      "name": "THINGS THAT FORM CHAINS",
+      "level": null,
+      "members": [
+        "AMINO ACID",
+        "BIG BOX STORE",
+        "LINK",
+        "MOUNTAIN"
+      ]
+    }
+  ]
+}
