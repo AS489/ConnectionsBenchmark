@@ -6547,5 +6547,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "puzzle_id": 1258,
+    "groups": [
+      {
+        "name": "PARTS OF A FREEWAY",
+        "level": null,
+        "members": [
+          "LANE",
+          "MEDIAN",
+          "RAMP",
+          "SHOULDER"
+        ]
+      },
+      {
+        "name": "U-SHAPED THINGS",
+        "level": null,
+        "members": [
+          "HALF-PIPE",
+          "HORSESHOE",
+          "NECK PILLOW",
+          "PARABOLA"
+        ]
+      },
+      {
+        "name": "RUG SPECIFICATIONS",
+        "level": null,
+        "members": [
+          "DIMENSIONS",
+          "MATERIAL",
+          "PILE",
+          "WEAVE"
+        ]
+      },
+      {
+        "name": "DOGS BREEDS MINUS FIRST LETTER",
+        "level": null,
+        "members": [
+          "EAGLE",
+          "OBERMAN",
+          "OLLIE",
+          "OODLE"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 8,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "PARTS OF A FREEWAY",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "U-SHAPED THINGS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "RUG SPECIFICATIONS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "DOGS BREEDS MINUS FIRST LETTER",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]

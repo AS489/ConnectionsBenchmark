@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24",
+  "generated_at": "2026-11-25",
   "window_days": 30,
   "variants": [
     "v1"
@@ -16,11 +16,11 @@
           "ci_high": 0.736535
         },
         "trailing_30d_win_rate": {
-          "n": 19,
+          "n": 18,
           "successes": 10,
-          "rate": 0.5263157894736842,
-          "ci_low": 0.317078,
-          "ci_high": 0.726702
+          "rate": 0.5555555555555556,
+          "ci_low": 0.337164,
+          "ci_high": 0.754405
         },
         "first_guess_rate": {
           "n": 37,
@@ -446,11 +446,11 @@
           "ci_high": 0.213235
         },
         "trailing_30d_win_rate": {
-          "n": 5,
+          "n": 4,
           "successes": 0,
           "rate": 0.0,
           "ci_low": 0.0,
-          "ci_high": 0.434482
+          "ci_high": 0.489891
         },
         "first_guess_rate": {
           "n": 30,
@@ -702,13 +702,13 @@
         ]
       },
       "free__nemotron-3-5-lightning": {
-        "runs": 49,
+        "runs": 50,
         "win_rate": {
-          "n": 49,
+          "n": 50,
           "successes": 14,
-          "rate": 0.2857142857142857,
-          "ci_low": 0.178496,
-          "ci_high": 0.424089
+          "rate": 0.28,
+          "ci_low": 0.174742,
+          "ci_high": 0.416651
         },
         "trailing_30d_win_rate": {
           "n": 28,
@@ -718,15 +718,15 @@
           "ci_high": 0.433557
         },
         "first_guess_rate": {
-          "n": 49,
+          "n": 50,
           "successes": 24,
-          "rate": 0.4897959183673469,
-          "ci_low": 0.355751,
-          "ci_high": 0.625324
+          "rate": 0.48,
+          "ci_low": 0.347971,
+          "ci_high": 0.614883
         },
-        "mean_groups_solved": 1.9183673469387754,
-        "mean_mistakes": 3.061224489795918,
-        "mean_invalid_responses": 0.5714285714285714,
+        "mean_groups_solved": 1.88,
+        "mean_mistakes": 3.08,
+        "mean_invalid_responses": 0.56,
         "total_cost_usd": 0.0,
         "cost_per_puzzle_usd": 0.0,
         "cost_per_win_usd": 0.0,
@@ -975,6 +975,11 @@
             "date": "2026-11-24",
             "solved": false,
             "groups_solved": 1
+          },
+          {
+            "date": "2026-11-25",
+            "solved": false,
+            "groups_solved": 0
           }
         ],
         "resolved_models": [
@@ -982,31 +987,31 @@
         ]
       },
       "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
-        "runs": 36,
+        "runs": 37,
         "win_rate": {
-          "n": 36,
+          "n": 37,
           "successes": 6,
-          "rate": 0.16666666666666666,
-          "ci_low": 0.078704,
-          "ci_high": 0.318908
+          "rate": 0.16216216216216217,
+          "ci_low": 0.076512,
+          "ci_high": 0.311365
         },
         "trailing_30d_win_rate": {
-          "n": 26,
+          "n": 27,
           "successes": 3,
-          "rate": 0.11538461538461539,
-          "ci_low": 0.040032,
-          "ci_high": 0.289759
+          "rate": 0.1111111111111111,
+          "ci_low": 0.03852,
+          "ci_high": 0.280578
         },
         "first_guess_rate": {
-          "n": 36,
+          "n": 37,
           "successes": 16,
-          "rate": 0.4444444444444444,
-          "ci_low": 0.295413,
-          "ci_high": 0.604189
+          "rate": 0.43243243243243246,
+          "ci_low": 0.286717,
+          "ci_high": 0.590858
         },
-        "mean_groups_solved": 1.2777777777777777,
-        "mean_mistakes": 3.361111111111111,
-        "mean_invalid_responses": 4.555555555555555,
+        "mean_groups_solved": 1.2432432432432432,
+        "mean_mistakes": 3.3783783783783785,
+        "mean_invalid_responses": 4.648648648648648,
         "total_cost_usd": 0.0,
         "cost_per_puzzle_usd": 0.0,
         "cost_per_win_usd": 0.0,
@@ -1190,6 +1195,11 @@
             "date": "2026-11-24",
             "solved": false,
             "groups_solved": 0
+          },
+          {
+            "date": "2026-11-25",
+            "solved": false,
+            "groups_solved": 0
           }
         ],
         "resolved_models": [
@@ -1354,11 +1364,11 @@
         "ci_high": 0.736535
       },
       "trailing_30d_win_rate": {
-        "n": 19,
+        "n": 18,
         "successes": 10,
-        "rate": 0.5263157894736842,
-        "ci_low": 0.317078,
-        "ci_high": 0.726702
+        "rate": 0.5555555555555556,
+        "ci_low": 0.337164,
+        "ci_high": 0.754405
       },
       "first_guess_rate": {
         "n": 37,
@@ -1784,11 +1794,11 @@
         "ci_high": 0.213235
       },
       "trailing_30d_win_rate": {
-        "n": 5,
+        "n": 4,
         "successes": 0,
         "rate": 0.0,
         "ci_low": 0.0,
-        "ci_high": 0.434482
+        "ci_high": 0.489891
       },
       "first_guess_rate": {
         "n": 30,
@@ -2040,13 +2050,13 @@
       ]
     },
     "free__nemotron-3-5-lightning": {
-      "runs": 49,
+      "runs": 50,
       "win_rate": {
-        "n": 49,
+        "n": 50,
         "successes": 14,
-        "rate": 0.2857142857142857,
-        "ci_low": 0.178496,
-        "ci_high": 0.424089
+        "rate": 0.28,
+        "ci_low": 0.174742,
+        "ci_high": 0.416651
       },
       "trailing_30d_win_rate": {
         "n": 28,
@@ -2056,15 +2066,15 @@
         "ci_high": 0.433557
       },
       "first_guess_rate": {
-        "n": 49,
+        "n": 50,
         "successes": 24,
-        "rate": 0.4897959183673469,
-        "ci_low": 0.355751,
-        "ci_high": 0.625324
+        "rate": 0.48,
+        "ci_low": 0.347971,
+        "ci_high": 0.614883
       },
-      "mean_groups_solved": 1.9183673469387754,
-      "mean_mistakes": 3.061224489795918,
-      "mean_invalid_responses": 0.5714285714285714,
+      "mean_groups_solved": 1.88,
+      "mean_mistakes": 3.08,
+      "mean_invalid_responses": 0.56,
       "total_cost_usd": 0.0,
       "cost_per_puzzle_usd": 0.0,
       "cost_per_win_usd": 0.0,
@@ -2313,6 +2323,11 @@
           "date": "2026-11-24",
           "solved": false,
           "groups_solved": 1
+        },
+        {
+          "date": "2026-11-25",
+          "solved": false,
+          "groups_solved": 0
         }
       ],
       "resolved_models": [
@@ -2320,31 +2335,31 @@
       ]
     },
     "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
-      "runs": 36,
+      "runs": 37,
       "win_rate": {
-        "n": 36,
+        "n": 37,
         "successes": 6,
-        "rate": 0.16666666666666666,
-        "ci_low": 0.078704,
-        "ci_high": 0.318908
+        "rate": 0.16216216216216217,
+        "ci_low": 0.076512,
+        "ci_high": 0.311365
       },
       "trailing_30d_win_rate": {
-        "n": 26,
+        "n": 27,
         "successes": 3,
-        "rate": 0.11538461538461539,
-        "ci_low": 0.040032,
-        "ci_high": 0.289759
+        "rate": 0.1111111111111111,
+        "ci_low": 0.03852,
+        "ci_high": 0.280578
       },
       "first_guess_rate": {
-        "n": 36,
+        "n": 37,
         "successes": 16,
-        "rate": 0.4444444444444444,
-        "ci_low": 0.295413,
-        "ci_high": 0.604189
+        "rate": 0.43243243243243246,
+        "ci_low": 0.286717,
+        "ci_high": 0.590858
       },
-      "mean_groups_solved": 1.2777777777777777,
-      "mean_mistakes": 3.361111111111111,
-      "mean_invalid_responses": 4.555555555555555,
+      "mean_groups_solved": 1.2432432432432432,
+      "mean_mistakes": 3.3783783783783785,
+      "mean_invalid_responses": 4.648648648648648,
       "total_cost_usd": 0.0,
       "cost_per_puzzle_usd": 0.0,
       "cost_per_win_usd": 0.0,
@@ -2526,6 +2541,11 @@
         },
         {
           "date": "2026-11-24",
+          "solved": false,
+          "groups_solved": 0
+        },
+        {
+          "date": "2026-11-25",
           "solved": false,
           "groups_solved": 0
         }
@@ -3825,6 +3845,31 @@
     },
     {
       "date": "2026-11-24",
+      "model": "free__space-bunny-alpha",
+      "error": "HTTP 404: stealth/space-bunny-alpha is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models"
+    },
+    {
+      "date": "2026-11-25",
+      "model": "free__dots-3-note-preview",
+      "error": "HTTP 404: dots-studio/dots-3-note-preview:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models"
+    },
+    {
+      "date": "2026-11-25",
+      "model": "free__laguna-s-2-1",
+      "error": "HTTP 404: poolside/laguna-s-2.1:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models"
+    },
+    {
+      "date": "2026-11-25",
+      "model": "free__ling-3-0-flash-sante",
+      "error": "HTTP 404: inclusionai/ling-3.0-flash-sante:free is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models"
+    },
+    {
+      "date": "2026-11-25",
+      "model": "free__nemotron-3-super-120b-a12b",
+      "error": "HTTP 404: This model is unavailable for free. The paid version is available now - use this slug instead: nvidia/nemotron-3-super-120b-a12b"
+    },
+    {
+      "date": "2026-11-25",
       "model": "free__space-bunny-alpha",
       "error": "HTTP 404: stealth/space-bunny-alpha is no longer available on OpenRouter: no provider serves this model anymore. See available models at https://openrouter.ai/models"
     }
