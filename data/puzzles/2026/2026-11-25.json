@@ -1,0 +1,47 @@
+{
+  "id": 1258,
+  "date": "2026-11-25",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "PARTS OF A FREEWAY",
+      "level": null,
+      "members": [
+        "LANE",
+        "MEDIAN",
+        "RAMP",
+        "SHOULDER"
+      ]
+    },
+    {
+      "name": "U-SHAPED THINGS",
+      "level": null,
+      "members": [
+        "HALF-PIPE",
+        "HORSESHOE",
+        "NECK PILLOW",
+        "PARABOLA"
+      ]
+    },
+    {
+      "name": "RUG SPECIFICATIONS",
+      "level": null,
+      "members": [
+        "DIMENSIONS",
+        "MATERIAL",
+        "PILE",
+        "WEAVE"
+      ]
+    },
+    {
+      "name": "DOGS BREEDS MINUS FIRST LETTER",
+      "level": null,
+      "members": [
+        "EAGLE",
+        "OBERMAN",
+        "OLLIE",
+        "OODLE"
+      ]
+    }
+  ]
+}
