@@ -1,0 +1,47 @@
+{
+  "id": 1259,
+  "date": "2026-11-26",
+  "source": "eyefyre",
+  "groups": [
+    {
+      "name": "SHADES OF PINK",
+      "level": null,
+      "members": [
+        "BLUSH",
+        "BUBBLEGUM",
+        "CARNATION",
+        "CORAL"
+      ]
+    },
+    {
+      "name": "KINDS OF CARS",
+      "level": null,
+      "members": [
+        "COMPACT",
+        "CONVERTIBLE",
+        "HYBRID",
+        "MANUAL"
+      ]
+    },
+    {
+      "name": "THINGS HOMER SIMPSON LIKES",
+      "level": null,
+      "members": [
+        "BEER",
+        "BOWLING",
+        "DONUTS",
+        "TELEVISION"
+      ]
+    },
+    {
+      "name": "THINGS THAT ARE POPPED",
+      "level": null,
+      "members": [
+        "BOTTLE OF CHAMPAGNE",
+        "POPCORN",
+        "THE QUESTION",
+        "WHEELIE"
+      ]
+    }
+  ]
+}
