@@ -6644,5 +6644,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "puzzle_id": 1259,
+    "groups": [
+      {
+        "name": "SHADES OF PINK",
+        "level": null,
+        "members": [
+          "BLUSH",
+          "BUBBLEGUM",
+          "CARNATION",
+          "CORAL"
+        ]
+      },
+      {
+        "name": "KINDS OF CARS",
+        "level": null,
+        "members": [
+          "COMPACT",
+          "CONVERTIBLE",
+          "HYBRID",
+          "MANUAL"
+        ]
+      },
+      {
+        "name": "THINGS HOMER SIMPSON LIKES",
+        "level": null,
+        "members": [
+          "BEER",
+          "BOWLING",
+          "DONUTS",
+          "TELEVISION"
+        ]
+      },
+      {
+        "name": "THINGS THAT ARE POPPED",
+        "level": null,
+        "members": [
+          "BOTTLE OF CHAMPAGNE",
+          "POPCORN",
+          "THE QUESTION",
+          "WHEELIE"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 2,
+        "mistakes_used": 4,
+        "invalid_responses": 2,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "THINGS HOMER SIMPSON LIKES",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "THINGS THAT ARE POPPED",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "SHADES OF PINK",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 4.5,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "KINDS OF CARS",
+        "solved_by": 2,
+        "solve_rate": 1.0,
+        "mean_solve_turn": 3.5,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
