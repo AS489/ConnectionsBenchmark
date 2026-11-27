@@ -6741,5 +6741,102 @@
         "difficulty_rank": 3
       }
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "puzzle_id": 1260,
+    "groups": [
+      {
+        "name": "TOUCH LIGHTLY",
+        "level": null,
+        "members": [
+          "BRUSH",
+          "GRAZE",
+          "KISS",
+          "SKIM"
+        ]
+      },
+      {
+        "name": "FEMALE ANIMALS",
+        "level": null,
+        "members": [
+          "LEOPARDESS",
+          "PEAHEN",
+          "QUEEN",
+          "VIXEN"
+        ]
+      },
+      {
+        "name": "ENDING IN PARTS OF THE FOOT",
+        "level": null,
+        "members": [
+          "CAMISOLE",
+          "MISTLETOE",
+          "MONARCH",
+          "PINWHEEL"
+        ]
+      },
+      {
+        "name": "ASSOCIATED WITH THE COLOR PURPLE",
+        "level": null,
+        "members": [
+          "ALICE WALKER",
+          "FLOWERY LANGUAGE",
+          "PRINCE",
+          "ROYALTY"
+        ]
+      }
+    ],
+    "levels": null,
+    "results": {
+      "free__nemotron-3-5-lightning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 0,
+        "backfill": false,
+        "cost_usd": 0.0
+      },
+      "free__nemotron-3-nano-omni-30b-a3b-reasoning": {
+        "variant": "v1",
+        "solved": false,
+        "groups_solved": 0,
+        "mistakes_used": 4,
+        "invalid_responses": 5,
+        "backfill": false,
+        "cost_usd": 0.0
+      }
+    },
+    "empirical_difficulty": [
+      {
+        "group": "TOUCH LIGHTLY",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 0
+      },
+      {
+        "group": "FEMALE ANIMALS",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 1
+      },
+      {
+        "group": "ENDING IN PARTS OF THE FOOT",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 2
+      },
+      {
+        "group": "ASSOCIATED WITH THE COLOR PURPLE",
+        "solved_by": 0,
+        "solve_rate": 0.0,
+        "mean_solve_turn": null,
+        "difficulty_rank": 3
+      }
+    ]
   }
 ]
